@@ -12,7 +12,7 @@ $_['text_manual']      = 'Mutare manuală';
 $_['text_move']        = 'Mutare';
 $_['text_to']          = 'către';
 $_['text_config']      = 'Editați modificarea config.php';
-$_['text_admin']       = 'Editați admin/config.php și modificați';
+$_['text_admin']       = 'Edit admin/config.php and change';
 
 // Entry
 $_['entry_directory']  = 'Director';
