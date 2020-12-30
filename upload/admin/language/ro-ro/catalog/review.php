@@ -31,6 +31,6 @@ $_['help_product']      = '(Completare automată)';
 // Error
 $_['error_permission']  = 'Atenție: Nu ai permisiunea să modifici Opiniile!';
 $_['error_product']     = 'Produs necesar!';
-$_['error_author']      = 'Autorul trebuie să aibă între 3 si 64 de caractere!';
+$_['error_author']      = 'Autor trebuie să fie între 3 și 64 de caractere!';
 $_['error_text']        = 'Textul Opiniei dvs. trebuie să conțină cel puțin un caracter!';
 $_['error_rating']      = 'Evaluarea Produsului este necesară!';
