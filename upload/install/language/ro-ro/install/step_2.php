@@ -1,24 +1,24 @@
 <?php
 // Heading
-$_['heading_title']          = 'Pre-Installation';
+$_['heading_title']          = 'Pre-Instalare';
 
 // Text
-$_['text_step_2']            = 'Check your server is set-up correctly';
-$_['text_install_php']       = '1. Please configure your PHP settings to match requirements listed below.';
-$_['text_install_extension'] = '2. Please make sure the PHP extensions listed below are installed.';
-$_['text_install_db']        = '3. Please ensure you have at least one available database driver.';
-$_['text_install_file']      = '4. Please make sure you have set the correct permissions on the files list below.';
-$_['text_install_directory'] = '5. Please make sure you have set the correct permissions on the directories list below.';
-$_['text_setting']           = 'PHP Settings';
-$_['text_current']           = 'Current Settings';
-$_['text_required']          = 'Required Settings';
-$_['text_extension']         = 'Extension Settings';
-$_['text_db']                = 'Database';
-$_['text_db_driver']         = 'Database Driver';
-$_['text_file']              = 'Files';
-$_['text_directory']         = 'Directories';
-$_['text_status']            = 'Status';
-$_['text_version']           = 'PHP Version';
+$_['text_step_2']            = 'Verificați dacă serverul dvs. este configurat corect';
+$_['text_install_php']       = '1. Vă rugăm să configuraţi setările PHP pentru a corespunde cerinţelor enumerate mai jos.';
+$_['text_install_extension'] = '2. Vă rugăm să vă asiguraţi că extensiile PHP enumerate mai jos sunt instalate.';
+$_['text_install_db']        = 'Vă rugăm asigurați-va ca aveti cel putin un driver de baza de date disponibil.';
+$_['text_install_file']      = '4. Vă rugăm să vă asiguraţi că aţi setat permisiunile corecte pentru fişierele listate mai jos.';
+$_['text_install_directory'] = '5. Vă rugăm să vă asiguraţi că aţi setat permisiunile corecte pentru directoarele listate mai jos.';
+$_['text_setting']           = 'Setări PHP';
+$_['text_current']           = 'Setări Curente';
+$_['text_required']          = 'Setări Necesare';
+$_['text_extension']         = 'Setări Extensie';
+$_['text_db']                = 'Bază de date';
+$_['text_db_driver']         = 'Driver bază de date';
+$_['text_file']              = 'Fişiere';
+$_['text_directory']         = 'Directoare';
+$_['text_status']            = 'Stare';
+$_['text_version']           = 'Versiune PHP';
 $_['text_global']            = 'Register Globals';
 $_['text_magic']             = 'Magic Quotes GPC';
 $_['text_file_upload']       = 'File Uploads';
@@ -29,18 +29,18 @@ $_['text_openssl']           = 'OpenSSL';
 $_['text_zlib']              = 'ZLIB';
 $_['text_zip']               = 'ZIP';
 $_['text_mbstring']          = 'mbstring';
-$_['text_on']                = 'On';
-$_['text_off']               = 'Off';
-$_['text_writable']          = 'Writable';
-$_['text_unwritable']        = 'Unwritable';
+$_['text_on']                = 'Pornit';
+$_['text_off']               = 'Oprit';
+$_['text_writable']          = 'Editabil';
+$_['text_unwritable']        = 'Needitabil';
 //$_['text_missing']           = 'Missing';
 
 // Error
-$_['error_missing']          = 'Missing';
-$_['error_unwritable']       = 'Unwritable';
-$_['error_version']          = 'Warning: You need to use PHP 7.3 or above for OpenCart to work!';
-$_['error_file_upload']      = 'Warning: file_uploads needs to be enabled!';
-$_['error_session']          = 'Warning: OpenCart will not work with session.auto_start enabled!';
+$_['error_missing']          = 'Lipsește';
+$_['error_unwritable']       = 'Needitabil';
+$_['error_version']          = 'Atenţie: Trebuie să utilizaţi PHP 7.3 sau mai sus pentru ca OpenCart să funcţioneze!';
+$_['error_file_upload']      = 'Atenție: file_uploads trebuie să fie activat!';
+$_['error_session']          = 'Atenţie: OpenCart nu va funcţiona cu session.auto_start activat!';
 $_['error_db']               = 'Warning: A database extension needs to be loaded in the php.ini for OpenCart to work!';
 $_['error_gd']               = 'Warning: GD extension needs to be loaded for OpenCart to work!';
 $_['error_curl']             = 'Warning: CURL extension needs to be loaded for OpenCart to work!';
