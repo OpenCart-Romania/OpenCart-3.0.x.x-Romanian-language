@@ -36,7 +36,7 @@ $_['column_sort_order']     = 'Ordinea aranjării';
 $_['column_action']         = 'Acţiune';
 
 // Error
-$_['error_warning']         = 'Avertisment: Vă rugăm să verificaţi cu atenție formularul pentru erori!';
-$_['error_permission']      = 'Avertisment: Nu aveți permisinea de a modifica Abonamentele!';
+$_['error_warning']         = 'Atenție: Vă rugăm să verificaţi cu atenție formularul pentru erori!';
+$_['error_permission']      = 'Atenție: Nu aveți permisiunea de a modifica profilurile recurente!';
 $_['error_name']            = 'Numele Profilului trebuie să aibă între 3 și 255 de caractere!';
-$_['error_product']         = 'Avertisment: Acest Abonament nu poate fi șters pentru că este asociat la %s produs(e)!';
+$_['error_product']         = 'Atenție: Acest profil recurent nu poate fi șters deoarece în prezent este asociat cu %s produse!';
