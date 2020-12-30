@@ -1,8 +1,8 @@
 <?php
 // Text
-$_['text_license']       = 'License';
-$_['text_installation']  = 'Pre-Installation';
-$_['text_configuration'] = 'Configuration';
-$_['text_upgrade']       = 'Upgrade';
-$_['text_finished']      = 'Finished';
-$_['text_language']      = 'Language';
+$_['text_license']       = 'Licenţă';
+$_['text_installation']  = 'Pre-Instalare';
+$_['text_configuration'] = 'Configurare';
+$_['text_upgrade']       = 'Actualizare';
+$_['text_finished']      = 'Finalizat';
+$_['text_language']      = 'Limbă';
