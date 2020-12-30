@@ -26,4 +26,4 @@ $_['error_permission'] = 'Atenție: Nu aveți permisiunea de a modifica director
 $_['error_path']       = 'Atenție: Cale nevalidă!';
 $_['error_directory']  = 'Atenție: Director nevalid!';
 $_['error_exists']     = 'Atenție: Directorul există deja!';
-$_['error_writable']   = 'Atenție: config.php and admin/config.php trebuie să fie editbile!';
+$_['error_writable']   = 'Atenție: config.php and admin/config.php trebuie să fie editabile!';
