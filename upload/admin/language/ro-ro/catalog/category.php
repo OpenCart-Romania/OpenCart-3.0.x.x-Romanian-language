@@ -12,7 +12,7 @@ $_['text_keyword']           = 'Nu utilizați spații, înlocuiți spațiile cu 
 
 // Column
 $_['column_name']            = 'Nume Categorie';
-$_['column_sort_order']      = 'Ordinea de Sortare';
+$_['column_sort_order']      = 'Ordine Sortare';
 $_['column_action']          = 'Acţiune';
 
 // Entry
@@ -30,7 +30,7 @@ $_['entry_top']              = 'Sus';
 $_['entry_column']           = 'Coloane';
 $_['entry_sort_order']       = 'Ordinea de Sortare';
 $_['entry_status']           = 'Stare';
-$_['entry_layout']           = 'Suprascrierea Aspectului';
+$_['entry_layout']           = 'Suprascriere Aspect';
 
 // Help
 $_['help_filter']            = '(Completare automată)';
@@ -39,9 +39,9 @@ $_['help_column']            = 'Numărul de coloane de utilizat pentru cele 3 ca
 
 // Error
 $_['error_warning']          = 'Atenție: Vă rugăm să verificați cu atenție formularul pentru erori!';
-$_['error_permission']       = 'Atenție: Nu aveți permisiunea de a modifica categoriile!';
-$_['error_name']             = 'Numele categoriei trebuie să aibă între 1 și 255 de caractere!';
+$_['error_permission']       = 'Atenție: Nu aveți permisiunea de a modifica categorii!';
+$_['error_name']             = 'Numele categoriei trebuie să fie între 1 și 255 de caractere!';
 $_['error_meta_title']       = 'MetaTag Titlu trebuie să fie mai mare de 1 și mai mic de 255 de caractere!';
-$_['error_keyword']          = 'URL SEO deja utilizat!';
+$_['error_keyword']          = 'URL-ul SEO este deja utilizat!';
 $_['error_unique']           = 'URL-ul SEO trebuie să fie unic!';
-$_['error_parent']           = 'Categoria părinte pe care ați ales-o este un copil al celei actuale!';
+$_['error_parent']           = 'Categoria părinte pe care ați ales-o este un copil al celei curente!';
