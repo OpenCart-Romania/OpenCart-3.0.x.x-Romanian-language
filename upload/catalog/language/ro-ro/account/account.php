@@ -1,26 +1,26 @@
 <?php
 // Heading
-$_['heading_title']       = 'My Account';
+$_['heading_title']       = 'Contul Meu';
 
 // Text
-$_['text_account']        = 'Account';
-$_['text_my_account']     = 'My Account';
-$_['text_my_orders']      = 'My Orders';
-$_['text_my_affiliate']   = 'My Affiliate Account';
+$_['text_account']        = 'Cont';
+$_['text_my_account']     = 'Contul Meu';
+$_['text_my_orders']      = 'Comenzile Mele';
+$_['text_my_affiliate']   = 'Contul Meu de Afiliat';
 $_['text_my_newsletter']  = 'Newsletter';
-$_['text_edit']           = 'Edit your account information';
-$_['text_password']       = 'Change your password';
-$_['text_address']        = 'Modify your address book entries';
-$_['text_credit_card']    = 'Manage Stored Credit Cards';
-$_['text_wishlist']       = 'Modify your wish list';
-$_['text_order']          = 'View your order history';
-$_['text_download']       = 'Downloads';
-$_['text_reward']         = 'Your Reward Points';
-$_['text_return']         = 'View your return requests';
-$_['text_transaction']    = 'Your Transactions';
-$_['text_newsletter']     = 'Subscribe / unsubscribe to newsletter';
-$_['text_recurring']      = 'Recurring payments';
-$_['text_transactions']   = 'Transactions';
-$_['text_affiliate_add']  = 'Register for an affiliate account';
-$_['text_affiliate_edit'] = 'Edit your affiliate information';
-$_['text_tracking']       = 'Custom Affiliate Tracking Code';
+$_['text_edit']           = 'Editați informațiile contului dvs.';
+$_['text_password']       = 'Schimbați-vă parola';
+$_['text_address']        = 'Modificați intrările din agenda dvs.';
+$_['text_credit_card']    = 'Gestionați cardurile de credit stocate';
+$_['text_wishlist']       = 'Modificați lista de dorințe';
+$_['text_order']          = 'Vizualizați istoricul comenzilor';
+$_['text_download']       = 'Descărcări';
+$_['text_reward']         = 'Punctele Dvs. de Recompensă';
+$_['text_return']         = 'Vizualizați solicitările de returnare';
+$_['text_transaction']    = 'Tranzacțiile Dvs.';
+$_['text_newsletter']     = 'Abonare / dezabonare la newsletter';
+$_['text_recurring']      = 'Plăţi recurente';
+$_['text_transactions']   = 'Tranzacții';
+$_['text_affiliate_add']  = 'Înregistrați-vă pentru un cont de afiliat';
+$_['text_affiliate_edit'] = 'Editați informațiile de afiliat';
+$_['text_tracking']       = 'Cod Personalizat de Urmărire Afiliați';
