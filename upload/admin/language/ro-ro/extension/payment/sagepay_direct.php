@@ -3,7 +3,7 @@
 $_['heading_title']			  = 'SagePay Direct';
 
 // Text
-$_['text_extension']		  = 'Extensions';
+$_['text_extension']		  = 'Extensii';
 $_['text_success']			  = 'Success: You have modified SagePay account details!';
 $_['text_edit']               = 'Edit SagePay Direct';
 $_['text_sagepay_direct']	  = '<a href="https://support.sagepay.com/apply/default.aspx?PartnerID=E511AF91-E4A0-42DE-80B0-09C981A3FB61" target="_blank"><img src="view/image/payment/sagepay.png" alt="SagePay" title="SagePay" style="border: 1px solid #EEEEEE;" /></a>';
@@ -27,7 +27,7 @@ $_['text_order_total']		  = 'Total authorised';
 $_['text_total_released']	  = 'Total released';
 $_['text_transactions']		  = 'Transactions';
 $_['text_column_amount']	  = 'Amount';
-$_['text_column_type']		  = 'Type';
+$_['text_column_type']		  = 'Tip';
 $_['text_column_date_added']  = 'Created';
 $_['text_confirm_void']		  = 'Are you sure you want to void the payment?';
 $_['text_confirm_release']	  = 'Are you sure you want to release the payment?';
@@ -40,8 +40,8 @@ $_['entry_transaction']		  = 'Transaction Method';
 $_['entry_total']			  = 'Total';
 $_['entry_order_status']	  = 'Order Status';
 $_['entry_geo_zone']		  = 'Geo Zone';
-$_['entry_status']			  = 'Status';
-$_['entry_sort_order']		  = 'Sort Order';
+$_['entry_status']			  = 'Stare';
+$_['entry_sort_order']		  = 'Ordinea de Sortare';
 $_['entry_debug']			  = 'Debug logging';
 $_['entry_card']			  = 'Store Cards';
 $_['entry_cron_job_token']	  = 'Secret Token';
