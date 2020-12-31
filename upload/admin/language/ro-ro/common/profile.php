@@ -3,8 +3,8 @@
 $_['heading_title']         = 'Profil';
 
 // Text
-$_['text_success']          = 'Succes: V-ati modificat profilul!';
-$_['text_edit']             = 'Editați-vă Profilul';
+$_['text_success']          = 'Succes: Ți-ai modificat profilul!';
+$_['text_edit']             = 'Editează-ți Profilul';
 
 // Column
 $_['column_username']       = 'Nume utilizator';
@@ -22,12 +22,12 @@ $_['entry_email']           = 'E-Mail';
 $_['entry_image']           = 'Imagine';
 
 // Error
-$_['error_permission']      = 'Atenție: Nu aveți permisiunea de a vă modifica profilul!';
-$_['error_exists_username'] = 'Atenție: Numele de utilizator este deja utilizat!';
-$_['error_username']        = 'Numele de utilizator trebuie să aibă între 3 și 20 de caractere!';
-$_['error_password']        = 'Parola trebuie să aibă între 4 și 20 de caractere!';
+$_['error_permission']      = 'Atenție: Nu ai permisiunea de a-ți modifica profilul!';
+$_['error_exists_username'] = 'Atenție: Nume utilizator este deja utilizat!';
+$_['error_username']        = 'Nume utilizator trebuie să fie între 3 și 20 de caractere!';
+$_['error_password']        = 'Parola trebuie să fie între 4 și 20 de caractere!';
 $_['error_confirm']         = 'Parola și confirmarea parolei nu se potrivesc!';
-$_['error_firstname']       = 'Prenumele trebuie să aibă între 1 și 32 de caractere!';
-$_['error_lastname']        = 'Numele de Familie trebuie să aibă între 1 și 32 de caractere!';
-$_['error_email']           = 'Adresa de E-Mail nu pare să fie validă!';
-$_['error_exists_email']    = 'Atenție: Adresa de E-Mail este deja înregistrată!';
+$_['error_firstname']       = 'Prenumele trebuie să fie între 1 și 32 de caractere!';
+$_['error_lastname']        = 'Numele de Familie trebuie să fie între 1 și 32 de caractere!';
+$_['error_email']           = 'Adresa E-Mail nu pare să fie validă!';
+$_['error_exists_email']    = 'Atenție: Adresa E-Mail este deja înregistrată!';
