@@ -3,7 +3,7 @@
 $_['heading_title']                        = 'Recurring Payments';
 
 // Text
-$_['text_account']                         = 'Account';
+$_['text_account']                         = 'Cont';
 $_['text_recurring']                       = 'Recurring Payment Information';
 $_['text_recurring_detail']                = 'Recurring Payment Details';
 $_['text_order_recurring_id']              = 'Recurring ID:';
@@ -13,7 +13,7 @@ $_['text_payment_method']                  = 'Payment Method:';
 $_['text_order_id']                        = 'Order ID:';
 $_['text_product']                         = 'Product:';
 $_['text_quantity']                        = 'Quantity:';
-$_['text_description']                     = 'Description';
+$_['text_description']                     = 'Descriere';
 $_['text_reference']                       = 'Reference';
 $_['text_transaction']                     = 'Transactions';
 $_['text_status_1']                        = 'Active';
@@ -37,11 +37,11 @@ $_['text_error']                           = 'The recurring order you requested 
 $_['text_cancelled']                       = 'Recurring payment has been cancelled';
 
 // Column
-$_['column_date_added']                    = 'Date Added';
-$_['column_type']                          = 'Type';
+$_['column_date_added']                    = 'Data Adăugării';
+$_['column_type']                          = 'Tip';
 $_['column_amount']                        = 'Amount';
-$_['column_status']                        = 'Status';
-$_['column_product']                       = 'Product';
+$_['column_status']                        = 'Stare';
+$_['column_product']                       = 'Produs';
 $_['column_order_recurring_id']            = 'Recurring ID';
 
 // Error
