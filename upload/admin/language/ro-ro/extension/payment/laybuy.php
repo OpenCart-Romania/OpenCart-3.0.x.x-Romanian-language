@@ -4,15 +4,15 @@ $_['heading_title']                 = 'Lay-Buy';
 $_['heading_transaction_title']     = 'Transaction';
 
 // Tab
-$_['tab_settings']                  = 'Settings';
-$_['tab_reports']                   = 'Reports';
+$_['tab_settings']                  = 'Setări';
+$_['tab_reports']                   = 'Rapoarte';
 $_['tab_reference']                 = 'Reference Information';
 $_['tab_customer']                  = 'Customer Information';
 $_['tab_payment']                   = 'Payment Plan';
 $_['tab_modify']                    = 'Modify Plan';
 
 // Text
-$_['text_extension']                = 'Extensions';
+$_['text_extension']                = 'Extensii';
 $_['text_success']                  = 'Success: You have modified Lay-Buy payment module!';
 $_['text_edit']                     = 'Edit Lay-Buy';
 $_['text_laybuy']                   = '<a href="https://www.lay-buys.com" target="_blank"><img src="view/image/payment/laybuys.png" style="width:94px;height:25px" alt="Lay-Buys" title="Lay-Buys"></a>';
@@ -33,18 +33,18 @@ $_['text_transaction_details']      = 'Transaction Details';
 $_['text_not_found']                = 'There is no transaction with that ID.';
 $_['text_paypal_profile_id']        = 'PayPal Profile ID';
 $_['text_laybuy_ref_no']            = 'Lay-Buy Reference ID';
-$_['text_order_id']                 = 'Order ID';
-$_['text_status']                   = 'Status';
+$_['text_order_id']                 = 'ID Comandă';
+$_['text_status']                   = 'Stare';
 $_['text_amount']                   = 'Amount';
 $_['text_downpayment_percent']      = 'Down Payment Percent';
-$_['text_month']                    = 'Month';
+$_['text_month']                    = 'Lună';
 $_['text_months']                   = 'Months';
 $_['text_downpayment_amount']       = 'Down Payment Amount';
 $_['text_payment_amounts']          = 'Payment Amounts';
 $_['text_first_payment_due']        = 'First Payment Due';
 $_['text_last_payment_due']         = 'Last Payment Due';
 $_['text_instalment']               = 'Instalment';
-$_['text_date']                     = 'Date';
+$_['text_date']                     = 'Dată';
 $_['text_pp_trans_id']              = 'PayPal Transaction ID';
 $_['text_downpayment']              = 'Down Payment';
 $_['text_report']                   = 'Payment Record';
@@ -52,10 +52,10 @@ $_['text_revise_plan']              = 'Revise Plan';
 $_['text_today']                    = 'Today';
 $_['text_due_date']                 = 'Due Date';
 $_['text_cancel_plan']              = 'Cancel Plan';
-$_['text_firstname']                = 'First Name';
-$_['text_lastname']                 = 'Last Name';
+$_['text_firstname']                = 'Prenume';
+$_['text_lastname']                 = 'Nume de Familie';
 $_['text_email']                    = 'E-Mail';
-$_['text_address']                  = 'Address';
+$_['text_address']                  = 'Adresă';
 $_['text_suburb']                   = 'Suburb';
 $_['text_state']                    = 'State';
 $_['text_country']                  = 'Country';
@@ -68,7 +68,7 @@ $_['text_remaining'] 	            = 'Remaining:';
 $_['text_payment'] 	                = 'Payment';
 
 // Column
-$_['column_order_id']               = 'Order ID';
+$_['column_order_id']               = 'ID Comandă';
 $_['column_customer']               = 'Customer';
 $_['column_amount']                 = 'Amount';
 $_['column_dp_percent']             = 'Down Payment Percent';
@@ -76,9 +76,9 @@ $_['column_months']                 = 'Months';
 $_['column_dp_amount']              = 'Down Payment Amount';
 $_['column_first_payment']          = 'First Payment Due';
 $_['column_last_payment']           = 'Last Payment Due';
-$_['column_status']                 = 'Status';
-$_['column_date_added']             = 'Date Added';
-$_['column_action']                 = 'Action';
+$_['column_status']                 = 'Stare';
+$_['column_date_added']             = 'Data Adăugării';
+$_['column_action']                 = 'Acțiune';
 
 // Entry
 $_['entry_membership_id']           = 'Lay-Buys Membership ID';
@@ -97,15 +97,15 @@ $_['entry_order_status_processing'] = 'Order Status (Processing)';
 $_['entry_gateway_url']             = 'Gateway URL';
 $_['entry_api_url']                 = 'API URL';
 $_['entry_geo_zone']                = 'Geo Zone';
-$_['entry_status']                  = 'Status';
-$_['entry_sort_order']              = 'Sort Order';
+$_['entry_status']                  = 'Stare';
+$_['entry_sort_order']              = 'Ordinea de Sortare';
 $_['entry_cron_url']                = 'Cron Job URL';
 $_['entry_cron_time']               = 'Cron Job Last Run';
-$_['entry_order_id']                = 'Order ID';
+$_['entry_order_id']                = 'ID Comandă';
 $_['entry_customer']                = 'Customer';
 $_['entry_dp_percent']              = 'Down Payment Percent';
 $_['entry_months']                  = 'Months';
-$_['entry_date_added']              = 'Date Added';
+$_['entry_date_added']              = 'Data Adăugării';
 
 // Help
 $_['help_membership_id']            = 'Your personal Lay-Buy account membership number. (attained when you register a merchant account at https://www.lay-buys.com/index.php/vtmob/login)';
