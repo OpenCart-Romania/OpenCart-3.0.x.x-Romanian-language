@@ -3,10 +3,10 @@
 $_['heading_title']          = 'Produse';
 
 // Text
-$_['text_success']           = 'Succes: Ați modificat produsele!';
+$_['text_success']           = 'Succes: Ai modificat produsele!';
 $_['text_list']              = 'Listă Produse';
-$_['text_add']               = 'Adăugati Produs';
-$_['text_edit']              = 'Editați Produs';
+$_['text_add']               = 'Adaugă Produs';
+$_['text_edit']              = 'Editează Produs';
 $_['text_filter']            = 'Filtru';
 $_['text_plus']              = '+';
 $_['text_minus']             = '-';
@@ -15,7 +15,7 @@ $_['text_option']            = 'Opţiune';
 $_['text_option_value']      = 'Valoare Opțiune';
 $_['text_percent']           = 'Procentaj';
 $_['text_amount']            = 'Cantitate Fixă';
-$_['text_keyword']           = 'Nu utilizaţi spaţii, în schimb înlocuiţi-le cu - și asigurați-vă că URL-ul SEO este unic la nivel global.';
+$_['text_keyword']           = 'Nu utiliza spații, în schimb înlocuieste spațiile cu - și asigură-te că SEO URL este unic global.';
 
 // Column
 $_['column_name']            = 'Nume Produs';
@@ -73,7 +73,7 @@ $_['entry_option']           = 'Opţiune';
 $_['entry_option_value']     = 'Valoare Opțiune';
 $_['entry_required']         = 'Necesar';
 $_['entry_status']           = 'Stare';
-$_['entry_sort_order']       = 'Ordine Sortare';
+$_['entry_sort_order']       = 'Ordinea de Sortare';
 $_['entry_category']         = 'Categorii';
 $_['entry_filter']           = 'Filtre';
 $_['entry_download']         = 'Descărcări';
@@ -91,9 +91,9 @@ $_['help_jan']               = 'Japanese Article Number';
 $_['help_isbn']              = 'International Standard Book Number';
 $_['help_mpn']               = 'Manufacturer Part Number';
 $_['help_manufacturer']      = '(Completare automată)';
-$_['help_minimum']           = 'Forțați o cantitate minimă comandată';
+$_['help_minimum']           = 'Forțează o cantitate minimă comandată';
 $_['help_stock_status']      = 'Starea indicată atunci când un produs nu este în stoc';
-$_['help_points']            = 'Număr de puncte necesar pentru a cumpăra acest articol. Dacă nu doriți ca acest produs să fie cumpărat cu puncte, puneți 0.';
+$_['help_points']            = 'Număr de puncte necesar pentru a cumpăra acest articol. Dacă nu doresti ca acest produs să fie cumpărat cu puncte, lasă 0.';
 $_['help_category']          = '(Completare automată)';
 $_['help_filter']            = '(Completare automată)';
 $_['help_download']          = '(Completare automată)';
@@ -101,10 +101,10 @@ $_['help_related']           = '(Completare automată)';
 $_['help_tag']               = 'Separate prin virgulă';
 
 // Error
-$_['error_warning']          = 'Atenție: Vă rugăm să verificați cu atenție formularul pentru erori!';
-$_['error_permission']       = 'Atenție: Nu aveți permisiunea de a modifica produse!';
+$_['error_warning']          = 'Atenție: Te rugăm să verifici cu atenție formularul pentru erori!';
+$_['error_permission']       = 'Atenție: Nu ai permisiunea de a modifica produsele!';
 $_['error_name']             = 'Nume Produs trebuie să fie mai mare de 1 și mai mic de 255 de caractere!';
 $_['error_meta_title']       = 'Meta Titlu trebuie să fie mai mare de 1 și mai mic de 255 de caractere!';
 $_['error_model']            = 'Model Produs trebuie să fie mai mare de 1 și mai mic de 64 de caractere!';
-$_['error_keyword']          = 'URL-ul SEO este deja utilizat!';
-$_['error_unique']           = 'URL-ul SEO trebuie să fie unic!';
+$_['error_keyword']          = 'SEO URL este deja utilizat!';
+$_['error_unique']           = 'SEO URL trebuie să fie unic!';
