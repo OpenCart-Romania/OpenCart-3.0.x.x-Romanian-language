@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Weight Classes';
+$_['heading_title']    = 'Clase de Greutate';
 
 // Text
 $_['text_success']     = 'Success: You have modified weight classes!';
@@ -12,7 +12,7 @@ $_['text_edit']        = 'Edit Weight Class';
 $_['column_title']     = 'Weight Title';
 $_['column_unit']      = 'Weight Unit';
 $_['column_value']     = 'Value';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'Acțiune';
 
 // Entry
 $_['entry_title']      = 'Weight Title';
