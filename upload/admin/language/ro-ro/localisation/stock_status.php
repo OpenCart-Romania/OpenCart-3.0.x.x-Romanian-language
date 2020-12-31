@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Stock Statuses';
+$_['heading_title']    = 'Starea Stocului';
 
 // Text
 $_['text_success']     = 'Success: You have modified stock statuses!';
@@ -10,7 +10,7 @@ $_['text_edit']        = 'Edit Stock Status';
 
 // Column
 $_['column_name']      = 'Stock Status Name';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'Acțiune';
 
 // Entry
 $_['entry_name']       = 'Stock Status Name';
