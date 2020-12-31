@@ -7,22 +7,22 @@ $_['text_success']     = 'Success: You have modified store locations!';
 $_['text_list']        = 'Store Location List';
 $_['text_add']         = 'Add Store Location';
 $_['text_edit']        = 'Edit Store Location';
-$_['text_default']     = 'Default';
+$_['text_default']     = 'Implicit';
 $_['text_time']        = 'Opening Times';
 $_['text_geocode']     = 'Geocode was not successful for the following reason:';
 
 // Column
 $_['column_name']      = 'Store Name';
-$_['column_address']   = 'Address';
-$_['column_action']    = 'Action';
+$_['column_address']   = 'Adresă';
+$_['column_action']    = 'Acțiune';
 
 // Entry
 $_['entry_name']       = 'Store Name';
-$_['entry_address']    = 'Address';
+$_['entry_address']    = 'Adresă';
 $_['entry_geocode']    = 'Geocode';
 $_['entry_telephone']  = 'Telephone';
 $_['entry_fax']        = 'Fax';
-$_['entry_image']      = 'Image';
+$_['entry_image']      = 'Imagine';
 $_['entry_open']       = 'Opening Times';
 $_['entry_comment']    = 'Comment';
 
