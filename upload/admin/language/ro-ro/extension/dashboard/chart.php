@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']    = 'Sales Analytics';
+$_['heading_title']    = 'Statistici Vânzări';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified dashboard chart!';
-$_['text_edit']        = 'Edit Dashboard Chart';
-$_['text_order']       = 'Orders';
-$_['text_customer']    = 'Customers';
-$_['text_day']         = 'Today';
-$_['text_week']        = 'Week';
-$_['text_month']       = 'Month';
-$_['text_year']        = 'Year';
+$_['text_extension']   = 'Extensii';
+$_['text_success']     = 'Succes: Ai modificat panoul diagramă!';
+$_['text_edit']        = 'Editează Panoul Diagramă';
+$_['text_order']       = 'Comenzi';
+$_['text_customer']    = 'Clienţi';
+$_['text_day']         = 'Astăzi';
+$_['text_week']        = 'Săptămână';
+$_['text_month']       = 'Lună';
+$_['text_year']        = 'An';
 
 // Entry
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
-$_['entry_width']      = 'Width';
+$_['entry_status']     = 'Stare';
+$_['entry_sort_order'] = 'Ordinea de Sortare';
+$_['entry_width']      = 'Lăţime';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify dashboard chart!';
+$_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica panoul diagramă!';
