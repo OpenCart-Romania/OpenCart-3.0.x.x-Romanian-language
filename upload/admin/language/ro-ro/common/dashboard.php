@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'Dashboard';
+$_['heading_title'] = 'Panou';
 
 // Error
-$_['error_install'] = 'Atenție: Directorul de instalare există încă și ar trebui șters din motive de securitate!';
+$_['error_install'] = 'Atenție: Directorul de instalare încă există și ar trebui șters din motive de securitate!';
