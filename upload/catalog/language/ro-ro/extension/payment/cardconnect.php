@@ -21,11 +21,11 @@ $_['entry_card_expiry']     = 'Expiry';
 $_['entry_card_cvv2']       = 'CVV2';
 $_['entry_card_save']       = 'Save Card';
 $_['entry_card_choice']     = 'Choose Your Card';
-$_['entry_account_number']  = 'Account Number';
+$_['entry_account_number']  = 'Număr Cont';
 $_['entry_routing_number']  = 'Routing Number';
 
 // Button
-$_['button_confirm']        = 'Confirm Order';
+$_['button_confirm']        = 'Confirmați Comanda';
 $_['button_delete']         = 'Delete Selected Card';
 
 // Error
