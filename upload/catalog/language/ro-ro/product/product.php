@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_search']              = 'Search';
+$_['text_search']              = 'Căutare';
 $_['text_brand']               = 'Brand';
 $_['text_manufacturer']        = 'Brand:';
 $_['text_model']               = 'Product Code:';
@@ -18,7 +18,7 @@ $_['text_login']               = 'Please <a href="%s">login</a> or <a href="%s">
 $_['text_no_reviews']          = 'There are no reviews for this product.';
 $_['text_note']                = '<span class="text-danger">Note:</span> HTML is not translated!';
 $_['text_success']             = 'Thank you for your review. It has been submitted to the webmaster for approval.';
-$_['text_related']             = 'Related Products';
+$_['text_related']             = 'Produse Asemănătoare';
 $_['text_tags']                = 'Tags:';
 $_['text_error']               = 'Product not found!';
 $_['text_payment_recurring']   = 'Payment Profile';
@@ -35,12 +35,12 @@ $_['text_year']                = 'year';
 $_['entry_qty']                = 'Qty';
 $_['entry_name']               = 'Your Name';
 $_['entry_review']             = 'Your Review';
-$_['entry_rating']             = 'Rating';
+$_['entry_rating']             = 'Evaluare';
 $_['entry_good']               = 'Good';
 $_['entry_bad']                = 'Bad';
 
 // Tabs
-$_['tab_description']          = 'Description';
+$_['tab_description']          = 'Descriere';
 $_['tab_attribute']            = 'Specification';
 $_['tab_review']               = 'Reviews (%s)';
 
