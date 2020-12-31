@@ -8,7 +8,7 @@ $_['text_amount_refunded']	 = 'Amount refunded';
 $_['text_transaction']		 = 'Transactions';
 $_['text_complete']			 = 'Complete';
 $_['text_confirm_void']		 = 'If you void you cannot capture any further funds';
-$_['text_view']				 = 'View';
+$_['text_view']				 = 'Vizualizare';
 $_['text_refund']			 = 'Refund';
 $_['text_resend']			 = 'Resend';
 $_['text_success']           = 'Transaction was successfully sent';
@@ -21,10 +21,10 @@ $_['text_current_refunds']   = 'Refunds have already been done for this transact
 $_['column_transaction']	 = 'Transaction ID';
 $_['column_amount']			 = 'Amount';
 $_['column_type']			 = 'Payment Type';
-$_['column_status']			 = 'Status';
+$_['column_status']			 = 'Stare';
 $_['column_pending_reason']	 = 'Pending Reason';
-$_['column_date_added']		 = 'Date Added';
-$_['column_action']			 = 'Action';
+$_['column_date_added']		 = 'Data Adăugării';
+$_['column_action']			 = 'Acțiune';
 
 // Entry
 $_['entry_capture_amount']	 = 'Capture amount';
