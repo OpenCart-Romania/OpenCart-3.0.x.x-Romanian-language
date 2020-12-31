@@ -25,10 +25,10 @@ $_['text_payment_description'] = '%s every %d %s(s) for %d payment(s)';
 $_['text_payment_cancel']      = '%s every %d %s(s) until canceled';
 
 // Column
-$_['column_image']             = 'Image';
-$_['column_name']              = 'Product Name';
+$_['column_image']             = 'Imagine';
+$_['column_name']              = 'Nume Produs';
 $_['column_model']             = 'Model';
-$_['column_quantity']          = 'Quantity';
+$_['column_quantity']          = 'Cantitate';
 $_['column_price']             = 'Unit Price';
 $_['column_total']             = 'Total';
 
