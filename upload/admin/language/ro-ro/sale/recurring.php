@@ -1,30 +1,30 @@
 <?php
 // Heading
-$_['heading_title']                        = 'Recurring Orders';
+$_['heading_title']                        = 'Comenzi Recurente';
 
 // Text
-$_['text_success']                         = 'Success: You have modified recurring profiles!';
+$_['text_success']                         = 'Succes: Ai modificat profilurile recurente!';
 $_['text_list']                            = 'Recurring Order List';
-$_['text_filter']                          = 'Filter';
+$_['text_filter']                          = 'Filtru';
 $_['text_recurring_detail']                = 'Recurring Details';
 $_['text_order_detail']                    = 'Order Details';
 $_['text_product_detail']                  = 'Product Details';
 $_['text_transaction']                     = 'Transactions';
 $_['text_order_recurring_id']              = 'Recurring Order ID';
 $_['text_reference']                       = 'Payment Reference';
-$_['text_recurring_name']                  = 'Recurring Profile';
-$_['text_recurring_description']           = 'Description';
+$_['text_recurring_name']                  = 'Profil Recurent';
+$_['text_recurring_description']           = 'Descriere';
 $_['text_recurring_status']                = 'Recurring Status';
 $_['text_payment_method']                  = 'Payment Method';
-$_['text_order_id']                        = 'Order ID';
+$_['text_order_id']                        = 'ID Comandă';
 $_['text_customer']                        = 'Customer';
 $_['text_email']                           = 'Email';
-$_['text_date_added']                      = 'Date Added';
+$_['text_date_added']                      = 'Data Adăugării';
 $_['text_order_status']                    = 'Order Status';
-$_['text_type']                            = 'Type';
-$_['text_action']                          = 'Action';
-$_['text_product']                         = 'Product';
-$_['text_quantity']                        = 'Quantity';
+$_['text_type']                            = 'Tip';
+$_['text_action']                          = 'Acțiune';
+$_['text_product']                         = 'Produs';
+$_['text_quantity']                        = 'Cantitate';
 $_['text_amount']                          = 'Amount';
 $_['text_cancel_payment']                  = 'Cancel Payment';
 $_['text_status_1']                        = 'Active';
@@ -50,30 +50,30 @@ $_['text_cancelled']                       = 'Recurring payment has been cancell
 
 // Column
 $_['column_order_recurring_id']             = 'Recurring ID';
-$_['column_order_id']                       = 'Order ID';
+$_['column_order_id']                       = 'ID Comandă';
 $_['column_reference']                      = 'Payment Reference';
 $_['column_customer']                       = 'Customer';
-$_['column_date_added']                     = 'Date Added';
-$_['column_status']                         = 'Status';
+$_['column_date_added']                     = 'Data Adăugării';
+$_['column_status']                         = 'Stare';
 $_['column_amount']                         = 'Amount';
-$_['column_type']                           = 'Type';
-$_['column_action']                         = 'Action';
+$_['column_type']                           = 'Tip';
+$_['column_action']                         = 'Acțiune';
 
 // Entry
 $_['entry_order_recurring_id']             = 'Recurring ID';
-$_['entry_order_id']                       = 'Order ID';
+$_['entry_order_id']                       = 'ID Comandă';
 $_['entry_reference']                      = 'Payment Reference';
 $_['entry_customer']                       = 'Customer';
-$_['entry_date_added']                     = 'Date Added';
-$_['entry_status']                         = 'Status';
-$_['entry_type']                           = 'Type';
-$_['entry_action']                         = 'Action';
+$_['entry_date_added']                     = 'Data Adăugării';
+$_['entry_status']                         = 'Stare';
+$_['entry_type']                           = 'Tip';
+$_['entry_action']                         = 'Acțiune';
 $_['entry_email']                          = 'Email';
 $_['entry_description']                    = 'Recurring Profile\'s description';
-$_['entry_product']                        = 'Product';
-$_['entry_quantity']                       = 'Quantity';
+$_['entry_product']                        = 'Produs';
+$_['entry_quantity']                       = 'Cantitate';
 $_['entry_amount']                         = 'Amount';
-$_['entry_recurring']                      = 'Recurring Profile';
+$_['entry_recurring']                      = 'Profil Recurent';
 $_['entry_payment_method']                 = 'Payment Method';
 $_['entry_cancel_payment']                 = 'Cancel Payment';
 
