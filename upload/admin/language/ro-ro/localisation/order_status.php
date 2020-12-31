@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Order Statuses';
+$_['heading_title']    = 'Starea Comenzilor';
 
 // Text
 $_['text_success']     = 'Success: You have modified order statuses!';
@@ -10,7 +10,7 @@ $_['text_edit']        = 'Edit Order Status';
 
 // Column
 $_['column_name']      = 'Order Status Name';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'Acțiune';
 
 // Entry
 $_['entry_name']       = 'Order Status Name';
