@@ -1,7 +1,7 @@
 <?php
 
 $_['text_title'] = 'Credit / Debit card';
-$_['button_confirm'] = 'Confirm';
+$_['button_confirm'] = 'Confirmare';
 
 $_['text_postcode_check'] = 'Postcode check: %s';
 $_['text_security_code_check'] = 'CVV2 check: %s';
