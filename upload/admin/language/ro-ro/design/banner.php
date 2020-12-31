@@ -1,28 +1,28 @@
 <?php
 // Heading
-$_['heading_title']     = 'Banners';
+$_['heading_title']     = 'Bannere';
 
 // Text
-$_['text_success']      = 'Success: You have modified banners!';
-$_['text_list']         = 'Banner List';
-$_['text_add']          = 'Add Banner';
-$_['text_edit']         = 'Edit Banner';
-$_['text_default']      = 'Default';
+$_['text_success']      = 'Succes: Ai modificat bannerele!';
+$_['text_list']         = 'Listă Bannere';
+$_['text_add']          = 'Adaugă Banner';
+$_['text_edit']         = 'Editează Banner';
+$_['text_default']      = 'Implicit';
 
 // Column
-$_['column_name']       = 'Banner Name';
-$_['column_status']     = 'Status';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Nume Banner';
+$_['column_status']     = 'Stare';
+$_['column_action']     = 'Acțiune';
 
 // Entry
-$_['entry_name']        = 'Banner Name';
+$_['entry_name']        = 'Nume Banner';
 $_['entry_title']       = 'Title';
 $_['entry_link']        = 'Link';
-$_['entry_image']       = 'Image';
-$_['entry_status']      = 'Status';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_image']       = 'Imagine';
+$_['entry_status']      = 'Stare';
+$_['entry_sort_order']  = 'Ordinea de Sortare';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify banners!';
+$_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica bannerele!';
 $_['error_name']       = 'Banner Name must be between 3 and 64 characters!';
 $_['error_title']      = 'Banner Title must be between 2 and 64 characters!';
