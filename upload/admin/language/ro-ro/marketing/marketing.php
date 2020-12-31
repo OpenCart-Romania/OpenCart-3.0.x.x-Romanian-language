@@ -7,22 +7,22 @@ $_['text_success']      = 'Success: You have modified marketing tracking!';
 $_['text_list']         = 'Marketing Tracking List';
 $_['text_add']          = 'Add Marketing Tracking';
 $_['text_edit']         = 'Edit Marketing Tracking';
-$_['text_filter']       = 'Filter';
+$_['text_filter']       = 'Filtru';
 		
 // Column
 $_['column_name']       = 'Campaign Name';
 $_['column_code']       = 'Code';
 $_['column_clicks']     = 'Clicks';
-$_['column_orders']     = 'Orders';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_orders']     = 'Comenzi';
+$_['column_date_added'] = 'Data Adăugării';
+$_['column_action']     = 'Acțiune';
 
 // Entry
 $_['entry_name']        = 'Campaign Name';
 $_['entry_description'] = 'Campaign Description';
 $_['entry_code']        = 'Tracking Code';
 $_['entry_example']     = 'Examples';
-$_['entry_date_added']  = 'Date Added';
+$_['entry_date_added']  = 'Data Adăugării';
 
 // Help
 $_['help_code']         = 'The tracking code that will be used to track marketing campaigns.';
