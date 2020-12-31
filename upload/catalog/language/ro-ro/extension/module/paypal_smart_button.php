@@ -24,28 +24,28 @@ $_['text_payment_description'] 			= '%s every %d %s(s) for %d payment(s)';
 $_['text_payment_cancel']      			= '%s every %d %s(s) until canceled';
 
 // Column
-$_['column_image']             			= 'Image';
-$_['column_name']              			= 'Product Name';
+$_['column_image']             			= 'Imagine';
+$_['column_name']              			= 'Nume Produs';
 $_['column_model']             			= 'Model';
-$_['column_quantity']          			= 'Quantity';
+$_['column_quantity']          			= 'Cantitate';
 $_['column_price']             			= 'Unit Price';
 $_['column_total']             			= 'Total';
 
 // Entry
 $_['entry_email']                    	= 'E-Mail';
-$_['entry_firstname']                	= 'First Name';
-$_['entry_lastname']                 	= 'Last Name';
+$_['entry_firstname']                	= 'Prenume';
+$_['entry_lastname']                 	= 'Nume de Familie';
 $_['entry_telephone']               	= 'Telephone';
 $_['entry_company']                  	= 'Company';
-$_['entry_address_1']                	= 'Address 1';
-$_['entry_address_2']                	= 'Address 2';
+$_['entry_address_1']                	= 'Adresă 1';
+$_['entry_address_2']                	= 'Adresă 2';
 $_['entry_postcode']                 	= 'Post Code';
 $_['entry_city']                     	= 'City';
 $_['entry_country']                  	= 'Country';
 $_['entry_zone']                    	= 'Region / State';
 
 // Button
-$_['button_confirm']  					= 'Confirm';
+$_['button_confirm']  					= 'Confirmare';
 $_['button_shipping'] 					= 'Update shipping';
 
 // Error
@@ -57,11 +57,11 @@ $_['error_recurring_required'] 			= 'Please select a payment recurring!';
 $_['error_unavailable'] 	  			= 'Please use the full checkout with this order!';
 $_['error_shipping']                 	= 'Warning: Shipping method required!';
 $_['error_no_shipping']    				= 'Warning: No Shipping options are available.';
-$_['error_firstname']                	= 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']                 	= 'Last Name must be between 1 and 32 characters!';
+$_['error_firstname']                	= 'Prenumele trebuie să fie între 1 și 32 de caractere!';
+$_['error_lastname']                 	= 'Numele de Familie trebuie să fie între 1 și 32 de caractere!';
 $_['error_email']                    	= 'E-Mail address does not appear to be valid!';
 $_['error_telephone']                	= 'Telephone must be between 3 and 32 characters!';
-$_['error_password']                 	= 'Password must be between 4 and 20 characters!';
+$_['error_password']                 	= 'Parola trebuie să fie între 4 și 20 de caractere!';
 $_['error_confirm']                  	= 'Password confirmation does not match password!';
 $_['error_address_1']                	= 'Address 1 must be between 3 and 128 characters!';
 $_['error_city']                     	= 'City must be between 2 and 128 characters!';
