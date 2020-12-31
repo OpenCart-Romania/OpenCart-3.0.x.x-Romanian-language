@@ -3,7 +3,7 @@
 $_['heading_title']		 = 'Perpetual Payments';
 
 // Text
-$_['text_extension']	 = 'Extensions';
+$_['text_extension']	 = 'Extensii';
 $_['text_success']		 = 'Success: You have modified Perpetual Payments account details!';
 $_['text_edit']          = 'Edit Perpetual Payments';
 
@@ -14,8 +14,8 @@ $_['entry_test']		 = 'Test Mode';
 $_['entry_total']		 = 'Total';
 $_['entry_order_status'] = 'Order Status';
 $_['entry_geo_zone']	 = 'Geo Zone';
-$_['entry_status']		 = 'Status';
-$_['entry_sort_order']	 = 'Sort Order';
+$_['entry_status']		 = 'Stare';
+$_['entry_sort_order']	 = 'Ordinea de Sortare';
 
 // Help
 $_['help_test']			 = 'Use this module in Test (YES) or Production mode (NO)?';
