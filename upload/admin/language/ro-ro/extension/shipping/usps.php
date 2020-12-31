@@ -3,7 +3,7 @@
 $_['heading_title']         = 'United States Postal Service';
 
 // Text
-$_['text_extension']        = 'Extensions';
+$_['text_extension']        = 'Extensii';
 $_['text_success']          = 'Success: You have modified United States Postal Service!';
 $_['text_edit']             = 'Edit United States Postal Service Shipping';
 $_['text_domestic_00']      = 'First-Class Mail Parcel';
@@ -58,17 +58,17 @@ $_['entry_international']   = 'International Services';
 $_['entry_size']            = 'Size';
 $_['entry_container']       = 'Container';
 $_['entry_machinable']      = 'Machinable';
-$_['entry_dimension']       = 'Dimensions (L x W x H)';
-$_['entry_length']          = 'Length';
-$_['entry_height']          = 'Height';
-$_['entry_width']           = 'Width';
+$_['entry_dimension']       = 'Dimensiuni (L x l x Î)';
+$_['entry_length']          = 'Lungime';
+$_['entry_height']          = 'Înălţime';
+$_['entry_width']           = 'Lăţime';
 $_['entry_display_time']    = 'Display Delivery Time';
 $_['entry_display_weight']  = 'Display Delivery Weight';
-$_['entry_weight_class']    = 'Weight Class';
-$_['entry_tax']             = 'Tax Class';
+$_['entry_weight_class']    = 'Clasă de Greutate';
+$_['entry_tax']             = 'Clasă de Taxare';
 $_['entry_geo_zone']        = 'Geo Zone';
-$_['entry_status']          = 'Status';
-$_['entry_sort_order']      = 'Sort Order';
+$_['entry_status']          = 'Stare';
+$_['entry_sort_order']      = 'Ordinea de Sortare';
 $_['entry_debug']           = 'Debug Mode';
 
 // Help
