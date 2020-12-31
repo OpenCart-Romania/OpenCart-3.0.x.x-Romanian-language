@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Return Reasons';
+$_['heading_title']    = 'Motive Returnare';
 
 // Text
 $_['text_success']     = 'Success: You have modified return reasons!';
@@ -10,7 +10,7 @@ $_['text_edit']        = 'Edit Return Reason';
 
 // Column
 $_['column_name']      = 'Return Reason Name';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'Acțiune';
 
 // Entry
 $_['entry_name']       = 'Return Reason Name';
