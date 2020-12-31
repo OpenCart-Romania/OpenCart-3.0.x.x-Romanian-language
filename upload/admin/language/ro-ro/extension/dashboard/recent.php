@@ -1,25 +1,25 @@
 <?php
 // Heading
-$_['heading_title']     = 'Latest Orders';
+$_['heading_title']     = 'Ultimele Comenzi';
 
 // Text
-$_['text_extension']    = 'Extensions';
-$_['text_success']      = 'Success: You have modified dashboard recent orders!';
-$_['text_edit']         = 'Edit Dashboard Recent Orders';
+$_['text_extension']    = 'Extensii';
+$_['text_success']      = 'Succes: Ai modificat panoul comenzi recente!';
+$_['text_edit']         = 'Editează Panoul Comenzi Recente';
 
 // Column
-$_['column_order_id']   = 'Order ID';
-$_['column_customer']   = 'Customer';
-$_['column_status']     = 'Status';
+$_['column_order_id']   = 'ID Comandă';
+$_['column_customer']   = 'Client';
+$_['column_status']     = 'Stare';
 $_['column_total']      = 'Total';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_date_added'] = 'Data Adăugării';
+$_['column_action']     = 'Acțiune';
 
 
 // Entry
-$_['entry_status']      = 'Status';
-$_['entry_sort_order']  = 'Sort Order';
-$_['entry_width']       = 'Width';
+$_['entry_status']      = 'Stare';
+$_['entry_sort_order']  = 'Ordinea de Sortare';
+$_['entry_width']       = 'Lăţime';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify dashboard recent orders!';
+$_['error_permission']  = 'Atenție: Nu ai permisiunea de a modifica panoul comenzi recente!';
