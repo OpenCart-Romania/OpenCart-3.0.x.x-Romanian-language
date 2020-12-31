@@ -3,7 +3,7 @@
 $_['heading_title']					 = 'PayPal Express Checkout';
 
 // Text
-$_['text_extension']				 = 'Extensions';
+$_['text_extension']				 = 'Extensii';
 $_['text_success']				 	 = 'Success: You have modified PayPal Express Checkout account details!';
 $_['text_edit']                      = 'Edit PayPal Express Checkout';
 $_['text_pp_express']				 = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
@@ -44,8 +44,8 @@ $_['entry_recurring_cancel']	     = 'Allow customers to cancel recurring payment
 $_['entry_transaction']		         = 'Settlement Type';
 $_['entry_total']					 = 'Total';
 $_['entry_geo_zone']				 = 'Geo Zone';
-$_['entry_status']					 = 'Status';
-$_['entry_sort_order']				 = 'Sort Order';
+$_['entry_status']					 = 'Stare';
+$_['entry_sort_order']				 = 'Ordinea de Sortare';
 $_['entry_canceled_reversal_status'] = 'Canceled Reversal Status';
 $_['entry_completed_status']		 = 'Completed Status';
 $_['entry_denied_status']			 = 'Denied Status';
