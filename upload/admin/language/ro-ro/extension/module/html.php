@@ -3,15 +3,15 @@
 $_['heading_title']     = 'HTML Content';
 
 // Text
-$_['text_extension']    = 'Extensions';
+$_['text_extension']    = 'Extensii';
 $_['text_success']      = 'Success: You have modified HTML Content module!';
 $_['text_edit']         = 'Edit HTML Content Module';
 
 // Entry
 $_['entry_name']        = 'Module Name';
 $_['entry_title']       = 'Heading Title';
-$_['entry_description'] = 'Description';
-$_['entry_status']      = 'Status';
+$_['entry_description'] = 'Descriere';
+$_['entry_status']      = 'Stare';
 
 // Error
 $_['error_permission']  = 'Warning: You do not have permission to modify HTML Content module!';
