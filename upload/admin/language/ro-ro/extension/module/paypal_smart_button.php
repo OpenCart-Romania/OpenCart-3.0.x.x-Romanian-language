@@ -3,7 +3,7 @@
 $_['heading_title']    					= 'PayPal Smart Button';
 
 // Text
-$_['text_extensions']   				= 'Extensions';
+$_['text_extensions']   				= 'Extensii';
 $_['text_edit']        					= 'Edit PayPal Smart Button Module';
 $_['text_general']				 	 	= 'General';
 $_['text_product_page']					= 'Product Page';
@@ -31,11 +31,11 @@ $_['text_pay']			 	 			= 'Pay';
 $_['text_buy_now']			 	 		= 'Buy Now';
 $_['text_pay_pal']			 	 		= 'PayPal';
 $_['text_installment']			 	 	= 'Installment';
-$_['text_yes']			 	 			= 'Yes';
-$_['text_no']			 	 			= 'No';
+$_['text_yes']			 	 			= 'Da';
+$_['text_no']			 	 			= 'Nu';
 
 // Entry
-$_['entry_status']     					= 'Status';
+$_['entry_status']     					= 'Stare';
 $_['entry_product_page_status']     	= 'Product Page Status';
 $_['entry_cart_page_status']     		= 'Cart Page Status';
 $_['entry_insert_tag']     				= 'Insert Tag';
