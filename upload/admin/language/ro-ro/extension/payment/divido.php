@@ -5,7 +5,7 @@ $_['heading_title']                    = 'Divido';
 // Text
 $_['text_divido']                      = '<a href="http://divido.com" target="_blank"><img src="view/image/payment/divido.png"></a>';
 $_['text_edit']                        = 'Edit Divido';
-$_['text_extension']                   = 'Extensions';
+$_['text_extension']                   = 'Extensii';
 $_['text_order_info']                  = 'Divido info';
 $_['text_success']                     = 'Success: You have modified the Divido module';
 $_['text_proposal_id']                 = 'Proposal ID';
@@ -14,8 +14,8 @@ $_['text_deposit_amount']              = 'Deposit amount';
 
 // Entry
 $_['entry_order_status']               = 'Order status when approved';
-$_['entry_sort_order']                 = 'Sort order';
-$_['entry_status']                     = 'Status';
+$_['entry_sort_order']                 = 'Ordinea de Sortare';
+$_['entry_status']                     = 'Stare';
 $_['entry_api_key']                    = 'API-key';
 $_['entry_title']                      = 'Title';
 $_['entry_productselection']           = 'Product selection';
@@ -29,7 +29,7 @@ $_['entry_products_options_threshold'] = 'All products above a defined price';
 $_['entry_price_threshold']            = 'Product price threshold';
 $_['entry_cart_threshold']             = 'Cart total threshold';
 $_['entry_threshold_list']             = 'Plan thresholds';
-$_['entry_category']                   = 'Categories';
+$_['entry_category']                   = 'Categorii';
 
 // Help
 $_['help_api_key']                     = 'Key that identifies you with Divido (obtained from Divido)';
