@@ -1,11 +1,11 @@
 <?php
 $_['heading_title']                              = 'Secure Trading Web Service';
 
-$_['tab_settings']                               = 'Settings';
+$_['tab_settings']                               = 'Setări';
 $_['tab_myst']                                   = 'MyST';
 
 $_['text_securetrading_ws']                      = '<a href="http://www.securetradingfs.com/partner/open-cart/" target="_blank"><img src="view/image/payment/secure_trading.png" alt="Secure Trading" title="Secure Trading" style="border: 1px solid #EEEEEE;" /></a>';
-$_['text_extension']                             = 'Extensions';
+$_['text_extension']                             = 'Extensii';
 $_['text_all_geo_zones']                         = 'All Geo Zones';
 $_['text_process_immediately']                   = 'Process immediately';
 $_['text_wait_x_days']                           = 'Wait %d days';
@@ -34,7 +34,7 @@ $_['text_order_total']                           = 'Total authorised';
 $_['text_total_released']                        = 'Total released';
 $_['text_transactions']                          = 'Transactions';
 $_['text_column_amount']                         = 'Amount';
-$_['text_column_type']                           = 'Type';
+$_['text_column_type']                           = 'Tip';
 $_['text_column_created']                        = 'Created';
 $_['text_release_ok']                            = 'Release was successful';
 $_['text_release_ok_order']                      = 'Release was successful, order status updated to success - settled';
@@ -46,8 +46,8 @@ $_['text_confirm_release']                       = 'Are you sure you want to rel
 $_['text_confirm_rebate']                        = 'Are you sure you want to rebate the payment?';
 
 $_['entry_site_reference']                       = 'Site reference';
-$_['entry_username']                             = 'Username';
-$_['entry_password']                             = 'Password';
+$_['entry_username']                             = 'Nume utilizator';
+$_['entry_password']                             = 'Parolă';
 $_['entry_csv_username']                         = 'CSV username';
 $_['entry_csv_password']                         = 'CSV password';
 $_['entry_3d_secure']                            = 'Use 3D Secure';
@@ -61,8 +61,8 @@ $_['entry_authorisation_reversed_order_status']  = 'Authorisation reversed order
 $_['entry_settle_status']                        = 'Settlement status';
 $_['entry_settle_due_date']                      = 'Settlement due date'; 
 $_['entry_geo_zone']                             = 'Geo Zone';
-$_['entry_sort_order']                           = 'Sort Order';
-$_['entry_status']                               = 'Status';
+$_['entry_sort_order']                           = 'Ordinea de Sortare';
+$_['entry_status']                               = 'Stare';
 $_['entry_total']                                = 'Total';
 $_['entry_reverse_authorisation']                = 'Reverse Authorisation:';
 $_['entry_refunded']                             = 'Refunded:';
@@ -76,14 +76,14 @@ $_['entry_date_to']                              = 'Date To';
 $_['entry_hour']                                 = 'Hour';
 $_['entry_minute']                               = 'Minute';
 
-$_['column_order_id']                            = 'Order ID';
+$_['column_order_id']                            = 'ID Comandă';
 $_['column_transaction_reference']               = 'Transaction reference';
 $_['column_customer']                            = 'Customer';
 $_['column_total']                               = 'Total';
 $_['column_currency']                            = 'Currency';
 $_['column_settle_status']                       = 'Settle status';
-$_['column_status']                              = 'Status';
-$_['column_type']                                = 'Type';
+$_['column_status']                              = 'Stare';
+$_['column_type']                                = 'Tip';
 $_['column_payment_type']                        = 'Payment type';
 
 $_['error_permission']                           = 'You do not have permissions to modify this module';
@@ -102,7 +102,7 @@ $_['help_total']                                 = 'The checkout total the order
 $_['button_reverse_authorisation']               = 'Reverse Authorisation';
 $_['button_refund']                              = 'Refund';
 $_['button_show']                                = 'Show';
-$_['button_download']                            = 'Download';
+$_['button_download']                            = 'Descărcare';
 $_['button_release']                             = 'Release';
 $_['button_rebate']                              = 'Rebate / refund';
 $_['button_void']                                = 'Reverse Authorisation';
