@@ -1,29 +1,29 @@
 <?php
 // Heading
-$_['heading_title']     = 'Tax Classes';
+$_['heading_title']     = 'Clase Taxare';
 
 // Text
 $_['text_success']      = 'Success: You have modified tax classes!';
 $_['text_list']         = 'Tax Class List';
 $_['text_add']          = 'Add Tax Class';
 $_['text_edit']         = 'Edit Tax Class';
-$_['text_tax_class']    = 'Tax Class';
-$_['text_tax_rate']     = 'Tax Rates';
+$_['text_tax_class']    = 'Clasă de Taxare';
+$_['text_tax_rate']     = 'Cote Taxare';
 $_['text_shipping']     = 'Shipping Address';
 $_['text_payment']      = 'Payment Address';
 $_['text_store']        = 'Store Address';
 
 // Column
 $_['column_title']      = 'Tax Class Title';
-$_['column_action']     = 'Action';
+$_['column_action']     = 'Acțiune';
 
 // Entry
 $_['entry_title']       = 'Tax Class Title';
-$_['entry_description'] = 'Description';
+$_['entry_description'] = 'Descriere';
 $_['entry_rate']        = 'Tax Rate';
 $_['entry_based']       = 'Based On';
 $_['entry_geo_zone']    = 'Geo Zone';
-$_['entry_priority']    = 'Priority';
+$_['entry_priority']    = 'Prioritate';
 
 // Error
 $_['error_permission']  = 'Warning: You do not have permission to modify tax classes!';
