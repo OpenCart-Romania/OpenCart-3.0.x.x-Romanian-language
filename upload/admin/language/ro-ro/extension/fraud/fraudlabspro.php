@@ -3,9 +3,9 @@
 $_['heading_title']              = 'FraudLabs Pro';
 
 // Text
-$_['text_extension']             = 'Extensions';
+$_['text_extension']             = 'Extensii';
 $_['text_success']               = 'Success: You have modified FraudLabs Pro Settings!';
-$_['text_edit']                  = 'Settings';
+$_['text_edit']                  = 'Setări';
 $_['text_signup']                = 'FraudLabs Pro is a fraud detection service. You can <a href="http://www.fraudlabspro.com/plan?ref=1730" target="_blank"><u>sign up here</u></a> for a free API Key.';
 $_['text_id']                    = 'FraudLabs Pro ID';
 $_['text_ip_address']            = 'IP Address';
@@ -35,7 +35,7 @@ $_['text_flp_upgrade']           = '<a href="http://www.fraudlabspro.com/plan" t
 $_['text_flp_merchant_area']     = 'Please login to <a href="http://www.fraudlabspro.com/merchant/login" target="_blank">FraudLabs Pro Merchant Area</a> for more information about this order.';
 
 // Entry
-$_['entry_status']               = 'Status';
+$_['entry_status']               = 'Stare';
 $_['entry_key']                  = 'API Key';
 $_['entry_score']                = 'Risk Score';
 $_['entry_order_status']         = 'Order Status';
