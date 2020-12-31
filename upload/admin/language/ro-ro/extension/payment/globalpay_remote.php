@@ -3,11 +3,11 @@
 $_['heading_title']					 = 'Globalpay Remote';
 
 // Text
-$_['text_extension']				 = 'Extensions';
+$_['text_extension']				 = 'Extensii';
 $_['text_success']					 = 'Success: You have modified Globalpay account details!';
 $_['text_edit']                      = 'Edit Globalpay Remote';
 $_['text_card_type']				 = 'Card type';
-$_['text_enabled']					 = 'Enabled';
+$_['text_enabled']					 = 'Activat';
 $_['text_use_default']				 = 'Use default';
 $_['text_merchant_id']				 = 'Merchant ID';
 $_['text_subaccount']				 = 'Sub Account';
@@ -42,7 +42,7 @@ $_['text_globalpay_remote']			 = '<a target="_blank" href="https://resourcecentr
 
 // Column
 $_['text_column_amount']			 = 'Amount';
-$_['text_column_type']				 = 'Type';
+$_['text_column_type']				 = 'Tip';
 $_['text_column_date_added']		 = 'Created';
 
 // Entry
@@ -50,9 +50,9 @@ $_['entry_merchant_id']				 = 'Merchant ID';
 $_['entry_secret']					 = 'Shared secret';
 $_['entry_rebate_password']			 = 'Rebate password';
 $_['entry_total']					 = 'Total';
-$_['entry_sort_order']				 = 'Sort order';
+$_['entry_sort_order']				 = 'Ordinea de Sortare';
 $_['entry_geo_zone']				 = 'Geo zone';
-$_['entry_status']					 = 'Status';
+$_['entry_status']					 = 'Stare';
 $_['entry_debug']					 = 'Debug logging';
 $_['entry_auto_settle']				 = 'Settlement type';
 $_['entry_tss_check']				 = 'TSS checks';
