@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'User Groups';
+$_['heading_title']    = 'Grupuri de Utilizatori';
 
 // Text
 $_['text_success']     = 'Success: You have modified user groups!';
@@ -10,7 +10,7 @@ $_['text_edit']        = 'Edit User Group';
 
 // Column
 $_['column_name']      = 'User Group Name';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'Acțiune';
 
 // Entry
 $_['entry_name']       = 'User Group Name';
