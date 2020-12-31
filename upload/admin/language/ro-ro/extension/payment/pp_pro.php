@@ -3,7 +3,7 @@
 $_['heading_title']		 = 'PayPal Pro';
 
 // Text
-$_['text_extension']     = 'Extensions';
+$_['text_extension']     = 'Extensii';
 $_['text_success']		 = 'Success: You have modified PayPal Website Payment Pro Checkout account details!';
 $_['text_edit']          = 'Edit PayPal Pro';
 $_['text_pp_pro']		 = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
@@ -19,8 +19,8 @@ $_['entry_transaction']	 = 'Transaction Method:';
 $_['entry_total']		 = 'Total';
 $_['entry_order_status'] = 'Order Status';
 $_['entry_geo_zone']	 = 'Geo Zone';
-$_['entry_status']		 = 'Status';
-$_['entry_sort_order']	 = 'Sort Order';
+$_['entry_status']		 = 'Stare';
+$_['entry_sort_order']	 = 'Ordinea de Sortare';
 
 // Help
 $_['help_test']			 = 'Use the live or testing (sandbox) gateway server to process transactions?';
