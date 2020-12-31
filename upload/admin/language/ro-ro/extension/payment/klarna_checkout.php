@@ -3,7 +3,7 @@
 $_['heading_title']						 = 'Klarna Checkout';
 
 // Text
-$_['text_extension']					 = 'Extensions';
+$_['text_extension']					 = 'Extensii';
 $_['text_success']						 = 'Success: You have modified Klarna Checkout account details!';
 $_['text_edit']							 = 'Edit Klarna Checkout';
 $_['text_live']							 = 'Live';
@@ -36,33 +36,33 @@ $_['text_no_files']						 = 'No files to download.';
 $_['text_version']						 = '1.2';
 
 // Column
-$_['column_order_id']					 = 'Order ID';
+$_['column_order_id']					 = 'ID Comandă';
 $_['column_capture_id']					 = 'Capture ID';
 $_['column_reference']					 = 'Klarna Reference';
-$_['column_status']						 = 'Status';
+$_['column_status']						 = 'Stare';
 $_['column_merchant_reference_1']		 = 'Merchant Reference 1';
 $_['column_customer_details']			 = 'Customer Details';
 $_['column_billing_address']			 = 'Billing Details';
-$_['column_shipping_address']			 = 'Shipping Details';
+$_['column_shipping_address']			 = 'Detalii Livrare';
 $_['column_order_lines']				 = 'Item Details';
 $_['column_amount']						 = 'Amount';
 $_['column_authorization_remaining']	 = 'Authorization Remaining';
 $_['column_authorization_expiry']		 = 'Authorization Expiry Date';
 $_['column_item_reference']				 = 'Reference';
-$_['column_type']						 = 'Type';
-$_['column_quantity']					 = 'Quantity';
+$_['column_type']						 = 'Tip';
+$_['column_quantity']					 = 'Cantitate';
 $_['column_quantity_unit']				 = 'Quantity Unit';
-$_['column_name']						 = 'Name';
+$_['column_name']						 = 'Nume';
 $_['column_total_amount']				 = 'Total Amount';
 $_['column_unit_price']					 = 'Unit Price';
 $_['column_total_discount_amount']		 = 'Total Discount Amount';
 $_['column_tax_rate']					 = 'Tax Rate';
 $_['column_total_tax_amount']			 = 'Total Tax Amount';
-$_['column_action']						 = 'Action';
-$_['column_cancel']						 = 'Cancel';
+$_['column_action']						 = 'Acțiune';
+$_['column_cancel']						 = 'Anulați';
 $_['column_capture']					 = 'Captures';
 $_['column_refund']						 = 'Refunds';
-$_['column_date']						 = 'Date';
+$_['column_date']						 = 'Dată';
 $_['column_title']						 = 'Title';
 $_['column_given_name']					 = 'Given Name';
 $_['column_family_name']				 = 'Family Name';
@@ -74,7 +74,7 @@ $_['column_region']						 = 'Region';
 $_['column_country']					 = 'Country';
 $_['column_email']						 = 'Email';
 $_['column_phone']						 = 'Phone';
-$_['column_action']						 = 'Action';
+$_['column_action']						 = 'Acțiune';
 $_['column_shipping_info']				 = 'Shipping Info';
 $_['column_shipping_company']			 = 'Shipping Company';
 $_['column_shipping_method']			 = 'Shipping Method';
@@ -107,7 +107,7 @@ $_['entry_order_status_refund']			 = 'Full Refund';
 $_['entry_order_status_fraud_rejected']	 = 'Fraud - Rejected';
 $_['entry_order_status_fraud_pending']	 = 'Fraud - Pending Decision';
 $_['entry_order_status_fraud_accepted']	 = 'Fraud - Accepted';
-$_['entry_status']						 = 'Status';
+$_['entry_status']						 = 'Stare';
 $_['entry_terms']						 = 'Terms & Conditions';
 $_['entry_locale']						 = 'Locale';
 $_['entry_currency']					 = 'Currency';
@@ -161,7 +161,7 @@ $_['button_new_refund']					 = 'New Refund';
 $_['button_process_settlement']			 = 'Process Settlement Files';
 
 // Error
-$_['error_warning']						 = 'Warning: Please check the form carefully for errors!';
+$_['error_warning']						 = 'Atenție: Te rugăm să verifici cu atenție formularul pentru erori!';
 $_['error_php_version']					 = 'Minimum version of PHP 5.4.0 is required!';
 $_['error_ssl']							 = 'You must enable "Use SSL" in the store settings and have an SSL certificate installed!';
 $_['error_account_minimum']				 = 'Please add at least one account.';
@@ -172,7 +172,7 @@ $_['error_secret']						 = 'Shared Secret Required!';
 $_['error_tax_warning']					 = 'Warning: Some of your products use a Payment Address based Tax Class. Klarna Checkout will not work when any of these are placed in the cart.';
 
 // Tab
-$_['tab_setting']						 = 'Settings';
-$_['tab_order_status']					 = 'Order Statuses';
+$_['tab_setting']						 = 'Setări';
+$_['tab_order_status']					 = 'Starea Comenzilor';
 $_['tab_account']						 = 'Accounts';
 $_['tab_settlement']					 = 'Settlement';
