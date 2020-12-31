@@ -44,27 +44,27 @@ $_['text_account_rate']                        = 'Account Rate';
 
 // Entry
 $_['entry_key']                                = 'Key';
-$_['entry_password']                           = 'Password';
-$_['entry_account']                            = 'Account Number';
+$_['entry_password']                           = 'Parolă';
+$_['entry_account']                            = 'Număr Cont';
 $_['entry_meter']                              = 'Meter Number';
 $_['entry_postcode']                           = 'Post Code';
 $_['entry_test']                               = 'Test Mode';
 $_['entry_service']                            = 'Services';
 $_['entry_dimension']                          = 'Box Dimensions (L x W x H)';
-$_['entry_length_class']                       = 'Length Class';
-$_['entry_length']                             = 'Length';
-$_['entry_width']                              = 'Width';
-$_['entry_height']                             = 'Height';
+$_['entry_length_class']                       = 'Clasă de Lungime';
+$_['entry_length']                             = 'Lungime';
+$_['entry_width']                              = 'Lăţime';
+$_['entry_height']                             = 'Înălţime';
 $_['entry_dropoff_type']                       = 'Drop Off Type';
 $_['entry_packaging_type']                     = 'Packaging Type';
 $_['entry_rate_type']                          = 'Rate Type';
 $_['entry_display_time']                       = 'Display Delivery Time';
 $_['entry_display_weight']                     = 'Display Delivery Weight';
-$_['entry_weight_class']                       = 'Weight Class';
-$_['entry_tax_class']                          = 'Tax Class';
+$_['entry_weight_class']                       = 'Clasă de Greutate';
+$_['entry_tax_class']                          = 'Clasă de Taxare';
 $_['entry_geo_zone']                           = 'Geo Zone';
-$_['entry_status']                             = 'Status';
-$_['entry_sort_order']                         = 'Sort Order';
+$_['entry_status']                             = 'Stare';
+$_['entry_sort_order']                         = 'Ordinea de Sortare';
 
 // Help
 $_['help_length_class']                        = 'Set to inches or centimeters.';
