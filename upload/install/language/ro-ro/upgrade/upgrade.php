@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']   = 'Upgrade';
+$_['heading_title']   = 'Actualizare';
 $_['heading_success'] = 'Upgrade - Complete!';
 
 // Text
 $_['text_upgrade']    = 'Prepare for your upgrade';
-$_['text_server']     = 'Check your server is set-up correctly';
+$_['text_server']     = 'Verificați dacă serverul dvs. este configurat corect';
 $_['text_steps']      = 'Upgrade Progress';
 $_['text_error']      = 'Post any upgrade script errors problems in the forums';
 $_['text_clear']      = 'After upgrade, clear any cookies in your browser to avoid getting token errors.';
