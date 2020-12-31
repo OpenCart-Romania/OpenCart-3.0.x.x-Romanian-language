@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']          = 'Configuration';
+$_['heading_title']          = 'Configurare';
 
 // Text
 $_['text_step_3']            = 'Enter your database and administration details';
@@ -13,13 +13,13 @@ $_['text_pgsql']             = 'PostgreSQL';
 // Entry
 $_['entry_db_driver']        = 'DB Driver';
 $_['entry_db_hostname']      = 'Hostname';
-$_['entry_db_username']      = 'Username';
-$_['entry_db_password']      = 'Password';
-$_['entry_db_database']      = 'Database';
+$_['entry_db_username']      = 'Nume utilizator';
+$_['entry_db_password']      = 'Parolă';
+$_['entry_db_database']      = 'Bază de date';
 $_['entry_db_port']          = 'Port';
 $_['entry_db_prefix']        = 'Prefix';
-$_['entry_username']         = 'Username';
-$_['entry_password']         = 'Password';
+$_['entry_username']         = 'Nume utilizator';
+$_['entry_password']         = 'Parolă';
 $_['entry_email']            = 'E-Mail';
 
 // Error
@@ -32,5 +32,5 @@ $_['error_db_prefix']        = 'DB Prefix can only contain lowercase characters 
 $_['error_db_connect']       = 'Error: Could not connect to the database please make sure the database server, username and password is correct!';
 $_['error_username']         = 'Username required!';
 $_['error_password']         = 'Password required!';
-$_['error_email']            = 'E-Mail Address does not appear to be valid!';
+$_['error_email']            = 'Adresa E-Mail nu pare să fie validă!';
 $_['error_config']           = 'Error: Could not write to config.php please check you have set the correct permissions on: ';
