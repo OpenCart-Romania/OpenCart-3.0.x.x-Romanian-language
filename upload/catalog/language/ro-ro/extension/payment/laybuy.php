@@ -12,7 +12,7 @@ $_['text_downpayment']		= 'Down Payment';
 $_['text_today']			= 'Today';
 $_['text_delivery_msg']		= 'Your goods/services will be delivered once your final payment has been received.';
 $_['text_fee_msg']			= 'A 0.9% admin fee is payable to Lay-Buys.com.';
-$_['text_month']			= 'Month';
+$_['text_month']			= 'Lună';
 $_['text_months']			= 'Months';
 $_['text_status_1']			= 'Pending';
 $_['text_status_5']			= 'Completed';
@@ -26,4 +26,4 @@ $_['entry_initial']			= 'Initial Payment';
 $_['entry_months']			= 'Months';
 
 // Button
-$_['button_confirm']		= 'Confirm Order';
+$_['button_confirm']		= 'Confirmați Comanda';
