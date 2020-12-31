@@ -3,11 +3,11 @@
 $_['heading_title']                 = 'CardConnect';
 
 // Tab
-$_['tab_settings']                  = 'Settings';
+$_['tab_settings']                  = 'Setări';
 $_['tab_order_status']              = 'Order Status';
 
 // Text
-$_['text_extension']                = 'Extensions';
+$_['text_extension']                = 'Extensii';
 $_['text_success']                  = 'Success: You have modified CardConnect payment module!';
 $_['text_edit']                     = 'Edit CardConnect';
 $_['text_cardconnect']              = '<a href="http://www.cardconnect.com" target="_blank"><img src="view/image/payment/cardconnect.png" alt="CardConnect" title="CardConnect"></a>';
@@ -28,12 +28,12 @@ $_['text_capture_payment']          = 'Capture Payment';
 $_['text_refund_payment']           = 'Refund Payment';
 $_['text_void']                     = 'Void';
 $_['text_transactions']             = 'Transactions';
-$_['text_column_type']              = 'Type';
+$_['text_column_type']              = 'Tip';
 $_['text_column_reference']         = 'Reference';
 $_['text_column_amount']            = 'Amount';
-$_['text_column_status']            = 'Status';
+$_['text_column_status']            = 'Stare';
 $_['text_column_date_modified']     = 'Date Modified';
-$_['text_column_date_added']        = 'Date Added';
+$_['text_column_date_added']        = 'Data Adăugării';
 $_['text_column_update']            = 'Update';
 $_['text_column_void']              = 'Void';
 $_['text_confirm_capture']          = 'Are you sure you want to capture the payment?';
@@ -55,9 +55,9 @@ $_['entry_store_cards']             = 'Store Cards';
 $_['entry_echeck']                  = 'eCheck';
 $_['entry_total']                   = 'Total';
 $_['entry_geo_zone']                = 'Geo Zone';
-$_['entry_status']                  = 'Status';
+$_['entry_status']                  = 'Stare';
 $_['entry_logging']                 = 'Debug Logging';
-$_['entry_sort_order']              = 'Sort Order';
+$_['entry_sort_order']              = 'Ordinea de Sortare';
 $_['entry_cron_url']                = 'Cron Job URL';
 $_['entry_cron_time']               = 'Cron Job Last Run';
 $_['entry_order_status_pending']    = 'Pending';
