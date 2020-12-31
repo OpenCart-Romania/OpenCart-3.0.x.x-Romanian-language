@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Purchase a Gift Certificate';
 
 // Text
-$_['text_account']     = 'Account';
+$_['text_account']     = 'Cont';
 $_['text_voucher']     = 'Gift Certificate';
 $_['text_description'] = 'This gift certificate will be emailed to the recipient after your order has been paid for.';
 $_['text_agree']       = 'I understand that gift certificates are non-refundable.';
@@ -26,7 +26,7 @@ $_['help_amount']      = 'Value must be between %s and %s';
 // Error
 $_['error_to_name']    = 'Recipient\'s Name must be between 1 and 64 characters!';
 $_['error_from_name']  = 'Your Name must be between 1 and 64 characters!';
-$_['error_email']      = 'E-Mail Address does not appear to be valid!';
+$_['error_email']      = 'Adresa E-Mail nu pare să fie validă!';
 $_['error_theme']      = 'You must select a theme!';
 $_['error_amount']     = 'Amount must be between %s and %s!';
 $_['error_agree']      = 'Warning: You must agree that the gift certificates are non-refundable!';
