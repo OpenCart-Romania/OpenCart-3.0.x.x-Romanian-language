@@ -6,9 +6,9 @@ $_['text_vaulted_payment_method_name']	= '%s ending in %s, expires %s';
 $_['text_remember']						= 'Save for next time?';
 $_['text_remove']						= 'Remove';
 $_['text_remove_confirm']				= 'Are you sure you want to remove the saved payment method?';
-$_['text_month']						= 'Month';
-$_['text_year']							= 'Year';
-$_['text_loading']						= 'Loading...';
+$_['text_month']						= 'Lună';
+$_['text_year']							= 'An';
+$_['text_loading']						= 'Încărcare...';
 $_['text_new_method']					= 'New payment method';
 $_['text_saved_method']					= 'Choose a saved payment method';
 $_['text_paypal']						= 'PayPal';
@@ -44,5 +44,5 @@ $_['error_no_shipping']    				= 'Warning: No Shipping options are available.';
 
 // Button
 $_['button_confirm']					= 'Pay Now';
-$_['button_express_confirm']  			= 'Confirm';
+$_['button_express_confirm']  			= 'Confirmare';
 $_['button_express_shipping'] 			= 'Update shipping';
