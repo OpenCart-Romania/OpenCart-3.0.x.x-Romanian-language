@@ -19,7 +19,7 @@ $_['text_live']                     = 'Live';
 $_['text_sandbox']                  = 'Sandbox';
 $_['text_auth']						= 'Authorization';
 $_['text_payment']                  = 'Payment';
-$_['text_account']                  = 'Account';
+$_['text_account']                  = 'Cont';
 $_['text_guest']					= 'Guest';
 $_['text_no_capture']               = '--- No Automatic Capture ---';
 $_['text_all_geo_zones']            = 'All Geo Zones';
@@ -55,8 +55,8 @@ $_['text_column_authorization_id']	= 'Amazon Authorization ID';
 $_['text_column_capture_id']		= 'Amazon Capture ID';
 $_['text_column_refund_id']			= 'Amazon Refund ID';
 $_['text_column_amount']			= 'Amount';
-$_['text_column_type']				= 'Type';
-$_['text_column_status']			= 'Status';
+$_['text_column_type']				= 'Tip';
+$_['text_column_status']			= 'Stare';
 $_['text_column_date_added']		= 'Date added';
 $_['text_confirm_cancel']			= 'Are you sure you want to cancel the payment?';
 $_['text_confirm_capture']			= 'Are you sure you want to capture the payment?';
@@ -64,9 +64,9 @@ $_['text_confirm_refund']			= 'Are you sure you want to refund the payment?';
 $_['text_minimum_total']            = 'Minimum Order Total';
 $_['text_geo_zone']                 = 'Geo Zone';
 $_['text_buyer_multi_currency']     = 'Multi-Currency function';
-$_['text_status']                   = 'Status';
+$_['text_status']                   = 'Stare';
 $_['text_declined_codes']           = 'Test Decline Codes';
-$_['text_sort_order']               = 'Sort Order';
+$_['text_sort_order']               = 'Ordinea de Sortare';
 $_['text_amazon_invalid']           = 'InvalidPaymentMethod';
 $_['text_amazon_rejected']          = 'AmazonRejected';
 $_['text_amazon_timeout']           = 'TransactionTimedOut';
@@ -74,12 +74,12 @@ $_['text_amazon_no_declined']       = '--- No Automatic Declined Authorization -
 $_['text_amazon_signup']			= 'Sign-up to Amazon Pay';
 $_['text_credentials']				= 'Please paste your keys here (in JSON format)';
 $_['text_validate_credentials']		= 'Validate and Use Credentials';
-$_['text_extension']                = 'Extensions';
+$_['text_extension']                = 'Extensii';
 $_['text_info_ssl']                 = '<strong>Important:</strong> SSL (https://) is a requirement and must be enabled on your website for the Amazon Pay and Login with Amazon buttons to work.';
 $_['text_info_buyer_multi_currencies'] = 'This extension supports the Multi-Currency functionality. If you would like to use it, please make sure you have enabled at least one of the <a href="https://pay.amazon.co.uk/help/5BDCWHCUC27485L"><b>Amazon Pay supported currencies</b></a> in your on-line store settings <b><a href="index.php?route=localisation/currency&user_token=%s">(%s > %s > %s )</b></a>, and then enable the <b>Multi-Currency function</b>';
 
 // Columns
-$_['column_status']                 = 'Status';
+$_['column_status']                 = 'Stare';
 
 //entry
 $_['entry_merchant_id']             = 'Merchant ID';
@@ -133,4 +133,4 @@ $_['error_no_supported_currencies'] = 'There are no supported currencies availab
 // Buttons
 $_['button_capture']				= 'Capture';
 $_['button_refund']					= 'Refund';
-$_['button_cancel']					= 'Cancel';
+$_['button_cancel']					= 'Anulați';
