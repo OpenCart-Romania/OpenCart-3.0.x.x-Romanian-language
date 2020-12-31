@@ -3,12 +3,12 @@
 $_['heading_title']    = 'Basic Captcha';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified Basic Captcha!';
+$_['text_extension']   = 'Extensii';
+$_['text_success']     = 'Succes: Ai modificat Basic Captcha!';
 $_['text_edit']        = 'Edit Basic Captcha';
 
 // Entry
-$_['entry_status']     = 'Status';
+$_['entry_status']     = 'Stare';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Basic Captcha!';
+$_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica Basic Captcha!';
