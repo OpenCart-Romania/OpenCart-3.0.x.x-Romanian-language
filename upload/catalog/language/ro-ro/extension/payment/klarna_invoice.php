@@ -6,9 +6,9 @@ $_['text_terms_no_fee']			= '<span id="klarna_invoice_toc"></span><script type="
 $_['text_additional']			= 'Klarna Invoice requires some additional information before they can proccess your order.';
 $_['text_male']					= 'Male';
 $_['text_female']				= 'Female';
-$_['text_year']					= 'Year';
-$_['text_month']				= 'Month';
-$_['text_day']					= 'Day';
+$_['text_year']					= 'An';
+$_['text_month']				= 'Lună';
+$_['text_day']					= 'Zi';
 $_['text_comment']				= 'Klarna\'s Invoice ID: %s. ' . "\n" . '%s/%s: %.4f';
 
 // Entry
