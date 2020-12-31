@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']      = 'Geo Zones';
+$_['heading_title']      = 'Zone Geografice';
 
 // Text
 $_['text_success']       = 'Success: You have modified geo zones!';
 $_['text_list']          = 'Geo Zone List';
-$_['text_add']           = 'Add Geo Zone';
+$_['text_add']           = 'Adăugați Zonă Geografică';
 $_['text_edit']          = 'Edit Geo Zone';
-$_['text_geo_zone']      = 'Geo Zones';
+$_['text_geo_zone']      = 'Zone Geografice';
 
 // Column
 $_['column_name']        = 'Geo Zone Name';
-$_['column_description'] = 'Description';
-$_['column_action']      = 'Action';
+$_['column_description'] = 'Descriere';
+$_['column_action']      = 'Acțiune';
 
 // Entry
 $_['entry_name']         = 'Geo Zone Name';
-$_['entry_description']  = 'Description';
+$_['entry_description']  = 'Descriere';
 $_['entry_country']      = 'Country';
 $_['entry_zone']         = 'Zone';
 
