@@ -2,7 +2,7 @@
 $_['heading_title']                              = 'Secure Trading Payment Pages';
 
 $_['text_securetrading_pp']                      = '<a href="http://www.securetradingfs.com/partner/open-cart/" target="_blank"><img src="view/image/payment/secure_trading.png" alt="Secure Trading" title="Secure Trading" style="border: 1px solid #EEEEEE;" /></a>';
-$_['text_extension']                             = 'Extensions';
+$_['text_extension']                             = 'Extensii';
 $_['text_all_geo_zones']                         = 'All Geo Zones';
 $_['text_process_immediately']                   = 'Process immediately';
 $_['text_wait_x_days']                           = 'Wait %d days';
@@ -15,8 +15,8 @@ $_['text_pending_suspended']                     = 'Suspended';
 $_['text_pending_settled']                       = 'Settled';
 
 $_['entry_site_reference']                       = 'Site reference';
-$_['entry_username']                             = 'Username';
-$_['entry_password']                             = 'Password';
+$_['entry_username']                             = 'Nume utilizator';
+$_['entry_password']                             = 'Parolă';
 $_['entry_site_security_status']                 = 'Use Site Security hash';
 $_['entry_site_security_password']               = 'Site Security password';
 $_['entry_notification_password']                = 'Notification password';
@@ -27,8 +27,8 @@ $_['entry_authorisation_reversed_order_status']  = 'Authorisation reversed order
 $_['entry_settle_status']                        = 'Settlement status';
 $_['entry_settle_due_date']                      = 'Settlement due date';
 $_['entry_geo_zone']                             = 'Geo Zone';
-$_['entry_sort_order']                           = 'Sort Order';
-$_['entry_status']                               = 'Status';
+$_['entry_sort_order']                           = 'Ordinea de Sortare';
+$_['entry_status']                               = 'Stare';
 $_['entry_total']                                = 'Total';
 $_['entry_parent_css']                           = 'Parent CSS';
 $_['entry_child_css']                            = 'Child CSS';
@@ -65,7 +65,7 @@ $_['text_order_total']                           = 'Total authorised';
 $_['text_total_released']                        = 'Total released';
 $_['text_transactions']                          = 'Transactions';
 $_['text_column_amount']                         = 'Amount';
-$_['text_column_type']                           = 'Type';
+$_['text_column_type']                           = 'Tip';
 $_['text_column_created']                        = 'Created';
 $_['text_release_ok']                            = 'Release was successful';
 $_['text_release_ok_order']                      = 'Release was successful, order status updated to success - settled';
