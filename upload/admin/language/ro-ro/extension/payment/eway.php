@@ -3,7 +3,7 @@
 $_['heading_title']				= 'eWAY Payment';
 
 // Text
-$_['text_extension']			= 'Extensions';
+$_['text_extension']			= 'Extensii';
 $_['text_success']				= 'Success: You have modified your eWAY details!';
 $_['text_edit']					= 'Edit eWAY';
 $_['text_eway']					= '<a target="_BLANK" href="http://www.eway.com.au/"><img src="view/image/payment/eway.png" alt="eWAY" title="eWAY" style="border: 1px solid #EEEEEE;" /></a>';
@@ -21,12 +21,12 @@ $_['entry_order_status']		= 'Order status';
 $_['entry_order_status_refund'] = 'Refunded order status';
 $_['entry_order_status_auth']	= 'Authorised order status';
 $_['entry_order_status_fraud']	= 'Suspected Fraud order status';
-$_['entry_status']				= 'Status';
+$_['entry_status']				= 'Stare';
 $_['entry_username']			= 'eWAY API Key';
 $_['entry_password']			= 'eWAY password';
 $_['entry_payment_type']		= 'Payment Type';
 $_['entry_geo_zone']			= 'Geo Zone';
-$_['entry_sort_order']			= 'Sort order';
+$_['entry_sort_order']			= 'Ordinea de Sortare';
 $_['entry_transaction_method']	= 'Transaction Method';
 
 // Error
@@ -47,7 +47,7 @@ $_['text_order_total']			= 'Total authorised';
 $_['text_transactions']			= 'Transactions';
 $_['text_column_transactionid'] = 'eWAY Transaction ID';
 $_['text_column_amount']		= 'Amount';
-$_['text_column_type']			= 'Type';
+$_['text_column_type']			= 'Tip';
 $_['text_column_created']		= 'Created';
 $_['text_total_captured']		= 'Total captured';
 $_['text_capture_status']		= 'Payment captured';
