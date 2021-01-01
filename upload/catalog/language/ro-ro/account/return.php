@@ -14,12 +14,12 @@ $_['text_message']       = '<p>Thank you for submitting your return request. You
 $_['text_return_id']     = 'Return ID:';
 $_['text_order_id']      = 'Order ID:';
 $_['text_date_ordered']  = 'Order Date:';
-$_['text_status']        = 'Status:';
-$_['text_date_added']    = 'Date Added:';
+$_['text_status']        = 'Stare:';
+$_['text_date_added']    = 'Data Adăugării:';
 $_['text_comment']       = 'Return Comments';
 $_['text_history']       = 'Return History';
 $_['text_empty']         = 'You have not made any previous returns!';
-$_['text_agree']         = 'I have read and agree to the <a href="%s" class="agree"><b>%s</b></a>';
+$_['text_agree']         = 'Am citit și sunt de acord cu <a href="%s" class="agree"><b>%s</b></a>';
 
 // Column
 $_['column_return_id']   = 'Return ID';
@@ -60,4 +60,4 @@ $_['error_telephone']    = 'Telephone must be between 3 and 32 characters!';
 $_['error_product']      = 'Nume Produs trebuie să fie mai mare de 3 și mai mic de 255 de caractere!';
 $_['error_model']        = 'Model Produs trebuie să fie mai mare de 3 și mai mic de 64 de caractere!';
 $_['error_reason']       = 'You must select a return product reason!';
-$_['error_agree']        = 'Warning: You must agree to the %s!';
+$_['error_agree']        = 'Atenție: Trebuie să fii de acord cu %s!';
