@@ -90,7 +90,7 @@ $_['button_void']                   = 'Void';
 // Error
 $_['error_permission']              = 'Warning: You do not have permission to modify payment CardConnect!';
 $_['error_merchant_id']             = 'Merchant ID Required!';
-$_['error_api_username']            = 'API Username Required!';
+$_['error_api_username']            = 'Nume utilizator API Necesar!';
 $_['error_api_password']            = 'API Password Required!';
 $_['error_token']                   = 'Secret Token Required!';
 $_['error_site']                    = 'Site Required!';
