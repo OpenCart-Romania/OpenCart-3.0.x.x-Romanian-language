@@ -3,7 +3,7 @@
 $_['heading_title']            = 'Shopping Cart';
 
 // Text
-$_['text_success']             = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">shopping cart</a>!';
+$_['text_success']             = 'Succes: Ai adăugat <a href="%s">%s</a> la <a href="%s">coșul tău de cumpărături</a>!';
 $_['text_remove']              = 'Success: You have modified your shopping cart!';
 $_['text_login']               = 'Attention: You must <a href="%s">login</a> or <a href="%s">create an account</a> to view prices!';
 $_['text_items']               = '%s item(s) - %s';
@@ -19,7 +19,7 @@ $_['text_year']                = 'year';
 $_['text_trial']               = '%s every %s %s for %s payments then ';
 $_['text_recurring']           = '%s every %s %s';
 $_['text_recurring_item']      = 'Recurring Item';
-$_['text_payment_recurring']   = 'Payment Profile';
+$_['text_payment_recurring']   = 'Profil Plată';
 $_['text_trial_description']   = '%s every %d %s(s) for %d payment(s) then';
 $_['text_payment_description'] = '%s every %d %s(s) for %d payment(s)';
 $_['text_payment_cancel']      = '%s every %d %s(s) until canceled';
