@@ -70,7 +70,7 @@ $_['help_country_match']                      = 'Whether country of IP address m
 $_['help_country_code']                       = 'Country Code of the IP address.';
 $_['help_high_risk_country']                  = 'Whether IP address or billing address country is in Ghana, Nigeria, or Vietnam.';
 $_['help_distance']                           = 'Distance from IP address to Billing Location in kilometers (large distance = higher risk).';
-$_['help_ip_region']                          = 'Estimated State/Region of the IP address.';
+$_['help_ip_region']                          = 'Estimare Județ/Regiune a adresei IP.';
 $_['help_ip_city']                            = 'Estimated City of the IP address.';
 $_['help_ip_latitude']                        = 'Estimated Latitude of the IP address.';
 $_['help_ip_longitude']                       = 'Estimated Longitude of the IP address.';
