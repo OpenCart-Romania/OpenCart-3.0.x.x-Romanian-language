@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'The page you requested cannot be found!';
+$_['heading_title'] = 'Pagina pe care ai solicitat-o nu a putut fi găsită!';
 
 // Text
-$_['text_error']    = 'The page you requested cannot be found.';
+$_['text_error']    = 'Pagina pe care ai solicitat-o nu a putut fi găsită.';
