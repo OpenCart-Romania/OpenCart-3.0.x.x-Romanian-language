@@ -9,8 +9,8 @@ $_['text_add']          = 'Add Tax Class';
 $_['text_edit']         = 'Edit Tax Class';
 $_['text_tax_class']    = 'Clasă de Taxare';
 $_['text_tax_rate']     = 'Cote Taxare';
-$_['text_shipping']     = 'Shipping Address';
-$_['text_payment']      = 'Payment Address';
+$_['text_shipping']     = 'Adresă Livrare';
+$_['text_payment']      = 'Adresă Plată';
 $_['text_store']        = 'Store Address';
 
 // Column
