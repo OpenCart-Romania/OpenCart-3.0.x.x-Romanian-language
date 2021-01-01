@@ -107,7 +107,7 @@ $_['help_debug']                   = 'Saves send/recv data to the system log';
 // Error
 $_['error_permission']             = 'Warning: You do not have permission to modify UPS (US) shipping!';
 $_['error_key']                    = 'Access Key Required!';
-$_['error_username']               = 'Username Required!';
+$_['error_username']               = 'Nume utilizator necesar!';
 $_['error_password']               = 'Password Required!';
 $_['error_city']                   = 'Origin City!';
 $_['error_state']                  = 'Origin State/Province Required!';
