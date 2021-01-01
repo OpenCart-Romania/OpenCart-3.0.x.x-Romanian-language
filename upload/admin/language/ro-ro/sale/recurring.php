@@ -10,7 +10,7 @@ $_['text_recurring_detail']                = 'Recurring Details';
 $_['text_order_detail']                    = 'Order Details';
 $_['text_product_detail']                  = 'Product Details';
 $_['text_transaction']                     = 'Transactions';
-$_['text_order_recurring_id']              = 'Recurring Order ID';
+$_['text_order_recurring_id']              = 'ID Comandă Recurentă';
 $_['text_reference']                       = 'Payment Reference';
 $_['text_recurring_name']                  = 'Profil Recurent';
 $_['text_recurring_description']           = 'Descriere';
@@ -49,7 +49,7 @@ $_['text_transaction_expired']             = 'Expired';
 $_['text_cancelled']                       = 'Recurring payment has been cancelled';
 
 // Column
-$_['column_order_recurring_id']             = 'Recurring ID';
+$_['column_order_recurring_id']             = 'ID Recurență';
 $_['column_order_id']                       = 'ID Comandă';
 $_['column_reference']                      = 'Payment Reference';
 $_['column_customer']                       = 'Customer';
@@ -60,7 +60,7 @@ $_['column_type']                           = 'Tip';
 $_['column_action']                         = 'Acțiune';
 
 // Entry
-$_['entry_order_recurring_id']             = 'Recurring ID';
+$_['entry_order_recurring_id']             = 'ID Recurență';
 $_['entry_order_id']                       = 'ID Comandă';
 $_['entry_reference']                      = 'Payment Reference';
 $_['entry_customer']                       = 'Customer';
