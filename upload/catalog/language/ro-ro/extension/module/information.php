@@ -3,5 +3,5 @@
 $_['heading_title'] = 'Informaţii';
 
 // Text
-$_['text_contact']  = 'Contact Us';
-$_['text_sitemap']  = 'Site Map';
+$_['text_contact']  = 'Contactează-ne';
+$_['text_sitemap']  = 'Hartă Site';
