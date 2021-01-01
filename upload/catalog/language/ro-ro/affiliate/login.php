@@ -17,6 +17,6 @@ $_['entry_email']                   = 'Affiliate E-Mail';
 $_['entry_password']                = 'Parolă';
 
 // Error
-$_['error_login']                   = 'Warning: No match for E-Mail Address and/or Password.';
-$_['error_attempts']                = 'Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.';
-$_['error_approved']                = 'Warning: Your account requires approval before you can login.';
+$_['error_login']                   = 'Atenție: Adresa de E-Mail și/sau Parola nu se potrivesc.';
+$_['error_attempts']                = 'Atenție: Contul tău a depășit numărul permis de încercări de autentificare. Te rugăm să încerci din nou peste 1 oră.';
+$_['error_approved']                = 'Atenție: Contul tău necesită aprobare înainte de a te putea autentifica.';
