@@ -14,4 +14,4 @@ $_['entry_confirm']  = 'Confirmare';
 // Error
 $_['error_password'] = 'Parola trebuie să fie între 4 și 20 de caractere!';
 $_['error_confirm']  = 'Parola și confirmarea parolei nu se potrivesc!';
-$_['error_code']     = 'Password reset code is invalid or was used previously!';
+$_['error_code']     = 'Codul de resetare a parolei este invalid sau a fost utilizat anterior!';
