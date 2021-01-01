@@ -13,8 +13,8 @@ $_['text_tax']                     = 'Taxe';
 $_['text_account']                 = 'Cont';
 $_['text_checkout']                = 'Checkout';
 $_['text_stock']                   = 'Stock';
-$_['text_shipping']                = 'Shipping Address';
-$_['text_payment']                 = 'Payment Address';
+$_['text_shipping']                = 'Adresă Livrare';
+$_['text_payment']                 = 'Adresă Plată';
 
 // Column
 $_['column_name']                  = 'Store Name';
@@ -41,7 +41,7 @@ $_['entry_open']                   = 'Opening Times';
 $_['entry_comment']                = 'Comment';
 $_['entry_location']               = 'Locație Magazin';
 $_['entry_country']                = 'Country';
-$_['entry_zone']                   = 'Region / State';
+$_['entry_zone']                   = 'Regiune / Judeţ';
 $_['entry_language']               = 'Language';
 $_['entry_currency']               = 'Currency';
 $_['entry_tax']                    = 'Display Prices With Tax';
