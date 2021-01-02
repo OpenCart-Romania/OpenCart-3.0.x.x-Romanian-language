@@ -30,6 +30,6 @@ $_['help_house_ext']			= 'Please submit your house extension here. E.g. A, B, C,
 $_['help_company']				= 'Please enter your Company\'s registration number';
 
 // Error
-$_['error_deu_terms']			= 'You must agree to Klarna\'s privacy policy (Datenschutz)';
+$_['error_deu_terms']			= 'Trebuie să fii de acord cu politica de confidențialitate a Klarna (Datenschutz)';
 $_['error_address_match']		= 'Billing and Shipping addresses must match if you want to use Klarna Invoice';
 $_['error_network']				= 'Error occurred while connecting to Klarna. Please try again later.';
