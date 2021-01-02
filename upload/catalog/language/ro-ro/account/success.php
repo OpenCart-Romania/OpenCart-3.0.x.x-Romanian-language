@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title'] = 'Your Account Has Been Created!';
+$_['heading_title'] = 'Contul Tău A Fost Creat!';
 
 // Text
-$_['text_message']  = '<p>Congratulations! Your new account has been successfully created!</p> <p>You can now take advantage of member privileges to enhance your online shopping experience with us.</p> <p>If you have ANY questions about the operation of this online shop, please e-mail the store owner.</p> <p>A confirmation has been sent to the provided e-mail address. If you have not received it within the hour, please <a href="%s">contact us</a>.</p>';
-$_['text_approval'] = '<p>Thank you for registering with %s!</p><p>You will be notified by e-mail once your account has been activated by the store owner.</p><p>If you have ANY questions about the operation of this online shop, please <a href="%s">contact the store owner</a>.</p>';
+$_['text_message']  = '<p>Felicitări! Noul tău cont a fost creat cu succes!</p> <p>Acum poti profita de privilegiile de membru pentru a-ți îmbunătăți experiența de cumpărături online cu noi.</p> <p>Dacă aveți ORICE întrebări despre funcționarea acestui magazin online, te rugăm să trimiți un e-mail către proprietarul magazinului.</p> <p>O confirmare a fost trimisă la adresa de e-mail furnizată. Dacă nu ai primit-o în decurs de o oră, te rugăm <a href="%s">să ne contactezi</a>.</p>';
+$_['text_approval'] = '<p>Îți mulțumim pentru înregistrarea cu %s!</p><p>Vei fi notificat prin e-mail de odata ce contul tău a fost activat de proprietarul magazinului.</p><p>Dacă ai ORICE întrebări despre funcționarea acestui magazin online, te rugăm <a href="%s">să contactezi proprietarul magazinului</a>.</p>';
 $_['text_account']  = 'Cont';
-$_['text_success']  = 'Success';
+$_['text_success']  = 'Succes';
