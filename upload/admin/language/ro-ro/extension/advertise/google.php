@@ -234,7 +234,7 @@ $_['text_usd_day']                          = 'USD / day';
 $_['text_video_tutorial_url_advertise']     = 'https://youtu.be/ZN7zz8raoVM?t=187';
 $_['text_video_tutorial_url_install']       = 'https://www.youtube.com/watch?v=AvkBLWAUojI';
 $_['text_video_tutorial_url_setup']         = 'https://www.youtube.com/watch?v=ZN7zz8raoVM';
-$_['text_view_issues']                      = 'View Issues';
+$_['text_view_issues']                      = 'Vezi Probleme';
 $_['text_yes']                              = 'Da';
 
 // Placeholders
@@ -258,7 +258,7 @@ $_['button_mapping']                        = 'Category Mapping';
 $_['button_proceed']                        = 'Proceed';
 $_['button_product_edit']                   = 'Edit Google Fields';
 $_['button_product_set']                    = 'Set Google Fields';
-$_['button_save']                           = 'Salvați';
+$_['button_save']                           = 'Salvează';
 $_['button_save_future']                    = 'Save &amp; Do Nothing';
 $_['button_save_modify']                    = 'Save &amp; Modify Current Products';
 $_['button_select_campaigns']               = 'Select Campaigns';
