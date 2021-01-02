@@ -99,7 +99,7 @@ $_['button_category_add']           = 'Adaugă Categorie';
 $_['button_order']                  = 'Vezi Comandă';
 $_['button_order_recurring']        = 'Vezi Comandă Recurentă';
 $_['button_buy']                    = 'Cumpără';
-$_['button_developer']              = 'Setare Dezvoltator'; 
+$_['button_developer']              = 'Setare Dezvoltator';
 
 // Tab
 $_['tab_affiliate']                 = 'Afiliat';
@@ -160,6 +160,7 @@ $_['error_curl']                    = 'CURL: Cod de Eroare(%s): %s';
 /* When doing translations only include the matching language code */
 
 // Summernote
+$_['summernote']                      = 'en-GB';
 //$_['summernote']                    = 'ar-AR';
 //$_['summernote']                    = 'bg-BG';
 //$_['summernote']                    = 'ca-ES';
@@ -201,7 +202,7 @@ $_['error_curl']                    = 'CURL: Cod de Eroare(%s): %s';
 //$_['summernote']                    = 'zh-TW';
 
 // Datepicker
-$_['datepicker']                    = 'en-gb';
+$_['datepicker']                      = 'en-gb';
 //$_['datepicker']                    = 'af';
 //$_['datepicker']                    = 'ar-dz';
 //$_['datepicker']                    = 'ar-kw';
