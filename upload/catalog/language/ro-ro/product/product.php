@@ -7,7 +7,7 @@ $_['text_model']               = 'Product Code:';
 $_['text_reward']              = 'Reward Points:';
 $_['text_points']              = 'Price in reward points:';
 $_['text_stock']               = 'Availability:';
-$_['text_instock']             = 'In Stock';
+$_['text_instock']             = 'În Stoc';
 $_['text_tax']                 = 'Ex Tax:';
 $_['text_discount']            = ' or more ';
 $_['text_option']              = 'Available Options';
@@ -33,7 +33,7 @@ $_['text_year']                = 'year';
 
 // Entry
 $_['entry_qty']                = 'Qty';
-$_['entry_name']               = 'Your Name';
+$_['entry_name']               = 'Numele Tău';
 $_['entry_review']             = 'Your Review';
 $_['entry_rating']             = 'Evaluare';
 $_['entry_good']               = 'Good';
