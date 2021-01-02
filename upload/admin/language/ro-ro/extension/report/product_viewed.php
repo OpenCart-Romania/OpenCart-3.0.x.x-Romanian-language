@@ -10,7 +10,7 @@ $_['text_success']     = 'Success: You have reset the products viewed report!';
 // Column
 $_['column_name']      = 'Nume Produs';
 $_['column_model']     = 'Model';
-$_['column_viewed']    = 'Viewed';
+$_['column_viewed']    = 'Văzut';
 $_['column_percent']   = 'Percent';
 
 // Entry
