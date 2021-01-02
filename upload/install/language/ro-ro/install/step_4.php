@@ -20,7 +20,7 @@ $_['text_commercial']             = 'Commercial support';
 $_['text_commercial_description'] = 'Development services from OpenCart partners';
 $_['text_commercial_visit']       = 'Visit our partner page';
 $_['text_price']                  = 'Preț';
-$_['text_view']                   = 'View details';
+$_['text_view']                   = 'Vezi detalii';
 $_['text_download']               = 'Descărcare';
 $_['text_downloads']              = 'Descărcări';
 
