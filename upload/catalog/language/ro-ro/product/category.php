@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_refine']       = 'Îmbunătățiți Căutare';
+$_['text_refine']       = 'Îmbunătățește Căutare';
 $_['text_product']      = 'Produse';
 $_['text_error']        = 'Category not found!';
 $_['text_empty']        = 'There are no products to list in this category.';
