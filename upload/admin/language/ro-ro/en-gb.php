@@ -160,7 +160,7 @@ $_['error_curl']                    = 'CURL: Cod de Eroare(%s): %s';
 /* When doing translations only include the matching language code */
 
 // Summernote
-$_['summernote']                      = 'en-GB';
+$_['summernote']                      = 'ro-RO';
 //$_['summernote']                    = 'ar-AR';
 //$_['summernote']                    = 'bg-BG';
 //$_['summernote']                    = 'ca-ES';
@@ -202,7 +202,7 @@ $_['summernote']                      = 'en-GB';
 //$_['summernote']                    = 'zh-TW';
 
 // Datepicker
-$_['datepicker']                      = 'en-gb';
+$_['datepicker']                      = 'ro';
 //$_['datepicker']                    = 'af';
 //$_['datepicker']                    = 'ar-dz';
 //$_['datepicker']                    = 'ar-kw';
