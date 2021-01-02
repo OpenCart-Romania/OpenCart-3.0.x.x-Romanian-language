@@ -5,7 +5,7 @@ $_['heading_title']    = 'Modules';
 // Text
 $_['text_success']     = 'Succes: Ai modificat modulele!';
 $_['text_layout']      = 'After you have installed and configured a module you can add it to a layout <a href="%s" class="alert-link">here</a>!';
-$_['text_add']         = 'Adăugați Modul';
+$_['text_add']         = 'Adaugă Modul';
 $_['text_list']        = 'Module List';
 
 // Column
