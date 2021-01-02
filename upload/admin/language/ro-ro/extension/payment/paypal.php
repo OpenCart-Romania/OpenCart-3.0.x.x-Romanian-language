@@ -76,7 +76,7 @@ $_['text_3ds_bypassed']					= '3D Secure was skipped as authentication system di
 $_['text_3ds_attempted']				= 'Card is not enrolled in 3D Secure as card issuing bank is not participating in 3D Secure.';
 $_['text_3ds_unavailable']				= 'Issuing bank is not able to complete authentication.';
 $_['text_3ds_card_ineligible'] 			= 'Card is not eligible for 3DS Secure authentication.';
-$_['text_confirm']						= 'Sunteţi sigur?';
+$_['text_confirm']						= 'Ești sigur?';
 
 // Entry
 $_['entry_connect']	 					= 'Connect';
