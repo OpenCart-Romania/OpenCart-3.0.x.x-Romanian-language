@@ -1,32 +1,32 @@
 <?php
 // Heading
-$_['heading_title']    = 'Purchase a Gift Certificate';
+$_['heading_title']    = 'Cumpără un Voucher Cadou';
 
 // Text
 $_['text_account']     = 'Cont';
-$_['text_voucher']     = 'Gift Certificate';
-$_['text_description'] = 'This gift certificate will be emailed to the recipient after your order has been paid for.';
-$_['text_agree']       = 'I understand that gift certificates are non-refundable.';
-$_['text_message']     = '<p>Thank you for purchasing a gift certificate! Once you have completed your order your gift certificate recipient will be sent an e-mail with details how to redeem their gift certificate.</p>';
-$_['text_for']         = '%s Gift Certificate for %s';
+$_['text_voucher']     = 'Voucher Cadou';
+$_['text_description'] = 'Acest voucher cadou va fi trimis prin e-mail beneficiarului după ce comanda ta a fost plătită.';
+$_['text_agree']       = 'Am înțeles că voucherele cadou sunt nerambursabile.';
+$_['text_message']     = '<p>Îți mulțumim că ai cumpărat un voucher cadou! Odata ce ai finalizat comanda, beneficiarului voucherului tău cadou îi va fi trimis un e-mail cu detalii despre cum să își răscumpere voucherul cadou.</p>';
+$_['text_for']         = '%s Voucher Cadou pentru %s';
 
 // Entry
-$_['entry_to_name']    = 'Recipient\'s Name';
-$_['entry_to_email']   = 'Recipient\'s e-mail';
-$_['entry_from_name']  = 'Your Name';
-$_['entry_from_email'] = 'Your e-mail';
-$_['entry_theme']      = 'Gift Certificate Theme';
-$_['entry_message']    = 'Message';
-$_['entry_amount']     = 'Amount';
+$_['entry_to_name']    = 'Nume Beneficiar';
+$_['entry_to_email']   = 'E-mail-ul beneficiarului';
+$_['entry_from_name']  = 'Numele Tău';
+$_['entry_from_email'] = 'E-mail-ul tău';
+$_['entry_theme']      = 'Temă Voucher Cadou';
+$_['entry_message']    = 'Mesaj';
+$_['entry_amount']     = 'Sumă';
 
 // Help
-$_['help_message']     = 'Optional';
-$_['help_amount']      = 'Value must be between %s and %s';
+$_['help_message']     = 'Opţional';
+$_['help_amount']      = 'Valoarea trebuie să fie între %s și %s';
 
 // Error
-$_['error_to_name']    = 'Recipient\'s Name must be between 1 and 64 characters!';
-$_['error_from_name']  = 'Your Name must be between 1 and 64 characters!';
+$_['error_to_name']    = 'Nume Beneficiar trebuie să fie între 1 și 64 de caractere!';
+$_['error_from_name']  = 'Numele Tău trebuie să fie între 1 și 64 de caractere!';
 $_['error_email']      = 'Adresa E-Mail nu pare să fie validă!';
-$_['error_theme']      = 'You must select a theme!';
-$_['error_amount']     = 'Amount must be between %s and %s!';
-$_['error_agree']      = 'Warning: You must agree that the gift certificates are non-refundable!';
+$_['error_theme']      = 'Trebuie să selectezi o temă!';
+$_['error_amount']     = 'Suma trebuie să fie între %s și %s!';
+$_['error_agree']      = 'Atenție: Trebuie să fii de acord că voucherele cadou sunt nerambursabile!';
