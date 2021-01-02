@@ -8,7 +8,7 @@ $_['text_date_search']		   = 'Search by date';
 $_['text_searching']		   = 'Searching';
 $_['text_name']				   = 'Nume';
 $_['text_buyer_info']		   = 'Buyer information';
-$_['text_view']				   = 'Vizualizare';
+$_['text_view']				   = 'Vezi';
 $_['text_format']			   = 'Format';
 
 // Column
