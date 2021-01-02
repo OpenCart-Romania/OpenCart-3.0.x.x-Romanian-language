@@ -34,7 +34,7 @@ $_['text_client_id_placeholder']                        = 'Square Application ID
 $_['text_client_secret_help']                           = 'Get this from the Manage Application page on Square';
 $_['text_client_secret_label']                          = 'OAuth Application Secret';
 $_['text_client_secret_placeholder']                    = 'OAuth Application Secret';
-$_['text_confirm_action']                               = 'Sunteţi sigur?';
+$_['text_confirm_action']                               = 'Ești sigur?';
 $_['text_confirm_cancel']                               = 'Are you sure you want to cancel the recurring payments?';
 $_['text_confirm_capture']                              = 'You are about to capture the following amount: <strong>%s</strong>. Click OK to proceed.';
 $_['text_confirm_refund']                               = 'Please provide a reason for the refund:';
@@ -121,7 +121,7 @@ $_['text_token_expired']                                = 'Your Square access to
 $_['text_token_expiry_warning']                         = 'Your Square access token will expire on %s. <a href="%s">Click here</a> to renew it now.';
 $_['text_token_revoked']                                = 'Your Square access token has expired or has been revoked! <a href="%s">Click here</a> to re-authorize the Square extension.';
 $_['text_transaction_statuses']                         = 'Transaction Statuses';
-$_['text_view']                                         = 'View More';
+$_['text_view']                                         = 'Vezi mai mult';
 $_['text_void']                                         = 'Void';
 $_['text_na']                                           = 'N/A';
 $_['text_no_reason_provided']                           = 'Reason not provided.';
