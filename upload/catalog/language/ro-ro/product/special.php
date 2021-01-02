@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Special Offers';
+$_['heading_title']     = 'Oferte Speciale';
 
 // Text
 $_['text_empty']        = 'There are no special offer products to list.';
