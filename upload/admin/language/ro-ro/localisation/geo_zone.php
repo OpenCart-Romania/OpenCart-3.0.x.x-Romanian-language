@@ -5,7 +5,7 @@ $_['heading_title']      = 'Zone Geografice';
 // Text
 $_['text_success']       = 'Success: You have modified geo zones!';
 $_['text_list']          = 'Geo Zone List';
-$_['text_add']           = 'Adăugați Zonă Geografică';
+$_['text_add']           = 'Adaugă Zonă Geografică';
 $_['text_edit']          = 'Edit Geo Zone';
 $_['text_geo_zone']      = 'Zone Geografice';
 
