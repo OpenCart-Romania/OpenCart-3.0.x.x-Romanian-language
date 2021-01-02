@@ -5,7 +5,7 @@ $_['direction']                     = 'ltr';
 $_['date_format_short']             = 'd/m/Y';
 $_['date_format_long']              = 'l d F Y';
 $_['time_format']                   = 'H:i:s';
-$_['datetime_format']               = 'd/m/Y H:i';
+$_['datetime_format']               = 'd/m/Y, H:i';
 $_['decimal_point']                 = '.';
 $_['thousand_point']                = ',';
 
@@ -15,7 +15,7 @@ $_['text_no']                       = 'Nu';
 $_['text_enabled']                  = 'Activat';
 $_['text_disabled']                 = 'Dezactivat';
 $_['text_none']                     = ' --- Nimic --- ';
-$_['text_select']                   = ' --- Selectați --- ';
+$_['text_select']                   = ' --- Selectează --- ';
 $_['text_select_all']               = 'Selectează Tot';
 $_['text_unselect_all']             = 'Deselectează Tot';
 $_['text_all_zones']                = 'Toate Zonele';
@@ -99,7 +99,7 @@ $_['button_category_add']           = 'Adăugați Categorie';
 $_['button_order']                  = 'Vizualizați Comanda';
 $_['button_order_recurring']        = 'Vizualizați Comanda Recurenta';
 $_['button_buy']                    = 'Cumpără';
-$_['button_developer']              = 'Setări Dezvoltator'; 
+$_['button_developer']              = 'Setări Dezvoltator';
 
 // Tab
 $_['tab_affiliate']                 = 'Afiliat';
@@ -160,6 +160,7 @@ $_['error_curl']                    = 'CURL: Cod de Eroare(%s): %s';
 /* When doing translations only include the matching language code */
 
 // Summernote
+$_['summernote']                      = 'ro-RO';
 //$_['summernote']                    = 'ar-AR';
 //$_['summernote']                    = 'bg-BG';
 //$_['summernote']                    = 'ca-ES';
@@ -201,7 +202,7 @@ $_['error_curl']                    = 'CURL: Cod de Eroare(%s): %s';
 //$_['summernote']                    = 'zh-TW';
 
 // Datepicker
-$_['datepicker']                    = 'ro-ro';
+$_['datepicker']                      = 'ro';
 //$_['datepicker']                    = 'af';
 //$_['datepicker']                    = 'ar-dz';
 //$_['datepicker']                    = 'ar-kw';
