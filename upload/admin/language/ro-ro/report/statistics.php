@@ -11,7 +11,7 @@ $_['text_order_complete']   = 'Orders Complete';
 $_['text_order_other']      = 'Orders Other';
 $_['text_returns']          = 'Returnări';
 $_['text_customer']         = 'Customers Waiting for Approval';
-$_['text_affiliate']        = 'Affiliates Waiting for Approval';
+$_['text_affiliate']        = 'Afiliați Așteaptă Aprobarea';
 $_['text_product']          = 'Out of stock products';
 $_['text_review']           = 'Recenzii în Așteptare';
 
