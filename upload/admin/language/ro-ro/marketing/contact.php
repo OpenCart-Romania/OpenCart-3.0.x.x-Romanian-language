@@ -11,8 +11,8 @@ $_['text_newsletter']      = 'All Newsletter Subscribers';
 $_['text_customer_all']    = 'All Customers';
 $_['text_customer_group']  = 'Grup Clienți';
 $_['text_customer']        = 'Clienţi';
-$_['text_affiliate_all']   = 'All Affiliates';
-$_['text_affiliate']       = 'Affiliates';
+$_['text_affiliate_all']   = 'Toți Afiliații';
+$_['text_affiliate']       = 'Afiliați';
 $_['text_product']         = 'Produse';
 
 // Entry
@@ -20,7 +20,7 @@ $_['entry_store']          = 'From';
 $_['entry_to']             = 'To';
 $_['entry_customer_group'] = 'Grup Clienți';
 $_['entry_customer']       = 'Customer';
-$_['entry_affiliate']      = 'Affiliate';
+$_['entry_affiliate']      = 'Afiliat';
 $_['entry_product']        = 'Produse';
 $_['entry_subject']        = 'Subject';
 $_['entry_message']        = 'Message';
