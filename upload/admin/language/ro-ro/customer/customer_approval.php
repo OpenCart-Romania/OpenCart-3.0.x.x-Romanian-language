@@ -7,7 +7,7 @@ $_['text_success']          = 'Succes: Ai modificat aprobările clienților!';
 $_['text_list']             = 'Customer Approval List';
 $_['text_default']          = 'Implicit';
 $_['text_customer']         = 'Customer';
-$_['text_affiliate']        = 'Affiliate';
+$_['text_affiliate']        = 'Afiliat';
 
 // Column
 $_['column_name']           = 'Customer Name';
