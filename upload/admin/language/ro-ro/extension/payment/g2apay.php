@@ -12,8 +12,8 @@ $_['text_refund_status']		 	  = 'Payment refund';
 $_['text_order_ref']			 	  = 'Order ref';
 $_['text_order_total']			 	  = 'Total authorised';
 $_['text_total_released']		 	  = 'Total released';
-$_['text_transactions']			 	  = 'Transactions';
-$_['text_column_amount']		 	  = 'Amount';
+$_['text_transactions']			 	  = 'Tranzacții';
+$_['text_column_amount']		 	  = 'Valoare';
 $_['text_column_type']			 	  = 'Tip';
 $_['text_column_date_added']	 	  = 'Added';
 $_['text_refund_ok']			 	  = 'Refund was successfully requested';
@@ -31,7 +31,7 @@ $_['entry_geo_zone']			 	  = 'Geo Zone';
 $_['entry_status']				 	  = 'Stare';
 $_['entry_sort_order']			 	  = 'Ordinea de Sortare';
 $_['entry_debug']				 	  = 'Debug logging';
-$_['entry_order_status']			  = 'Order Status';
+$_['entry_order_status']			  = 'Stare Comandă';
 $_['entry_complete_status']			  = 'Complete Status:';
 $_['entry_rejected_status']			  = 'Rejected Status:';
 $_['entry_cancelled_status']		  = 'Canceled Status:';
@@ -46,7 +46,7 @@ $_['help_debug']				 	  = 'Enabling debug will write sensitive data to a log fil
 
 // Tab
 $_['tab_settings']				 	  = 'Setări';
-$_['tab_order_status']				  = 'Order Status';
+$_['tab_order_status']				  = 'Stare Comandă';
 
 // Error
 $_['error_permission']			 	  = 'Warning: You do not have permission to modify G2APay!';
