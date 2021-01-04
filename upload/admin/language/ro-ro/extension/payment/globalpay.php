@@ -36,8 +36,8 @@ $_['text_rebate_status']			 = 'Payment rebated';
 $_['text_order_ref']				 = 'Order ref';
 $_['text_order_total']				 = 'Total authorised';
 $_['text_total_captured']			 = 'Total captured';
-$_['text_transactions']				 = 'Transactions';
-$_['text_column_amount']			 = 'Amount';
+$_['text_transactions']				 = 'Tranzacții';
+$_['text_column_amount']			 = 'Valoare';
 $_['text_column_type']				 = 'Tip';
 $_['text_column_date_added']		 = 'Created';
 $_['text_confirm_void']				 = 'Are you sure you want to void the payment?';
@@ -50,7 +50,7 @@ $_['entry_merchant_id']				 = 'Merchant ID';
 $_['entry_secret']					 = 'Shared secret';
 $_['entry_rebate_password']			 = 'Rebate password';
 $_['entry_total']					 = 'Total';
-$_['entry_sort_order']				 = 'Ordinea de Sortare';
+$_['entry_sort_order']				 = 'Ordinea de sortare';
 $_['entry_geo_zone']				 = 'Geo zone';
 $_['entry_status']					 = 'Stare';
 $_['entry_debug']					 = 'Debug logging';
@@ -79,8 +79,8 @@ $_['help_dcc_settle']				 = 'If your subaccount is DCC enabled you must use Auto
 
 // Tab
 $_['tab_api']					     = 'API Details';
-$_['tab_account']		     		 = 'Accounts';
-$_['tab_order_status']				 = 'Order status';
+$_['tab_account']		     		 = 'Conturi';
+$_['tab_order_status']				 = 'Stare comandă';
 $_['tab_payment']					 = 'Payment settings';
 $_['tab_advanced']					 = 'Advanced';
 
