@@ -3,7 +3,7 @@
 $_['heading_title']                  = 'Checkout';
 
 // Text
-$_['text_cart']                      = 'Shopping Cart';
+$_['text_cart']                      = 'Coș de Cumpărături';
 $_['text_checkout_option']           = 'Step %s: Checkout Options';
 $_['text_checkout_account']          = 'Step %s: Account &amp; Billing Details';
 $_['text_checkout_payment_address']  = 'Step %s: Billing Details';
@@ -29,22 +29,22 @@ $_['text_address_existing']          = 'I want to use an existing address';
 $_['text_shipping_method']           = 'Please select the preferred shipping method to use on this order.';
 $_['text_payment_method']            = 'Please select the preferred payment method to use on this order.';
 $_['text_comments']                  = 'Add Comments About Your Order';
-$_['text_recurring_item']            = 'Recurring Item';
+$_['text_recurring_item']            = 'Articol Recurent';
 $_['text_payment_recurring']         = 'Profil Plată';
 $_['text_trial_description']         = '%s every %d %s(s) for %d payment(s) then';
 $_['text_payment_description']       = '%s every %d %s(s) for %d payment(s)';
 $_['text_payment_cancel']            = '%s every %d %s(s) until canceled';
-$_['text_day']                       = 'day';
-$_['text_week']                      = 'week';
-$_['text_semi_month']                = 'half-month';
-$_['text_month']                     = 'month';
-$_['text_year']                      = 'year';
+$_['text_day']                       = 'zi';
+$_['text_week']                      = 'săptămână';
+$_['text_semi_month']                = 'jumătate de lună';
+$_['text_month']                     = 'lună';
+$_['text_year']                      = 'an';
 
 // Column
 $_['column_name']                    = 'Nume Produs';
 $_['column_model']                   = 'Model';
 $_['column_quantity']                = 'Cantitate';
-$_['column_price']                   = 'Unit Price';
+$_['column_price']                   = 'Preț Unitar';
 $_['column_total']                   = 'Total';
 
 // Entry
@@ -54,15 +54,15 @@ $_['entry_password']                 = 'Parolă';
 $_['entry_confirm']                  = 'Confirmă Parola';
 $_['entry_firstname']                = 'Prenume';
 $_['entry_lastname']                 = 'Nume de Familie';
-$_['entry_telephone']                = 'Telephone';
-$_['entry_address']                  = 'Choose Address';
-$_['entry_company']                  = 'Company';
+$_['entry_telephone']                = 'Telefon';
+$_['entry_address']                  = 'Alege Adresa';
+$_['entry_company']                  = 'Companie';
 $_['entry_customer_group']           = 'Grup Clienți';
 $_['entry_address_1']                = 'Adresă 1';
 $_['entry_address_2']                = 'Adresă 2';
-$_['entry_postcode']                 = 'Post Code';
-$_['entry_city']                     = 'City';
-$_['entry_country']                  = 'Country';
+$_['entry_postcode']                 = 'Cod Poștal';
+$_['entry_city']                     = 'Oraș';
+$_['entry_country']                  = 'Țară';
 $_['entry_zone']                     = 'Regiune / Judeţ';
 $_['entry_newsletter']               = 'I wish to subscribe to the %s newsletter.';
 $_['entry_shipping']                 = 'My delivery and billing addresses are the same.';
@@ -76,13 +76,13 @@ $_['error_exists']                   = 'Atenție: Adresa E-Mail este deja înreg
 $_['error_firstname']                = 'Prenumele trebuie să fie între 1 și 32 de caractere!';
 $_['error_lastname']                 = 'Numele de Familie trebuie să fie între 1 și 32 de caractere!';
 $_['error_email']                    = 'Adresa E-Mail nu pare să fie validă!';
-$_['error_telephone']                = 'Telephone must be between 3 and 32 characters!';
+$_['error_telephone']                = 'Telefon trebuie să fie între 3 și 32 de caractere!';
 $_['error_password']                 = 'Parola trebuie să fie între 4 și 20 de caractere!';
 $_['error_confirm']                  = 'Confirmarea parolei nu se potrivește cu parola!';
-$_['error_address_1']                = 'Address 1 must be between 3 and 128 characters!';
-$_['error_city']                     = 'City must be between 2 and 128 characters!';
+$_['error_address_1']                = 'Adresa 1 trebuie să fie între 3 și 128 de caractere!';
+$_['error_city']                     = 'Oraș trebuie să fie între 2 și 128 de caractere!';
 $_['error_postcode']                 = 'Cod postal trebuie să fie între 2 și 10 de caractere!';
-$_['error_country']                  = 'Please select a country!';
+$_['error_country']                  = 'Te rugăm selectează o țară!';
 $_['error_zone']                     = 'Te rugăm selectează o Regiune / un Județ!';
 $_['error_agree']                    = 'Atenție: Trebuie să fii de acord cu %s!';
 $_['error_address']                  = 'Warning: You must select address!';
@@ -90,4 +90,4 @@ $_['error_shipping']                 = 'Warning: Shipping method required!';
 $_['error_no_shipping']              = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
 $_['error_payment']                  = 'Warning: Payment method required!';
 $_['error_no_payment']               = 'Warning: No Payment options are available. Please <a href="%s">contact us</a> for assistance!';
-$_['error_custom_field']             = '%s required!';
+$_['error_custom_field']             = '%s necesar!';
