@@ -33,7 +33,7 @@ $_['entry_sort_order']      = 'Ordinea de Sortare';
 // Column
 $_['column_name']           = 'Nume';
 $_['column_sort_order']     = 'Ordinea de Sortare';
-$_['column_action']         = 'Acţiune';
+$_['column_action']         = 'Acțiune';
 
 // Error
 $_['error_warning']         = 'Atenție: Te rugăm să verifici cu atenție formularul pentru erori!';
