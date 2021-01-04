@@ -17,7 +17,7 @@ $_['text_eway_image']	        = '<a target="_blank" href="https://myeway.force.c
 // Entry
 $_['entry_paymode']				= 'Payment Mode';
 $_['entry_test']				= 'Test mode';
-$_['entry_order_status']		= 'Order status';
+$_['entry_order_status']		= 'Stare comandă';
 $_['entry_order_status_refund'] = 'Refunded order status';
 $_['entry_order_status_auth']	= 'Authorised order status';
 $_['entry_order_status_fraud']	= 'Suspected Fraud order status';
@@ -26,7 +26,7 @@ $_['entry_username']			= 'eWAY API Key';
 $_['entry_password']			= 'eWAY password';
 $_['entry_payment_type']		= 'Payment Type';
 $_['entry_geo_zone']			= 'Geo Zone';
-$_['entry_sort_order']			= 'Ordinea de Sortare';
+$_['entry_sort_order']			= 'Ordinea de sortare';
 $_['entry_transaction_method']	= 'Transaction Method';
 
 // Error
@@ -44,9 +44,9 @@ $_['help_transaction_method']	= 'Authorisation is only available for Australian 
 // Order page - payment tab
 $_['text_payment_info']			= 'Payment information';
 $_['text_order_total']			= 'Total authorised';
-$_['text_transactions']			= 'Transactions';
+$_['text_transactions']			= 'Tranzacții';
 $_['text_column_transactionid'] = 'eWAY Transaction ID';
-$_['text_column_amount']		= 'Amount';
+$_['text_column_amount']		= 'Valoare';
 $_['text_column_type']			= 'Tip';
 $_['text_column_created']		= 'Created';
 $_['text_total_captured']		= 'Total captured';
@@ -90,7 +90,7 @@ $_['text_card_message_V6032'] 	= 'Invalid CVN';
 $_['text_card_message_V6033'] 	= 'Invalid Expiry Date';
 $_['text_card_message_V6034'] 	= 'Invalid Issue Number';
 $_['text_card_message_V6035'] 	= 'Invalid Start Date';
-$_['text_card_message_V6036'] 	= 'Invalid Month';
+$_['text_card_message_V6036'] 	= 'Lună invalidă';
 $_['text_card_message_V6037'] 	= 'Invalid Year';
 $_['text_card_message_V6040'] 	= 'Invalid Token Customer Id';
 $_['text_card_message_V6041'] 	= 'Customer Required';
