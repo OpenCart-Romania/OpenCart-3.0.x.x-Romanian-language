@@ -3,8 +3,8 @@
 $_['heading_title']     = 'Rapoarte';
 
 // Text
-$_['text_success']      = 'Success: You have modified reports!';
-$_['text_list']         = 'Reports List';
+$_['text_success']      = 'Succes: Ai modificat rapoartele!';
+$_['text_list']         = 'Listă Rapoarte';
 
 // Column
 $_['column_name']       = 'Report Name';
@@ -13,4 +13,4 @@ $_['column_sort_order'] = 'Ordinea de Sortare';
 $_['column_action']     = 'Acțiune';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify reports!';
+$_['error_permission']  = 'Atenție: Nu ai permisiunea de a modifica rapoartele!';
