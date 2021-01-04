@@ -5,9 +5,9 @@ $_['heading_title']		 				= 'PayPal Commerce Platform';
 // Text
 $_['text_paypal']		 				= '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Commerce Platform" title="PayPal Commerce Platform" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_extensions']     				= 'Extensii';
-$_['text_edit']          				= 'Edit PayPal';
+$_['text_edit']          				= 'Editează PayPal';
 $_['text_general']				 	 	= 'General';
-$_['text_order_status']				 	= 'Order Status';
+$_['text_order_status']				 	= 'Stare Comandă';
 $_['text_checkout_express']				= 'Checkout';
 $_['text_checkout_card']				= 'Advanced Card';
 $_['text_production']			 	 	= 'Production';
