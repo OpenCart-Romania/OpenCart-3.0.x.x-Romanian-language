@@ -142,7 +142,7 @@ $_['tab_marketing']                 = 'Marketing';
 $_['tab_online']                    = 'Oameni Online';
 $_['tab_activity']                  = 'Activitate Recentă';
 $_['tab_recurring']                 = 'Recurent';
-$_['tab_action']                    = 'Acţiune';
+$_['tab_action']                    = 'Acțiune';
 $_['tab_google']                    = 'Google';
 
 // Error
