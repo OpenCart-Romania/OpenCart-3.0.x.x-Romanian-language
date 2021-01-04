@@ -9,13 +9,13 @@ $_['text_add']          = 'Adaugă Producător';
 $_['text_edit']         = 'Editează Producător';
 $_['text_default']      = 'Implicit';
 $_['text_percent']      = 'Procentaj';
-$_['text_amount']       = 'Cantitate Fixă';
+$_['text_amount']       = 'Valoare Fixă';
 $_['text_keyword']      = 'Nu utiliza spații, în schimb înlocuieste spațiile cu - și asigură-te că SEO URL este unic global.';
 
 // Column
 $_['column_name']       = 'Nume Producător';
 $_['column_sort_order'] = 'Ordinea de Sortare';
-$_['column_action']     = 'Acţiune';
+$_['column_action']     = 'Acțiune';
 
 // Entry
 $_['entry_name']        = 'Nume Producător';
