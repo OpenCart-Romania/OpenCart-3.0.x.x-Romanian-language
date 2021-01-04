@@ -14,7 +14,7 @@ $_['column_code']       = 'Code';
 $_['column_from']       = 'From';
 $_['column_to']         = 'To';
 $_['column_theme']      = 'Temă';
-$_['column_amount']     = 'Amount';
+$_['column_amount']     = 'Valoare';
 $_['column_status']     = 'Stare';
 $_['column_order_id']   = 'ID Comandă';
 $_['column_customer']   = 'Customer';
@@ -29,7 +29,7 @@ $_['entry_to_name']     = 'To Name';
 $_['entry_to_email']    = 'To E-Mail';
 $_['entry_theme']       = 'Temă';
 $_['entry_message']     = 'Message';
-$_['entry_amount']      = 'Amount';
+$_['entry_amount']      = 'Valoare';
 $_['entry_status']      = 'Stare';
 
 // Help
