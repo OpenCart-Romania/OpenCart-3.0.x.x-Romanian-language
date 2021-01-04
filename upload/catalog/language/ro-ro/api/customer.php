@@ -8,5 +8,5 @@ $_['error_customer']     = 'You must select a customer!';
 $_['error_firstname']    = 'Prenumele trebuie să fie între 1 și 32 de caractere!';
 $_['error_lastname']     = 'Numele de Familie trebuie să fie între 1 și 32 de caractere!';
 $_['error_email']        = 'Adresa E-Mail nu pare să fie validă!';
-$_['error_telephone']    = 'Telephone must be between 3 and 32 characters!';
-$_['error_custom_field'] = '%s required!';
+$_['error_telephone']    = 'Telefon trebuie să fie între 3 și 32 de caractere!';
+$_['error_custom_field'] = '%s necesar!';
