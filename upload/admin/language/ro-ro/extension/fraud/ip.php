@@ -18,7 +18,7 @@ $_['column_action']      = 'Acțiune';
 // Entry
 $_['entry_ip']           = 'IP';
 $_['entry_status']       = 'Stare';
-$_['entry_order_status'] = 'Order Status';
+$_['entry_order_status'] = 'Stare Comandă';
 
 // Help
 $_['help_order_status']  = 'Customers that have a banned IP on their accounts will be assigned this order status and will not be allowed to reach the complete status automatically.';
