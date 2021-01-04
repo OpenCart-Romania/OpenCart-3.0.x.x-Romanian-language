@@ -7,10 +7,10 @@ $_['text_extension']    = 'Extensii';
 $_['text_edit']         = 'Edit Sales Report';
 $_['text_success']      = 'Success: You have modified sales report!';
 $_['text_filter']       = 'Filtru';
-$_['text_year']         = 'Years';
-$_['text_month']        = 'Months';
-$_['text_week']         = 'Weeks';
-$_['text_day']          = 'Days';
+$_['text_year']         = 'Ani';
+$_['text_month']        = 'Luni';
+$_['text_week']         = 'Săptămâni';
+$_['text_day']          = 'Zile';
 $_['text_all_status']   = 'All Statuses';
 
 // Column
@@ -25,7 +25,7 @@ $_['column_total']      = 'Total';
 $_['entry_date_start']  = 'Dată de Început';
 $_['entry_date_end']    = 'Dată de Sfârșit';
 $_['entry_group']       = 'Group By';
-$_['entry_status']      = 'Status';
+$_['entry_status']      = 'Stare Comandă';
 $_['entry_status']      = 'Stare';
 $_['entry_sort_order']  = 'Ordinea de Sortare';
 
