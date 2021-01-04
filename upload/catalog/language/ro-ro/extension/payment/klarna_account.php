@@ -11,7 +11,7 @@ $_['text_month']				= 'Lună';
 $_['text_day']					= 'Zi';
 $_['text_payment_option']		= 'Payment options';
 $_['text_single_payment']		= 'Single Payment';
-$_['text_monthly_payment']		= '%s - %s per month';
+$_['text_monthly_payment']		= '%s - %s pe lună';
 $_['text_comment']				= 'Klarna\'s Invoice ID: %s' . "\n" . '%s/%s: %.4f';
 
 // Entry
