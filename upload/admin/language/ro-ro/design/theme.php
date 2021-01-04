@@ -8,7 +8,7 @@ $_['text_edit']         = 'Edit Theme';
 $_['text_store']        = 'Choose your store';
 $_['text_template']     = 'Choose a template';
 $_['text_default']      = 'Implicit';
-$_['text_history']      = 'Theme History';
+$_['text_history']      = 'Istoric Temă';
 $_['text_twig']         = 'The theme editor uses the template language Twig. You can read about <a href="http://twig.sensiolabs.org/documentation" target="_blank" class="alert-link">Twig syntax here</a>.';
 
 // Column
