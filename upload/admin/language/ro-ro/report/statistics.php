@@ -17,7 +17,7 @@ $_['text_review']           = 'Recenzii în Așteptare';
 
 // Column
 $_['column_name']           = 'Statistics Name';
-$_['column_value']	        = 'Value';
+$_['column_value']	        = 'Valoare';
 $_['column_action']         = 'Acțiune';
 
 // Error
