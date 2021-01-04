@@ -1,13 +1,13 @@
 <?php
 // Heading
-$_['heading_title']     = 'Other';
+$_['heading_title']     = 'Altele';
 
 // Text
-$_['text_success']      = 'Success: You have modified other extension!';
-$_['text_list']         = 'Other List';
+$_['text_success']      = 'Succes: Ai modificat altă extensie!';
+$_['text_list']         = 'Altă Listă';
 
 // Column
-$_['column_name']       = 'Other';
+$_['column_name']       = 'Altele';
 $_['column_status']     = 'Stare';
 $_['column_action']     = 'Acțiune';
 
