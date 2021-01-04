@@ -27,13 +27,13 @@ $_['help_checkout_method']			 = 'Please use Redirect method if do not have SSL i
 // Column
 $_['column_transaction_id']			 = 'Transaction ID';
 $_['column_transaction_type']		 = 'Transaction Type';
-$_['column_amount']					 = 'Amount';
+$_['column_amount']					 = 'Valoare';
 $_['column_time']					 = 'Oră';
-$_['column_actions']				 = 'Actions';
+$_['column_actions']				 = 'Acțiuni';
 
 // Tab
 $_['tab_settings']					 = 'Setări';
-$_['tab_order_status']				 = 'Order Status';
+$_['tab_order_status']				 = 'Stare Comandă';
 $_['tab_checkout_customisation']	 = 'Checkout Customisation';
 
 // Entry
@@ -44,13 +44,13 @@ $_['entry_partner']					 = 'Partner';
 $_['entry_test']					 = 'Test Mode';
 $_['entry_transaction']				 = 'Transaction Method';
 $_['entry_total']					 = 'Total';
-$_['entry_order_status']			 = 'Order Status';
+$_['entry_order_status']			 = 'Stare Comandă';
 $_['entry_geo_zone']				 = 'Geo Zone';
 $_['entry_status']					 = 'Stare';
 $_['entry_sort_order']				 = 'Ordinea de Sortare';
 $_['entry_transaction_id']			 = 'Transaction ID';
 $_['entry_full_refund']				 = 'Full refund';
-$_['entry_amount']					 = 'Amount';
+$_['entry_amount']					 = 'Valoare';
 $_['entry_message']					 = 'Message';
 $_['entry_ipn_url']					 = 'IPN URL';
 $_['entry_checkout_method']			 = 'Checkout Method';
@@ -61,7 +61,7 @@ $_['entry_refund_amount']			 = 'Refund Amount';
 $_['entry_capture_status']			 = 'Capture Status';
 $_['entry_void']					 = 'Void';
 $_['entry_capture']					 = 'Capture';
-$_['entry_transactions']			 = 'Transactions';
+$_['entry_transactions']			 = 'Tranzacții';
 $_['entry_complete_capture']		 = 'Complete Capture';
 $_['entry_canceled_reversal_status'] = 'Canceled Reversal Status:';
 $_['entry_completed_status']		 = 'Completed Status:';
