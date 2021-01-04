@@ -14,7 +14,7 @@ $_['text_default']           = 'Implicit';
 $_['text_option']            = 'Opţiune';
 $_['text_option_value']      = 'Valoare Opțiune';
 $_['text_percent']           = 'Procentaj';
-$_['text_amount']            = 'Cantitate Fixă';
+$_['text_amount']            = 'Valoare Fixă';
 $_['text_keyword']           = 'Nu utiliza spații, în schimb înlocuieste spațiile cu - și asigură-te că SEO URL este unic global.';
 
 // Column
@@ -24,7 +24,7 @@ $_['column_image']           = 'Imagine';
 $_['column_price']           = 'Preț';
 $_['column_quantity']        = 'Cantitate';
 $_['column_status']          = 'Stare';
-$_['column_action']          = 'Acţiune';
+$_['column_action']          = 'Acțiune';
 
 // Entry
 $_['entry_name']             = 'Nume Produs';
@@ -91,7 +91,7 @@ $_['help_jan']               = 'Japanese Article Number';
 $_['help_isbn']              = 'International Standard Book Number';
 $_['help_mpn']               = 'Manufacturer Part Number';
 $_['help_manufacturer']      = '(Completare automată)';
-$_['help_minimum']           = 'Forțează o cantitate minimă comandată';
+$_['help_minimum']           = 'Forțează o valoare minimă comandată';
 $_['help_stock_status']      = 'Starea indicată atunci când un produs nu este în stoc';
 $_['help_points']            = 'Număr de puncte necesar pentru a cumpăra acest articol. Dacă nu doresti ca acest produs să fie cumpărat cu puncte, lasă 0.';
 $_['help_category']          = '(Completare automată)';
