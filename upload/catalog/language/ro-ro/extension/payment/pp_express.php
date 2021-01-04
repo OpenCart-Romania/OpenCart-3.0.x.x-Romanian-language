@@ -4,11 +4,11 @@ $_['express_text_title']      = 'Confirm order';
 
 // Text
 $_['text_title']              = 'PayPal Express Checkout';
-$_['text_cart']               = 'Shopping Cart';
+$_['text_cart']               = 'Coș de Cumpărături';
 $_['text_shipping_updated']   = 'Shipping service updated';
 $_['text_trial']              = '%s every %s %s for %s payments then ';
 $_['text_recurring']          = '%s every %s %s';
-$_['text_recurring_item']     = 'Recurring Item';
+$_['text_recurring_item']     = 'Articol Recurent';
 $_['text_length']             = ' for %s payments';
 
 // Entry
