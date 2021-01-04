@@ -31,7 +31,7 @@ $_['button_delete']         = 'Delete Selected Card';
 // Error
 $_['error_card_number']     = 'Card Number must be between 1 and 19 characters!';
 $_['error_card_type']       = 'Card Type is not a valid selection!';
-$_['error_card_cvv2']       = 'CVV2 must be between 1 and 4 characters!';
+$_['error_card_cvv2']       = 'CVV2 trebuie să fie între 1 și 4 de caractere!';
 $_['error_data_missing']    = 'Missing data!';
 $_['error_not_logged_in']   = 'Not logged in!';
 $_['error_no_order']        = 'No matching order!';
