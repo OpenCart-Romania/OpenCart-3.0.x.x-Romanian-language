@@ -16,7 +16,7 @@ $_['help_notify_recurring_fail']                        = 'Notify customers abou
 
 // Tab
 $_['tab_setting']                                       = 'Setări';
-$_['tab_transaction']                                   = 'Transactions';
+$_['tab_transaction']                                   = 'Tranzacții';
 $_['tab_cron']                                          = 'CRON';
 $_['tab_recurring']                                     = 'Recurring Payments';
 
@@ -142,7 +142,7 @@ $_['entry_order_id']                                    = 'ID Comandă';
 $_['entry_partner_solution_id']                         = 'Partner Solution ID';
 $_['entry_type']                                        = 'Transaction Type';
 $_['entry_currency']                                    = 'Currency';
-$_['entry_amount']                                      = 'Amount';
+$_['entry_amount']                                      = 'Valoare';
 $_['entry_browser']                                     = 'Customer User Agent';
 $_['entry_ip']                                          = 'Customer IP';
 $_['entry_date_created']                                = 'Date Created';
@@ -183,7 +183,7 @@ $_['column_order_id']                                   = 'ID Comandă';
 $_['column_customer']                                   = 'Customer';
 $_['column_status']                                     = 'Stare';
 $_['column_type']                                       = 'Tip';
-$_['column_amount']                                     = 'Amount';
+$_['column_amount']                                     = 'Valoare';
 $_['column_ip']                                         = 'IP';
 $_['column_date_created']                               = 'Date Created';
 $_['column_action']                                     = 'Acțiune';
