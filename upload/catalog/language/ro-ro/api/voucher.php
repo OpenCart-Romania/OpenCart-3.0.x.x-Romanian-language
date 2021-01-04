@@ -1,7 +1,7 @@
 <?php
 // Text
 $_['text_success']     = 'Success: Your gift voucher discount has been applied!';
-$_['text_cart']        = 'Success: You have modified your shopping cart!';
+$_['text_cart']        = 'Succes: Ți-ai modificat coșul de cumpărături!';
 $_['text_for']         = '%s Voucher Cadou pentru %s';
 
 // Error
