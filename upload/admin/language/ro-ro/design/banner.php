@@ -24,5 +24,5 @@ $_['entry_sort_order']  = 'Ordinea de Sortare';
 
 // Error
 $_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica bannerele!';
-$_['error_name']       = 'Banner Name must be between 3 and 64 characters!';
+$_['error_name']       = 'Nume Banner trebuie să fie între 3 și 64 de caractere!';
 $_['error_title']      = 'Banner Title must be between 2 and 64 characters!';
