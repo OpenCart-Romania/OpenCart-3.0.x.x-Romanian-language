@@ -9,7 +9,7 @@ $_['text_success']          = 'Success: You have modified customer reward points
 $_['text_filter']           = 'Filtru';
 
 // Column
-$_['column_customer']       = 'Customer Name';
+$_['column_customer']       = 'Nume Client';
 $_['column_email']          = 'E-Mail';
 $_['column_customer_group'] = 'Grup Clienți';
 $_['column_status']         = 'Stare';
