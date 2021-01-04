@@ -16,7 +16,7 @@ $_['text_pay_by_paypal']				= 'Pay by PayPal';
 $_['text_method_removed']				= 'Payment method has been removed';
 $_['text_method_not_removed']			= 'Unable to remove payment method';
 $_['text_authentication']				= 'Authentication';
-$_['text_cart']               			= 'Shopping Cart';
+$_['text_cart']               			= 'Coș de Cumpărături';
 $_['text_shipping_updated']   			= 'Shipping service updated';
 
 // Entry
@@ -29,7 +29,7 @@ $_['entry_remember_card_method']		= 'Remember card?';
 $_['entry_remember_paypal_method']		= 'Remember PayPal account?';
 $_['entry_card_placeholder']			= 'Card Number';
 $_['entry_month_placeholder']			= 'Month (MM)';
-$_['entry_year_placeholder']			= 'Year (YYYY)';
+$_['entry_year_placeholder']			= 'An (AAAA)';
 $_['entry_cvv_placeholder']				= 'CVV2';
 
 // Error
