@@ -32,7 +32,7 @@ $_['entry_sort_order']				 = 'Ordinea de Sortare';
 
 // Tab
 $_['tab_general']					 = 'General';
-$_['tab_order_status']       		 = 'Order Status';
+$_['tab_order_status']       		 = 'Stare Comandă';
 
 // Help
 $_['help_test']						 = 'Use the live or testing (sandbox) gateway server to process transactions?';
