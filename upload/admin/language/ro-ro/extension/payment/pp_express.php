@@ -63,7 +63,7 @@ $_['entry_incontext']				 = 'Disable In-Context Checkout';
 
 // Tab
 $_['tab_api']				         = 'API Details';
-$_['tab_order_status']				 = 'Order status';
+$_['tab_order_status']				 = 'Stare comandă';
 $_['tab_checkout']					 = 'Checkout';
 
 // Help
