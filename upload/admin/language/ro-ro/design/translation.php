@@ -16,7 +16,7 @@ $_['column_store']     = 'Magazin';
 $_['column_language']  = 'Language';
 $_['column_route']     = 'Route';
 $_['column_key']       = 'Key';
-$_['column_value']     = 'Value';
+$_['column_value']     = 'Valoare';
 $_['column_action']    = 'Acțiune';
 
 // Entry
@@ -25,7 +25,7 @@ $_['entry_language']   = 'Language';
 $_['entry_route']      = 'Route';
 $_['entry_key']        = 'Key';
 $_['entry_default']    = 'Implicit';
-$_['entry_value']      = 'Value';
+$_['entry_value']      = 'Valoare';
 
 // Error
 $_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica editorul de limbă!';
