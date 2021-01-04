@@ -10,7 +10,7 @@ $_['text_filter']           = 'Filtru';
 $_['text_all_status']       = 'All Statuses';
 
 // Column
-$_['column_customer']       = 'Customer Name';
+$_['column_customer']       = 'Nume Client';
 $_['column_email']          = 'E-Mail';
 $_['column_customer_group'] = 'Grup Clienți';
 $_['column_status']         = 'Stare';
@@ -23,7 +23,7 @@ $_['column_action']         = 'Acțiune';
 $_['entry_date_start']      = 'Dată de Început';
 $_['entry_date_end']        = 'Dată de Sfârșit';
 $_['entry_customer']        = 'Customer';
-$_['entry_status']          = 'Status';
+$_['entry_status']          = 'Stare Comandă';
 $_['entry_status']          = 'Stare';
 $_['entry_sort_order']      = 'Ordinea de Sortare';
 
