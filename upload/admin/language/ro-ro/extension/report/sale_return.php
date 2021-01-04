@@ -7,10 +7,10 @@ $_['text_extension']    = 'Extensii';
 $_['text_edit']         = 'Edit Returns Report';
 $_['text_success']      = 'Success: You have modified returns report!';
 $_['text_filter']       = 'Filtru';
-$_['text_year']         = 'Years';
-$_['text_month']        = 'Months';
-$_['text_week']         = 'Weeks';
-$_['text_day']          = 'Days';
+$_['text_year']         = 'Ani';
+$_['text_month']        = 'Luni';
+$_['text_week']         = 'Săptămâni';
+$_['text_day']          = 'Zile';
 $_['text_all_status']   = 'All Statuses';
 
 // Column
