@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Contul Tău de Afiliat A Fost Creat!';
 
 // Text
-$_['text_message']  = '<p>Congratulations! Your new account has been successfully created!</p> <p>You are now a member of %s affiliates.</p> <p>If you have ANY questions about the operation of this affiliate system, please e-mail the store owner.</p> <p>A confirmation has been sent to the provided e-mail address. If you have not received it within the hour, please <a href="%s">contact us</a>.</p>';
-$_['text_approval'] = '<p>Thank you for registering for an affiliate account with %s!</p><p>You will be notified by e-mail once your account has been activated by the store owner.</p><p>If you have ANY questions about the operation of this affiliate system, please <a href="%s">contact the store owner</a>.</p>';
+$_['text_message']  = '<p>Felicitări! Noul tău cont a fost creat cu succes!</p> <p>Acum ești membru al %s afiliați.</p> <p>Dacă ai ORICE întrebare despre funcționarea acestui sistem de afiliere, te rugăm să trimiți un e-mail proprietarului magazinului</p> <p>A fost trimisă o confirmare pe adresa de e-mail furnizată. Dacă nu ai primit-o în decurs de o oră, te rugăm <a href="%s">să ne contactezi</a>.</p>';
+$_['text_approval'] = '<p>Îți mulțumim pentru înregistrarea unui cont de afiliat cu %s!</p><p>Vei fi notificat prin e-mail odată ce contul tău a fost activat de proprietarul magazinului.</p><p>Dacă ai ORICE întrebare despre funcționarea acestui sistem afiliat, te rugăm <a href="%s">contactează proprietarul magazinului</a>.</p>';
 $_['text_account']  = 'Cont';
 $_['text_success']  = 'Succes';
