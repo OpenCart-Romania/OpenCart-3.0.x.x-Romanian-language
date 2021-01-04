@@ -10,11 +10,11 @@ $_['text_order_info']                  = 'Divido info';
 $_['text_success']                     = 'Success: You have modified the Divido module';
 $_['text_proposal_id']                 = 'Proposal ID';
 $_['text_application_id']              = 'Application ID';
-$_['text_deposit_amount']              = 'Deposit amount';
+$_['text_deposit_amount']              = 'Valoare depozit';
 
 // Entry
 $_['entry_order_status']               = 'Order status when approved';
-$_['entry_sort_order']                 = 'Ordinea de Sortare';
+$_['entry_sort_order']                 = 'Ordinea de sortare';
 $_['entry_status']                     = 'Stare';
 $_['entry_api_key']                    = 'API-key';
 $_['entry_title']                      = 'Title';
