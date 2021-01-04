@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']			   = 'Search Transactions';
+$_['heading_title']			   = 'Caută Tranzacții';
 
 // Text
 $_['text_pp_express']		   = 'PayPal Express Checkout';
@@ -19,7 +19,7 @@ $_['column_name']			   = 'Nume';
 $_['column_transid']		   = 'Transaction ID';
 $_['column_status']			   = 'Stare';
 $_['column_currency']		   = 'Currency';
-$_['column_amount']			   = 'Amount';
+$_['column_amount']			   = 'Valoare';
 $_['column_fee']			   = 'Fee';
 $_['column_netamt']		       = 'Net Amount';
 $_['column_action']		       = 'Acțiune';
@@ -39,10 +39,10 @@ $_['entry_trans_dividend']     = 'Dividend';
 $_['entry_trans_billpay']      = 'Bill Pay';
 $_['entry_trans_refund']       = 'Refund';
 $_['entry_trans_conv']         = 'Currency Conversion';
-$_['entry_trans_bal_trans']	   = 'Balance Transfer';
+$_['entry_trans_bal_trans']	   = 'Transfer Sold';
 $_['entry_trans_reversal']	   = 'Reversal';
 $_['entry_trans_shipping']	   = 'Shipping';
-$_['entry_trans_bal_affect']   = 'Balance Affecting';
+$_['entry_trans_bal_affect']   = 'Afectare Sold';
 $_['entry_trans_echeque']	   = 'E Check';
 $_['entry_date']			   = 'Dată';
 $_['entry_date_start']		   = 'Start';
@@ -58,7 +58,7 @@ $_['entry_receipt']			   = 'Receipt ID';
 $_['entry_transaction_id']	   = 'Transaction ID';
 $_['entry_invoice_no']		   = 'Invoice number';
 $_['entry_auction']			   = 'Auction item number';
-$_['entry_amount']			   = 'Amount';
+$_['entry_amount']			   = 'Valoare';
 $_['entry_recurring_id']	   = 'ID Profil Recurent';
 $_['entry_salutation']		   = 'Salutation';
 $_['entry_firstname']		   = 'First';
@@ -68,6 +68,6 @@ $_['entry_suffix']			   = 'Suffix';
 $_['entry_status_all']		   = 'All';
 $_['entry_status_pending']	   = 'Pending';
 $_['entry_status_processing']  = 'Processing';
-$_['entry_status_success']	   = 'Success';
+$_['entry_status_success']	   = 'Succes';
 $_['entry_status_denied']	   = 'Denied';
 $_['entry_status_reversed']	   = 'Reversed';
