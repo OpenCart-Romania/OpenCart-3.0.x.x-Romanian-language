@@ -8,7 +8,7 @@ $_['text_list']           = 'Coupon List';
 $_['text_add']            = 'Add Coupon';
 $_['text_edit']           = 'Edit Coupon';
 $_['text_percent']        = 'Procentaj';
-$_['text_amount']         = 'Cantitate Fixă';
+$_['text_amount']         = 'Valoare Fixă';
 $_['text_coupon']         = 'Coupon History';
 
 // Column
@@ -20,7 +20,7 @@ $_['column_date_end']     = 'Dată de Sfârșit';
 $_['column_status']       = 'Stare';
 $_['column_order_id']     = 'ID Comandă';
 $_['column_customer']     = 'Customer';
-$_['column_amount']       = 'Amount';
+$_['column_amount']       = 'Valoare';
 $_['column_date_added']   = 'Data Adăugării';
 $_['column_action']       = 'Acțiune';
 
@@ -53,5 +53,5 @@ $_['help_uses_customer']  = 'The maximum number of times the coupon can be used 
 // Error
 $_['error_permission']    = 'Warning: You do not have permission to modify coupons!';
 $_['error_exists']        = 'Warning: Coupon code is already in use!';
-$_['error_name']          = 'Coupon Name must be between 3 and 128 characters!';
+$_['error_name']          = 'Nume Cupon trebuie să fie între 3 și 128 de caractere!';
 $_['error_code']          = 'Code must be between 3 and 10 characters!';
