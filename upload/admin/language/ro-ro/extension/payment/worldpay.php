@@ -19,7 +19,7 @@ $_['text_void_ok']				         = 'Void was successful, order status updated to v
 $_['entry_service_key']			         = 'Service Key';
 $_['entry_client_key']			         = 'Client Key';
 $_['entry_total']				         = 'Total';
-$_['entry_order_status']		         = 'Order Status';
+$_['entry_order_status']		         = 'Stare Comandă';
 $_['entry_geo_zone']			         = 'Geo Zone';
 $_['entry_status']				         = 'Stare';
 $_['entry_sort_order']			         = 'Ordinea de Sortare';
@@ -52,7 +52,7 @@ $_['help_cron_job_url']			         = 'Set a cron job to call this URL';
 
 // Tab
 $_['tab_settings']				         = 'Setări';
-$_['tab_order_status']			         = 'Order Status';
+$_['tab_order_status']			         = 'Stare Comandă';
 
 // Error
 $_['error_permission']			         = 'Warning: You do not have permission to modify payment Worldpay!';
@@ -65,8 +65,8 @@ $_['text_refund_status']		         = 'Payment refund';
 $_['text_order_ref']			         = 'Order ref';
 $_['text_order_total']			         = 'Total authorised';
 $_['text_total_released']		         = 'Total released';
-$_['text_transactions']			         = 'Transactions';
-$_['text_column_amount']		         = 'Amount';
+$_['text_transactions']			         = 'Tranzacții';
+$_['text_column_amount']		         = 'Valoare';
 $_['text_column_type']			         = 'Tip';
 $_['text_column_date_added']	         = 'Added';
 
