@@ -10,7 +10,7 @@ $_['text_payment_plan']        = 'Payment Plan';
 $_['text_status']              = 'Stare:';
 $_['text_amount']              = 'Amount:';
 $_['text_downpayment_percent'] = 'Down Payment Percent:';
-$_['text_months']              = 'Months:';
+$_['text_months']              = 'Luni:';
 $_['text_downpayment_amount']  = 'Down Payment Amount:';
 $_['text_payment_amounts']     = 'Payment Amounts:';
 $_['text_first_payment_due']   = 'First Payment Due:';
@@ -20,7 +20,7 @@ $_['text_month']               = 'Lună';
 
 // Column
 $_['column_instalment']        = 'Instalment';
-$_['column_amount']            = 'Amount';
+$_['column_amount']            = 'Valoare';
 $_['column_date']              = 'Dată';
 $_['column_pp_trans_id']       = 'PayPal Transaction ID';
 $_['column_status']            = 'Stare';
