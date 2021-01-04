@@ -12,14 +12,14 @@ $_['text_iso']             = 'You can find a full list of ISO currency codes and
 // Column
 $_['column_title']         = 'Currency Title';
 $_['column_code']          = 'Code';
-$_['column_value']         = 'Value';
+$_['column_value']         = 'Valoare';
 $_['column_date_modified'] = 'Last Updated';
 $_['column_action']        = 'Acțiune';
 
 // Entry
 $_['entry_title']          = 'Currency Title';
 $_['entry_code']           = 'Code';
-$_['entry_value']          = 'Value';
+$_['entry_value']          = 'Valoare';
 $_['entry_symbol_left']    = 'Symbol Left';
 $_['entry_symbol_right']   = 'Symbol Right';
 $_['entry_decimal_place']  = 'Decimal Places';
