@@ -20,7 +20,7 @@ $_['text_confirm_void']				 = 'Are you sure you want to void this transaction?';
 $_['text_avs_response']				 = 'Street Address: %s, Postal Code: %s';
 $_['text_confirm_settle']			 = 'Are you sure you want to settle/capture';
 $_['text_confirm_refund']			 = 'Are you sure you want to refund';
-$_['text_success_action']			 = 'Success';
+$_['text_success_action']			 = 'Succes';
 $_['text_error_settle']				 = 'Error: %s';
 $_['text_error_generic']			 = 'Error: There was an error with your request.';
 $_['text_na']						 = 'N/A';
@@ -81,7 +81,7 @@ $_['column_transaction_history']	 = 'Transaction Status History';
 $_['column_date']					 = 'Dată';
 $_['column_refund_history']			 = 'Refund History';
 $_['column_action']					 = 'Acțiune';
-$_['column_amount']					 = 'Amount';
+$_['column_amount']					 = 'Valoare';
 $_['column_status']					 = 'Stare';
 $_['column_type']					 = 'Tip';
 $_['column_customer']				 = 'Customer';
@@ -156,19 +156,19 @@ $_['help_vault_cvv_3ds']			 	= 'This will require customers using a vaulted card
 $_['help_debug']					 	= 'Enabling debug will write sensitive data to a log file. You should always disable unless instructed otherwise';
 $_['help_total']					 	= 'The checkout total the order must reach before this payment method becomes active';
 $_['help_paypal_option']			 	= 'If you have your PayPal account linked with Braintree you can display the PayPal payment option as well';
-$_['help_paypal_billing_agreement']	 	= 'You can add a billing agreement description that will be shown to users in the PayPal window when opting to vault their PayPal account';
+$_['help_paypal_billing_agreement']	 	= 'Confirmă comanda';
 
 // Button
-$_['button_void']					 	= 'Void';
-$_['button_settle']					 	= 'Settle';
-$_['button_refund']					 	= 'Refund';
-$_['button_filter']					 	= 'Filtru';
+$_['button_void']					 	= 'Continuă';
+$_['button_settle']					 	= 'Serviciul de livrare actualizat';
+$_['button_refund']					 	= '%s la fiecare %s %s';
+$_['button_filter']					 	= ' pentru %s plăți';
 
 // Error
-$_['error_permission']				 	= 'Warning: You do not have permission to modify payment Braintree!';
-$_['error_php_version']				 	= 'Minimum version of PHP 5.4.0 is required!';
-$_['error_merchant_id']				 	= 'Merchant ID Required!';
-$_['error_public_key']				 	= 'Public Key Required!';
+$_['error_permission']				 	= 'Adaugă';
+$_['error_php_version']				 	= 'Continuă spre PayPal';
+$_['error_merchant_id']				 	= 'Anulează plățile';
+$_['error_public_key']				 	= 'Plata ta a eșuat de prea multe ori';
 $_['error_private_key']				 	= 'Private Key Required!';
 $_['error_connection']				 	= 'There was a problem establishing a connection to the Braintree API. Please check your Merchant ID, Public Key, Private Key and Environment settings.';
 $_['error_account']					 	= 'Please enter a valid Merchant Account ID as specified in your Braintree Account';
@@ -184,7 +184,7 @@ $_['error_environment']					= 'You cannot set your environment to %s when your c
 // Tab
 $_['tab_setting']					 	= 'Setări';
 $_['tab_currency']					 	= 'Monede';
-$_['tab_order_status']				 	= 'Order Statuses (New Orders)';
+$_['tab_order_status']				 	= 'Starea Comenzilor (Comenzi Noi)';
 $_['tab_3ds']						 	= '3-D Secure';
 $_['tab_transaction']				 	= 'Transaction Search';
 $_['tab_vault']				 	 	 	= 'Vault';
