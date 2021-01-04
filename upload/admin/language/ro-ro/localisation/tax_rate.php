@@ -8,7 +8,7 @@ $_['text_list']            = 'Tax Rate List';
 $_['text_add']             = 'Add Tax Rate';
 $_['text_edit']            = 'Edit Tax Rate';
 $_['text_percent']         = 'Procentaj';
-$_['text_amount']          = 'Cantitate Fixă';
+$_['text_amount']          = 'Valoare Fixă';
 
 // Column
 $_['column_name']          = 'Tax Name';
