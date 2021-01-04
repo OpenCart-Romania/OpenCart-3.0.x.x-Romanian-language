@@ -1,6 +1,6 @@
 <?php
 // Button
-$_['button_continue'] = 'Continuați';
+$_['button_continue'] = 'Continuă';
 $_['button_back']     = 'Înapoi';
 
 // Error
