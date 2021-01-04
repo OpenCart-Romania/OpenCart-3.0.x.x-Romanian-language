@@ -18,7 +18,7 @@ $_['text_module']        = 'Modules';
 $_['text_total']         = 'Order Totals';
 $_['text_feed']          = 'Feeds';
 $_['text_report']        = 'Rapoarte';
-$_['text_other']         = 'Other';
+$_['text_other']         = 'Altele';
 $_['text_free']          = 'Free';
 $_['text_paid']          = 'Paid';
 $_['text_purchased']     = 'Purchased';
@@ -31,10 +31,10 @@ $_['text_downloaded']    = 'Descărcat';
 $_['text_member_since']  = 'Member since:';
 $_['text_price']         = 'Preț';
 $_['text_partner']       = 'Developed by OpenCart Partner';
-$_['text_support']       = '12 Months free support';
+$_['text_support']       = '12 Luni suport gratuit';
 $_['text_documentation'] = 'Documentation Included';
 $_['text_sales']         = 'Vânzări';
-$_['text_comment']       = 'Comments';
+$_['text_comment']       = 'Comentarii';
 $_['text_download']      = 'Descarcă';
 $_['text_install']       = 'Installing';
 $_['text_comment_add']   = 'Leave your comment';
@@ -54,14 +54,14 @@ $_['entry_pin']          = 'PIN';
 $_['tab_description']    = 'Descriere';
 $_['tab_documentation']  = 'Documentație';
 $_['tab_download']       = 'Descărcare';
-$_['tab_comment']        = 'Comment';
+$_['tab_comment']        = 'Comentariu';
 
 // Button
 $_['button_opencart']    = 'Marketplace API';
 $_['button_purchase']    = 'Purchase';
 $_['button_view_all']    = 'View all extensions';
 $_['button_get_support'] = 'Get Support';
-$_['button_comment']     = 'Comment';
+$_['button_comment']     = 'Comentariu';
 $_['button_reply']       = 'Reply';
 
 // Error
