@@ -13,7 +13,7 @@ $_['text_keyword']           = 'Nu utiliza spații, în schimb înlocuieste spa�
 // Column
 $_['column_title']           = 'Titlu Informaţii';
 $_['column_sort_order']      = 'Ordinea de Sortare';
-$_['column_action']          = 'Acţiune';
+$_['column_action']          = 'Acțiune';
 
 // Entry
 $_['entry_title']            = 'Titlu Informaţie';
