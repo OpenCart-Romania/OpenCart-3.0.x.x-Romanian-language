@@ -22,12 +22,12 @@ $_['column_date']			= 'Dată';
 $_['column_refund_history'] = 'Refund History';
 $_['column_action']			= 'Acțiune';
 $_['column_status']			= 'Stare';
-$_['column_amount']			= 'Amount';
+$_['column_amount']			= 'Valoare';
 $_['column_description']	= 'Descriere';
 
 // Entry
 $_['entry_total']			= 'Total';
-$_['entry_order_status']	= 'Order Status';
+$_['entry_order_status']	= 'Stare Comandă';
 $_['entry_geo_zone']		= 'Geo Zone';
 $_['entry_status']			= 'Stare';
 $_['entry_sort_order']		= 'Ordinea de Sortare';
