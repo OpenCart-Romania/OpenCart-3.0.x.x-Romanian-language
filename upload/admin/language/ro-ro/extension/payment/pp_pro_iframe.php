@@ -16,7 +16,7 @@ $_['text_amount_captured']			 = 'Amount captured';
 $_['text_amount_refunded']			 = 'Amount refunded';
 $_['text_capture_amount']			 = 'Capture amount';
 $_['text_complete_capture']			 = 'Complete capture';
-$_['text_transactions']				 = 'Transactions';
+$_['text_transactions']				 = 'Tranzacții';
 $_['text_complete']					 = 'Complete';
 $_['text_confirm_void']				 = 'If you void you cannot capture any further funds';
 $_['text_view']						 = 'Vezi';
@@ -39,7 +39,7 @@ $_['text_loyalty_currency']			 = 'Loyalty card currency';
 $_['text_options_name']				 = 'Options name';
 $_['text_tax_amt']					 = 'Tax amount';
 $_['text_currency_code']			 = 'Currency code';
-$_['text_amount']					 = 'Amount';
+$_['text_amount']					 = 'Valoare';
 $_['text_gift_msg']					 = 'Gift message';
 $_['text_gift_receipt']				 = 'Gift receipt';
 $_['text_gift_wrap_name']			 = 'Gift wrap name';
@@ -111,7 +111,7 @@ $_['help_debug']					 = 'Logs additional information.';
 
 // Column
 $_['column_trans_id']				 = 'Transaction ID';
-$_['column_amount']					 = 'Amount';
+$_['column_amount']					 = 'Valoare';
 $_['column_type']					 = 'Payment type';
 $_['column_status']					 = 'Stare';
 $_['column_pending_reason']			 = 'Pending reason';
@@ -120,7 +120,7 @@ $_['column_action']					 = 'Acțiune';
 
 // Tab
 $_['tab_settings']					 = 'Setări';
-$_['tab_order_status']				 = 'Order Status';
+$_['tab_order_status']				 = 'Stare Comandă';
 $_['tab_checkout_customisation']	 = 'Checkout Customisation';
 
 // Entry
@@ -136,7 +136,7 @@ $_['entry_sort_order']				 = 'Ordinea de Sortare:';
 $_['entry_transaction_method']		 = 'Transaction method:';
 $_['entry_transaction_id']			 = 'Transaction ID';
 $_['entry_full_refund']				 = 'Full refund';
-$_['entry_amount']					 = 'Amount';
+$_['entry_amount']					 = 'Valoare';
 $_['entry_message']					 = 'Message';
 $_['entry_ipn_url']					 = 'IPN URL:';
 $_['entry_checkout_method']			 = 'Checkout Method:';
