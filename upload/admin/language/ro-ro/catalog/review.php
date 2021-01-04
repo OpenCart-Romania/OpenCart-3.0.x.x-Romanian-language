@@ -15,7 +15,7 @@ $_['column_author']     = 'Autor';
 $_['column_rating']     = 'Evaluare';
 $_['column_status']     = 'Stare';
 $_['column_date_added'] = 'Data Adăugării';
-$_['column_action']     = 'Acţiune';
+$_['column_action']     = 'Acțiune';
 
 // Entry
 $_['entry_product']     = 'Produs';
