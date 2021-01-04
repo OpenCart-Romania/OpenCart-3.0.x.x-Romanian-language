@@ -10,7 +10,7 @@ $_['text_refund']		   = 'Refund';
 // Entry
 $_['entry_transaction_id'] = 'Transaction ID';
 $_['entry_full_refund']	   = 'Full refund';
-$_['entry_amount']		   = 'Amount';
+$_['entry_amount']		   = 'Valoare';
 $_['entry_message']		   = 'Message';
 
 // Button
