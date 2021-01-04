@@ -61,7 +61,7 @@ $_['text_error']                              = 'Error:';
 // Entry
 $_['entry_key']                               = 'MaxMind License Key';
 $_['entry_score']                             = 'Risk Score';
-$_['entry_order_status']                      = 'Order Status';
+$_['entry_order_status']                      = 'Stare Comandă';
 $_['entry_status']                            = 'Stare';
 
 // Help
