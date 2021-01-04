@@ -34,14 +34,14 @@ $_['text_rebate_status']			 = 'Payment rebated';
 $_['text_order_ref']				 = 'Order ref';
 $_['text_order_total']				 = 'Total authorised';
 $_['text_total_captured']			 = 'Total captured';
-$_['text_transactions']				 = 'Transactions';
+$_['text_transactions']				 = 'Tranzacții';
 $_['text_confirm_void']				 = 'Are you sure you want to void the payment?';
 $_['text_confirm_capture']			 = 'Are you sure you want to capture the payment?';
 $_['text_confirm_rebate']			 = 'Are you sure you want to rebate the payment?';
 $_['text_globalpay_remote']			 = '<a target="_blank" href="https://resourcecentre.globaliris.com/getting-started.php?id=OpenCart"><img src="view/image/payment/globalpay.png" alt="Globalpay" title="Globalpay" style="border: 1px solid #EEEEEE;" /></a>';
 
 // Column
-$_['text_column_amount']			 = 'Amount';
+$_['text_column_amount']			 = 'Valoare';
 $_['text_column_type']				 = 'Tip';
 $_['text_column_date_added']		 = 'Created';
 
@@ -50,7 +50,7 @@ $_['entry_merchant_id']				 = 'Merchant ID';
 $_['entry_secret']					 = 'Shared secret';
 $_['entry_rebate_password']			 = 'Rebate password';
 $_['entry_total']					 = 'Total';
-$_['entry_sort_order']				 = 'Ordinea de Sortare';
+$_['entry_sort_order']				 = 'Ordinea de sortare';
 $_['entry_geo_zone']				 = 'Geo zone';
 $_['entry_status']					 = 'Stare';
 $_['entry_debug']					 = 'Debug logging';
@@ -78,8 +78,8 @@ $_['help_card_data_status']			 = 'Logs last 4 cards digits, expire, name, type a
 
 // Tab
 $_['tab_api']					     = 'API Details';
-$_['tab_account']				     = 'Accounts';
-$_['tab_order_status']				 = 'Order Status';
+$_['tab_account']				     = 'Conturi';
+$_['tab_order_status']				 = 'Stare Comandă';
 $_['tab_payment']					 = 'Payment Settings';
 
 // Button
