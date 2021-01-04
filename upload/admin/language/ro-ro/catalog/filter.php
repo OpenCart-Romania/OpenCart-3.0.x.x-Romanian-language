@@ -13,7 +13,7 @@ $_['text_value']        = 'Valori Filtru';
 // Column
 $_['column_group']      = 'Grup Filtre';
 $_['column_sort_order'] = 'Ordinea de Sortare';
-$_['column_action']     = 'Acţiune';
+$_['column_action']     = 'Acțiune';
 
 // Entry
 $_['entry_group']       = 'Nume Grup Filtre';
