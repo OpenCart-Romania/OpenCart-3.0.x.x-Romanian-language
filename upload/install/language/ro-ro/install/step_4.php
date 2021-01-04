@@ -1,13 +1,13 @@
 <?php
 // Heading
-$_['heading_title']               = 'Installation complete';
+$_['heading_title']               = 'Instalare completă';
 
 // Text
-$_['text_step_4']                 = 'Ready to start selling!';
-$_['text_catalog']                = 'Go to your Online Shop';
-$_['text_admin']                  = 'Login to your Administration';
-$_['text_loading']                = 'Loading modules...';
-$_['text_extension']              = 'visit the extensions store';
+$_['text_step_4']                 = 'Gata pentru a începe vânzarea!';
+$_['text_catalog']                = 'Accesează Magazinul Online';
+$_['text_admin']                  = 'Autentificare la Administrare';
+$_['text_loading']                = 'Încărcare module...';
+$_['text_extension']              = 'vizitează magazinul de extensii';
 $_['text_mail']                   = 'Join the mailing list';
 $_['text_mail_description']       = 'Stay informed of OpenCart updates and events.';
 $_['text_facebook']               = 'Like us on Facebook';
