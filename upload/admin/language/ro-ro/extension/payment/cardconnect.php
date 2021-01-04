@@ -4,7 +4,7 @@ $_['heading_title']                 = 'CardConnect';
 
 // Tab
 $_['tab_settings']                  = 'Setări';
-$_['tab_order_status']              = 'Order Status';
+$_['tab_order_status']              = 'Stare Comandă';
 
 // Text
 $_['text_extension']                = 'Extensii';
@@ -17,7 +17,7 @@ $_['text_live']                     = 'Live';
 $_['text_test']                     = 'Test';
 $_['text_no_cron_time']             = 'The cron has not yet been executed';
 $_['text_payment_info']             = 'Payment Information';
-$_['text_payment_method']           = 'Payment Method';
+$_['text_payment_method']           = 'Metodă de Plată';
 $_['text_card']                     = 'Card';
 $_['text_echeck']                   = 'eCheck';
 $_['text_reference']                = 'Reference';
@@ -27,10 +27,10 @@ $_['text_total_captured']           = 'Total Captured';
 $_['text_capture_payment']          = 'Capture Payment';
 $_['text_refund_payment']           = 'Refund Payment';
 $_['text_void']                     = 'Void';
-$_['text_transactions']             = 'Transactions';
+$_['text_transactions']             = 'Tranzacții';
 $_['text_column_type']              = 'Tip';
 $_['text_column_reference']         = 'Reference';
-$_['text_column_amount']            = 'Amount';
+$_['text_column_amount']            = 'Valoare';
 $_['text_column_status']            = 'Stare';
 $_['text_column_date_modified']     = 'Date Modified';
 $_['text_column_date_added']        = 'Data Adăugării';
@@ -94,7 +94,7 @@ $_['error_api_username']            = 'Nume utilizator API Necesar!';
 $_['error_api_password']            = 'API Password Required!';
 $_['error_token']                   = 'Secret Token Required!';
 $_['error_site']                    = 'Site Required!';
-$_['error_amount_zero']             = 'Amount must be higher than zero!';
+$_['error_amount_zero']             = 'Valoarea trebuie să fie mai mare decât 0!';
 $_['error_no_order']                = 'No matching order info!';
 $_['error_invalid_response']        = 'Invalid response received!';
 $_['error_data_missing']            = 'Missing data!';
