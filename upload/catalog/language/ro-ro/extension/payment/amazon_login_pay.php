@@ -1,6 +1,6 @@
 <?php
 
-$_['breadcrumb_cart'] = 'Shopping Cart';
+$_['breadcrumb_cart'] = 'Coș de Cumpărături';
 $_['breadcrumb_payment'] = 'Payment';
 $_['breadcrumb_shipping'] = 'Shipping';
 $_['breadcrumb_summary'] = 'Summary';
