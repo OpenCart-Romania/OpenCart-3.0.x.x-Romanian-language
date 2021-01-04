@@ -20,11 +20,11 @@ $_['column_action']    = 'Acțiune';
 $_['entry_name']       = 'Store Name';
 $_['entry_address']    = 'Adresă';
 $_['entry_geocode']    = 'Geocode';
-$_['entry_telephone']  = 'Telephone';
+$_['entry_telephone']  = 'Telefon';
 $_['entry_fax']        = 'Fax';
 $_['entry_image']      = 'Imagine';
 $_['entry_open']       = 'Opening Times';
-$_['entry_comment']    = 'Comment';
+$_['entry_comment']    = 'Comentariu';
 
 // Help
 $_['help_geocode']     = 'Please enter your store location geocode manually.';
@@ -34,5 +34,5 @@ $_['help_comment']     = 'This field is for any special notes you would like to 
 // Error
 $_['error_permission'] = 'Warning: You do not have permission to modify store locations!';
 $_['error_name']       = 'Store name must be between 3 and 32 characters!';
-$_['error_address']    = 'Address must be between 3 and 128 characters!';
-$_['error_telephone']  = 'Telephone must be between 3 and 32 characters!';
+$_['error_address']    = 'Adresa trebuie să fie între 3 și 128 de caractere!';
+$_['error_telephone']  = 'Telefon trebuie să fie între 3 și 32 de caractere!';
