@@ -29,7 +29,7 @@ $_['text_score']                 = 'FraudLabs Pro Score';
 $_['text_status']                = 'FraudLabs Pro Status';
 $_['text_message']               = 'Message';
 $_['text_transaction_id']        = 'Transaction ID';
-$_['text_credits']               = 'Balance';
+$_['text_credits']               = 'Sold';
 $_['text_error']                 = 'Error:';
 $_['text_flp_upgrade']           = '<a href="http://www.fraudlabspro.com/plan" target="_blank">[Upgrade]</a>';
 $_['text_flp_merchant_area']     = 'Please login to <a href="http://www.fraudlabspro.com/merchant/login" target="_blank">FraudLabs Pro Merchant Area</a> for more information about this order.';
@@ -38,7 +38,7 @@ $_['text_flp_merchant_area']     = 'Please login to <a href="http://www.fraudlab
 $_['entry_status']               = 'Stare';
 $_['entry_key']                  = 'API Key';
 $_['entry_score']                = 'Risk Score';
-$_['entry_order_status']         = 'Order Status';
+$_['entry_order_status']         = 'Stare Comandă';
 $_['entry_review_status']        = 'Review Status';
 $_['entry_approve_status']       = 'Approve Status';
 $_['entry_reject_status']        = 'Reject Status';
@@ -72,7 +72,7 @@ $_['help_score']                 = 'Risk score, 0 (low risk) - 100 (high risk).'
 $_['help_status']                = 'FraudLabs Pro status.';
 $_['help_message']               = 'FraudLabs Pro error message description.';
 $_['help_transaction_id']        = 'Unique identifier for a transaction screened by FraudLabs Pro system.';
-$_['help_credits']               = 'Balance of the credits available after this transaction.';
+$_['help_credits']               = 'Soldul creditelor disponibile după această tranzacție.';
 
 // Error
 $_['error_permission']           = 'Warning: You do not have permission to modify FraudLabs Pro settings!';
