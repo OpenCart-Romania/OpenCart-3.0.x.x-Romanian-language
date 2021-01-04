@@ -15,7 +15,7 @@ $_['text_live']             = 'Live';
 $_['text_test']             = 'Test';
 $_['text_payment_info']     = 'Payment Info';
 $_['text_order_id']         = 'ID Comandă';
-$_['text_amount']           = 'Amount';
+$_['text_amount']           = 'Valoare';
 $_['text_fee']              = 'Fee';
 $_['text_date_added']       = 'Data Adăugării';
 $_['text_tracking']         = 'Tracking';
@@ -24,7 +24,7 @@ $_['text_barcode_info']     = '(Print out this unique barcode and stick it on th
 $_['text_confirm']          = 'Are you sure you want to update the tracking number?';
 $_['text_register_success'] = 'You have successfully registered. You should receive an email shortly.';
 $_['text_tracking_success'] = 'The tracking number was successfully updated.';
-$_['text_other']            = 'Other';
+$_['text_other']            = 'Altele';
 $_['text_email']            = 'The registered email address for your Pilibaba account is %s';
 
 // Entry
@@ -32,12 +32,12 @@ $_['entry_email_address']   = 'Email Address';
 $_['entry_password']        = 'Parolă';
 $_['entry_currency']        = 'Currency';
 $_['entry_warehouse']       = 'Warehouse';
-$_['entry_country']         = 'Country';
+$_['entry_country']         = 'Țară';
 $_['entry_merchant_number'] = 'Merchant Number';
 $_['entry_secret_key']      = 'Secret Key';
 $_['entry_environment']     = 'Environment';
 $_['entry_shipping_fee']    = 'Shipping Fee';
-$_['entry_order_status']    = 'Order Status';
+$_['entry_order_status']    = 'Stare Comandă';
 $_['entry_status']          = 'Stare';
 $_['entry_logging']         = 'Debug Logging';
 $_['entry_sort_order']      = 'Ordinea de Sortare';
@@ -69,7 +69,7 @@ $_['error_email_invalid']   = 'The email address is not valid!';
 $_['error_password']        = 'Password must be at least 8 characters!';
 $_['error_currency']        = 'Please select a currency!';
 $_['error_warehouse']       = 'Please select a warehouse!';
-$_['error_country']         = 'Please select a country!';
+$_['error_country']         = 'Te rugăm selectează o țară!';
 $_['error_weight']          = 'Please change your <a href="%s">Weight Class</a> setting to grams. It\'s in \'System -> Settings\' in the \'Local\' tab.';
 $_['error_bad_response']    = 'An invalid response was received. Please try again later.';
 
