@@ -3,7 +3,7 @@
 $_['text_success']       = 'You have successfully modified customers';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to access the API!';
+$_['error_permission']   = 'Atenție: Nu ai permisiunea de a accesa API!';
 $_['error_customer']     = 'You must select a customer!';
 $_['error_firstname']    = 'Prenumele trebuie să fie între 1 și 32 de caractere!';
 $_['error_lastname']     = 'Numele de Familie trebuie să fie între 1 și 32 de caractere!';
