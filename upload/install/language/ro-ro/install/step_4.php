@@ -13,20 +13,20 @@ $_['text_mail_description']       = 'Fi la curent cu actualizările și evenimen
 $_['text_facebook']               = 'Like us on Facebook';
 $_['text_facebook_description']   = 'Spune-ne cât de mult îți place OpenCart!';
 $_['text_facebook_visit']         = 'Vizitează pagina noastră de Facebook';
-$_['text_forum']                  = 'Community forums';
-$_['text_forum_description']      = 'Get help from other OpenCart users';
-$_['text_forum_visit']            = 'Visit our forums';
-$_['text_commercial']             = 'Commercial support';
-$_['text_commercial_description'] = 'Development services from OpenCart partners';
-$_['text_commercial_visit']       = 'Visit our partner page';
+$_['text_forum']                  = 'Forumurile Comunitații';
+$_['text_forum_description']      = 'Obține ajutor de la alți utilizatori OpenCart';
+$_['text_forum_visit']            = 'Vizitează forumurile noastre';
+$_['text_commercial']             = 'Suport comercial';
+$_['text_commercial_description'] = 'Servicii de dezvoltare de la partenerii OpenCart';
+$_['text_commercial_visit']       = 'Vizitează pagina cu partenerii nostri';
 $_['text_price']                  = 'Preț';
 $_['text_view']                   = 'Vezi detalii';
 $_['text_download']               = 'Descărcare';
 $_['text_downloads']              = 'Descărcări';
 
 // Button
-$_['button_mail']                 = 'Join here';
-$_['button_setup']                = 'Set-up now';
+$_['button_mail']                 = 'Alătură-te aici';
+$_['button_setup']                = 'Configurează acum';
 
 // Error
-$_['error_warning']               = 'Don\'t forget to delete your installation directory!';
+$_['error_warning']               = 'Nu uita să ștergi directorul de instalare!';
