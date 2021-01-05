@@ -31,6 +31,6 @@ Because regardless of the platform whether it is paid or free location/translati
 
 Because the official project of OpenCart on the [Crowdin.com](https://crowdin.com/) has a total lack of activity and interest and the sources are outdated; apparently Daniel Kerr doesn't really check his mail.
 
-Because this repository uses the "en-gb" language files in OpenCart 3.3.3.6 Release synchronized with the commits in the 3.0.x.x_Maintenance branch of the official repository.
+Because this repository uses the "en-gb" language files in OpenCart 3.0.3.6 Release synchronized with the commits in the 3.0.x.x_Maintenance branch of the official repository.
 
 The intention is to keep in sync and up to data the source files as well as the translation.
