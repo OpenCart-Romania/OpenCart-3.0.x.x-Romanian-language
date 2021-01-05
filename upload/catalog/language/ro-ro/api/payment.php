@@ -4,7 +4,7 @@ $_['text_address']       = 'Success: Payment address has been set!';
 $_['text_method']        = 'Success: Payment method has been set!';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to access the API!';
+$_['error_permission']   = 'Atenție: Nu ai permisiunea de a accesa API!';
 $_['error_firstname']    = 'Prenumele trebuie să fie între 1 și 32 de caractere!';
 $_['error_lastname']     = 'Numele de Familie trebuie să fie între 1 și 32 de caractere!';
 $_['error_address_1']    = 'Adresa 1 trebuie să fie între 3 și 128 de caractere!';
