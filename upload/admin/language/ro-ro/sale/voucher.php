@@ -17,7 +17,7 @@ $_['column_theme']      = 'Temă';
 $_['column_amount']     = 'Valoare';
 $_['column_status']     = 'Stare';
 $_['column_order_id']   = 'ID Comandă';
-$_['column_customer']   = 'Customer';
+$_['column_customer']   = 'Client';
 $_['column_date_added'] = 'Data Adăugării';
 $_['column_action']     = 'Acțiune';
 
