@@ -14,7 +14,7 @@ $_['text_customer']     = '<a href="%s">%s</a>';
 $_['column_keyword']    = 'Cuvânt Cheie';
 $_['column_products']   = 'Found Products';
 $_['column_category']   = 'Category';
-$_['column_customer']   = 'Customer';
+$_['column_customer']   = 'Client';
 $_['column_ip']         = 'IP';
 $_['column_date_added'] = 'Data Adăugării';
 
@@ -22,7 +22,7 @@ $_['column_date_added'] = 'Data Adăugării';
 $_['entry_date_start']  = 'Dată de Început';
 $_['entry_date_end']    = 'Dată de Sfârșit';
 $_['entry_keyword']     = 'Cuvânt Cheie';
-$_['entry_customer']    = 'Customer';
+$_['entry_customer']    = 'Client';
 $_['entry_ip']          = 'IP';
 $_['entry_status']      = 'Stare';
 $_['entry_sort_order']  = 'Ordinea de Sortare';
