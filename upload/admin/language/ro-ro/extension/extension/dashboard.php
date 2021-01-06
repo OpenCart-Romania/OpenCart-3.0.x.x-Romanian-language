@@ -10,7 +10,7 @@ $_['text_list']         = 'Listă Dashboard';
 $_['column_name']       = 'Nume Dashboard';
 $_['column_width']      = 'Lăţime';
 $_['column_status']     = 'Stare';
-$_['column_sort_order'] = 'Ordinea de Sortare';
+$_['column_sort_order'] = 'Ordine Sortare';
 $_['column_action']     = 'Acțiune';
 
 // Error
