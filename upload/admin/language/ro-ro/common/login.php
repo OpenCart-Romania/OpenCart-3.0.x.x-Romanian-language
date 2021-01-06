@@ -16,4 +16,4 @@ $_['button_login']   = 'Autentificare';
 
 // Error
 $_['error_login']    = 'Nume utilizator și/sau Parolă nu se potrivesc.';
-$_['error_token']    = 'Sesiune token invalidă. Te rugăm să te autentifici din nou.';
+$_['error_token']    = 'Sesiune token incorectă. Te rugăm să te autentifici din nou.';
