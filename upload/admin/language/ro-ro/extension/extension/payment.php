@@ -10,7 +10,7 @@ $_['text_list']         = 'Payment List';
 // Column
 $_['column_name']       = 'Metodă de Plată';
 $_['column_status']     = 'Stare';
-$_['column_sort_order'] = 'Ordinea de Sortare';
+$_['column_sort_order'] = 'Ordine Sortare';
 $_['column_action']     = 'Acțiune';
 
 // Error
