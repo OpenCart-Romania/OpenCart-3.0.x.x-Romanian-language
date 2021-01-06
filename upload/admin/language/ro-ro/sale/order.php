@@ -11,7 +11,7 @@ $_['text_filter']                = 'Filtru';
 $_['text_order_detail']          = 'Order Details';
 $_['text_customer_detail']       = 'Detalii Client';
 $_['text_option']                = 'Opţiuni';
-$_['text_store']                 = 'Store';
+$_['text_store']                 = 'Magazin';
 $_['text_date_added']            = 'Data Adăugării';
 $_['text_payment_method']        = 'Metodă de Plată';
 $_['text_shipping_method']       = 'Shipping Method';
@@ -80,7 +80,7 @@ $_['column_action']              = 'Acțiune';
 $_['column_weight']              = 'Product Weight';
 
 // Entry
-$_['entry_store']                = 'Store';
+$_['entry_store']                = 'Magazin';
 $_['entry_customer']             = 'Client';
 $_['entry_customer_group']       = 'Grup Clienți';
 $_['entry_firstname']            = 'Prenume';
