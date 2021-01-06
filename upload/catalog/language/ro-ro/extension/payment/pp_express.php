@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['express_text_title']      = 'Confirm order';
+$_['express_text_title']      = 'Confirmare comandă';
 
 // Text
 $_['text_title']              = 'PayPal Express Checkout';
