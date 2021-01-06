@@ -37,7 +37,7 @@ $_['text_token_expired_message']        = "The Square payment extension's access
 
 // Error
 $_['error_browser_not_supported']       = 'Error: The payment system no longer supports your web browser. Please update or use a different one.';
-$_['error_card_invalid']                = 'Error: Card is invalid!';
+$_['error_card_invalid']                = 'Eroare: Cardul este incorect!';
 $_['error_squareup_cron_token']         = 'Error: Access token could not get refreshed. Please connect your Square Payment extension via the OpenCart admin panel.';
 
 // Warning
