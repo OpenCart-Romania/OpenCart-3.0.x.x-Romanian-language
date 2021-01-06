@@ -10,6 +10,6 @@ $_['text_not_given'] = 'Not given';
 $_['text_not_checked'] = 'Not checked';
 $_['text_match'] = 'Matched';
 $_['text_not_match'] = 'Not matched';
-$_['text_payment_details'] = 'Payment details';
+$_['text_payment_details'] = 'Detalii plată';
 
 $_['entry_card_type'] = 'Card type';
