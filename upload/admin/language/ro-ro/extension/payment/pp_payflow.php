@@ -21,7 +21,7 @@ $_['entry_total']		 = 'Total';
 $_['entry_order_status'] = 'Stare Comandă';
 $_['entry_geo_zone']	 = 'Geo Zone';
 $_['entry_status']		 = 'Stare';
-$_['entry_sort_order']	 = 'Ordinea de Sortare';
+$_['entry_sort_order']	 = 'Ordine Sortare';
 
 // Help
 $_['help_vendor']		 = 'Your merchant login ID that you created when you registered for the Website Payments Pro account';
