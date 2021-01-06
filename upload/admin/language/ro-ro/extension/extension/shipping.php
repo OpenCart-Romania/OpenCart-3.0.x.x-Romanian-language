@@ -9,7 +9,7 @@ $_['text_list']         = 'Shipping List';
 // Column
 $_['column_name']       = 'Shipping Method';
 $_['column_status']     = 'Stare';
-$_['column_sort_order'] = 'Ordinea de Sortare';
+$_['column_sort_order'] = 'Ordine Sortare';
 $_['column_action']     = 'Acțiune';
 
 // Error
