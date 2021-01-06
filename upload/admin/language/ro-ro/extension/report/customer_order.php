@@ -22,7 +22,7 @@ $_['column_action']         = 'Acțiune';
 // Entry
 $_['entry_date_start']      = 'Dată de Început';
 $_['entry_date_end']        = 'Dată de Sfârșit';
-$_['entry_customer']        = 'Customer';
+$_['entry_customer']        = 'Client';
 $_['entry_status']          = 'Stare Comandă';
 $_['entry_status']          = 'Stare';
 $_['entry_sort_order']      = 'Ordinea de Sortare';
