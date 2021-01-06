@@ -13,7 +13,7 @@ $_['text_action']       = 'Acțiune';
 // Column
 $_['column_code']       = 'Event Code';
 $_['column_status']     = 'Stare';
-$_['column_sort_order'] = 'Ordinea de Sortare';
+$_['column_sort_order'] = 'Ordine Sortare';
 $_['column_action']     = 'Acțiune';
 
 // Error
