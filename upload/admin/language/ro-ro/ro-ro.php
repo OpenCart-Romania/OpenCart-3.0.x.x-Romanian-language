@@ -141,7 +141,7 @@ $_['tab_sale']                      = 'Vânzări';
 $_['tab_marketing']                 = 'Marketing';
 $_['tab_online']                    = 'Oameni Online';
 $_['tab_activity']                  = 'Activitate Recentă';
-$_['tab_recurring']                 = 'Recurent';
+$_['tab_recurring']                 = 'Recurente';
 $_['tab_action']                    = 'Acțiune';
 $_['tab_google']                    = 'Google';
 
