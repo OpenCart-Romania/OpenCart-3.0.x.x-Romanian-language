@@ -23,7 +23,7 @@ $_['button_manual']    = 'Manual';
 
 // Error
 $_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica directorul "storage"!';
-$_['error_path']       = 'Atenție: Cale invalidă!';
-$_['error_directory']  = 'Atenție: Director invalid!';
+$_['error_path']       = 'Atenție: Cale incorectă!';
+$_['error_directory']  = 'Atenție: Director incorect!';
 $_['error_exists']     = 'Atenție: Directorul există deja!';
 $_['error_writable']   = 'Atenție: config.php and admin/config.php trebuie să fie editabile!';
