@@ -36,7 +36,7 @@ $_['entry_ip']                     = 'IP';
 $_['entry_date_start']             = 'Dată de Început';
 $_['entry_date_end']               = 'Dată de Sfârșit';
 $_['entry_status']                 = 'Stare';
-$_['entry_sort_order']             = 'Ordinea de Sortare';
+$_['entry_sort_order']             = 'Ordine Sortare';
 
 // Error
 $_['error_permission']             = 'Warning: You do not have permission to modify customer activity report!';
