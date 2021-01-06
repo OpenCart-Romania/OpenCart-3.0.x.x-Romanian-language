@@ -28,7 +28,7 @@ $_['entry_reversed_status']			 = 'Reversed Status';
 $_['entry_voided_status']			 = 'Voided Status';
 $_['entry_geo_zone']				 = 'Geo Zone';
 $_['entry_status']					 = 'Stare';
-$_['entry_sort_order']				 = 'Ordinea de Sortare';
+$_['entry_sort_order']				 = 'Ordine Sortare';
 
 // Tab
 $_['tab_general']					 = 'General';
