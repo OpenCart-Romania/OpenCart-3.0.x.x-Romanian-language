@@ -30,5 +30,5 @@ $_['error_upload']      = 'Încărcare necesară!';
 $_['error_filename']    = 'Nume Fișier trebuie să fie între 3 și 128 de caractere!';
 $_['error_exists']      = 'Fișierul nu există!';
 $_['error_mask']        = 'Masca trebuie să fie între 3 și 128 de caractere!';
-$_['error_filetype']    = 'Tip fișier nevalid!';
+$_['error_filetype']    = 'Tip fișier incorect!';
 $_['error_product']     = 'Atenție: Această descărcare nu poate fi ștearsă deoarece în prezent este asociata cu %s produse!';
