@@ -22,9 +22,9 @@ $_['column_action']       = 'Acțiune';
 
 // Entry
 $_['entry_name']          = 'Layout Name';
-$_['entry_store']         = 'Store';
+$_['entry_store']         = 'Magazin';
 $_['entry_route']         = 'Route';
-$_['entry_module']        = 'Module';
+$_['entry_module']        = 'Modul';
 
 // Error
 $_['error_permission']    = 'Atenție: Nu ai permisiunea de a modifica layout-urile!';
