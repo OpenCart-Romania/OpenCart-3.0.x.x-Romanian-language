@@ -27,7 +27,7 @@ $_['entry_button_size'] = 'Button Size';
 $_['entry_layout'] = 'Layout';
 $_['entry_position'] = 'Position';
 $_['entry_status'] = 'Stare';
-$_['entry_sort_order'] = 'Ordinea de Sortare';
+$_['entry_sort_order'] = 'Ordine Sortare';
 
 //Error
 $_['error_permission'] = 'Warning: You do not have permission to modify module Pay with Amazon!';
