@@ -25,7 +25,7 @@ $_['text_activity_transaction']    = '<a href="customer_id=%d">%s</a> received c
 
 // Entry
 $_['entry_status']                 = 'Stare';
-$_['entry_sort_order']             = 'Ordinea de Sortare';
+$_['entry_sort_order']             = 'Ordine Sortare';
 $_['entry_width']                  = 'Lăţime';
 
 // Error
