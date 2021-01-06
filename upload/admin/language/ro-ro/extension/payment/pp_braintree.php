@@ -162,7 +162,7 @@ $_['help_paypal_billing_agreement']	 	= 'Confirmă comanda';
 $_['button_void']					 	= 'Continuă';
 $_['button_settle']					 	= 'Serviciul de livrare actualizat';
 $_['button_refund']					 	= '%s la fiecare %s %s';
-$_['button_filter']					 	= ' pentru %s plăți';
+$_['button_filter']					 	= 'Filtru';
 
 // Error
 $_['error_permission']				 	= 'Adaugă';
