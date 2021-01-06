@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_success']           = 'Success: You have modified orders!';
+$_['text_success']           = 'Succes: Ai modificat comenzile!';
 
 // Error
 $_['error_permission']       = 'Atenție: Nu ai permisiunea de a accesa API!';
