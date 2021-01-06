@@ -20,7 +20,7 @@ $_['entry_title']       = 'Titlu';
 $_['entry_link']        = 'Link';
 $_['entry_image']       = 'Imagine';
 $_['entry_status']      = 'Stare';
-$_['entry_sort_order']  = 'Ordinea de Sortare';
+$_['entry_sort_order']  = 'Ordine Sortare';
 
 // Error
 $_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica bannerele!';
