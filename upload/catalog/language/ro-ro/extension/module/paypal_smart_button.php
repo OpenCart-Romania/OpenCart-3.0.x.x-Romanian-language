@@ -2,7 +2,7 @@
 // Text
 $_['text_title']						= 'PayPal';
 $_['text_checkout_payment_address']  	= 'Billing Details';
-$_['text_checkout_shipping_address'] 	= 'Delivery Details';
+$_['text_checkout_shipping_address'] 	= 'Detalii Livrare';
 $_['text_checkout_shipping_method']  	= 'Delivery Method';
 $_['text_checkout_payment_method']  	= 'Metodă de Plată';
 $_['text_your_details']              	= 'Detaliile Tale Personale';
