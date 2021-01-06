@@ -1,3 +1,3 @@
 <?php
 // Heading
-$_['heading_title'] = 'Îmbunătățește Căutare';
+$_['heading_title'] = 'Îmbunătățește Căutarea';
