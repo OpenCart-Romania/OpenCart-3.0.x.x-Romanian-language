@@ -17,7 +17,7 @@ $_['text_history_add']     = 'Adaugă Istoric';
 // Column
 $_['column_return_id']     = 'Return ID';
 $_['column_order_id']      = 'ID Comandă';
-$_['column_customer']      = 'Customer';
+$_['column_customer']      = 'Client';
 $_['column_product']       = 'Produs';
 $_['column_model']         = 'Model';
 $_['column_status']        = 'Stare';
@@ -28,7 +28,7 @@ $_['column_notify']        = 'Customer Notified';
 $_['column_action']        = 'Acțiune';
 
 // Entry
-$_['entry_customer']       = 'Customer';
+$_['entry_customer']       = 'Client';
 $_['entry_order_id']       = 'ID Comandă';
 $_['entry_date_ordered']   = 'Order Date';
 $_['entry_firstname']      = 'Prenume';
