@@ -22,4 +22,4 @@ $_['entry_status']           = 'Stare';
 // Error
 $_['error_permission']       = 'Warning: You do not have permission to modify Google Base feed!';
 $_['error_upload']           = 'File could not be uploaded!';
-$_['error_filetype']         = 'Tip fișier nevalid!';
+$_['error_filetype']         = 'Tip fișier incorect!';
