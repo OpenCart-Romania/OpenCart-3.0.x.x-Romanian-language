@@ -25,13 +25,13 @@ $_['text_activity_affiliate_edit'] = '<a href="customer_id=%d">%s</a> updated th
 $_['text_activity_transaction']    = '<a href="customer_id=%d">%s</a> received commission from an new <a href="order_id=%d">order</a>.';
 
 // Column
-$_['column_customer']              = 'Customer';
+$_['column_customer']              = 'Client';
 $_['column_comment']               = 'Comentariu';
 $_['column_ip']                    = 'IP';
 $_['column_date_added']            = 'Data Adăugării';
 
 // Entry
-$_['entry_customer']               = 'Customer';
+$_['entry_customer']               = 'Client';
 $_['entry_ip']                     = 'IP';
 $_['entry_date_start']             = 'Dată de Început';
 $_['entry_date_end']               = 'Dată de Sfârșit';
