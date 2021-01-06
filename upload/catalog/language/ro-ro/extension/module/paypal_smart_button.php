@@ -49,8 +49,8 @@ $_['button_confirm']  					= 'Confirmare';
 $_['button_shipping'] 					= 'Update shipping';
 
 // Error
-$_['error_stock']              			= 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']            			= 'Minimum order amount for %s is %s!';
+$_['error_stock']              			= 'Produsele marcate cu *** nu sunt disponibile în cantitatea dorită sau nu sunt în stoc!';
+$_['error_minimum']            			= 'Suma minimă pentru comanda %s este %s!';
 $_['error_required']           			= '%s necesar!';
 $_['error_product']            			= 'Warning: There are no products in your cart!';
 $_['error_recurring_required'] 			= 'Please select a payment recurring!';
