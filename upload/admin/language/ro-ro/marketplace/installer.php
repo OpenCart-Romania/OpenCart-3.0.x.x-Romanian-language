@@ -15,7 +15,7 @@ $_['column_date_added'] = 'Data Adăugării';
 $_['column_action']     = 'Acțiune';
 
 // Entry
-$_['entry_upload']      = 'Upload File';
+$_['entry_upload']      = 'Încarcă Fișier';
 $_['entry_progress']    = 'Progress';
 
 // Help
