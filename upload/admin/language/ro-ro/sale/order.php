@@ -15,7 +15,7 @@ $_['text_store']                 = 'Store';
 $_['text_date_added']            = 'Data Adăugării';
 $_['text_payment_method']        = 'Metodă de Plată';
 $_['text_shipping_method']       = 'Shipping Method';
-$_['text_customer']              = 'Customer';
+$_['text_customer']              = 'Client';
 $_['text_customer_group']        = 'Grup Clienți';
 $_['text_email']                 = 'E-Mail';
 $_['text_telephone']             = 'Telefon';
@@ -63,7 +63,7 @@ $_['text_picklist']              = 'Dispatch Note';
 
 // Column
 $_['column_order_id']            = 'ID Comandă';
-$_['column_customer']            = 'Customer';
+$_['column_customer']            = 'Client';
 $_['column_status']              = 'Stare';
 $_['column_date_added']          = 'Data Adăugării';
 $_['column_date_modified']       = 'Date Modified';
@@ -81,7 +81,7 @@ $_['column_weight']              = 'Product Weight';
 
 // Entry
 $_['entry_store']                = 'Store';
-$_['entry_customer']             = 'Customer';
+$_['entry_customer']             = 'Client';
 $_['entry_customer_group']       = 'Grup Clienți';
 $_['entry_firstname']            = 'Prenume';
 $_['entry_lastname']             = 'Nume de Familie';
