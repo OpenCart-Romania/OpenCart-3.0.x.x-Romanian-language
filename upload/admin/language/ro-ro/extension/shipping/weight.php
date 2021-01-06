@@ -12,7 +12,7 @@ $_['entry_rate']       = 'Rates';
 $_['entry_tax_class']  = 'Clasă de Taxare';
 $_['entry_geo_zone']   = 'Geo Zone';
 $_['entry_status']     = 'Stare';
-$_['entry_sort_order'] = 'Ordinea de Sortare';
+$_['entry_sort_order'] = 'Ordine Sortare';
 
 // Help
 $_['help_rate']        = 'Example: 5:10.00,7:12.00 Weight:Cost,Weight:Cost, etc..';
