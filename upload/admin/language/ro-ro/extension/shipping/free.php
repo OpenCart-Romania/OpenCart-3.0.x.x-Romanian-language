@@ -11,7 +11,7 @@ $_['text_edit']        = 'Edit Free Shipping';
 $_['entry_total']      = 'Total';
 $_['entry_geo_zone']   = 'Geo Zone';
 $_['entry_status']     = 'Stare';
-$_['entry_sort_order'] = 'Ordinea de Sortare';
+$_['entry_sort_order'] = 'Ordine Sortare';
 
 // Help
 $_['help_total']       = 'Sub-Total amount needed before the free shipping module becomes available.';
