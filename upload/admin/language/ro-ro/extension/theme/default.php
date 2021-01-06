@@ -8,7 +8,7 @@ $_['text_success']                     = 'Success: You have modified the default
 $_['text_edit']                        = 'Edit Default Store Theme';
 $_['text_general']                     = 'General';
 $_['text_product']                     = 'Produse';
-$_['text_image']                       = 'Images';
+$_['text_image']                       = 'Imagini';
 
 // Entry
 $_['entry_directory']                  = 'Theme Directory';
