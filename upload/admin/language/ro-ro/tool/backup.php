@@ -7,7 +7,7 @@ $_['text_success']     = 'Success: You have successfully imported your database!
 
 // Entry
 $_['entry_progress']   = 'Progress';
-$_['entry_export']     = 'Exportă';
+$_['entry_export']     = 'Export';
 
 // Tab
 $_['tab_backup']       = 'Backup';
