@@ -19,7 +19,7 @@ $_['entry_currency']                 = 'Currency Code';
 $_['entry_order_status']             = 'Completed Status';
 $_['entry_geo_zone']                 = 'Geo Zone';
 $_['entry_status']                   = 'Stare';
-$_['entry_sort_order']               = 'Ordinea de Sortare';
+$_['entry_sort_order']               = 'Ordine Sortare';
 
 // Help
 $_['help_total']                     = 'The checkout total the order must reach before this payment method becomes active';
