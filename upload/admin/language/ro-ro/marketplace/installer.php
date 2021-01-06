@@ -25,5 +25,5 @@ $_['help_upload']       = 'Requires a modification file with extension \'.ocmod.
 $_['error_permission']  = 'Warning: You do not have permission to modify extensions!';
 $_['error_install']     = 'Extension installation taking place please wait a few seconds before trying to install!';
 $_['error_upload']      = 'File could not be uploaded!';
-$_['error_filetype']    = 'Tip fișier nevalid!';
+$_['error_filetype']    = 'Tip fișier incorect!';
 $_['error_file']        = 'File could not be found!';
