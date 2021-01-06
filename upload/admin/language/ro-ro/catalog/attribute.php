@@ -11,13 +11,13 @@ $_['text_edit']              = 'Editează Atribut';
 // Column
 $_['column_name']            = 'Nume Atribut';
 $_['column_attribute_group'] = 'Grup Atribute';
-$_['column_sort_order']      = 'Ordinea de Sortare';
+$_['column_sort_order']      = 'Ordine Sortare';
 $_['column_action']          = 'Acțiune';
 
 // Entry
 $_['entry_name']             = 'Nume Atribut';
 $_['entry_attribute_group']  = 'Grup Atribute';
-$_['entry_sort_order']       = 'Ordinea de Sortare';
+$_['entry_sort_order']       = 'Ordine Sortare';
 
 // Error
 $_['error_permission']       = 'Atenție: Nu ai permisiunea de a modifica atributele!';
