@@ -49,4 +49,4 @@ $_['error_not_cancelled']                  = 'Eroare: %s';
 $_['error_not_found']                      = 'Nu se poate anula recurența';
 
 // Button
-$_['button_return']                        = 'Înapoi';
+$_['button_return']                        = 'Returnare';
