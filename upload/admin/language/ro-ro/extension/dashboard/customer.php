@@ -10,7 +10,7 @@ $_['text_view']        = 'Vezi mai mult...';
 
 // Entry
 $_['entry_status']     = 'Stare';
-$_['entry_sort_order'] = 'Ordinea de Sortare';
+$_['entry_sort_order'] = 'Ordine Sortare';
 $_['entry_width']      = 'Lăţime';
 
 // Error
