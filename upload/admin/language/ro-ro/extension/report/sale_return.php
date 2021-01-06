@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Returns Report';
+$_['heading_title']     = 'Raport Returnări';
 
 // Text
 $_['text_extension']    = 'Extensii';
@@ -22,9 +22,9 @@ $_['column_returns']    = 'No. Returns';
 $_['entry_date_start']  = 'Dată de Început';
 $_['entry_date_end']    = 'Dată de Sfârșit';
 $_['entry_group']       = 'Group By';
-$_['entry_status']      = 'Status';
+$_['entry_status']      = 'Return Status';
 $_['entry_status']      = 'Stare';
-$_['entry_sort_order']  = 'Ordinea de Sortare';
+$_['entry_sort_order']  = 'Ordine Sortare';
 
 // Error
 $_['error_permission']  = 'Warning: You do not have permission to modify returns report!';
