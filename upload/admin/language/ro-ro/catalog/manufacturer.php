@@ -14,7 +14,7 @@ $_['text_keyword']      = 'Nu utiliza spații, în schimb înlocuieste spațiile
 
 // Column
 $_['column_name']       = 'Nume Producător';
-$_['column_sort_order'] = 'Ordinea de Sortare';
+$_['column_sort_order'] = 'Ordine Sortare';
 $_['column_action']     = 'Acțiune';
 
 // Entry
@@ -22,7 +22,7 @@ $_['entry_name']        = 'Nume Producător';
 $_['entry_store']       = 'Magazine';
 $_['entry_keyword']     = 'Cuvânt Cheie';
 $_['entry_image']       = 'Imagine';
-$_['entry_sort_order']  = 'Ordinea de Sortare';
+$_['entry_sort_order']  = 'Ordine Sortare';
 $_['entry_type']        = 'Tip';
 
 // Error
