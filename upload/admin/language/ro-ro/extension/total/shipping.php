@@ -10,7 +10,7 @@ $_['text_edit']        = 'Edit Shipping Total';
 // Entry
 $_['entry_estimator']  = 'Shipping Estimator';
 $_['entry_status']     = 'Stare';
-$_['entry_sort_order'] = 'Ordinea de Sortare';
+$_['entry_sort_order'] = 'Ordine Sortare';
 
 // Error
 $_['error_permission'] = 'Warning: You do not have permission to modify shipping total!';
