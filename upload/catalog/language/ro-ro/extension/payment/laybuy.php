@@ -26,4 +26,4 @@ $_['entry_initial']			= 'Initial Payment';
 $_['entry_months']			= 'Luni';
 
 // Button
-$_['button_confirm']		= 'Confirmă Comanda';
+$_['button_confirm']		= 'Confirmare Comandă';
