@@ -129,4 +129,4 @@ $_['help_override']              = 'If the customers order is being blocked from
 $_['error_warning']              = 'Atenție: Te rugăm să verifici cu atenție formularul pentru erori!';
 $_['error_permission']           = 'Warning: You do not have permission to modify orders!';
 $_['error_action']               = 'Warning: Could not complete this action!';
-$_['error_filetype']             = 'Tip fișier nevalid!';
+$_['error_filetype']             = 'Tip fișier incorect!';
