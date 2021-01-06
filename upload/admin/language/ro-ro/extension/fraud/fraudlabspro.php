@@ -8,7 +8,7 @@ $_['text_success']               = 'Success: You have modified FraudLabs Pro Set
 $_['text_edit']                  = 'Setări';
 $_['text_signup']                = 'FraudLabs Pro is a fraud detection service. You can <a href="http://www.fraudlabspro.com/plan?ref=1730" target="_blank"><u>sign up here</u></a> for a free API Key.';
 $_['text_id']                    = 'FraudLabs Pro ID';
-$_['text_ip_address']            = 'IP Address';
+$_['text_ip_address']            = 'Adresă IP';
 $_['text_ip_net_speed']          = 'IP Net Speed';
 $_['text_ip_isp_name']           = 'IP ISP Name';
 $_['text_ip_usage_type']         = 'IP Usage Type';
@@ -53,7 +53,7 @@ $_['help_approve_status']        = 'Orders that marked as approve by FraudLabs P
 $_['help_reject_status']         = 'Orders that marked as reject by FraudLabs Pro will be assigned this order status.';
 $_['help_simulate_ip']           = 'Simulate the visitor IP address for testing. Leave blank to disable it.';
 $_['help_fraudlabspro_id']       = 'Unique identifier for a transaction screened by FraudLabs Pro system.';
-$_['help_ip_address']            = 'IP Address.';
+$_['help_ip_address']            = 'Adresă IP.';
 $_['help_ip_net_speed']          = 'Connection speed.';
 $_['help_ip_isp_name']           = 'ISP of the IP address.';
 $_['help_ip_usage_type']         = 'Usage type of the IP address. E.g, ISP, Commercial, Residential.';
