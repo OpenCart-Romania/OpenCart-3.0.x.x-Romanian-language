@@ -2,7 +2,7 @@ files:
   - source: /upload/**/language/en-gb/**/**/**/*.php
     ignore:
       - /upload/catalog/language/en-gb/information/tracking.php
-      - /upload/**/language/en-gb/**/**/**/en-gb.php
+      - /upload/**/language/en-gb/en-gb.php
     translation: /upload/**/language/%locale%/**/**/**/%original_file_name%
-  - source: /upload/**/language/en-gb/**/**/**/en-gb.php
-    translation: /upload/**/language/%locale%/**/**/**/%locale%.%file_extension%
+  - source: /upload/**/language/en-gb/en-gb.php
+    translation: /upload/**/language/%locale%/%locale%.%file_extension%
