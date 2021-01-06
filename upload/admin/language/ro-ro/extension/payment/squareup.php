@@ -180,7 +180,7 @@ $_['error_no_refund']                                   = 'Refund failed.';
 // Column
 $_['column_transaction_id']                             = 'Transaction ID';
 $_['column_order_id']                                   = 'ID Comandă';
-$_['column_customer']                                   = 'Customer';
+$_['column_customer']                                   = 'Client';
 $_['column_status']                                     = 'Stare';
 $_['column_type']                                       = 'Tip';
 $_['column_amount']                                     = 'Valoare';
