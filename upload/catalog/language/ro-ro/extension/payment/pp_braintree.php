@@ -1,7 +1,7 @@
 <?php
 // Text
 $_['text_title']						= 'Cards or PayPal';
-$_['text_express_title']      			= 'Confirm order';
+$_['text_express_title']      			= 'Confirmare comandă';
 $_['text_vaulted_payment_method_name']	= '%s ending in %s, expires %s';
 $_['text_remember']						= 'Save for next time?';
 $_['text_remove']						= 'Elimină';
