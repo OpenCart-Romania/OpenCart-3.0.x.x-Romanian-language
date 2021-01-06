@@ -14,7 +14,7 @@ $_['column_status']    = 'Stare';
 $_['column_action']    = 'Acțiune';
 
 // Entry
-$_['entry_code']       = 'Module';
+$_['entry_code']       = 'Modul';
 $_['entry_name']       = 'Module Name';
 
 // Error
