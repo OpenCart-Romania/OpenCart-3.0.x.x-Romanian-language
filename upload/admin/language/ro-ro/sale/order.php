@@ -3,7 +3,7 @@
 $_['heading_title']              = 'Comenzi';
 
 // Text
-$_['text_success']               = 'Success: You have modified orders!';
+$_['text_success']               = 'Succes: Ai modificat comenzile!';
 $_['text_list']                  = 'Order List';
 $_['text_add']                   = 'Add Order';
 $_['text_edit']                  = 'Edit Order';
