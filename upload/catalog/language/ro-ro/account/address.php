@@ -11,6 +11,7 @@ $_['text_add']           = 'Adresa ta a fost adăugată cu succes';
 $_['text_edit']          = 'Adresa ta a fost actualizată cu succes';
 $_['text_delete']        = 'Adresa ta a fost ștearsă cu succes';
 $_['text_empty']         = 'Nu ai nicio adresă în contul tău.';
+$_['text_confirm']       = 'Ești sigur?';
 
 // Entry
 $_['entry_firstname']    = 'Prenume';
