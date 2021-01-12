@@ -27,4 +27,4 @@ $_['error_permission']  = 'Atenție: Nu ai permisiunea de a modifica grupurile d
 $_['error_name']        = 'Nume Grup Clienți trebuie să fie între 3 și 32 de caractere!';
 $_['error_default']     = 'Warning: This customer group cannot be deleted as it is currently assigned as the default store customer group!';
 $_['error_store']       = 'Warning: This customer group cannot be deleted as it is currently assigned to %s stores!';
-$_['error_customer']    = 'Warning: This customer group cannot be deleted as it is currently assigned to %s customers!';
+$_['error_customer']    = 'Atenție: Acest grup de clienți nu poate fi șters deoarece în prezent este asociat cu %s clienți!';
