@@ -4,7 +4,7 @@ $_['text_success']           = 'Succes: Ai modificat comenzile!';
 
 // Error
 $_['error_permission']       = 'Atenție: Nu ai permisiunea de a accesa API!';
-$_['error_customer']         = 'Warning: Customer details needs to be set!';
+$_['error_customer']         = 'Atenție: Detalii client trebuie să fie stabilite!';
 $_['error_payment_address']  = 'Warning: Payment address required!';
 $_['error_payment_method']   = 'Warning: Payment method required!';
 $_['error_no_payment']       = 'Warning: No Payment options are available!';
