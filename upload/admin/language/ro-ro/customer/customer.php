@@ -31,7 +31,7 @@ $_['text_unlock']               = 'Deblocare Cont';
 // Column
 $_['column_name']               = 'Nume Client';
 $_['column_email']              = 'E-Mail';
-$_['column_customer_group']     = 'Grup Clienți';
+$_['column_customer_group']     = 'Grup de Clienți';
 $_['column_status']             = 'Stare';
 $_['column_date_added']         = 'Data Adăugării';
 $_['column_comment']            = 'Comentariu';
@@ -43,7 +43,7 @@ $_['column_total']              = 'Total Conturi';
 $_['column_action']             = 'Acțiune';
 
 // Entry
-$_['entry_customer_group']      = 'Grup Clienți';
+$_['entry_customer_group']      = 'Grup de Clienți';
 $_['entry_firstname']           = 'Prenume';
 $_['entry_lastname']            = 'Nume de Familie';
 $_['entry_email']               = 'E-Mail';
@@ -64,15 +64,15 @@ $_['entry_zone']                = 'Regiune / Județ';
 $_['entry_default']             = 'Adresa Implicită';
 $_['entry_affiliate']           = 'Afiliat';
 $_['entry_tracking']            = 'Cod de Urmărire';
-$_['entry_website']             = 'Web Site';
+$_['entry_website']             = 'Site Web';
 $_['entry_commission']          = 'Comision (%)';
 $_['entry_tax']                 = 'C.U.I. / Cod TVA';
 $_['entry_payment']             = 'Metodă de Plată';
 $_['entry_cheque']              = 'Nume Beneficiar Cec';
 $_['entry_paypal']              = 'Email Cont PayPal';
 $_['entry_bank_name']           = 'Nume Bancă';
-$_['entry_bank_branch_number']  = 'ABA/BSB number (Branch Number)';
-$_['entry_bank_swift_code']     = 'SWIFT Code';
+$_['entry_bank_branch_number']  = 'Număr ABA/BSB (Număr sucursală)';
+$_['entry_bank_swift_code']     = 'Cod SWIFT';
 $_['entry_bank_account_name']   = 'Nume Cont';
 $_['entry_bank_account_number'] = 'Număr Cont';
 $_['entry_comment']             = 'Comentariu';
@@ -84,11 +84,11 @@ $_['entry_ip']                  = 'IP';
 $_['entry_date_added']          = 'Data Adăugării';
 
 // Help
-$_['help_safe']                 = 'Set to true to avoid this customer from being caught by the anti-fraud system';
-$_['help_affiliate']            = 'Enable / Disable the customers ability to use the affiliate system.';
-$_['help_tracking']             = 'The tracking code that will be used to track referrals.';
-$_['help_commission']           = 'Percentage the affiliate receives on each order.';
-$_['help_points']               = 'Use minus to remove points';
+$_['help_safe']                 = 'Selectați Da pentru a evita ca acest client sa fie prins de sistemul antifrauda';
+$_['help_affiliate']            = 'Activează / Dezactivează posibilitatea clientului de a folosi sistemul de afiliere.';
+$_['help_tracking']             = 'Codul de urmărire care va fi folosit pentru a urmări recomandările.';
+$_['help_commission']           = 'Procentajul pe care afiliatul îl primește pentru fiecare comandă.';
+$_['help_points']               = 'Utilizați minus pentru a elimina punctele';
 
 // Error
 $_['error_warning']             = 'Atenție: Te rugăm să verifici cu atenție formularul pentru erori!';
@@ -107,7 +107,7 @@ $_['error_country']             = 'Te rugăm selectează o țară!';
 $_['error_zone']                = 'Te rugăm selectează o Regiune / un Județ!';
 $_['error_custom_field']        = '%s necesar!';
 $_['error_tracking']            = 'Cod de Urmărire necesar!';
-$_['error_tracking_exists']     = 'Tracking code is being used by another affiliate!';
+$_['error_tracking_exists']     = 'Codul de urmărire este folosit deja de un alt afiliat!';
 $_['error_cheque']              = 'Nume Beneficiar Cec necesar!';
 $_['error_paypal']              = 'Adresa Email PayPal nu pare să fie validă!';
 $_['error_bank_account_name']   = 'Nume Cont necesar!';
