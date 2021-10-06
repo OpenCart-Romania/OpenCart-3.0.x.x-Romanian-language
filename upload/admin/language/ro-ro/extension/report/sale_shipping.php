@@ -24,7 +24,6 @@ $_['column_total']      = 'Total';
 $_['entry_date_start']  = 'Dată de Început';
 $_['entry_date_end']    = 'Dată de Sfârșit';
 $_['entry_group']       = 'Group By';
-$_['entry_status']      = 'Stare Comandă';
 $_['entry_status']      = 'Stare';
 $_['entry_sort_order']  = 'Ordine Sortare';
 
