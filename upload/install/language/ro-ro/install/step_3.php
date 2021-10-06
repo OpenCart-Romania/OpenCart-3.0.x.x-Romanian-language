@@ -7,7 +7,7 @@ $_['text_step_3']            = 'Introdu baza de date și detaliile de administra
 $_['text_db_connection']     = '1. Te rog introdu detaliile conexiunii bazei de date.';
 $_['text_db_administration'] = '2. Te rog introdu un nume de utilizator și o parolă pentru administrare.';
 $_['text_mysqli']            = 'MySQLi';
-$_['text_pdo']               = 'mPDO';
+$_['text_pdo']               = 'PDO';
 $_['text_pgsql']             = 'PostgreSQL';
 
 // Entry
