@@ -1,8 +1,8 @@
 <?php
 // Text
-$_['text_subject']  = 'You have been sent a gift certificate from %s';
-$_['text_greeting'] = 'Congratulations, You have received a Gift Certificate worth %s';
-$_['text_from']     = 'This Gift Certificate has been sent to you by %s';
-$_['text_message']  = 'With a message saying';
-$_['text_redeem']   = 'To redeem this Gift Certificate, write down the redemption code which is <b>%s</b> then click on the the link below and purchase the product you wish to use this gift certificate on. You can enter the gift certificate code on the shopping cart page before you click checkout.';
-$_['text_footer']   = 'Please reply to this e-mail if you have any questions.';
+$_['text_subject']  = 'Ti-a fost trimis un voucher cadou de la %s';
+$_['text_greeting'] = 'Felicitări, aţi primit un certificat cadou în valoare de %s';
+$_['text_from']     = 'Acest Certificat Cadou a fost trimis dvs de către %s';
+$_['text_message']  = 'Cu un mesaj care spune';
+$_['text_redeem']   = 'Pentru a folosi acest Cupon de Cadou, scrieți codul <b>%s</b> apoi dați clic pe link-ul de jos și cumpărați produsul pentru care vreți să folosiți acest cupon de cadou. Puteți introduce codul cuponului cadou pe pagina coșului de cumpărături înainte de sa faceți clic pe checkout.';
+$_['text_footer']   = 'Vă rugăm să răspundeţi la acest e-mail dacă aveţi întrebări.';
