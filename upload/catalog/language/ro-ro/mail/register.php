@@ -1,0 +1,15 @@
+<?php
+// Text
+$_['text_subject']        = '%s - Îți mulțumim pentru înregistrare';
+$_['text_welcome']        = 'Bine ai venit și îți mulțumim că te-ai înregistrat la %s!';
+$_['text_login']          = 'Contul tău a fost creat şi te poți conecta folosindu-ți adresa de email şi parola pe site-ul nostru sau la următorul URL:';
+$_['text_approval']       = 'Contul tău trebuie să fie aprobat înainte de a te putea conecta. Odată aprobat, te poți conecta folosindu-ți adresa de email şi parola pe site-ul nostru sau la următorul URL:';
+$_['text_service']        = 'La conectare vei putea accesa și alte servicii, inclusiv recenzarea unei comenzi, imprimarea de facturi şi modificarea informaţiilor contului tău.';
+$_['text_thanks']         = 'Mulțumim';
+$_['text_new_customer']   = 'Client nou';
+$_['text_signup']         = 'Un nou client s-a înregistrat:';
+$_['text_customer_group'] = 'Grup de Clienți:';
+$_['text_firstname']      = 'Prenume:';
+$_['text_lastname']       = 'Nume de Familie:';
+$_['text_email']          = 'E-Mail:';
+$_['text_telephone']      = 'Telefon:';
