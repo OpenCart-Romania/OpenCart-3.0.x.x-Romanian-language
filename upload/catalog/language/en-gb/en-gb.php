@@ -73,7 +73,6 @@ $_['error_curl']            = 'CURL: Error Code(%s): %s';
 /* When doing translations only include the matching language code */
 
 // Datepicker
-$_['datepicker']              = 'en-gb';
 //$_['datepicker']            = 'af';
 //$_['datepicker']            = 'ar-dz';
 //$_['datepicker']            = 'ar-kw';
@@ -101,7 +100,7 @@ $_['datepicker']              = 'en-gb';
 //$_['datepicker']            = 'el';
 //$_['datepicker']            = 'en-au';
 //$_['datepicker']            = 'en-ca';
-//$_['datepicker']            = 'en-gb';
+$_['datepicker']            = 'en-gb';
 //$_['datepicker']            = 'en-ie';
 //$_['datepicker']            = 'en-nz';
 //$_['datepicker']            = 'eo';

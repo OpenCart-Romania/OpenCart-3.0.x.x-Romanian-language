@@ -99,7 +99,7 @@ $_['button_category_add']           = 'Add Category';
 $_['button_order']                  = 'View Order';
 $_['button_order_recurring']        = 'View Recurring Order';
 $_['button_buy']                    = 'Buy';
-$_['button_developer']              = 'Developer Setting';
+$_['button_developer']              = 'Developer Setting'; 
 
 // Tab
 $_['tab_affiliate']                 = 'Affiliate';
@@ -160,7 +160,6 @@ $_['error_curl']                    = 'CURL: Error Code(%s): %s';
 /* When doing translations only include the matching language code */
 
 // Summernote
-$_['summernote']                      = 'en-GB';
 //$_['summernote']                    = 'ar-AR';
 //$_['summernote']                    = 'bg-BG';
 //$_['summernote']                    = 'ca-ES';
@@ -202,7 +201,7 @@ $_['summernote']                      = 'en-GB';
 //$_['summernote']                    = 'zh-TW';
 
 // Datepicker
-$_['datepicker']                      = 'en-gb';
+$_['datepicker']                    = 'en-gb';
 //$_['datepicker']                    = 'af';
 //$_['datepicker']                    = 'ar-dz';
 //$_['datepicker']                    = 'ar-kw';
