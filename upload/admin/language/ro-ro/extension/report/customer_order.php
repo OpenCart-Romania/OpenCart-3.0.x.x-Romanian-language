@@ -12,7 +12,7 @@ $_['text_all_status']       = 'All Statuses';
 // Column
 $_['column_customer']       = 'Nume Client';
 $_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Grup Clienți';
+$_['column_customer_group'] = 'Grup de Clienți';
 $_['column_status']         = 'Stare';
 $_['column_orders']         = 'No. Orders';
 $_['column_products']       = 'No. Products';
