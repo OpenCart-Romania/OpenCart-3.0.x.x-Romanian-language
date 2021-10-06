@@ -48,3 +48,4 @@ $_['tab_review']               = 'Recenzii (%s)';
 $_['error_name']               = 'Atenție: Textul Comentariului trebuie să fie între 3 și 25 de caractere!';
 $_['error_text']               = 'Atenție: Textul Comentariului trebuie să fie între 25 și 1000 de caractere!';
 $_['error_rating']             = 'Atenție: Selectează o evaluare a comentariilor!';
+$_['error_product']            = "Wanring: Product required to add the review!";
