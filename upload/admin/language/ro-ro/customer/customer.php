@@ -72,7 +72,7 @@ $_['entry_cheque']              = 'Nume Beneficiar Cec';
 $_['entry_paypal']              = 'Email Cont PayPal';
 $_['entry_bank_name']           = 'Nume Bancă';
 $_['entry_bank_branch_number']  = 'Număr ABA/BSB (Număr sucursală)';
-$_['entry_bank_swift_code']     = 'Cod SWIFT';
+$_['entry_bank_swift_code']     = 'Codul SWIFT';
 $_['entry_bank_account_name']   = 'Nume Cont';
 $_['entry_bank_account_number'] = 'Număr Cont';
 $_['entry_comment']             = 'Comentariu';
@@ -84,10 +84,10 @@ $_['entry_ip']                  = 'IP';
 $_['entry_date_added']          = 'Data Adăugării';
 
 // Help
-$_['help_safe']                 = 'Selectați Da pentru a evita ca acest client sa fie prins de sistemul antifrauda';
+$_['help_safe']                 = 'Setați la adevărat pentru a evita ca acest client să fie prins de sistemul antifraudă';
 $_['help_affiliate']            = 'Activează / Dezactivează posibilitatea clientului de a folosi sistemul de afiliere.';
 $_['help_tracking']             = 'Codul de urmărire care va fi folosit pentru a urmări recomandările.';
-$_['help_commission']           = 'Procentajul pe care afiliatul îl primește pentru fiecare comandă.';
+$_['help_commission']           = 'Procentajul pe care afiliatul primește pe fiecare comandă.';
 $_['help_points']               = 'Utilizați minus pentru a elimina punctele';
 
 // Error
