@@ -23,7 +23,7 @@ $_['column_action']        = 'Acțiune';
 $_['entry_name']           = 'Tax Name';
 $_['entry_rate']           = 'Tax Rate';
 $_['entry_type']           = 'Tip';
-$_['entry_customer_group'] = 'Grup Clienți';
+$_['entry_customer_group'] = 'Grup de Clienți';
 $_['entry_geo_zone']       = 'Geo Zone';
 
 // Error
