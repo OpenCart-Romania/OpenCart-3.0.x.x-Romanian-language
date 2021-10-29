@@ -10,7 +10,7 @@ $_['text_filter']           = 'Filtru';
 $_['text_all_status']       = 'All Statuses';
 
 // Column
-$_['column_customer']       = 'Nume Client';
+$_['column_customer']       = 'Numele Clientului';
 $_['column_email']          = 'E-Mail';
 $_['column_customer_group'] = 'Grup de Clienți';
 $_['column_status']         = 'Stare';
