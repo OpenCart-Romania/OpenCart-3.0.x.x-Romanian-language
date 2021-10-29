@@ -10,7 +10,7 @@ $_['text_customer']         = 'Client';
 $_['text_affiliate']        = 'Afiliat';
 
 // Column
-$_['column_name']           = 'Nume Client';
+$_['column_name']           = 'Numele Clientului';
 $_['column_email']          = 'E-Mail';
 $_['column_customer_group'] = 'Grup de Clienți';
 $_['column_type']           = 'Tip';
@@ -18,7 +18,7 @@ $_['column_date_added']     = 'Data Adăugării';
 $_['column_action']         = 'Acțiune';
 
 // Entry
-$_['entry_name']            = 'Nume Client';
+$_['entry_name']            = 'Numele Clientului';
 $_['entry_email']           = 'E-Mail';
 $_['entry_customer_group']  = 'Grup de Clienți';
 $_['entry_type']            = 'Tip';
