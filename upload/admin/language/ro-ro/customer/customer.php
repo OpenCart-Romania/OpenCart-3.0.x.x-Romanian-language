@@ -29,7 +29,7 @@ $_['text_login']                = 'Autentificare în Magazin';
 $_['text_unlock']               = 'Deblocare Cont';
 
 // Column
-$_['column_name']               = 'Nume Client';
+$_['column_name']               = 'Numele Clientului';
 $_['column_email']              = 'E-Mail';
 $_['column_customer_group']     = 'Grup de Clienți';
 $_['column_status']             = 'Stare';
@@ -79,15 +79,15 @@ $_['entry_comment']             = 'Comentariu';
 $_['entry_description']         = 'Descriere';
 $_['entry_amount']              = 'Valoare';
 $_['entry_points']              = 'Puncte';
-$_['entry_name']                = 'Nume Client';
+$_['entry_name']                = 'Numele Clientului';
 $_['entry_ip']                  = 'IP';
 $_['entry_date_added']          = 'Data Adăugării';
 
 // Help
-$_['help_safe']                 = 'Setați la adevărat pentru a evita ca acest client să fie prins de sistemul antifraudă';
+$_['help_safe']                 = 'Setați cu "adevărat" pentru a evita ca acest client să fie prins de sistemul antifraudă';
 $_['help_affiliate']            = 'Activează / Dezactivează posibilitatea clientului de a folosi sistemul de afiliere.';
 $_['help_tracking']             = 'Codul de urmărire care va fi folosit pentru a urmări recomandările.';
-$_['help_commission']           = 'Procentajul pe care afiliatul primește pe fiecare comandă.';
+$_['help_commission']           = 'Procentul pe care afiliatul îl primește la fiecare comandă.';
 $_['help_points']               = 'Utilizați minus pentru a elimina punctele';
 
 // Error
@@ -107,7 +107,7 @@ $_['error_country']             = 'Te rugăm selectează o țară!';
 $_['error_zone']                = 'Te rugăm selectează o Regiune / un Județ!';
 $_['error_custom_field']        = '%s necesar!';
 $_['error_tracking']            = 'Cod de Urmărire necesar!';
-$_['error_tracking_exists']     = 'Codul de urmărire este folosit deja de un alt afiliat!';
+$_['error_tracking_exists']     = 'Codul de urmărire este utilizat de un alt afiliat!';
 $_['error_cheque']              = 'Nume Beneficiar Cec necesar!';
 $_['error_paypal']              = 'Adresa Email PayPal nu pare să fie validă!';
 $_['error_bank_account_name']   = 'Nume Cont necesar!';
