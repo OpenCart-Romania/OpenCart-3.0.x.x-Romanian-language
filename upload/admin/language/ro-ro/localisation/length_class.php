@@ -27,4 +27,4 @@ $_['error_permission'] = 'Warning: You do not have permission to modify length c
 $_['error_title']      = 'Length Title must be between 3 and 32 characters!';
 $_['error_unit']       = 'Length Unit must be between 1 and 4 characters!';
 $_['error_default']    = 'Atenție: Această clasă de lungime nu poate fi ștearsă, deoarece în prezent este atribuită ca fiind clasă de lungime implicită magazin!';
-$_['error_product']    = 'Warning: This length class cannot be deleted as it is currently assigned to %s products!';
+$_['error_product']    = 'Atenție: Această clasă de lungime nu poate fi ștearsă, deoarece în prezent este atribuită la %s produse!';
