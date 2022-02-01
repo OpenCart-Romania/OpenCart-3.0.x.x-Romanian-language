@@ -34,5 +34,5 @@ $_['error_permission']     = 'Warning: You do not have permission to modify curr
 $_['error_title']          = 'Currency Title must be between 3 and 32 characters!';
 $_['error_code']           = 'Currency Code must contain 3 characters!';
 $_['error_default']        = 'Atenție: Această monedă nu poate fi ștearsă, deoarece în prezent este atribuită ca monedă implicită magazin!';
-$_['error_store']          = 'Warning: This currency cannot be deleted as it is currently assigned to %s stores!';
-$_['error_order']          = 'Warning: This currency cannot be deleted as it is currently assigned to %s orders!';
+$_['error_store']          = 'Atenție: Această monedă nu poate fi ștearsă, deoarece în prezent este atribuită la %s magazine!';
+$_['error_order']          = 'Atenție: Această monedă nu poate fi ștearsă, deoarece în prezent este atribuită la %s comenzi!';
