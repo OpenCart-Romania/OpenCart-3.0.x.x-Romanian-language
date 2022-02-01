@@ -25,6 +25,6 @@ $_['help_approval']     = 'Clienții trebuie să fie aprobați de un administrat
 // Error
 $_['error_permission']  = 'Atenție: Nu ai permisiunea de a modifica grupurile de clienți!';
 $_['error_name']        = 'Numele Grupului de Clienți trebuie să fie între 3 și 32 de caractere!';
-$_['error_default']     = 'Avertisment: Acest grup de clienți nu poate fi șters, deoarece este atribuit în prezent ca grup implicit de clienți magazin!';
+$_['error_default']     = 'Atenție: Acest grup de clienți nu poate fi șters, deoarece în prezent este atribuit ca grup implicit de clienți magazin!';
 $_['error_store']       = 'Avertisment: Acest grup de clienți nu poate fi șters, deoarece este atribuit în prezent la %s magazine!';
 $_['error_customer']    = 'Atenție: Acest grup de clienți nu poate fi șters deoarece în prezent este asociat cu %s clienți!';
