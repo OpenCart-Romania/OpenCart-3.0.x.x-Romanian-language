@@ -13,7 +13,7 @@ $_['text_twig']         = 'The theme editor uses the template language Twig. You
 
 // Column
 $_['column_store']      = 'Magazin';
-$_['column_route']      = 'Route';
+$_['column_route']      = 'Rută';
 $_['column_theme']      = 'Temă';
 $_['column_date_added'] = 'Data Adăugării';
 $_['column_action']     = 'Acțiune';
