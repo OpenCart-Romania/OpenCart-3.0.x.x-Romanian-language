@@ -29,8 +29,8 @@ $_['help_address_format']     = 'First Name = {firstname}<br />Last Name = {last
 $_['error_permission']        = 'Warning: You do not have permission to modify countries!';
 $_['error_name']              = 'Nume Țară trebuie să fie între 1 și 128 de caractere!';
 $_['error_default']           = 'Atenție: Această țară nu poate fi ștearsă, deoarece în prezent este atribuită ca țară implicită magazin!';
-$_['error_store']             = 'Warning: This country cannot be deleted as it is currently assigned to %s stores!';
-$_['error_address']           = 'Warning: This country cannot be deleted as it is currently assigned to %s address book entries!';
-$_['error_affiliate']         = 'Warning: This country cannot be deleted as it is currently assigned to %s affiliates!';
-$_['error_zone']              = 'Warning: This country cannot be deleted as it is currently assigned to %s zones!';
-$_['error_zone_to_geo_zone']  = 'Warning: This country cannot be deleted as it is currently assigned to %s zones to geo zones!';
+$_['error_store']             = 'Atenție: Această țară nu poate fi ștearsă, deoarece în prezent este atribuită la %s magazine!';
+$_['error_address']           = 'Atenție: Această țară nu poate fi ștearsă, deoarece în prezent este atribuită la %s intrări în agendă!';
+$_['error_affiliate']         = 'Atenție: Această țară nu poate fi ștearsă, deoarece în prezent este asociată cu %s afiliați!';
+$_['error_zone']              = 'Atenție: Această țară nu poate fi ștearsă, deoarece în prezent este atribuită la %s zone!';
+$_['error_zone_to_geo_zone']  = 'Atenție: Această țară nu poate fi ștearsă, deoarece în prezent este atribuită la %s zone din zonele geografice!';
