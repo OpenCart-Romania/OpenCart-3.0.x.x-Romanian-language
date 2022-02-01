@@ -26,5 +26,5 @@ $_['help_value']       = 'Set to 1.00000 if this is your default weight.';
 $_['error_permission'] = 'Warning: You do not have permission to modify weight classes!';
 $_['error_title']      = 'Weight Title must be between 3 and 32 characters!';
 $_['error_unit']       = 'Weight Unit must be between 1 and 4 characters!';
-$_['error_default']    = 'Warning: This weight class cannot be deleted as it is currently assigned as the default store weight class!';
+$_['error_default']    = 'Atenție: Această clasă de greutate nu poate fi ștearsă, deoarece în prezent este atribuită ca fiind clasă de greutate implicită magazin!';
 $_['error_product']    = 'Warning: This weight class cannot be deleted as it is currently assigned to %s products!';
