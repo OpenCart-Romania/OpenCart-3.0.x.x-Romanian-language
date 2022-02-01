@@ -32,5 +32,5 @@ $_['error_name']          = 'Nume Layout trebuie să fie între 3 și 64 de cara
 $_['error_default']       = 'Atenție: Acest layout nu poate fi șters, deoarece în prezent este atribuit ca layout implicit magazin!';
 $_['error_store']         = 'Atenție: Acest layout nu poate fi șters, deoarece în prezent este atribuit la %s magazine!';
 $_['error_product']       = 'Atenție: Acest layout nu poate fi șters, deoarece în prezent este atribuit la %s produse!';
-$_['error_category']      = 'Warning: This layout cannot be deleted as it is currently assigned to %s categories!';
-$_['error_information']   = 'Warning: This layout cannot be deleted as it is currently assigned to %s information pages!';
+$_['error_category']      = 'Atenție: Acest layout nu poate fi șters, deoarece în prezent este atribuit la %s categorii!';
+$_['error_information']   = 'Atenție: Acest layout nu poate fi șters, deoarece în prezent este atribuit la %s pagini de informare!';
