@@ -28,7 +28,7 @@ $_['help_address_format']     = 'First Name = {firstname}<br />Last Name = {last
 // Error
 $_['error_permission']        = 'Warning: You do not have permission to modify countries!';
 $_['error_name']              = 'Nume Țară trebuie să fie între 1 și 128 de caractere!';
-$_['error_default']           = 'Warning: This country cannot be deleted as it is currently assigned as the default store country!';
+$_['error_default']           = 'Atenție: Această țară nu poate fi ștearsă, deoarece în prezent este atribuită ca țară implicită magazin!';
 $_['error_store']             = 'Warning: This country cannot be deleted as it is currently assigned to %s stores!';
 $_['error_address']           = 'Warning: This country cannot be deleted as it is currently assigned to %s address book entries!';
 $_['error_affiliate']         = 'Warning: This country cannot be deleted as it is currently assigned to %s affiliates!';
