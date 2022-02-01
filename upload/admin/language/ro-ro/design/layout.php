@@ -4,9 +4,9 @@ $_['heading_title']       = 'Layout-uri';
 
 // Text
 $_['text_success']        = 'Succes: Ai modificat layout-urile!';
-$_['text_list']           = 'Layout List';
+$_['text_list']           = 'Listă de Layout-uri';
 $_['text_add']            = 'Adaugă Layout';
-$_['text_edit']           = 'Edit Layout';
+$_['text_edit']           = 'Editează Layout';
 $_['text_remove']         = 'Elimină';
 $_['text_route']          = 'Choose the store and routes to be used with this layout';
 $_['text_module']         = 'Choose the position of the modules';
