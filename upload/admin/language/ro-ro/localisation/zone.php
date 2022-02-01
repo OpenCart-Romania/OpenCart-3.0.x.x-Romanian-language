@@ -23,7 +23,7 @@ $_['entry_status']           = 'Stare';
 // Error
 $_['error_permission']       = 'Warning: You do not have permission to modify zones!';
 $_['error_name']             = 'Nume Zonă trebuie să fie între 1 şi 128 de caractere!';
-$_['error_default']          = 'Warning: This zone cannot be deleted as it is currently assigned as the default store zone!';
+$_['error_default']          = 'Atenție: Această zonă nu poate fi ștearsă, deoarece în prezent este atribuită ca zonă implicită magazin!';
 $_['error_store']            = 'Warning: This zone cannot be deleted as it is currently assigned to %s stores!';
 $_['error_address']          = 'Warning: This zone cannot be deleted as it is currently assigned to %s address book entries!';
 $_['error_affiliate']        = 'Warning: This zone cannot be deleted as it is currently assigned to %s affiliates!';
