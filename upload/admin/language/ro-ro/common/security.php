@@ -5,7 +5,7 @@ $_['heading_title']    = 'Notificare Importantă de Securitate!';
 // Text
 $_['text_success']     = 'Succes: Ai modificat directorul "storage"!';
 $_['text_admin']       = 'Editează admin/config.php și modifică';
-$_['text_security']    = 'It is very important that you move the storage directory outside of the web directory (e.g. public_html, www or htdocs).';
+$_['text_security']    = 'Este foarte important să muți directorul "storage" în afara directorului web (e.g. public_html, www sau htdocs).';
 $_['text_choose']      = 'Alege cum să muți directorul de stocare';
 $_['text_automatic']   = 'Mutare automată';
 $_['text_manual']      = 'Mutare manuală';
