@@ -18,4 +18,4 @@ $_['entry_name']       = 'Nume Motiv Returnare';
 // Error
 $_['error_permission'] = 'Warning: You do not have permission to modify return reasons!';
 $_['error_name']       = 'Nume Motiv Returnare trebuie să fie între 3 și 128 de caractere!';
-$_['error_return']     = 'Warning: This return reason cannot be deleted as it is currently assigned to %s returned products!';
+$_['error_return']     = 'Atenție: Acest motiv de returnare nu poate fi șters, deoarece în prezent este atribuit la %s produse returnate!';
