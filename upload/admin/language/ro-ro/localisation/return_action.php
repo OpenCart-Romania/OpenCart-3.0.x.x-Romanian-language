@@ -17,5 +17,5 @@ $_['entry_name']       = 'Return Action Name';
 
 // Error
 $_['error_permission'] = 'Warning: You do not have permission to modify return actions!';
-$_['error_name']       = 'Return Action Name must be between 3 and 64 characters!';
+$_['error_name']       = 'Nume Acțiune Returnare trebuie să fie între 3 și 64 de caractere!';
 $_['error_return']     = 'Atenție: Această acțiune de returnare nu poate fi ștearsă, deoarece în prezent este atribuită la %s produse returnate!';
