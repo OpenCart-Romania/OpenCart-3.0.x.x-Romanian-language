@@ -18,5 +18,5 @@ $_['entry_name']       = 'Return Status Name';
 // Error
 $_['error_permission'] = 'Warning: You do not have permission to modify return statuses!';
 $_['error_name']       = 'Return Status Name must be between 3 and 32 characters!';
-$_['error_default']    = 'Warning: This return status cannot be deleted as it is currently assigned as the default return status!';
+$_['error_default']    = 'Atenție: Această stare de returnare nu poate fi ștearsă, deoarece în prezent este atribuită ca stare implicită de returnare!';
 $_['error_return']     = 'Atenție: Această stare de returnare nu poate fi ștearsă, deoarece în prezent este asociată cu %s returnări!';
