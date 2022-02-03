@@ -19,6 +19,6 @@ $_['entry_name']       = 'Order Status Name';
 $_['error_permission'] = 'Warning: You do not have permission to modify order statuses!';
 $_['error_name']       = 'Order Status Name must be between 3 and 32 characters!';
 $_['error_default']    = 'Atenție: Această stare a comenzii nu poate fi ștearsă, deoarece în prezent este atribuită ca stare comandă implicită magazin!';
-$_['error_download']   = 'Warning: This order status cannot be deleted as it is currently assigned as the default download status!';
+$_['error_download']   = 'Atenție: Această stare a comenzii nu poate fi ștearsă, deoarece în prezent este atribuită ca stare implicită de descărcare!';
 $_['error_store']      = 'Atenție: Această stare de comandă nu poate fi ștearsă, deoarece în prezent este atribuită la %s magazine!';
 $_['error_order']      = 'Atenție: Această stare de comandă nu poate fi ștearsă, deoarece în prezent este atribuită la %s comenzi!';
