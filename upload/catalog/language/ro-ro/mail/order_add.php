@@ -1,7 +1,7 @@
 <?php
 // Text
 $_['text_subject']          = '%s - Comanda %s';
-$_['text_greeting']         = 'Îți mulţumim pentru interesul tău asupra acestor %s produse. Comanda ta a fost recepționată şi va fi procesată imediat ce plata a fost confirmată.';
+$_['text_greeting']         = 'Îți mulțumim pentru interesul tău în %s produse. Comanda a fost primită și va fi procesată după confirmarea plății.';
 $_['text_link']             = 'Pentru a-ți vizualiza comanda apasă pe linkul de mai jos:';
 $_['text_order_detail']     = 'Detalii comandă';
 $_['text_instruction']      = 'Instrucțiuni';
@@ -22,6 +22,6 @@ $_['text_quantity']         = 'Cantitate';
 $_['text_price']            = 'Preț';
 $_['text_order_total']      = 'Totaluri Comandă';
 $_['text_total']            = 'Total';
-$_['text_download']         = 'Odată ce s-a confirmat plata ta, poţi apăsa pe linkul de mai jos pentru a accesa produsele descărcabile:';
+$_['text_download']         = 'Odată ce plata a fost confirmată, puteți face clic pe linkul de mai jos pentru a accesa produsele care pot fi descărcate:';
 $_['text_comment']          = 'Comentariile pentru comanda dvs. sunt:';
-$_['text_footer']           = 'Vă rugăm să răspundeţi la acest e-mail dacă aveţi întrebări.';
+$_['text_footer']           = 'Te rugăm să răspunzi la acest e-mail dacă ai întrebări.';
