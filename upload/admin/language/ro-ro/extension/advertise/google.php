@@ -207,7 +207,7 @@ $_['text_reporting_interval_TODAY']         = 'Astăzi';
 $_['text_reporting_interval_YESTERDAY']     = 'Ieri';
 $_['text_select_country']                   = '-- Țară --';
 $_['text_select_currency']                  = '-- Currency --';
-$_['text_select_language']                  = '-- Language --';
+$_['text_select_language']                  = '-- Limbă --';
 $_['text_selection_all']                    = 'You have selected all <strong>{total}</strong> items on all pages. <a id="deselect_all_pages"><strong>Unselect Everything</strong></a>';
 $_['text_selection_page']                   = 'You have selected <strong>{selected_page}</strong> item(s) on this page. <a id="select_all_pages"><strong>Click here</strong></a> to select all <strong>{total}</strong> items on all pages.';
 $_['text_shipping_carrier']                 = 'Use a distribution center and carrier services';
