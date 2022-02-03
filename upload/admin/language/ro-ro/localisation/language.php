@@ -32,6 +32,6 @@ $_['error_name']        = 'Language Name must be between 3 and 32 characters!';
 $_['error_code']        = 'Language Code must at least 2 characters!';
 $_['error_locale']      = 'Locale required!';
 $_['error_default']     = 'Atenție: Această limbă nu poate fi ștearsă, deoarece în prezent este atribuită ca limbă implicită magazin!';
-$_['error_admin']       = 'Warning: This Language cannot be deleted as it is currently assigned as the administration language!';
+$_['error_admin']       = 'Atenție: Această Limbă nu poate fi ștearsă, deoarece în prezent este atribuită ca limbă de administrare!';
 $_['error_store']       = 'Atenție: Această limbă nu poate fi ștearsă, deoarece în prezent este atribuită la %s magazine!';
 $_['error_order']       = 'Atenție: Această limbă nu poate fi ștearsă, deoarece în prezent este atribuită la %s comenzi!';
