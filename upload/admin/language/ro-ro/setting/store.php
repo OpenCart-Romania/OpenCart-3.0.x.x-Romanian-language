@@ -95,4 +95,4 @@ $_['error_email']                  = 'Adresa E-Mail nu pare să fie validă!';
 $_['error_telephone']              = 'Telefon trebuie să fie între 3 și 32 de caractere!';
 $_['error_customer_group_display'] = 'You must include the default customer group if you are going to use this feature!';
 $_['error_default']                = 'Warning: You can not delete your default store!';
-$_['error_store']                  = 'Warning: This Store cannot be deleted as it is currently assigned to %s orders!';
+$_['error_store']                  = 'Acest Magazin nu poate fi șters, deoarece în prezent este atribuit la %s comenzi!';
