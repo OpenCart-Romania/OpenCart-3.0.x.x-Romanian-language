@@ -27,4 +27,4 @@ $_['error_default']          = 'Atenție: Această zonă nu poate fi ștearsă, 
 $_['error_store']            = 'Atenție: Această zonă nu poate fi ștearsă, deoarece în prezent este atribuită la %s magazine!';
 $_['error_address']          = 'Atenție: Această zonă nu poate fi ștearsă, deoarece în prezent este atribuită la %s intrări în agendă!';
 $_['error_affiliate']        = 'Atenție: Această zonă nu poate fi ștearsă, deoarece în prezent este atribuită la %s afiliați!';
-$_['error_zone_to_geo_zone'] = 'Warning: This zone cannot be deleted as it is currently assigned to %s zones to geo zones!';
+$_['error_zone_to_geo_zone'] = 'Atenție: Această zonă nu poate fi ștearsă, deoarece în prezent este atribuită la %s zone din zonele geografice!';
