@@ -19,5 +19,5 @@ $_['entry_modify']     = 'Modify Permission';
 
 // Error
 $_['error_permission'] = 'Warning: You do not have permission to modify user groups!';
-$_['error_name']       = 'User Group Name must be between 3 and 64 characters!';
+$_['error_name']       = 'Numele Grupului de Utilizatori trebuie să fie între 3 și 64 de caractere!';
 $_['error_user']       = 'Atenție: Acest grup de utilizatori nu poate fi șters, deoarece în prezent este atribuit la %s utilizatori!';
