@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title'] = 'Login with Amazon';
+$_['heading_title'] = 'Conectează-te cu Amazon';
 
 //Text
 $_['text_module'] = 'Modules';
 $_['text_extension']               = 'Extensii';
-$_['text_success'] = 'Success: You have modified module Login with Amazon!';
+$_['text_success'] = 'Succes: Ai modificat modulul Conectează-te cu Amazon!';
 $_['text_content_top'] = 'Conținut in Partea de Sus';
 $_['text_content_bottom'] = 'Conținut în Partea de Jos';
 $_['text_column_left'] = 'Coloană Stânga';
 $_['text_column_right'] = 'Coloană Dreapta';
-$_['text_lwa_button'] = 'Login with Amazon';
+$_['text_lwa_button'] = 'Conectează-te cu Amazon';
 $_['text_login_button'] = 'Autentificare';
 $_['text_a_button'] = 'A';
 $_['text_gold_button'] = 'Gold';
@@ -31,4 +31,4 @@ $_['entry_status'] = 'Stare';
 $_['entry_sort_order'] = 'Ordine Sortare';
 
 //Error
-$_['error_permission'] = 'Warning: You do not have permission to modify module Login with Amazon!';
+$_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica modulul Conectează-te cu Amazon!';
