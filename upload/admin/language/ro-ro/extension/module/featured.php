@@ -4,7 +4,7 @@ $_['heading_title']    = 'Featured';
 
 // Text
 $_['text_extension']   = 'Extensii';
-$_['text_success']     = 'Success: You have modified featured module!';
+$_['text_success']     = 'Succes: Ai modificat modulul recomandate!';
 $_['text_edit']        = 'Edit Featured Module';
 
 // Entry
