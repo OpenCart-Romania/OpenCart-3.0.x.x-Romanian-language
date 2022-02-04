@@ -4,7 +4,7 @@ $_['heading_title']    = 'Category';
 
 // Text
 $_['text_extension']   = 'Extensii';
-$_['text_success']     = 'Succes: Ai modificat modulul categoriei!';
+$_['text_success']     = 'Succes: Ai modificat modulul categorie!';
 $_['text_edit']        = 'Edit Category Module';
 
 // Entry
