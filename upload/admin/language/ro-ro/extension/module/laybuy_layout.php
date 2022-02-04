@@ -4,7 +4,7 @@ $_['heading_title']    = 'Lay-Buy Layout';
 
 // Text
 $_['text_extension']   = 'Extensii';
-$_['text_success']     = 'Success: You have modified Lay-Buy Layout module!';
+$_['text_success']     = 'Succes: Ai modificat modulul Lay-Buy Layout!';
 $_['text_edit']        = 'Edit Lay-Buy Layout Module';
 
 // Entry
