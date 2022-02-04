@@ -4,8 +4,8 @@ $_['heading_title']                = 'Activitate Recentă';
 
 // Text
 $_['text_extension']               = 'Extensii';
-$_['text_success']                 = 'Succes: Ai modificat panoul activitate!';
-$_['text_edit']                    = 'Editează Panoul Activitate Recentă';
+$_['text_success']                 = 'Succes: Ai modificat dashboard-ul activitate!';
+$_['text_edit']                    = 'Editare Dashboard Activitate Recentă';
 $_['text_activity_register']       = '<a href="customer_id=%d">%s</a> registered a new account.';
 $_['text_activity_edit']           = '<a href="customer_id=%d">%s</a> updated their account details.';
 $_['text_activity_password']       = '<a href="customer_id=%d">%s</a> updated their account password.';
@@ -29,4 +29,4 @@ $_['entry_sort_order']             = 'Ordine Sortare';
 $_['entry_width']                  = 'Lăţime';
 
 // Error
-$_['error_permission']             = 'Atenție: Nu ai permisiunea de a modifica panoul activitate!';
+$_['error_permission']             = 'Atenție: Nu ai permisiunea de a modifica dashboard-ul activitate!';
