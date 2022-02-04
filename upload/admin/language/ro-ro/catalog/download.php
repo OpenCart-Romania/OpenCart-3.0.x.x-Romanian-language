@@ -6,7 +6,7 @@ $_['heading_title']     = 'Descărcări';
 $_['text_success']      = 'Succes: Ai modificat descărcările!';
 $_['text_list']         = 'Lista de Descărcări';
 $_['text_add']          = 'Adaugă Descărcare';
-$_['text_edit']         = 'Editează Descărcare';
+$_['text_edit']         = 'Editare Descărcare';
 $_['text_upload']       = 'Fișierul tău a fost încărcat cu succes!';
 
 // Column
