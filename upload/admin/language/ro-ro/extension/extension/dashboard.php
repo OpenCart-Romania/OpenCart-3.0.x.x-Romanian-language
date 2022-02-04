@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Dashboard';
 
 // Text
-$_['text_success']      = 'Succes: Ai modificat panourile de bord!';
+$_['text_success']      = 'Succes: Ai modificat dashboard-urile!';
 $_['text_list']         = 'Listă Dashboard';
 
 // Column
@@ -14,4 +14,4 @@ $_['column_sort_order'] = 'Ordine Sortare';
 $_['column_action']     = 'Acțiune';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify dashboards!';
+$_['error_permission']  = 'Atenție: Nu ai permisiunea de a modifica dashboard-urile!';
