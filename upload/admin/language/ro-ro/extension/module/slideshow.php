@@ -4,7 +4,7 @@ $_['heading_title']    = 'Slideshow';
 
 // Text
 $_['text_extension']   = 'Extensii';
-$_['text_success']     = 'Success: You have modified slideshow module!';
+$_['text_success']     = 'Succes: Ai modificat modulul slideshow!';
 $_['text_edit']        = 'Edit Slideshow Module';
 
 // Entry
