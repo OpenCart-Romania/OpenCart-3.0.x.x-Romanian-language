@@ -6,7 +6,7 @@ $_['heading_title']     = 'Filtre';
 $_['text_success']      = 'Succes: Ai modificat filtrele!';
 $_['text_list']         = 'Listă Filtre';
 $_['text_add']          = 'Adaugă Filtru';
-$_['text_edit']         = 'Editează Filtru';
+$_['text_edit']         = 'Editare Filtru';
 $_['text_group']        = 'Grup Filtre';
 $_['text_value']        = 'Valori Filtru';
 
