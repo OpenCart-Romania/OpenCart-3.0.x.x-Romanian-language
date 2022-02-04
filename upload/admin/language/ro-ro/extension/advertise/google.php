@@ -277,7 +277,7 @@ $_['success_disconnect']                    = 'Success! The extension has been d
 $_['success_index']                         = 'Succes! Ai modificat extensia!';
 $_['success_mapping']                       = 'Success! You have set up mapping!';
 $_['success_merchant']                      = 'Success! Your Google Merchant Center account has been set up! Your website has been claimed!';
-$_['success_merchant_access']           = 'Succes! Contul tău Google Merchant Center a fost configurat! Website-ul tău a fost revendicat! Poţi accesa contul Google Merchant Center legat din <a href="https://merchants.google.com/mc/merchantdashboard?a=%s" target="_blank">Google Merchant Center dashboard </a>.';
+$_['success_merchant_access']           = 'Succes! Contul tău Google Merchant Center a fost configurat! Website-ul tău a fost revendicat! Poți accesa contul Google Merchant Center legat din <a href="https://merchants.google.com/mc/merchantdashboard?a=%s" target="_blank">Google Merchant Center dashboard</a>.';
 $_['success_product']                       = 'Success! The product information has been updated.';
 $_['success_shipping_taxes']                = 'Success! The merchant shipping and taxes have been updated.';
 $_['success_target_add']                    = 'Success! Your new campaign has been created! It will become active as soon as your product feeds get approved by Google Merchant Center.';
