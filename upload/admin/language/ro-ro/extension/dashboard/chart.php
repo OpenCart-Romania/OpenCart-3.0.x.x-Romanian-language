@@ -4,8 +4,8 @@ $_['heading_title']    = 'Statistici Vânzări';
 
 // Text
 $_['text_extension']   = 'Extensii';
-$_['text_success']     = 'Succes: Ai modificat panoul diagramă!';
-$_['text_edit']        = 'Editează Panoul Diagramă';
+$_['text_success']     = 'Succes: Ai modificat dashboard-ul diagramă!';
+$_['text_edit']        = 'Editare Dashboard Diagramă';
 $_['text_order']       = 'Comenzi';
 $_['text_customer']    = 'Clienți';
 $_['text_day']         = 'Astăzi';
@@ -19,4 +19,4 @@ $_['entry_sort_order'] = 'Ordine Sortare';
 $_['entry_width']      = 'Lăţime';
 
 // Error
-$_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica panoul diagramă!';
+$_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica dashboard-ul diagramă!';
