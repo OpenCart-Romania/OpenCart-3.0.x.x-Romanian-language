@@ -20,7 +20,7 @@ $_['text_trial']               = '%s every %s %s for %s payments then ';
 $_['text_recurring']           = '%s every %s %s';
 $_['text_recurring_item']      = 'Articol Recurent';
 $_['text_payment_recurring']   = 'Profil Plată';
-$_['text_trial_description']   = '%s every %d %s(s) for %d payment(s) then';
+$_['text_trial_description']   = '%s la fiecare %d %s(e) pentru %d plată(i) atunci';
 $_['text_payment_description'] = '%s every %d %s(s) for %d payment(s)';
 $_['text_payment_cancel']      = '%s every %d %s(s) until canceled';
 
