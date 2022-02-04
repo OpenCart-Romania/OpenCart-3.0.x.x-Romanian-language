@@ -5,7 +5,7 @@ $_['heading_title']                    = 'Default Store Theme';
 // Text
 $_['text_extension']                   = 'Extensii';
 $_['text_success']                     = 'Success: You have modified the default store theme!';
-$_['text_edit']                        = 'Edit Default Store Theme';
+$_['text_edit']                        = 'Editare Temă Implicită Magazin';
 $_['text_general']                     = 'General';
 $_['text_product']                     = 'Produse';
 $_['text_image']                       = 'Imagini';
