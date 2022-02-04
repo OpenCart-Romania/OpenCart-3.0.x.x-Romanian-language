@@ -14,4 +14,4 @@ $_['entry_sort_order'] = 'Ordine Sortare';
 $_['entry_width']      = 'Lăţime';
 
 // Error
-$_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica panoul online!';
+$_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica dashboard-ul online!';
