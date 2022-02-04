@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Totaluri Comandă';
 
 // Text
-$_['text_success']      = 'Success: You have modified totals!';
+$_['text_success']      = 'Succes: Ai modificat totalurile!';
 $_['text_list']         = 'Order Total List';
 
 // Column
