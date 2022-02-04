@@ -1,9 +1,9 @@
 <?php
 //Headings
-$_['heading_title']                 = 'Amazon Pay and Login with Amazon';
+$_['heading_title']                 = 'Amazon Pay și Conectează-te cu Amazon';
 
 //Text
-$_['text_success']                  = 'Amazon Pay and Login with Amazon module has been updated.';
+$_['text_success']                  = 'Modulul Amazon Pay și Conectează-te cu Amazon a fost actualizat.';
 $_['text_ipn_url']					= 'Cron Job\'s URL';
 $_['text_ipn_token']				= 'Secret Token';
 $_['text_us']					   = 'American English';
@@ -35,8 +35,8 @@ $_['text_medium']                   = 'Medium';
 $_['text_large']                    = 'Large';
 $_['text_x_large']                  = 'Extra large';
 $_['text_background']               = 'Background';
-$_['text_edit']						= 'Edit Amazon Pay and Login with Amazon';
-$_['text_amazon_login_pay']         = '<a href="https://pay.amazon.com/help/201828820" target="_blank" title="Sign-up to Amazon Pay"><img src="view/image/payment/amazon_lpa.png" alt="Amazon Pay and Login with Amazon" title="Amazon Pay and Login with Amazon" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_edit']						= 'Editare Amazon Pay și Conectează-te cu Amazon';
+$_['text_amazon_login_pay']         = '<a href="https://pay.amazon.com/help/201828820" target="_blank" title="Înscrie-te la Amazon Pay"><img src="view/image/payment/amazon_lpa.png" alt="Amazon Pay și Conectează-te cu Amazon" title="Amazon Pay și Conectează-te cu Amazon" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_amazon_join']              = '<a href="https://pay.amazon.com/help/201828820" target="_blank" title="Sign-up to Amazon Pay"><u>Sign-up to Amazon Pay</u></a>';
 $_['text_payment_info']				= 'Payment information';
 $_['text_capture_ok']				= 'Capture was successful';
@@ -75,7 +75,7 @@ $_['text_amazon_signup']			= 'Sign-up to Amazon Pay';
 $_['text_credentials']				= 'Please paste your keys here (in JSON format)';
 $_['text_validate_credentials']		= 'Validate and Use Credentials';
 $_['text_extension']                = 'Extensii';
-$_['text_info_ssl']                 = '<strong>Important:</strong> SSL (https://) is a requirement and must be enabled on your website for the Amazon Pay and Login with Amazon buttons to work.';
+$_['text_info_ssl']                 = '<strong>Important:</strong> SSL (https://) este o cerință și trebuie să fie activat pe site-ul tău, pentru ca butoanele Amazon Pay și Conectează-te cu Amazon să funcționeze.';
 $_['text_info_buyer_multi_currencies'] = 'This extension supports the Multi-Currency functionality. If you would like to use it, please make sure you have enabled at least one of the <a href="https://pay.amazon.co.uk/help/5BDCWHCUC27485L"><b>Amazon Pay supported currencies</b></a> in your on-line store settings <b><a href="index.php?route=localisation/currency&user_token=%s">(%s > %s > %s )</b></a>, and then enable the <b>Multi-Currency function</b>';
 
 // Columns
