@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Dashboard';
 
 // Text
-$_['text_success']      = 'Succes: Ai modificat dashboard-urile!';
+$_['text_success']      = 'Succes: Ai modificat panourile de bord!';
 $_['text_list']         = 'Listă Dashboard';
 
 // Column
