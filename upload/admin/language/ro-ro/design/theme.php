@@ -4,7 +4,7 @@ $_['heading_title']     = 'Editor Temă';
 
 // Text
 $_['text_success']      = 'Succes: Ai modificat temele!';
-$_['text_edit']         = 'Edit Theme';
+$_['text_edit']         = 'Editare Temă';
 $_['text_store']        = 'Choose your store';
 $_['text_template']     = 'Choose a template';
 $_['text_default']      = 'Implicit';
