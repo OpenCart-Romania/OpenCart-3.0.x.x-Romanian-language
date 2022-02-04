@@ -8,7 +8,7 @@ $_['text_testing']												= 'This payment gateway is currently being tested.
 $_['text_basket']												= 'Basket';
 $_['text_checkout']												= 'Checkout';
 $_['text_success']												= 'Success';
-$_['text_shipping']												= 'Shipping';
+$_['text_shipping']												= 'Expediere';
 
 // Entry
 $_['entry_cc_number']											= 'Card number';
