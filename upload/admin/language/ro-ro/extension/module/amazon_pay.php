@@ -5,7 +5,7 @@ $_['heading_title'] = 'Amazon Pay';
 //Text
 $_['text_module'] = 'Modules';
 $_['text_extension']               = 'Extensii';
-$_['text_success'] = 'Success: You have modified module Amazon Pay!';
+$_['text_success'] = 'Succes: Ai modificat modulul Amazon Pay!';
 $_['text_content_top'] = 'Conținut in Partea de Sus';
 $_['text_content_bottom'] = 'Conținut în Partea de Jos';
 $_['text_column_left'] = 'Coloană Stânga';
