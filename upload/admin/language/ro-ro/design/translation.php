@@ -5,7 +5,7 @@ $_['heading_title']    = 'Editor de Limbă';
 // Text
 $_['text_success']     = 'Succes: Ai modificat editorul de limbă!';
 $_['text_list']        = 'Translation List';
-$_['text_edit']        = 'Edit Translation';
+$_['text_edit']        = 'Editare Traducere';
 $_['text_add']         = 'Adaugă Traducere';
 $_['text_default']     = 'Implicit';
 $_['text_store']       = 'Magazin';
