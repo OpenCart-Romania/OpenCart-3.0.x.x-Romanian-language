@@ -4,7 +4,7 @@ $_['heading_title']    = 'Bestsellers';
 
 // Text
 $_['text_extension']   = 'Extensii';
-$_['text_success']     = 'Succes: Ai modificat modulul bestseller-urilor!';
+$_['text_success']     = 'Succes: Ai modificat modulul bestseller-uri!';
 $_['text_edit']        = 'Edit Bestsellers Module';
 
 // Entry
