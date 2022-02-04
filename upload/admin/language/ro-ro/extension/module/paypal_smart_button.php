@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']    					= 'PayPal Smart Button';
+$_['heading_title']    					= 'Buton Smart PayPal';
 
 // Text
 $_['text_extensions']   				= 'Extensii';
-$_['text_edit']        					= 'Edit PayPal Smart Button Module';
+$_['text_edit']        					= 'Editează Modul Buton Smart PayPal';
 $_['text_general']				 	 	= 'General';
 $_['text_product_page']					= 'Product Page';
 $_['text_cart_page']					= 'Cart Page';
@@ -61,7 +61,7 @@ $_['entry_message_flex_ratio'] 			= 'Message Banner Ratio';
 $_['help_message_status']				= 'Add pay later messaging to your site.';
 
 // Success
-$_['success_save']						= 'Success: You have modified PayPal Smart Button module!';
+$_['success_save']						= 'Succes: Ai modificat modulul Buton Smart PayPal!';
 
 // Error
-$_['error_permission'] 					= 'Warning: You do not have permission to modify PayPal Express Checkout Button module!';
+$_['error_permission'] 					= 'Atenție: Nu ai permisiunea de a modifica modulul Buton PayPal Express Checkout!';
