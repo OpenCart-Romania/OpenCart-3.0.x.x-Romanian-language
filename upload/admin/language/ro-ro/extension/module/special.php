@@ -4,7 +4,7 @@ $_['heading_title']    = 'Specials';
 
 // Text
 $_['text_extension']   = 'Extensii';
-$_['text_success']     = 'Success: You have modified module specials!';
+$_['text_success']     = 'Succes: Ai modificat modulul speciale!';
 $_['text_edit']        = 'Edit Specials Module';
 
 // Entry
