@@ -6,7 +6,7 @@ $_['heading_title']          = 'Atribute';
 $_['text_success']           = 'Succes: Ai modificat atributele!';
 $_['text_list']              = 'Listă Atribute';
 $_['text_add']               = 'Adaugă Atribut';
-$_['text_edit']              = 'Editează Atribut';
+$_['text_edit']              = 'Editare Atribut';
 
 // Column
 $_['column_name']            = 'Nume Atribut';
