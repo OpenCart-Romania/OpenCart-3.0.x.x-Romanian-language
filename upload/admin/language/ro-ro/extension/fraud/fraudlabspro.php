@@ -4,7 +4,7 @@ $_['heading_title']              = 'FraudLabs Pro';
 
 // Text
 $_['text_extension']             = 'Extensii';
-$_['text_success']               = 'Success: You have modified FraudLabs Pro Settings!';
+$_['text_success']               = 'Succes: Ai modificat Setările FraudLabs Pro!';
 $_['text_edit']                  = 'Setări';
 $_['text_signup']                = 'FraudLabs Pro is a fraud detection service. You can <a href="http://www.fraudlabspro.com/plan?ref=1730" target="_blank"><u>sign up here</u></a> for a free API Key.';
 $_['text_id']                    = 'FraudLabs Pro ID';
