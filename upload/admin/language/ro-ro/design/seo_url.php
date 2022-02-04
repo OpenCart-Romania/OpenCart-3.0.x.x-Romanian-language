@@ -6,7 +6,7 @@ $_['heading_title']    = 'SEO URL';
 $_['text_success']     = 'Succes: Ai modificat SEO URL!';
 $_['text_list']        = 'Listă SEO URL';
 $_['text_add']         = 'Adaugă SEO URL';
-$_['text_edit']        = 'Editează SEO URL';
+$_['text_edit']        = 'Editare SEO URL';
 $_['text_filter']      = 'Filtru';
 $_['text_default']     = 'Implicit';
 
