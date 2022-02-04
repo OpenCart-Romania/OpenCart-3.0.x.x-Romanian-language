@@ -4,7 +4,7 @@ $_['heading_title']    = 'Carousel';
 
 // Text
 $_['text_extension']   = 'Extensii';
-$_['text_success']     = 'Success: You have modified carousel module!';
+$_['text_success']     = 'Succes: Ai modificat modulul carusel!';
 $_['text_edit']        = 'Edit Carousel Module';
 
 // Entry
