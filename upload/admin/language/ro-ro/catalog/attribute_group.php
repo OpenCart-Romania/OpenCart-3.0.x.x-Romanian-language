@@ -6,7 +6,7 @@ $_['heading_title']     = 'Grupuri de Atribute';
 $_['text_success']      = 'Succes: Ai modificat grupurile de atribute!';
 $_['text_list']         = 'Listă Grupuri de Atribute';
 $_['text_add']          = 'Adaugă Grup de Atribute';
-$_['text_edit']         = 'Editează Grup de Atribute';
+$_['text_edit']         = 'Editare Grup de Atribute';
 
 // Column
 $_['column_name']       = 'Nume Grup de Atribute';
