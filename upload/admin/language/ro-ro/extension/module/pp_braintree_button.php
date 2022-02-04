@@ -4,7 +4,7 @@ $_['heading_title']    = 'Buton PayPal (Powered by Braintree)';
 
 // Text
 $_['text_extension']   = 'Extensii';
-$_['text_success']     = 'Succes: Ai modificat modul Buton PayPal (Powered by Braintree)!';
+$_['text_success']     = 'Succes: Ai modificat modulul Buton PayPal (Powered by Braintree)!';
 $_['text_edit']        = 'Editare Modul Buton PayPal (Powered by Braintree)';
 $_['text_info']        = 'The button will <u>not</u> appear under certain conditions:';
 $_['text_info_li1']    = 'The cart is empty and no vouchers have been applied';
