@@ -3,7 +3,7 @@
 $_['heading_title']                            = 'Fedex';
 
 // Text
-$_['text_shipping']                            = 'Shipping';
+$_['text_shipping']                            = 'Expediere';
 $_['text_success']                             = 'Success: You have modified Fedex shipping!';
 $_['text_edit']                                = 'Edit Fedex Shipping';
 $_['text_europe_first_international_priority'] = 'Europe First International Priority';
@@ -61,7 +61,7 @@ $_['entry_rate_type']                          = 'Rate Type';
 $_['entry_display_time']                       = 'Display Delivery Time';
 $_['entry_display_weight']                     = 'Display Delivery Weight';
 $_['entry_weight_class']                       = 'Clasă de Greutate';
-$_['entry_tax_class']                          = 'Clasă de Taxare';
+$_['entry_tax_class']                          = 'Clasa Fiscală';
 $_['entry_geo_zone']                           = 'Geo Zone';
 $_['entry_status']                             = 'Stare';
 $_['entry_sort_order']                         = 'Ordine Sortare';
