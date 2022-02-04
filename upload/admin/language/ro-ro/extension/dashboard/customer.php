@@ -5,7 +5,7 @@ $_['heading_title']    = 'Total Clienți';
 // Text
 $_['text_extension']   = 'Extensii';
 $_['text_success']     = 'Succes: Ai modificat dashboard-ul client!';
-$_['text_edit']        = 'Editează Dashboard Client';
+$_['text_edit']        = 'Editare Dashboard Client';
 $_['text_view']        = 'Vezi mai mult...';
 
 // Entry
