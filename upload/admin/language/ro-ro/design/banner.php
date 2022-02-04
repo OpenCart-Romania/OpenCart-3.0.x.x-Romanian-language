@@ -6,7 +6,7 @@ $_['heading_title']     = 'Bannere';
 $_['text_success']      = 'Succes: Ai modificat bannerele!';
 $_['text_list']         = 'Listă Bannere';
 $_['text_add']          = 'Adaugă Banner';
-$_['text_edit']         = 'Editează Banner';
+$_['text_edit']         = 'Editare Banner';
 $_['text_default']      = 'Implicit';
 
 // Column
