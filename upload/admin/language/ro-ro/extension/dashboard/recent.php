@@ -4,8 +4,8 @@ $_['heading_title']     = 'Ultimele Comenzi';
 
 // Text
 $_['text_extension']    = 'Extensii';
-$_['text_success']      = 'Succes: Ai modificat panoul comenzi recente!';
-$_['text_edit']         = 'Editează Panoul Comenzi Recente';
+$_['text_success']      = 'Succes: Ai modificat dashboard-ul comenzi recente!';
+$_['text_edit']         = 'Editare Dashboard Comenzi Recente';
 
 // Column
 $_['column_order_id']   = 'ID Comandă';
@@ -22,4 +22,4 @@ $_['entry_sort_order']  = 'Ordine Sortare';
 $_['entry_width']       = 'Lăţime';
 
 // Error
-$_['error_permission']  = 'Atenție: Nu ai permisiunea de a modifica panoul comenzi recente!';
+$_['error_permission']  = 'Atenție: Nu ai permisiunea de a modifica dashboard-ul comenzi recente!';
