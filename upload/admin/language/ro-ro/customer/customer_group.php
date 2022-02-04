@@ -6,7 +6,7 @@ $_['heading_title']     = 'Grupuri de Clienți';
 $_['text_success']      = 'Succes: Ai modificat grupurile de clienți!';
 $_['text_list']         = 'Lista Grupurilor de Clienți';
 $_['text_add']          = 'Adăugați Grupul de Clienți';
-$_['text_edit']         = 'Editați Grupul de Clienți';
+$_['text_edit']         = 'Editare Grup de Clienți';
 
 // Column
 $_['column_name']       = 'Numele Grupului de Clienți';
