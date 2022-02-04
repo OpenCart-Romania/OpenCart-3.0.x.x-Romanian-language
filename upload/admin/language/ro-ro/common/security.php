@@ -11,7 +11,7 @@ $_['text_automatic']   = 'Mutare automată';
 $_['text_manual']      = 'Mutare manuală';
 $_['text_move']        = 'Mutare';
 $_['text_to']          = 'către';
-$_['text_config']      = 'Editează modificarea config.php';
+$_['text_config']      = 'Editare modificare config.php';
 $_['text_admin']       = 'Editează admin/config.php și modifică';
 
 // Entry
