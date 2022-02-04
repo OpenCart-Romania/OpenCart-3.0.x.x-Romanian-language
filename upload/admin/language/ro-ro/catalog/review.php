@@ -6,7 +6,7 @@ $_['heading_title']     = 'Recenzii';
 $_['text_success']      = 'Succes: Ai modificat recenziile!';
 $_['text_list']         = 'Listă Recenzii';
 $_['text_add']          = 'Adaugă Recenzie';
-$_['text_edit']         = 'Editează Recenzie';
+$_['text_edit']         = 'Editare Recenzie';
 $_['text_filter']       = 'Filtru';
 
 // Column
