@@ -6,7 +6,7 @@ $_['heading_title']          = 'Categorii';
 $_['text_success']           = 'Succes: Ai modificat categoriile!';
 $_['text_list']              = 'Listă Categorii';
 $_['text_add']               = 'Adaugă Categorie';
-$_['text_edit']              = 'Editează Categorie';
+$_['text_edit']              = 'Editare Categorie';
 $_['text_default']           = 'Implicit';
 $_['text_keyword']           = 'Nu utiliza spații, în schimb înlocuieste spațiile cu - și asigură-te că SEO URL este unic global.';
 
