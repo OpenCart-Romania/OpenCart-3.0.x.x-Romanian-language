@@ -4,7 +4,7 @@ $_['heading_title']    = 'Google Hangouts';
 
 // Text
 $_['text_extension']   = 'Extensii';
-$_['text_success']     = 'Success: You have modified Google Hangouts module!';
+$_['text_success']     = 'Succes: Ai modificat modulul Google Hangouts!';
 $_['text_edit']        = 'Edit Google Hangouts Module';
 
 // Entry
