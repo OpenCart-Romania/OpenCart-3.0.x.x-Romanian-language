@@ -4,8 +4,8 @@ $_['heading_title']    = 'Oameni Online';
 
 // Text
 $_['text_extension']   = 'Extensii';
-$_['text_success']     = 'Succes: Ai modificat panoul online!';
-$_['text_edit']        = 'Editează Panoul Online';
+$_['text_success']     = 'Succes: Ai modificat dashboard-ul online!';
+$_['text_edit']        = 'Editare Dashboard Online';
 $_['text_view']        = 'Vezi mai mult...';
 
 // Entry
