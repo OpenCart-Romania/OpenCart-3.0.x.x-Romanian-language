@@ -5,7 +5,7 @@ $_['heading_title']    = 'Total Comenzi';
 // Text
 $_['text_extension']   = 'Extensii';
 $_['text_success']     = 'Succes: Ai modificat panoul comenzi!';
-$_['text_edit']        = 'Editează Panoul Comenzi';
+$_['text_edit']        = 'Editare Dashboard Comenzi';
 $_['text_view']        = 'Vezi mai mult...';
 
 // Entry
