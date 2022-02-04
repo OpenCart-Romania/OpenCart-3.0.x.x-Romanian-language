@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Marketing';
 
 // Text
-$_['text_success']     = 'Succes: Ai modificat marketingul!';
+$_['text_success']     = 'Succes: Ai modificat marketing-ul!';
 $_['text_list']        = 'Analytics List';
 
 // Column
