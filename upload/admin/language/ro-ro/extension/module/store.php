@@ -4,7 +4,7 @@ $_['heading_title']    = 'Magazin';
 
 // Text
 $_['text_extension']   = 'Extensii';
-$_['text_success']     = 'Success: You have modified store module!';
+$_['text_success']     = 'Succes: Ai modificat modulul magazin!';
 $_['text_edit']        = 'Edit Store Module';
 
 // Entry
