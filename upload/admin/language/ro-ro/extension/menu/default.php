@@ -4,7 +4,7 @@ $_['heading_title']          = 'Default Menu';
 
 // Text
 $_['text_extension']         = 'Extensii';
-$_['text_success']           = 'Success: You have modified Google Base feed!';
+$_['text_success']           = 'Succes: Ai modificat feed-ul Google Base!';
 $_['text_edit']              = 'Edit Google Base';
 $_['text_import']            = 'To download the latest Google category list by <a href="https://support.google.com/merchants/answer/160081?hl=en" target="_blank" class="alert-link">clicking here</a> and choose taxonomy with numeric IDs in Plain Text (.txt) file. Upload via the green import button.';
 
