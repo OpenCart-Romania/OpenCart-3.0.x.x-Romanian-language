@@ -26,10 +26,10 @@ $_['entry_api_username']                       = 'API Username';
 $_['entry_test']                               = 'Test Mode';
 $_['entry_service']                            = 'Services';
 $_['entry_weight_class']                       = 'Clasă de Greutate';
-$_['entry_tax_class']                          = 'Clasă de Taxare';
+$_['entry_tax_class']                          = 'Clasa Fiscală';
 $_['entry_geo_zone']                           = 'Geo Zone';
 $_['entry_status']                             = 'Stare';
-$_['entry_sort_order']                         = 'Ordine Sortare';
+$_['entry_sort_order']                         = 'Ordine de Sortare';
 
 // Help
 $_['help_api_key']                             = 'Enter the API key assigned to you by EC-SHIP.';
