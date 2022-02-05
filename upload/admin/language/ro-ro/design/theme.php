@@ -20,4 +20,4 @@ $_['column_action']     = 'Acțiune';
 
 // Error
 $_['error_permission']  = 'Atenție: Nu ai permisiunea de a modifica editorul de teme!';
-$_['error_twig']        = 'Warning: You can only save .twig files!';
+$_['error_twig']        = 'Atenție: Poți salva numai fișiere .twig!';
