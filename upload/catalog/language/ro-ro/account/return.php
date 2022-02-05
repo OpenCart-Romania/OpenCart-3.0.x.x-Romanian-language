@@ -12,7 +12,7 @@ $_['text_product']       = 'Informații Produs';
 $_['text_reason']        = 'Motivul Returnării';
 $_['text_message']       = '<p>Iți mulțumim pentru trimiterea cererii de returnare. Cererea ta a fost trimisă departamentului relevant pentru prelucrare.</p><p> Vei fi notificat prin e-mail cu privire la starea cererii tale.</p>';
 $_['text_return_id']     = 'ID Returnare:';
-$_['text_order_id']      = 'ID Comandă:';
+$_['text_order_id']      = 'Număr Comandă:';
 $_['text_date_ordered']  = 'Data Comenzii:';
 $_['text_status']        = 'Stare:';
 $_['text_date_added']    = 'Data Adăugării:';
@@ -23,7 +23,7 @@ $_['text_agree']         = 'Am citit și sunt de acord cu <a href="%s" class="ag
 
 // Column
 $_['column_return_id']   = 'ID Returnare';
-$_['column_order_id']    = 'ID Comandă';
+$_['column_order_id']    = 'Număr Comandă';
 $_['column_status']      = 'Stare';
 $_['column_date_added']  = 'Data Adăugării';
 $_['column_customer']    = 'Client';
@@ -37,7 +37,7 @@ $_['column_reason']      = 'Motiv';
 $_['column_action']      = 'Acțiune';
 
 // Entry
-$_['entry_order_id']     = 'ID Comandă';
+$_['entry_order_id']     = 'Număr Comandă';
 $_['entry_date_ordered'] = 'Data Comenzii';
 $_['entry_firstname']    = 'Prenume';
 $_['entry_lastname']     = 'Nume de Familie';
@@ -56,7 +56,7 @@ $_['error_order_id']     = 'ID Comandă necesar!';
 $_['error_firstname']    = 'Prenumele trebuie să fie între 1 și 32 de caractere!';
 $_['error_lastname']     = 'Numele de Familie trebuie să fie între 1 și 32 de caractere!';
 $_['error_email']        = 'Adresa E-Mail nu pare să fie validă!';
-$_['error_telephone']    = 'Telefon trebuie să fie între 3 și 32 de caractere!';
+$_['error_telephone']    = 'Telefonul trebuie să fie între 3 și 32 de caractere!';
 $_['error_product']      = 'Nume Produs trebuie să fie mai mare de 3 și mai mic de 255 de caractere!';
 $_['error_model']        = 'Model Produs trebuie să fie mai mare de 3 și mai mic de 64 de caractere!';
 $_['error_reason']       = 'Trebuie sa selectezi un motiv returnare produs!';
