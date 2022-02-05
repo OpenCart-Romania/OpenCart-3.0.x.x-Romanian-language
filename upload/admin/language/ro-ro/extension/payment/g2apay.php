@@ -21,7 +21,7 @@ $_['text_refund_ok_order']		 	  = 'Refund was successfully requested, amount ful
 $_['text_refund']                     = 'Refund';
 
 // Entry
-$_['entry_username']			 	  = 'Nume utilizator';
+$_['entry_username']			 	  = 'Nume de utilizator';
 $_['entry_secret']				 	  = 'Secret';
 $_['entry_api_hash']		     	  = 'API Hash';
 $_['entry_environment']			 	  = 'Environment';
