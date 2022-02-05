@@ -5,7 +5,7 @@ $_['heading_title']    = 'Basic Captcha';
 // Text
 $_['text_extension']   = 'Extensii';
 $_['text_success']     = 'Succes: Ai modificat Basic Captcha!';
-$_['text_edit']        = 'Edit Basic Captcha';
+$_['text_edit']        = 'Editare Basic Captcha';
 
 // Entry
 $_['entry_status']     = 'Stare';
