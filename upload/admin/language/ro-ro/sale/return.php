@@ -10,7 +10,7 @@ $_['text_edit']            = 'Edit Product Return';
 $_['text_opened']          = 'Opened';
 $_['text_unopened']        = 'Unopened';
 $_['text_order']           = 'Informații Comandă';
-$_['text_product']         = 'Product Information &amp; Reason for Return';
+$_['text_product']         = 'Informații Produs &amp; Motivul Returnării';
 $_['text_history']         = 'Istoric';
 $_['text_history_add']     = 'Adaugă Istoric';
 
