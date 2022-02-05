@@ -37,8 +37,8 @@ $_['entry_settled_status']			     = 'Settled Status:';
 $_['entry_refunded_status']			     = 'Refunded Status:';
 $_['entry_partially_refunded_status']	 = 'Partially Refunded Status:';
 $_['entry_charged_back_status']			 = 'Charged Back:';
-$_['entry_information_requested_status'] = 'Information Requested Status:';
-$_['entry_information_supplied_status']	 = 'Information Supplied Status:';
+$_['entry_information_requested_status'] = 'Stare Informații Solicitate:';
+$_['entry_information_supplied_status']	 = 'Stare Informații Furnizate:';
 $_['entry_chargeback_reversed_status']	 = 'Chargeback Reversed Status:';
 
 
