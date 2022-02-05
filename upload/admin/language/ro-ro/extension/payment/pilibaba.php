@@ -14,7 +14,7 @@ $_['text_pilibaba']         = '<a href="http://www.pilibaba.com" target="_blank"
 $_['text_live']             = 'Live';
 $_['text_test']             = 'Test';
 $_['text_payment_info']     = 'Payment Info';
-$_['text_order_id']         = 'ID Comandă';
+$_['text_order_id']         = 'Număr Comandă';
 $_['text_amount']           = 'Valoare';
 $_['text_fee']              = 'Fee';
 $_['text_date_added']       = 'Data Adăugării';
