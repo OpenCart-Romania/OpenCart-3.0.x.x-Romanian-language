@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']            = 'Lay-Buy Information';
+$_['heading_title']            = 'Informații Lay-Buy';
 
 // Text
 $_['text_reference_info']      = 'Informații Referință';
