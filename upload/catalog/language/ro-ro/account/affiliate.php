@@ -16,7 +16,7 @@ $_['text_agree']                = 'Am citit și sunt de acord cu <a href="%s" cl
 // Entry
 $_['entry_company']             = 'Companie';
 $_['entry_website']             = 'Web Site';
-$_['entry_tax']                 = 'C.U.I. / Cod TVA';
+$_['entry_tax']                 = 'Cod Fiscal';
 $_['entry_payment']             = 'Metodă de Plată';
 $_['entry_cheque']              = 'Nume Beneficiar Cec';
 $_['entry_paypal']              = 'Cont de Email PayPal';
