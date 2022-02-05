@@ -25,7 +25,7 @@ $_['entry_pending_status']	= 'Pending Status';
 $_['entry_accepted_status'] = 'Accepted Status';
 $_['entry_geo_zone']		= 'Geo Zone';
 $_['entry_status']			= 'Stare';
-$_['entry_sort_order']		= 'Ordine Sortare';
+$_['entry_sort_order']		= 'Ordine de Sortare';
 
 // Help
 $_['help_merchant']			= '(estore id) to use for the Klarna service (provided by Klarna).';
