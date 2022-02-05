@@ -5,7 +5,7 @@ $_['heading_title']    = 'Google Sitemap';
 // Text
 $_['text_extension']   = 'Extensii';
 $_['text_success']     = 'Succes: Ai modificat feed-ul Google Sitemap!';
-$_['text_edit']        = 'Edit Google Sitemap';
+$_['text_edit']        = 'Editare Google Sitemap';
 
 // Entry
 $_['entry_status']     = 'Stare';
