@@ -68,7 +68,7 @@ $_['text_acknowledge_add_campaign_2']       = 'I acknowledge that my campaigns w
 $_['text_acknowledge_cron']                 = 'I confirm that I have set up an automated CRON task using one of the methods above.';
 $_['text_acknowledge_merchant_tos']         = 'By purchasing Google Shopping ads, I agree to comply with Google&apos;s terms and policies, including Google&apos;s <a href="https://support.google.com/merchants/answer/160173?hl=en" target="_blank">Merchant Center terms of service</a>, <a href="https://support.google.com/merchants/answer/6149970?hl=en" target="_blank">Shopping ads policies</a>, and <a href="https://billing.google.com/payments/u/0/paymentsinfofinder?style=:md#" target="_blank">Google Ads Terms and Conditions</a>.';
 $_['text_action']                           = 'Acțiune';
-$_['text_active']                           = 'Active';
+$_['text_active']                           = 'Activ';
 $_['text_active_states']                    = 'Select active states';
 $_['text_add_target']                       = 'New Campaign';
 $_['text_ads_intro']                        = '<h3>Important</h3><p>To have your products accepted by Google Merchant Center, please make sure to follow these requirements:</p><ul><li>Your OpenCart products must meet the <a href="https://support.google.com/merchants/answer/6149970" target="_blank"><strong>Google Shopping ads policies</strong></a>.</li><li>Please make sure to configure <a href="https://support.google.com/merchants/topic/7293661?hl=en-GB&ref_topic=7259125" target="_blank"><strong>Shipping</strong></a> and <a href="https://support.google.com/merchants/topic/7294266?hl=en-GB&ref_topic=7259125" target="_blank"><strong>Taxes (only in the US)</strong></a> in your Google Merchant Center account, or via this extension from the <a href="%s" target="_blank"><strong>Shipping &amp; Taxes</strong></a> section.</li><li>Refer to the columns <strong>Destination Statuses</strong> and <strong>Item Issues</strong> to resolve any approval issues with your products.</li></ul>';
@@ -215,7 +215,7 @@ $_['text_shipping_custom']                  = 'Set this up myself in the Google 
 $_['text_shipping_flat']                    = 'Use a flat rate for all orders';
 $_['text_shipping_services']                = 'Shipping Services';
 $_['text_shipping_transit_times']           = 'Shipping Transit Times';
-$_['text_size']                             = 'Size';
+$_['text_size']                             = 'Mărime';
 $_['text_size_type_big_and_tall']           = 'Big & Tall';
 $_['text_size_type_maternity']              = 'Maternity';
 $_['text_size_type_petite']                 = 'Petite';
