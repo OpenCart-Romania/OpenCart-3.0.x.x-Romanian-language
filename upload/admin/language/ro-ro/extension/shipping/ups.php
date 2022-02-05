@@ -76,10 +76,10 @@ $_['entry_dimension']              = 'Dimensiuni (L x l x Î)';
 $_['entry_length']                 = 'Lungime';
 $_['entry_height']                 = 'Înălţime';
 $_['entry_width']                  = 'Lăţime';
-$_['entry_tax_class']              = 'Clasă de Taxare';
+$_['entry_tax_class']              = 'Clasa Fiscală';
 $_['entry_geo_zone']               = 'Geo Zone';
 $_['entry_status']                 = 'Stare';
-$_['entry_sort_order']             = 'Ordine Sortare';
+$_['entry_sort_order']             = 'Ordine de Sortare';
 $_['entry_debug']                  = 'Debug Mode';
 
 // Help
