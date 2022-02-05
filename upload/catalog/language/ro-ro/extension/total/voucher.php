@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title'] = 'Use Gift Certificate';
+$_['heading_title'] = 'Folosește un voucher cadou';
 
 // Text
-$_['text_voucher']  = 'Gift Certificate (%s)';
-$_['text_success']  = 'Success: Your gift certificate discount has been applied!';
+$_['text_voucher']  = 'Voucher cadou(%s)';
+$_['text_success']  = 'Succes: Voucher-ul tău cadou a fost aplicat!';
 
 // Entry
-$_['entry_voucher'] = 'Enter your gift certificate code here';
+$_['entry_voucher'] = 'Introduceți codul voucher-ului dvs. aici';
 
 // Error
-$_['error_voucher'] = 'Warning: Gift Certificate is either invalid or the balance has been used up!';
-$_['error_empty']   = 'Warning: Please enter a gift certificate code!';
+$_['error_voucher'] = 'Atenție: Voucher-ul cadou este invalid sau soldul a fost consumat!';
+$_['error_empty']   = 'Atenție: Introdu codul unui voucher cadou!';
