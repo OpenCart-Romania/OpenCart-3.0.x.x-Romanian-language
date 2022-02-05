@@ -20,7 +20,7 @@ $_['column_action']     = 'Acțiune';
 // Entry
 $_['entry_product']     = 'Produs';
 $_['entry_author']      = 'Autor';
-$_['entry_rating']      = 'Notă';
+$_['entry_rating']      = 'Evaluare';
 $_['entry_status']      = 'Stare';
 $_['entry_text']        = 'Text';
 $_['entry_date_added']  = 'Data Adăugării';
