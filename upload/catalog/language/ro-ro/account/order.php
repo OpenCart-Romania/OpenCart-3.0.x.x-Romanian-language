@@ -7,7 +7,7 @@ $_['text_account']          = 'Cont';
 $_['text_order']            = 'Informații Comandă';
 $_['text_order_detail']     = 'Detalii Comandă';
 $_['text_invoice_no']       = 'Factură Nr.:';
-$_['text_order_id']         = 'ID Comandă:';
+$_['text_order_id']         = 'Număr Comandă:';
 $_['text_date_added']       = 'Data Adăugării:';
 $_['text_shipping_address'] = 'Adresă Livrare';
 $_['text_shipping_method']  = 'Metodă Livrare:';
@@ -20,7 +20,7 @@ $_['text_empty']            = 'Nu ai făcut nicio comandă anterior!';
 $_['text_error']            = 'Comanda pe care ai solicitat-o nu a putut fi găsită!';
 
 // Column
-$_['column_order_id']       = 'ID Comandă';
+$_['column_order_id']       = 'Număr Comandă';
 $_['column_customer']       = 'Client';
 $_['column_product']        = 'Nr. de Produse';
 $_['column_name']           = 'Nume Produs';
