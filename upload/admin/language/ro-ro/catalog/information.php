@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']          = 'Information';
+$_['heading_title']          = 'Informații';
 
 // Text
 $_['text_success']           = 'Succes: Ai modificat informația!';
@@ -11,12 +11,12 @@ $_['text_default']           = 'Implicit';
 $_['text_keyword']           = 'Nu utiliza spații, în schimb înlocuieste spațiile cu - și asigură-te că SEO URL este unic global.';
 
 // Column
-$_['column_title']           = 'Information Title';
+$_['column_title']           = 'Titlul Informației';
 $_['column_sort_order']      = 'Ordine Sortare';
 $_['column_action']          = 'Acțiune';
 
 // Entry
-$_['entry_title']            = 'Information Title';
+$_['entry_title']            = 'Titlul Informației';
 $_['entry_description']      = 'Descriere';
 $_['entry_meta_title']       = 'Meta Tag Titlu';
 $_['entry_meta_keyword']     = 'Meta Tag Cuvinte Cheie';
@@ -34,7 +34,7 @@ $_['help_bottom']            = 'Afișeaza în subsolul paginii.';
 // Error
 $_['error_warning']          = 'Atenție: Te rugăm să verifici cu atenție formularul pentru erori!';
 $_['error_permission']       = 'Atenție: Nu ai permisiunea de a modifica informațiile!';
-$_['error_title']            = 'Titlu Informaţie trebuie să fie între 1 şi 64 de caractere!';
+$_['error_title']            = 'Titlul Informației trebuie să fie între 1 și 64 de caractere!';
 $_['error_description']      = 'Descrierea trebuie să conțină mai mult de 3 caractere!';
 $_['error_meta_title']       = 'Meta Titlu trebuie să fie mai mare de 1 și mai mic de 255 de caractere!';
 $_['error_keyword']          = 'SEO URL este deja utilizat!';
