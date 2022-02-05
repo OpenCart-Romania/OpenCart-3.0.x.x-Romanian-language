@@ -17,7 +17,7 @@ $_['entry_total']		 = 'Total';
 $_['entry_order_status'] = 'Stare Comandă';
 $_['entry_geo_zone']	 = 'Geo Zone';
 $_['entry_status']		 = 'Stare';
-$_['entry_sort_order']	 = 'Ordine Sortare';
+$_['entry_sort_order']	 = 'Ordine de Sortare';
 
 // Help
 $_['help_secret']		 = 'The secret word to confirm transactions with (must be the same as defined on the merchant account configuration page).';
