@@ -20,7 +20,7 @@ $_['text_transactions']				 = 'Tranzacții';
 $_['text_complete']					 = 'Complete';
 $_['text_confirm_void']				 = 'If you void you cannot capture any further funds';
 $_['text_view']						 = 'Vezi';
-$_['text_refund']					 = 'Refund';
+$_['text_refund']					 = 'Stornare';
 $_['text_resend']					 = 'Resend';
 $_['text_reauthorise']				 = 'Reauthorise';
 $_['text_reauthorised']				 = 'Transaction was reauthorised';
@@ -157,8 +157,8 @@ $_['help_test']						 = 'Use the live or testing (sandbox) gateway server to pro
 $_['help_total']					 = 'The checkout total the order must reach before this payment method becomes active';
 
 // Button
-$_['button_refund']					 = 'Refund';
-$_['button_void']					 = 'Void';
+$_['button_refund']					 = 'Stornare';
+$_['button_void']					 = 'Nul';
 $_['button_capture']				 = 'Capture';
 $_['button_reauthorise']			 = 'Reauthorise';
 
