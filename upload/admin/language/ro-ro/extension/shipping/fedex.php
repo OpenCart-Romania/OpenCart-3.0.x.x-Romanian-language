@@ -64,7 +64,7 @@ $_['entry_weight_class']                       = 'Clasă de Greutate';
 $_['entry_tax_class']                          = 'Clasa Fiscală';
 $_['entry_geo_zone']                           = 'Geo Zone';
 $_['entry_status']                             = 'Stare';
-$_['entry_sort_order']                         = 'Ordine Sortare';
+$_['entry_sort_order']                         = 'Ordine de Sortare';
 
 // Help
 $_['help_length_class']                        = 'Set to inches or centimeters.';
