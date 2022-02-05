@@ -35,4 +35,4 @@ $_['help_comment']     = 'This field is for any special notes you would like to 
 $_['error_permission'] = 'Warning: You do not have permission to modify store locations!';
 $_['error_name']       = 'Store name must be between 3 and 32 characters!';
 $_['error_address']    = 'Adresa trebuie să fie între 3 și 128 de caractere!';
-$_['error_telephone']  = 'Telefon trebuie să fie între 3 și 32 de caractere!';
+$_['error_telephone']  = 'Telefonul trebuie să fie între 3 și 32 de caractere!';
