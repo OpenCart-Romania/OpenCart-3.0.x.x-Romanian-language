@@ -2,7 +2,7 @@
 // Text
 $_['text_subject']      = '%s - Comanda %s';
 $_['text_received']     = 'Ai primit o comandă.';
-$_['text_order_id']     = 'ID comanda:';
+$_['text_order_id']     = 'Număr Comandă:';
 $_['text_date_added']   = 'Data Adăugării:';
 $_['text_order_status'] = 'Stare Comandă:';
 $_['text_product']      = 'Produse';
