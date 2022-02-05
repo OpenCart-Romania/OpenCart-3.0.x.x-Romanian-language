@@ -3,7 +3,7 @@
 $_['text_title']				= 'Credit / Debit card (Globalpay)';
 
 // Button
-$_['button_confirm']			= 'Confirmare';
+$_['button_confirm']			= 'Confirm';
 
 // Entry
 $_['entry_cc_type']				= 'Card Type';
