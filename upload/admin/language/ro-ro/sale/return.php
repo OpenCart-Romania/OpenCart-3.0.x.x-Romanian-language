@@ -16,7 +16,7 @@ $_['text_history_add']     = 'Adaugă Istoric';
 
 // Column
 $_['column_return_id']     = 'Return ID';
-$_['column_order_id']      = 'ID Comandă';
+$_['column_order_id']      = 'Număr Comandă';
 $_['column_customer']      = 'Client';
 $_['column_product']       = 'Produs';
 $_['column_model']         = 'Model';
@@ -29,7 +29,7 @@ $_['column_action']        = 'Acțiune';
 
 // Entry
 $_['entry_customer']       = 'Client';
-$_['entry_order_id']       = 'ID Comandă';
+$_['entry_order_id']       = 'Număr Comandă';
 $_['entry_date_ordered']   = 'Order Date';
 $_['entry_firstname']      = 'Prenume';
 $_['entry_lastname']       = 'Nume de Familie';
@@ -58,6 +58,6 @@ $_['error_order_id']       = 'Order ID required!';
 $_['error_firstname']      = 'Prenumele trebuie să fie între 1 și 32 de caractere!';
 $_['error_lastname']       = 'Numele de Familie trebuie să fie între 1 și 32 de caractere!';
 $_['error_email']          = 'Adresa E-Mail nu pare să fie validă!';
-$_['error_telephone']      = 'Telefon trebuie să fie între 3 și 32 de caractere!';
+$_['error_telephone']      = 'Telefonul trebuie să fie între 3 și 32 de caractere!';
 $_['error_product']        = 'Nume Produs trebuie să fie mai mare de 3 și mai mic de 255 de caractere!';
 $_['error_model']          = 'Model Produs trebuie să fie mai mare de 3 și mai mic de 64 de caractere!';
