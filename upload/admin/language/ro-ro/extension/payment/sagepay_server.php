@@ -32,7 +32,7 @@ $_['text_column_date_added']  = 'Created';
 $_['text_confirm_void']		  = 'Are you sure you want to void the payment?';
 $_['text_confirm_release']	  = 'Are you sure you want to release the payment?';
 $_['text_confirm_rebate']	  = 'Are you sure you want to rebate the payment?';
-$_['text_void']               = 'Void';
+$_['text_void']               = 'Nul';
 $_['text_payment']            = "Payment";
 $_['text_rebate']             = 'Rebate';
 
@@ -61,7 +61,7 @@ $_['help_cron_job_url']		  = 'Set a cron job to call this URL';
 // Button
 $_['button_release']		  = 'Release';
 $_['button_rebate']			  = 'Rebate / refund';
-$_['button_void']			  = 'Void';
+$_['button_void']			  = 'Nul';
 
 // Error
 $_['error_permission']		  = 'Warning: You do not have permission to modify payment SagePay!';
