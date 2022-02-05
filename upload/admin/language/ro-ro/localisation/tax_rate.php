@@ -7,7 +7,7 @@ $_['text_success']         = 'Success: You have modified tax rates!';
 $_['text_list']            = 'Tax Rate List';
 $_['text_add']             = 'Add Tax Rate';
 $_['text_edit']            = 'Edit Tax Rate';
-$_['text_percent']         = 'Procentaj';
+$_['text_percent']         = 'Procent';
 $_['text_amount']          = 'Valoare Fixă';
 
 // Column
