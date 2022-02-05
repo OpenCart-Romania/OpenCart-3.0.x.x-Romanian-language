@@ -13,13 +13,13 @@ $_['text_payment_info']		= 'Refund information';
 $_['text_no_refund']		= 'No refund history';
 $_['text_confirm_refund']	= 'Are you sure you want to refund';
 $_['text_na']				= 'N/A';
-$_['text_success_action']	= 'Success';
+$_['text_success_action']	= 'Succes';
 $_['text_error_generic']	= 'Error: There was an error with your request. Please check the logs.';
 $_['text_amount']			= 'Valoare';
 $_['text_description']	    = 'Descriere';
 
 // Column
-$_['column_refund']			= 'Refund';
+$_['column_refund']			= 'Stornare';
 $_['column_date']			= 'Dată';
 $_['column_refund_history'] = 'Refund History';
 $_['column_action']			= 'Acțiune';
@@ -42,13 +42,13 @@ $_['help_debug']			= 'Enabling debug will write sensitive data to a log file. Yo
 $_['help_total']			= 'The checkout total the order must reach before this payment method becomes active.';
 
 // Button
-$_['button_refund']			= 'Refund';
+$_['button_refund']			= 'Stornare';
 
 // Error
 $_['error_key']				= 'Key Required!';
 $_['error_secret']			= 'Secret Required!';
 $_['error_composer']		= 'Unable to load Cardinity SDK. Please download a compiled vendor folder or run composer.';
-$_['error_php_version']		= 'Minimum version of PHP 5.4.0 is required!';
+$_['error_php_version']		= 'Versiunea minimă a PHP 5.4.0 este necesară!';
 $_['error_permission']		= 'Warning: You do not have permission to modify payment Cardinity!';
 $_['error_connection']		= 'There was a problem establishing a connection to the Cardinity API. Please check your Key and Secret settings.';
 $_['error_transaction']     = 'Unable to find transaction for this order.';
