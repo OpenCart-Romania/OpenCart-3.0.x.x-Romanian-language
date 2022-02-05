@@ -28,11 +28,11 @@ $_['entry_trial_status']    = 'Stare Probă';
 $_['entry_trial_cycle']     = 'Ciclu Probă';
 $_['entry_trial_frequency'] = 'Frecventă Probă';
 $_['entry_status']          = 'Stare';
-$_['entry_sort_order']      = 'Ordine Sortare';
+$_['entry_sort_order']      = 'Ordine de Sortare';
 
 // Column
 $_['column_name']           = 'Nume';
-$_['column_sort_order']     = 'Ordine Sortare';
+$_['column_sort_order']     = 'Ordine de Sortare';
 $_['column_action']         = 'Acțiune';
 
 // Error
