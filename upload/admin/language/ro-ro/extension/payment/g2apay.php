@@ -18,7 +18,7 @@ $_['text_column_type']			 	  = 'Tip';
 $_['text_column_date_added']	 	  = 'Added';
 $_['text_refund_ok']			 	  = 'Refund was successfully requested';
 $_['text_refund_ok_order']		 	  = 'Refund was successfully requested, amount fully refunded';
-$_['text_refund']                     = 'Refund';
+$_['text_refund']                     = 'Stornare';
 
 // Entry
 $_['entry_username']			 	  = 'Nume de utilizator';
