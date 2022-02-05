@@ -12,7 +12,7 @@ $_['text_success']                  = 'Succes: Ai modificat modulul de plată Ca
 $_['text_edit']                     = 'Edit CardConnect';
 $_['text_cardconnect']              = '<a href="http://www.cardconnect.com" target="_blank"><img src="view/image/payment/cardconnect.png" alt="CardConnect" title="CardConnect"></a>';
 $_['text_payment']                  = 'Payment';
-$_['text_refund']                   = 'Refund';
+$_['text_refund']                   = 'Stornare';
 $_['text_authorize']                = 'Authorize';
 $_['text_live']                     = 'Live';
 $_['text_test']                     = 'Test';
@@ -27,7 +27,7 @@ $_['text_order_total']              = 'Order Total';
 $_['text_total_captured']           = 'Total Captured';
 $_['text_capture_payment']          = 'Capture Payment';
 $_['text_refund_payment']           = 'Refund Payment';
-$_['text_void']                     = 'Void';
+$_['text_void']                     = 'Nul';
 $_['text_transactions']             = 'Tranzacții';
 $_['text_column_type']              = 'Tip';
 $_['text_column_reference']         = 'Reference';
@@ -36,7 +36,7 @@ $_['text_column_status']            = 'Stare';
 $_['text_column_date_modified']     = 'Date Modified';
 $_['text_column_date_added']        = 'Data Adăugării';
 $_['text_column_update']            = 'Update';
-$_['text_column_void']              = 'Void';
+$_['text_column_void']              = 'Nul';
 $_['text_confirm_capture']          = 'Are you sure you want to capture the payment?';
 $_['text_confirm_refund']           = 'Are you sure you want to refund the payment?';
 $_['text_inquire_success']          = 'Inquire was successful';
@@ -83,15 +83,15 @@ $_['help_order_status_processing']  = 'The order status when the order is automa
 // Button
 $_['button_inquire_all']            = 'Inquire All';
 $_['button_capture']                = 'Capture';
-$_['button_refund']                 = 'Refund';
+$_['button_refund']                 = 'Stornare';
 $_['button_void_all']               = 'Void All';
 $_['button_inquire']                = 'Inquire';
-$_['button_void']                   = 'Void';
+$_['button_void']                   = 'Nul';
 
 // Error
 $_['error_permission']              = 'Warning: You do not have permission to modify payment CardConnect!';
-$_['error_merchant_id']             = 'Merchant ID Required!';
-$_['error_api_username']            = 'Nume utilizator API Necesar!';
+$_['error_merchant_id']             = 'ID Comerciant Necesar!';
+$_['error_api_username']            = 'Nume de Utilizator API Necesar!';
 $_['error_api_password']            = 'API Password Required!';
 $_['error_token']                   = 'Secret Token Required!';
 $_['error_site']                    = 'Site Required!';
