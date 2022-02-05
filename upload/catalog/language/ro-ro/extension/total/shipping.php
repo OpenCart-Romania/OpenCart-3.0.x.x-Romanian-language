@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']        = 'Estimate Shipping &amp; Taxes';
+$_['heading_title']        = 'Estimare transport &amp; taxe';
 
 // Text
-$_['text_success']         = 'Success: Your shipping estimate has been applied!';
-$_['text_shipping']        = 'Enter your destination to get a shipping estimate.';
+$_['text_success']         = 'Succes: Estimarea dumneavoastră de transport a fost aplicată!';
+$_['text_shipping']        = 'Introduceți destinația dvs. pentru a obține o estimare de expediere.';
 $_['text_shipping_method'] = 'Selectați metoda preferată de expediere pe care doriți să o utilizați pentru această comandă.';
 
 // Entry
