@@ -4,7 +4,7 @@ $_['heading_title']                = 'Magazine';
 
 // Text
 $_['text_settings']                = 'Setări';
-$_['text_success']                 = 'Success: You have modified Stores!';
+$_['text_success']                 = 'Succes: Ai modificat Magazine!';
 $_['text_list']                    = 'Store List';
 $_['text_add']                     = 'Add Store';
 $_['text_edit']                    = 'Edit Store';
