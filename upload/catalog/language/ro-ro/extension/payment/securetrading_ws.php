@@ -24,6 +24,6 @@ $_['entry_number'] = 'Card number';
 $_['entry_expire_date'] = 'Expiry date';
 $_['entry_cvv2'] = 'Security Code (CVV2)';
 
-$_['button_confirm'] = 'Confirmare';
+$_['button_confirm'] = 'Confirm';
 
 $_['error_failure'] = 'Could not complete transaction. Please try again later or use a different payment method.';
