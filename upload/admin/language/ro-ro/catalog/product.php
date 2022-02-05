@@ -15,7 +15,7 @@ $_['text_option']            = 'Opţiune';
 $_['text_option_value']      = 'Valoare Opțiune';
 $_['text_percent']           = 'Procentaj';
 $_['text_amount']            = 'Valoare Fixă';
-$_['text_keyword']           = 'Nu utiliza spații, în schimb înlocuieste spațiile cu - și asigură-te că SEO URL este unic global.';
+$_['text_keyword']           = 'Nu utiliza spații, în schimb înlocuiește spațiile cu - și asigură-te că SEO URL este unic global.';
 
 // Column
 $_['column_name']            = 'Nume Produs';
