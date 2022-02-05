@@ -18,7 +18,7 @@ $_['help_notify_recurring_fail']                        = 'Notify customers abou
 $_['tab_setting']                                       = 'Setări';
 $_['tab_transaction']                                   = 'Tranzacții';
 $_['tab_cron']                                          = 'CRON';
-$_['tab_recurring']                                     = 'Recurring Payments';
+$_['tab_recurring']                                     = 'Plăți Recurente';
 
 // Text
 $_['text_access_token_expires_label']                   = 'Access token expires';
@@ -138,7 +138,7 @@ $_['entry_geo_zone']                                    = 'Geo Zone';
 $_['entry_sort_order']                                  = 'Ordine de Sortare';
 $_['entry_merchant']                                    = 'Merchant ID';
 $_['entry_transaction_id']                              = 'Transaction ID';
-$_['entry_order_id']                                    = 'ID Comandă';
+$_['entry_order_id']                                    = 'Număr Comandă';
 $_['entry_partner_solution_id']                         = 'Partner Solution ID';
 $_['entry_type']                                        = 'Transaction Type';
 $_['entry_currency']                                    = 'Currency';
@@ -179,7 +179,7 @@ $_['error_no_refund']                                   = 'Refund failed.';
 
 // Column
 $_['column_transaction_id']                             = 'Transaction ID';
-$_['column_order_id']                                   = 'ID Comandă';
+$_['column_order_id']                                   = 'Număr Comandă';
 $_['column_customer']                                   = 'Client';
 $_['column_status']                                     = 'Stare';
 $_['column_type']                                       = 'Tip';
