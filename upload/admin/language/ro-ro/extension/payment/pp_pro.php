@@ -28,6 +28,6 @@ $_['help_total']		 = 'The checkout total the order must reach before this paymen
 
 // Error
 $_['error_permission']	 = 'Warning: You do not have permission to modify payment PayPal Website Payment Pro Checkout!';
-$_['error_username']	 = 'Nume utilizator API Necesar!';
+$_['error_username']	 = 'Nume de Utilizator API Necesar!';
 $_['error_password']	 = 'API Password Required!';
 $_['error_signature']	 = 'API Signature Required!';
