@@ -115,7 +115,7 @@ $_['column_amount']					 = 'Valoare';
 $_['column_type']					 = 'Payment type';
 $_['column_status']					 = 'Stare';
 $_['column_pending_reason']			 = 'Pending reason';
-$_['column_date_added']				 = 'Created';
+$_['column_date_added']				 = 'Creat';
 $_['column_action']					 = 'Acțiune';
 
 // Tab
