@@ -12,7 +12,7 @@ $_['text_test']				  = 'Test';
 $_['text_live']				  = 'Live';
 $_['text_defered']			  = 'Defered';
 $_['text_authenticate']		  = 'Authenticate';
-$_['text_payment']		  = 'Payment';
+$_['text_payment']		  = 'Plată';
 $_['text_release_ok']		  = 'Release was successful';
 $_['text_release_ok_order']	  = 'Release was successful, order status updated to success - settled';
 $_['text_rebate_ok']		  = 'Rebate was successful';
@@ -28,7 +28,7 @@ $_['text_total_released']	  = 'Total released';
 $_['text_transactions']		  = 'Tranzacții';
 $_['text_column_amount']	  = 'Valoare';
 $_['text_column_type']		  = 'Tip';
-$_['text_column_date_added']  = 'Created';
+$_['text_column_date_added']  = 'Creat';
 $_['text_confirm_void']		  = 'Are you sure you want to void the payment?';
 $_['text_confirm_release']	  = 'Are you sure you want to release the payment?';
 $_['text_confirm_rebate']	  = 'Are you sure you want to rebate the payment?';
@@ -55,7 +55,7 @@ $_['help_transaction']		  = 'Transaction method MUST be set to Payment to allow 
 $_['help_cron_job_token']	  = 'Make this long and hard to guess';
 $_['help_cron_job_url']		  = 'Set a cron job to call this URL';
 $_['text_void']               = 'Nul';
-$_['text_payment']            = "Payment";
+$_['text_payment']            = "Plată";
 $_['text_rebate']             = 'Rebate';
 
 // Button
