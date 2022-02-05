@@ -38,9 +38,9 @@ $_['text_column_date_added']		 = 'Created';
 $_['text_confirm_void']				 = 'Are you sure you want to void the payment?';
 $_['text_confirm_capture']			 = 'Are you sure you want to capture the payment?';
 $_['text_confirm_refund']			 = 'Are you sure you want to refund the payment?';
-$_['text_void']                      = 'Void';
+$_['text_void']                      = 'Nul';
 $_['text_payment']                   = 'Payment';
-$_['text_refund']                    = "Refund";
+$_['text_refund']                    = "Stornare";
 
 // Entry
 $_['entry_certificate_path']		 = 'Certificate path';
@@ -79,8 +79,8 @@ $_['tab_payment']					 = 'Payment settings';
 
 // Button
 $_['button_capture']				 = 'Capture';
-$_['button_refund']					 = 'Refund';
-$_['button_void']					 = 'Void';
+$_['button_refund']					 = 'Stornare';
+$_['button_void']					 = 'Nul';
 
 // Error
 $_['error_merchant_id']				 = 'Store ID is required';
