@@ -9,7 +9,7 @@ $_['text_success']   = 'Succes: Parola ta a fost actualizată cu succes.';
 
 // Entry
 $_['entry_password'] = 'Parolă';
-$_['entry_confirm']  = 'Confirmare';
+$_['entry_confirm']  = 'Confirm';
 
 // Error
 $_['error_password'] = 'Parola trebuie să fie între 4 și 20 de caractere!';
