@@ -31,7 +31,7 @@ $_['text_unlock']               = 'Deblocare Cont';
 // Column
 $_['column_name']               = 'Numele Clientului';
 $_['column_email']              = 'E-Mail';
-$_['column_customer_group']     = 'Grup de Clienți';
+$_['column_customer_group']     = 'Grupul de Clienți';
 $_['column_status']             = 'Stare';
 $_['column_date_added']         = 'Data Adăugării';
 $_['column_comment']            = 'Comentariu';
@@ -43,7 +43,7 @@ $_['column_total']              = 'Total Conturi';
 $_['column_action']             = 'Acțiune';
 
 // Entry
-$_['entry_customer_group']      = 'Grup de Clienți';
+$_['entry_customer_group']      = 'Grupul de Clienți';
 $_['entry_firstname']           = 'Prenume';
 $_['entry_lastname']            = 'Nume de Familie';
 $_['entry_email']               = 'E-Mail';
@@ -53,7 +53,7 @@ $_['entry_status']              = 'Stare';
 $_['entry_approved']            = 'Aprobat';
 $_['entry_safe']                = 'Sigur';
 $_['entry_password']            = 'Parolă';
-$_['entry_confirm']             = 'Confirmare';
+$_['entry_confirm']             = 'Confirma';
 $_['entry_company']             = 'Companie';
 $_['entry_address_1']           = 'Adresă 1';
 $_['entry_address_2']           = 'Adresă 2';
