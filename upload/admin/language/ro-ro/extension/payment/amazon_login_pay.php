@@ -132,5 +132,5 @@ $_['error_no_supported_currencies'] = 'There are no supported currencies availab
 
 // Buttons
 $_['button_capture']				= 'Capture';
-$_['button_refund']					= 'Refund';
+$_['button_refund']					= 'Stornare';
 $_['button_cancel']					= 'Anulează';
