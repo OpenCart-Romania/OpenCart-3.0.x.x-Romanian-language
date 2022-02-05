@@ -17,7 +17,7 @@ $_['text_bank']                 = 'Transfer Bancar';
 $_['text_agree']                = 'Am citit și sunt de acord cu <a href="%s" class="agree"><b>%s</b></a>';
 
 // Entry
-$_['entry_customer_group']      = 'Grup de Clienți';
+$_['entry_customer_group']      = 'Grupul de Clienți';
 $_['entry_firstname']           = 'Prenume';
 $_['entry_lastname']            = 'Nume de Familie';
 $_['entry_email']               = 'E-Mail';
