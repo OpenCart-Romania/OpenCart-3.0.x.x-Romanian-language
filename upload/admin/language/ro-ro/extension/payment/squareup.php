@@ -94,7 +94,7 @@ $_['text_redirect_uri_help']                            = 'Paste this link into 
 $_['text_redirect_uri_label']                           = 'Square OAuth Redirect URL';
 $_['text_refresh_access_token_success']                 = 'Successfully refreshed the connection to your Square account.'; 
 $_['text_refresh_token']                                = 'Re-create token';
-$_['text_refund']                                       = 'Refund';
+$_['text_refund']                                       = 'Stornare';
 $_['text_refund_details']                               = 'Refund details';
 $_['text_refunded_amount']                              = 'Refunded: %s. Status of the refund: %s. Reason for the refund: %s';
 $_['text_refunds']                                      = 'Refunds (%s)';
@@ -122,7 +122,7 @@ $_['text_token_expiry_warning']                         = 'Your Square access to
 $_['text_token_revoked']                                = 'Your Square access token has expired or has been revoked! <a href="%s">Click here</a> to re-authorize the Square extension.';
 $_['text_transaction_statuses']                         = 'Transaction Statuses';
 $_['text_view']                                         = 'Vezi mai mult';
-$_['text_void']                                         = 'Void';
+$_['text_void']                                         = 'Nul';
 $_['text_na']                                           = 'N/A';
 $_['text_no_reason_provided']                           = 'Reason not provided.';
 
@@ -192,8 +192,8 @@ $_['column_reason']                                     = 'Reason';
 $_['column_fee']                                        = 'Processing Fee';
 
 // Button
-$_['button_void']                                       = 'Void';
-$_['button_refund']                                     = 'Refund';
+$_['button_void']                                       = 'Nul';
+$_['button_refund']                                     = 'Stornare';
 $_['button_capture']                                    = 'Capture';
 $_['button_connect']                                    = 'Connect';
 $_['button_reconnect']                                  = 'Reconnect';
