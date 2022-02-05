@@ -10,5 +10,5 @@ $_['text_success']  = 'Succes: Voucher-ul tău cadou a fost aplicat!';
 $_['entry_voucher'] = 'Introduceți codul voucher-ului dvs. aici';
 
 // Error
-$_['error_voucher'] = 'Atenție: Voucher-ul cadou este invalid sau soldul a fost consumat!';
+$_['error_voucher'] = 'Atenție: Certificatul Cadou este fie incorect, fie soldul a fost epuizat!';
 $_['error_empty']   = 'Atenție: Introdu codul unui voucher cadou!';
