@@ -22,7 +22,7 @@ $_['entry_address_2']    = 'Adresă 2';
 $_['entry_postcode']     = 'Cod Poștal';
 $_['entry_city']         = 'Oraș';
 $_['entry_country']      = 'Țară';
-$_['entry_zone']         = 'Regiune / Judeţ';
+$_['entry_zone']         = 'Regiune / Stat';
 $_['entry_default']      = 'Adresa Implicită';
 
 // Error
