@@ -148,7 +148,7 @@ $_['help_shipping']						 = 'All countries within this geo zone will be availabl
 $_['button_account_remove']				 = 'Remove Account';
 $_['button_account_add']				 = 'Add Account';
 $_['button_capture']					 = 'Capture';
-$_['button_refund']						 = 'Refund';
+$_['button_refund']						 = 'Stornare';
 $_['button_extend_authorization']		 = 'Extend';
 $_['button_release_authorization']		 = 'Release';
 $_['button_update']						 = 'Update';
@@ -162,12 +162,12 @@ $_['button_process_settlement']			 = 'Process Settlement Files';
 
 // Error
 $_['error_warning']						 = 'Atenție: Te rugăm să verifici cu atenție formularul pentru erori!';
-$_['error_php_version']					 = 'Minimum version of PHP 5.4.0 is required!';
+$_['error_php_version']					 = 'Versiunea minimă a PHP 5.4.0 este necesară!';
 $_['error_ssl']							 = 'You must enable "Use SSL" in the store settings and have an SSL certificate installed!';
 $_['error_account_minimum']				 = 'Please add at least one account.';
 $_['error_locale']						 = 'Please enter a valid locale.';
 $_['error_account_currency']			 = 'Account list contains one or more duplicate currencies.';
-$_['error_merchant_id']					 = 'Merchant ID Required!';
+$_['error_merchant_id']					 = 'ID Comerciant Necesar!';
 $_['error_secret']						 = 'Shared Secret Required!';
 $_['error_tax_warning']					 = 'Warning: Some of your products use a Payment Address based Tax Class. Klarna Checkout will not work when any of these are placed in the cart.';
 
