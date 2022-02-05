@@ -15,7 +15,7 @@ $_['column_percent']   = 'Percent';
 
 // Entry
 $_['entry_status']     = 'Stare';
-$_['entry_sort_order'] = 'Ordine Sortare';
+$_['entry_sort_order'] = 'Ordine de Sortare';
 
 // Error
 $_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica raportul produselor vizualizate!';
