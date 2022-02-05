@@ -8,7 +8,7 @@ $_['text_success']      = 'Succes: Ai modificat dashboard-ul comenzi recente!';
 $_['text_edit']         = 'Editare Dashboard Comenzi Recente';
 
 // Column
-$_['column_order_id']   = 'ID Comandă';
+$_['column_order_id']   = 'Număr Comandă';
 $_['column_customer']   = 'Client';
 $_['column_status']     = 'Stare';
 $_['column_total']      = 'Total';
