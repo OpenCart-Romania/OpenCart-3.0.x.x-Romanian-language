@@ -12,7 +12,7 @@ $_['text_keyword']           = 'Nu utiliza spații, în schimb înlocuieste spa�
 
 // Column
 $_['column_name']            = 'Nume Categorie';
-$_['column_sort_order']      = 'Ordine Sortare';
+$_['column_sort_order']      = 'Ordine de Sortare';
 $_['column_action']          = 'Acțiune';
 
 // Entry
@@ -28,7 +28,7 @@ $_['entry_filter']           = 'Filtre';
 $_['entry_image']            = 'Imagine';
 $_['entry_top']              = 'Sus';
 $_['entry_column']           = 'Coloane';
-$_['entry_sort_order']       = 'Ordine Sortare';
+$_['entry_sort_order']       = 'Ordine de Sortare';
 $_['entry_status']           = 'Stare';
 $_['entry_layout']           = 'Suprascriere Aspect';
 
