@@ -63,7 +63,7 @@ $_['entry_address_2']                = 'Adresă 2';
 $_['entry_postcode']                 = 'Cod Poștal';
 $_['entry_city']                     = 'Oraș';
 $_['entry_country']                  = 'Țară';
-$_['entry_zone']                     = 'Regiune / Judeţ';
+$_['entry_zone']                     = 'Regiune / Stat';
 $_['entry_newsletter']               = 'Doresc să mă abonez la newsletter-ul %s.';
 $_['entry_shipping']                 = 'Adresa mea de livrare și de facturare sunt aceleași.';
 
