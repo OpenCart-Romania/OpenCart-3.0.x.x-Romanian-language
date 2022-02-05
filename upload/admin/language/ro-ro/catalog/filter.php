@@ -12,13 +12,13 @@ $_['text_value']        = 'Valori Filtru';
 
 // Column
 $_['column_group']      = 'Grup Filtre';
-$_['column_sort_order'] = 'Ordine Sortare';
+$_['column_sort_order'] = 'Ordine de Sortare';
 $_['column_action']     = 'Acțiune';
 
 // Entry
 $_['entry_group']       = 'Nume Grup Filtre';
 $_['entry_name']        = 'Nume Filtru';
-$_['entry_sort_order']  = 'Ordine Sortare';
+$_['entry_sort_order']  = 'Ordine de Sortare';
 
 // Error
 $_['error_permission']  = 'Atenție: Nu ai permisiunea de a modifica filtrele!';
