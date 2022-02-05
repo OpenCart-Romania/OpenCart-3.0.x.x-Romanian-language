@@ -13,12 +13,12 @@ $_['text_pgsql']             = 'PostgreSQL';
 // Entry
 $_['entry_db_driver']        = 'DB Driver';
 $_['entry_db_hostname']      = 'Hostname';
-$_['entry_db_username']      = 'Nume utilizator';
+$_['entry_db_username']      = 'Nume de utilizator';
 $_['entry_db_password']      = 'Parolă';
 $_['entry_db_database']      = 'Bază de Date';
 $_['entry_db_port']          = 'Port';
 $_['entry_db_prefix']        = 'Prefix';
-$_['entry_username']         = 'Nume utilizator';
+$_['entry_username']         = 'Nume de utilizator';
 $_['entry_password']         = 'Parolă';
 $_['entry_email']            = 'E-Mail';
 
