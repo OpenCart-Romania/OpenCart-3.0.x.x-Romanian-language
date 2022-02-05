@@ -67,7 +67,7 @@ $_['tab_advanced']					 = 'Advanced';
 
 // Button
 $_['button_capture']				 = 'Capture';
-$_['button_void']					 = 'Void';
+$_['button_void']					 = 'Nul';
 
 // Error
 $_['error_merchant_id']				 = 'Store ID is required';
