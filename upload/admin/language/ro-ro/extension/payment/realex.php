@@ -44,7 +44,7 @@ $_['text_confirm_void']				 = 'Are you sure you want to void the payment?';
 $_['text_confirm_capture']			 = 'Are you sure you want to capture the payment?';
 $_['text_confirm_rebate']			 = 'Are you sure you want to rebate the payment?';
 $_['text_realex']					 = '<a target="_blank" href="http://www.realexpayments.co.uk/partner-refer?id=opencart"><img src="view/image/payment/realex.png" alt="Realex" title="Realex" style="border: 1px solid #EEEEEE;" /></a>';
-$_['text_void']                      = 'Void';
+$_['text_void']                      = 'Nul';
 $_['text_payment']                   = "Payment";
 $_['text_rebate']                    = 'Rebate';
 
@@ -90,7 +90,7 @@ $_['tab_advanced']					 = 'Advanced';
 // Button
 $_['button_capture']				 = 'Capture';
 $_['button_rebate']					 = 'Rebate / refund';
-$_['button_void']					 = 'Void';
+$_['button_void']					 = 'Nul';
 
 // Error
 $_['error_merchant_id']				 = 'Merchant ID is required';
