@@ -29,7 +29,7 @@ $_['text_value']           = 'Valori Câmp Personalizat';
 $_['column_name']          = 'Nume Câmp Personalizat';
 $_['column_location']      = 'Locație';
 $_['column_type']          = 'Tip';
-$_['column_sort_order']    = 'Ordine Sortare';
+$_['column_sort_order']    = 'Ordine de Sortare';
 $_['column_action']        = 'Acțiune';
 
 // Entry
@@ -42,7 +42,7 @@ $_['entry_custom_value']   = 'Nume Valoare Câmp Personalizat';
 $_['entry_customer_group'] = 'Grup de Clienți';
 $_['entry_required']       = 'Necesar';
 $_['entry_status']         = 'Stare';
-$_['entry_sort_order']     = 'Ordine Sortare';
+$_['entry_sort_order']     = 'Ordine de Sortare';
 
 // Help
 $_['help_regex']           = 'Utilizează regex. E.g: /[a-zA-Z0-9_-]/';
