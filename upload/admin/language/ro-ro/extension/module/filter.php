@@ -5,7 +5,7 @@ $_['heading_title']    = 'Filtru';
 // Text
 $_['text_extension']   = 'Extensii';
 $_['text_success']     = 'Succes: Ai modificat modulul filtru!';
-$_['text_edit']        = 'Edit Filter Module';
+$_['text_edit']        = 'Editare Modul Filtru';
 
 // Entry
 $_['entry_status']     = 'Stare';
