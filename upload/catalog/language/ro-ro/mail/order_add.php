@@ -3,9 +3,9 @@
 $_['text_subject']          = '%s - Comanda %s';
 $_['text_greeting']         = 'Îți mulțumim pentru interesul tău în %s produse. Comanda a fost primită și va fi procesată după confirmarea plății.';
 $_['text_link']             = 'Pentru a-ți vizualiza comanda apasă pe linkul de mai jos:';
-$_['text_order_detail']     = 'Detalii comandă';
+$_['text_order_detail']     = 'Detalii Comandă';
 $_['text_instruction']      = 'Instrucțiuni';
-$_['text_order_id']         = 'Comanda ID:';
+$_['text_order_id']         = 'Număr Comandă:';
 $_['text_date_added']       = 'Data Adăugării:';
 $_['text_order_status']     = 'Stare Comandă:';
 $_['text_payment_method']   = 'Metodă de Plată:';
