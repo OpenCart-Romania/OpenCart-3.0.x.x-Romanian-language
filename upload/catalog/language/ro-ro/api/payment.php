@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_address']       = 'Success: Payment address has been set!';
-$_['text_method']        = 'Success: Payment method has been set!';
+$_['text_address']       = 'Succes: Adresa de plată a fost stabilită!';
+$_['text_method']        = 'Succes: Metoda de plată a fost stabilită!';
 
 // Error
 $_['error_permission']   = 'Atenție: Nu ai permisiunea de a accesa API!';
@@ -13,6 +13,6 @@ $_['error_postcode']     = 'Cod poștal trebuie să fie între 2 și 10 caracter
 $_['error_country']      = 'Te rugăm selectează o țară!';
 $_['error_zone']         = 'Te rugăm selectează o Regiune / un Județ!';
 $_['error_custom_field'] = '%s necesar!';
-$_['error_address']      = 'Warning: Payment address required!';
-$_['error_method']       = 'Warning: Payment method required!';
-$_['error_no_payment']   = 'Warning: No Payment options are available!';
+$_['error_address']      = 'Avertisment: Metoda de expediere necesară!';
+$_['error_method']       = 'Avertisment: Metoda de plată necesară!';
+$_['error_no_payment']   = 'Avertisment: Nici o opțiune de plată nu este disponibilă!';
