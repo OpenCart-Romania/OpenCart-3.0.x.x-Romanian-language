@@ -1,7 +1,7 @@
 <?php
 // Heading
 $_['heading_title']					 = 'PayPal Payflow Pro iFrame';
-$_['heading_refund']				 = 'Refund';
+$_['heading_refund']				 = 'Stornare';
 
 // Text
 $_['text_extension']				 = 'Extensii';
@@ -12,13 +12,13 @@ $_['text_authorization']			 = 'Authorization';
 $_['text_sale']						 = 'Sale';
 $_['text_authorise']				 = 'Authorise';
 $_['text_capture']					 = 'Delayed Capture';
-$_['text_void']						 = 'Void';
+$_['text_void']						 = 'Nul';
 $_['text_payment_info']				 = 'Payment information';
 $_['text_complete']					 = 'Complete';
 $_['text_incomplete']				 = 'Incomplete';
 $_['text_transaction']				 = 'Transaction';
 $_['text_confirm_void']				 = 'If you void you cannot capture any further funds';
-$_['text_refund']					 = 'Refund';
+$_['text_refund']					 = 'Stornare';
 $_['text_refund_issued']			 = 'Refund was issued successfully';
 $_['text_redirect']					 = 'Redirect';
 $_['text_iframe']					 = 'Iframe';
@@ -59,7 +59,7 @@ $_['entry_transaction_reference']	 = 'Transaction Reference';
 $_['entry_transaction_amount']		 = 'Transaction Amount';
 $_['entry_refund_amount']			 = 'Refund Amount';
 $_['entry_capture_status']			 = 'Capture Status';
-$_['entry_void']					 = 'Void';
+$_['entry_void']					 = 'Nul';
 $_['entry_capture']					 = 'Capture';
 $_['entry_transactions']			 = 'Tranzacții';
 $_['entry_complete_capture']		 = 'Complete Capture';
@@ -88,8 +88,8 @@ $_['help_total']					 = 'The checkout total the order must reach before this pay
 $_['help_debug']					 = 'Logs additional information';
 
 // Button
-$_['button_refund']					 = 'Refund';
-$_['button_void']					 = 'Void';
+$_['button_refund']					 = 'Stornare';
+$_['button_void']					 = 'Nul';
 $_['button_capture']				 = 'Capture';
 
 // Error
