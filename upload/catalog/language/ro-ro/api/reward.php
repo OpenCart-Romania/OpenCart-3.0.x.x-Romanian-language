@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_success']     = 'Success: Your reward points discount has been applied!';
+$_['text_success']     = 'Succes: Reducerea din punctele tale de recompensă a fost aplicată!';
 
 // Error
 $_['error_permission'] = 'Atenție: Nu ai permisiunea de a accesa API!';
-$_['error_reward']     = 'Warning: Please enter the amount of reward points to use!';
-$_['error_points']     = 'Warning: You don\'t have %s reward points!';
-$_['error_maximum']    = 'Warning: The maximum number of points that can be applied is %s!';
+$_['error_reward']     = 'Avertisment: Introduceți suma punctelor de recompensă de utilizat!';
+$_['error_points']     = 'Avertisment: Nu aveți %s puncte de recompensă!';
+$_['error_maximum']    = 'Atenție: Numărul maxim de puncte care poate fi aplicat este %s!';
