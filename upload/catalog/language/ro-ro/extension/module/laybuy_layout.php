@@ -3,7 +3,7 @@
 $_['heading_title']            = 'Lay-Buy Information';
 
 // Text
-$_['text_reference_info']      = 'Reference Information';
+$_['text_reference_info']      = 'Informații Referință';
 $_['text_laybuy_ref_no']       = 'Lay-Buy Reference ID:';
 $_['text_paypal_profile_id']   = 'PayPal Profile ID:';
 $_['text_payment_plan']        = 'Payment Plan';
