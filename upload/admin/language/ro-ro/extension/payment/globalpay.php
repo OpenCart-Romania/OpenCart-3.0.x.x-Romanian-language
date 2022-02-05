@@ -44,7 +44,7 @@ $_['text_confirm_void']				 = 'Are you sure you want to void the payment?';
 $_['text_confirm_capture']			 = 'Are you sure you want to capture the payment?';
 $_['text_confirm_rebate']			 = 'Are you sure you want to rebate the payment?';
 $_['text_globalpay']                 = '<a target="_blank" href="https://resourcecentre.globaliris.com/getting-started.php?id=OpenCart"><img src="view/image/payment/globalpay.png" alt="Globalpay" title="Globalpay" style="border: 1px solid #EEEEEE;" /></a>';
-$_['text_void']                      = 'Void'; 
+$_['text_void']                      = 'Nul'; 
 $_['text_payment']                   = 'Payment';
 $_['text_rebate']                    = 'Rebate';
 
@@ -90,7 +90,7 @@ $_['tab_advanced']					 = 'Advanced';
 // Button
 $_['button_capture']				 = 'Capture';
 $_['button_rebate']					 = 'Rebate / refund';
-$_['button_void']					 = 'Void';
+$_['button_void']					 = 'Nul';
 
 // Error
 $_['error_merchant_id']				 = 'Merchant ID is required';
