@@ -65,10 +65,10 @@ $_['entry_width']           = 'Lăţime';
 $_['entry_display_time']    = 'Display Delivery Time';
 $_['entry_display_weight']  = 'Display Delivery Weight';
 $_['entry_weight_class']    = 'Clasă de Greutate';
-$_['entry_tax']             = 'Clasă de Taxare';
+$_['entry_tax']             = 'Clasa Fiscală';
 $_['entry_geo_zone']        = 'Geo Zone';
 $_['entry_status']          = 'Stare';
-$_['entry_sort_order']      = 'Ordine Sortare';
+$_['entry_sort_order']      = 'Ordine de Sortare';
 $_['entry_debug']           = 'Debug Mode';
 
 // Help
