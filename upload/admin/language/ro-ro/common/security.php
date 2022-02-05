@@ -9,7 +9,7 @@ $_['text_security']    = 'Este foarte important să muți directorul "storage" �
 $_['text_choose']      = 'Alege cum să muți directorul de stocare';
 $_['text_automatic']   = 'Mutare automată';
 $_['text_manual']      = 'Mutare manuală';
-$_['text_move']        = 'Mutare';
+$_['text_move']        = 'Mută';
 $_['text_to']          = 'către';
 $_['text_config']      = 'Editare modificare config.php';
 $_['text_admin']       = 'Editează admin/config.php și modifică';
@@ -18,7 +18,7 @@ $_['text_admin']       = 'Editează admin/config.php și modifică';
 $_['entry_directory']  = 'Director';
 
 // Button
-$_['button_move']      = 'Mutare';
+$_['button_move']      = 'Mută';
 $_['button_manual']    = 'Manual';
 
 // Error
