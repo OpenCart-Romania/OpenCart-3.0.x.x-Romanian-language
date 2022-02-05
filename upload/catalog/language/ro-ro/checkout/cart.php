@@ -16,13 +16,13 @@ $_['text_week']                = 'săptămână';
 $_['text_semi_month']          = 'jumătate de lună';
 $_['text_month']               = 'lună';
 $_['text_year']                = 'an';
-$_['text_trial']               = '%s every %s %s for %s payments then ';
-$_['text_recurring']           = '%s every %s %s';
+$_['text_trial']               = '%s la fiecare %s %s pentru %s plată(i) atunci ';
+$_['text_recurring']           = '%s la fiecare %s %s';
 $_['text_recurring_item']      = 'Articol Recurent';
 $_['text_payment_recurring']   = 'Profil Plată';
 $_['text_trial_description']   = '%s la fiecare %d %s(e) pentru %d plată(i) atunci';
-$_['text_payment_description'] = '%s every %d %s(s) for %d payment(s)';
-$_['text_payment_cancel']      = '%s every %d %s(s) until canceled';
+$_['text_payment_description'] = '%s la fiecare %d %s(e) pentru %d plată(i)';
+$_['text_payment_cancel']      = '%s la fiecare %d %s(e) până la anulare';
 
 // Column
 $_['column_image']             = 'Imagine';
