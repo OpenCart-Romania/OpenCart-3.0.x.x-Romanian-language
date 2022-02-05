@@ -8,7 +8,7 @@ $_['text_list']              = 'Listă Categorii';
 $_['text_add']               = 'Adaugă Categorie';
 $_['text_edit']              = 'Editare Categorie';
 $_['text_default']           = 'Implicit';
-$_['text_keyword']           = 'Nu utiliza spații, în schimb înlocuieste spațiile cu - și asigură-te că SEO URL este unic global.';
+$_['text_keyword']           = 'Nu utiliza spații, în schimb înlocuiește spațiile cu - și asigură-te că SEO URL este unic global.';
 
 // Column
 $_['column_name']            = 'Nume Categorie';
@@ -41,7 +41,7 @@ $_['help_column']            = 'Numărul de coloane de utilizat pentru cele 3 ca
 $_['error_warning']          = 'Atenție: Te rugăm să verifici cu atenție formularul pentru erori!';
 $_['error_permission']       = 'Atenție: Nu ai permisiunea de a modifica categoriile!';
 $_['error_name']             = 'Numele categoriei trebuie să fie între 1 și 255 de caractere!';
-$_['error_meta_title']       = 'MetaTag Titlu trebuie să fie mai mare de 1 și mai mic de 255 de caractere!';
+$_['error_meta_title']       = 'Meta Titlu trebuie să fie mai mare de 1 și mai mic de 255 de caractere!';
 $_['error_keyword']          = 'SEO URL este deja utilizat!';
 $_['error_unique']           = 'SEO URL trebuie să fie unic!';
 $_['error_parent']           = 'Categoria părinte pe care ați ales-o este un copil al celei curente!';
