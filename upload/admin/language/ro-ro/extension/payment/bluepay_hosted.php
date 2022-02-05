@@ -30,7 +30,7 @@ $_['text_column_date_added'] = 'Data Adăugării';
 $_['text_confirm_void']		 = 'Are you sure you want to void the payment?';
 $_['text_confirm_release']	 = 'Are you sure you want to release the payment?';
 $_['text_confirm_rebate']	 = 'Are you sure you want to rebate the payment?';
-$_['text_payment']           = "Payment";
+$_['text_payment']           = "Plată";
 $_['text_rebate']            = "Rebate";
 
 // Entry
