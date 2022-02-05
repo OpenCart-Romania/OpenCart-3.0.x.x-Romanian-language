@@ -9,7 +9,7 @@ $_['text_shipping_method'] = 'Selectați metoda preferată de expediere pe care 
 
 // Entry
 $_['entry_country']        = 'Țară';
-$_['entry_zone']           = 'Regiune / Judeţ';
+$_['entry_zone']           = 'Regiune / Stat';
 $_['entry_postcode']       = 'Cod Poștal';
 
 // Error
