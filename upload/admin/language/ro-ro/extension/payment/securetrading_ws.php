@@ -103,7 +103,7 @@ $_['help_csv_password']                          = 'Password of the Transaction 
 $_['help_total']                                 = 'The checkout total the order must reach before this payment method becomes active';
 
 $_['button_reverse_authorisation']               = 'Reverse Authorisation';
-$_['button_refund']                              = 'Refund';
+$_['button_refund']                              = 'Stornare';
 $_['button_show']                                = 'Show';
 $_['button_download']                            = 'Descărcare';
 $_['button_release']                             = 'Release';
