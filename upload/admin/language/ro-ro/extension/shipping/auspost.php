@@ -11,10 +11,10 @@ $_['text_edit']          = 'Edit Australia Post Shipping';
 $_['entry_api']          = 'API Key';
 $_['entry_postcode']     = 'Cod Poștal';
 $_['entry_weight_class'] = 'Clasă de Greutate';
-$_['entry_tax_class']    = 'Clasă de Taxare';
+$_['entry_tax_class']    = 'Clasa Fiscală';
 $_['entry_geo_zone']     = 'Geo Zone';
 $_['entry_status']       = 'Stare';
-$_['entry_sort_order']   = 'Ordine Sortare';
+$_['entry_sort_order']   = 'Ordine de Sortare';
 
 // Help
 $_['help_weight_class']  = 'Set to kilograms.';
