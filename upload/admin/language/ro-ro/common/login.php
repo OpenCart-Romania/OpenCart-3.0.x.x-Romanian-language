@@ -5,10 +5,10 @@ $_['heading_title']  = 'Administrare';
 // Text
 $_['text_heading']   = 'Administrare';
 $_['text_login']     = 'Te rugăm să introduci detaliile de autentificare.';
-$_['text_forgotten'] = 'Parola Uitată';
+$_['text_forgotten'] = 'Parolă Uitată';
 
 // Entry
-$_['entry_username'] = 'Nume utilizator';
+$_['entry_username'] = 'Nume de utilizator';
 $_['entry_password'] = 'Parolă';
 
 // Button
