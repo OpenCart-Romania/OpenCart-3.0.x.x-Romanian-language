@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']         = 'Profile Recurente';
+$_['heading_title']         = 'Profiluri Recurente';
 
 // Text
 $_['text_success']          = 'Succes: Ai modificat profilurile recurente!';
