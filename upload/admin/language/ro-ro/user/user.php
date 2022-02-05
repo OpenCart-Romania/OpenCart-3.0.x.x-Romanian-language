@@ -9,16 +9,16 @@ $_['text_add']              = 'Add User';
 $_['text_edit']             = 'Edit User';
 
 // Column
-$_['column_username']       = 'Nume utilizator';
+$_['column_username']       = 'Nume de utilizator';
 $_['column_status']         = 'Stare';
 $_['column_date_added']     = 'Data Adăugării';
 $_['column_action']         = 'Acțiune';
 
 // Entry
-$_['entry_username']        = 'Nume utilizator';
+$_['entry_username']        = 'Nume de utilizator';
 $_['entry_user_group']      = 'User Group';
 $_['entry_password']        = 'Parolă';
-$_['entry_confirm']         = 'Confirmare';
+$_['entry_confirm']         = 'Confirm';
 $_['entry_firstname']       = 'Prenume';
 $_['entry_lastname']        = 'Nume de Familie';
 $_['entry_email']           = 'E-Mail';
