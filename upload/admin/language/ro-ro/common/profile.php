@@ -15,7 +15,7 @@ $_['column_action']         = 'Acțiune';
 // Entry
 $_['entry_username']        = 'Nume de utilizator';
 $_['entry_password']        = 'Parolă';
-$_['entry_confirm']         = 'Confirmare';
+$_['entry_confirm']         = 'Confirma';
 $_['entry_firstname']       = 'Prenume';
 $_['entry_lastname']        = 'Nume de Familie';
 $_['entry_email']           = 'E-Mail';
