@@ -5,7 +5,7 @@ $_['heading_title']     = 'HTML Content';
 // Text
 $_['text_extension']    = 'Extensii';
 $_['text_success']      = 'Succes: Ai modificat modulul de Conținut HTML!';
-$_['text_edit']         = 'Edit HTML Content Module';
+$_['text_edit']         = 'Editare Modul Conținut HTML';
 
 // Entry
 $_['entry_name']        = 'Module Name';
