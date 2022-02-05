@@ -7,13 +7,13 @@ $_['text_success']          = 'Succes: Ți-ai modificat profilul!';
 $_['text_edit']             = 'Editează-ți Profilul';
 
 // Column
-$_['column_username']       = 'Nume utilizator';
+$_['column_username']       = 'Nume de utilizator';
 $_['column_status']         = 'Stare';
 $_['column_date_added']     = 'Data Adăugării';
 $_['column_action']         = 'Acțiune';
 
 // Entry
-$_['entry_username']        = 'Nume utilizator';
+$_['entry_username']        = 'Nume de utilizator';
 $_['entry_password']        = 'Parolă';
 $_['entry_confirm']         = 'Confirmare';
 $_['entry_firstname']       = 'Prenume';
