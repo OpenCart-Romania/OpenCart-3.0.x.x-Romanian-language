@@ -44,5 +44,5 @@ $_['error_no_shipping']    				= 'Warning: No Shipping options are available.';
 
 // Button
 $_['button_confirm']					= 'Pay Now';
-$_['button_express_confirm']  			= 'Confirm';
+$_['button_express_confirm']  			= 'Confirma';
 $_['button_express_shipping'] 			= 'Update shipping';
