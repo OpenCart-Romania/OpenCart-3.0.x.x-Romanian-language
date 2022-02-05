@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']          = 'Informaţii';
+$_['heading_title']          = 'Information';
 
 // Text
 $_['text_success']           = 'Succes: Ai modificat informația!';
@@ -11,12 +11,12 @@ $_['text_default']           = 'Implicit';
 $_['text_keyword']           = 'Nu utiliza spații, în schimb înlocuieste spațiile cu - și asigură-te că SEO URL este unic global.';
 
 // Column
-$_['column_title']           = 'Titlu Informaţii';
+$_['column_title']           = 'Information Title';
 $_['column_sort_order']      = 'Ordine Sortare';
 $_['column_action']          = 'Acțiune';
 
 // Entry
-$_['entry_title']            = 'Titlu Informaţie';
+$_['entry_title']            = 'Information Title';
 $_['entry_description']      = 'Descriere';
 $_['entry_meta_title']       = 'Meta Tag Titlu';
 $_['entry_meta_keyword']     = 'Meta Tag Cuvinte Cheie';
