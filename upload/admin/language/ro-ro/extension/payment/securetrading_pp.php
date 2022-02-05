@@ -19,7 +19,7 @@ $_['text_rebate']                                = 'Rebate';
 
 $_['entry_site_reference']                       = 'Site reference';
 $_['entry_version']                              = 'Version';
-$_['entry_username']                             = 'Nume utilizator';
+$_['entry_username']                             = 'Nume de utilizator';
 $_['entry_password']                             = 'Parolă';
 $_['entry_site_security_status']                 = 'Use Site Security hash';
 $_['entry_site_security_password']               = 'Site Security password';
