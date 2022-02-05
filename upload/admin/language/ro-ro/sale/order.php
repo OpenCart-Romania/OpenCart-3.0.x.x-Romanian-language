@@ -16,7 +16,7 @@ $_['text_date_added']            = 'Data Adăugării';
 $_['text_payment_method']        = 'Metodă de Plată';
 $_['text_shipping_method']       = 'Shipping Method';
 $_['text_customer']              = 'Client';
-$_['text_customer_group']        = 'Grup de Clienți';
+$_['text_customer_group']        = 'Grupul de Clienți';
 $_['text_email']                 = 'E-Mail';
 $_['text_telephone']             = 'Telefon';
 $_['text_fax']                   = 'Fax';
@@ -82,7 +82,7 @@ $_['column_weight']              = 'Product Weight';
 // Entry
 $_['entry_store']                = 'Magazin';
 $_['entry_customer']             = 'Client';
-$_['entry_customer_group']       = 'Grup de Clienți';
+$_['entry_customer_group']       = 'Grupul de Clienți';
 $_['entry_firstname']            = 'Prenume';
 $_['entry_lastname']             = 'Nume de Familie';
 $_['entry_email']                = 'E-Mail';
