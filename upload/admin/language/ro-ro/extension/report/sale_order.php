@@ -26,7 +26,7 @@ $_['entry_date_start']  = 'Dată de Început';
 $_['entry_date_end']    = 'Dată de Sfârșit';
 $_['entry_group']       = 'Group By';
 $_['entry_status']      = 'Stare';
-$_['entry_sort_order']  = 'Ordine Sortare';
+$_['entry_sort_order']  = 'Ordine de Sortare';
 
 // Error
 $_['error_permission']  = 'Warning: You do not have permission to modify sales report!';
