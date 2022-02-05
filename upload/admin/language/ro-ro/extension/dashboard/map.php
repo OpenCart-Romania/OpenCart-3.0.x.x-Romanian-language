@@ -11,7 +11,7 @@ $_['text_sale']        = 'Vânzări';
 
 // Entry
 $_['entry_status']     = 'Stare';
-$_['entry_sort_order'] = 'Ordine Sortare';
+$_['entry_sort_order'] = 'Ordine de Sortare';
 $_['entry_width']      = 'Lăţime';
 
 // Error
