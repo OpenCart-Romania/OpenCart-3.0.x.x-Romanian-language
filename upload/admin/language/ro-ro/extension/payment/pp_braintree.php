@@ -5,7 +5,7 @@ $_['heading_title']					 = 'PayPal (Powered by Braintree)';
 // Text
 $_['text_extension']		 		 = 'Extensii';
 $_['text_pp_braintree']				 = '<img src="view/image/payment/paypal.png" alt="PayPal (Powered by Braintree)" title="PayPal (Powered by Braintree)" style="border: 1px solid #EEEEEE;" />';
-$_['text_payment']					 = 'Payment';
+$_['text_payment']					 = 'Plată';
 $_['text_success']					 = 'Success: You have modified Braintree account details!';
 $_['text_success_connect']			 = 'Success: You have connected your PayPal (Powered by Braintree) account!';
 $_['text_edit']						 = 'Edit PayPal (Powered by Braintree)';
@@ -69,7 +69,7 @@ $_['column_transaction_type']		 = 'Transaction Type';
 $_['column_transaction_date']		 = 'Transaction Date';
 $_['column_merchant_account']		 = 'Merchant Account';
 $_['column_payment_type']			 = 'Payment Type';
-$_['column_order_id']				 = 'ID Comandă';
+$_['column_order_id']				 = 'Număr Comandă';
 $_['column_processor_code']			 = 'Processor Authorization Code';
 $_['column_cvv_response']			 = 'CVV Response';
 $_['column_avs_response']			 = 'AVS Response';
