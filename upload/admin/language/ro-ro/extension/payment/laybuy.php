@@ -7,7 +7,7 @@ $_['heading_transaction_title']     = 'Transaction';
 $_['tab_settings']                  = 'Setări';
 $_['tab_reports']                   = 'Rapoarte';
 $_['tab_reference']                 = 'Informații Referință';
-$_['tab_customer']                  = 'Customer Information';
+$_['tab_customer']                  = 'Informații Client';
 $_['tab_payment']                   = 'Payment Plan';
 $_['tab_modify']                    = 'Modify Plan';
 
