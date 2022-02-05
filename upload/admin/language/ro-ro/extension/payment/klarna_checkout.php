@@ -36,7 +36,7 @@ $_['text_no_files']						 = 'No files to download.';
 $_['text_version']						 = '1.2';
 
 // Column
-$_['column_order_id']					 = 'ID Comandă';
+$_['column_order_id']					 = 'Număr Comandă';
 $_['column_capture_id']					 = 'Capture ID';
 $_['column_reference']					 = 'Klarna Reference';
 $_['column_status']						 = 'Stare';
@@ -48,7 +48,7 @@ $_['column_order_lines']				 = 'Item Details';
 $_['column_amount']						 = 'Valoare';
 $_['column_authorization_remaining']	 = 'Authorization Remaining';
 $_['column_authorization_expiry']		 = 'Authorization Expiry Date';
-$_['column_item_reference']				 = 'Reference';
+$_['column_item_reference']				 = 'Referință';
 $_['column_type']						 = 'Tip';
 $_['column_quantity']					 = 'Cantitate';
 $_['column_quantity_unit']				 = 'Quantity Unit';
@@ -102,7 +102,7 @@ $_['entry_order_status']				 = 'Stare Comandă';
 $_['entry_order_status_authorised']		 = 'Authorized';
 $_['entry_order_status_part_captured']	 = 'Part Captured';
 $_['entry_order_status_captured']		 = 'Captured';
-$_['entry_order_status_cancelled']		 = 'Cancelled';
+$_['entry_order_status_cancelled']		 = 'Anulat';
 $_['entry_order_status_refund']			 = 'Full Refund';
 $_['entry_order_status_fraud_rejected']	 = 'Fraud - Rejected';
 $_['entry_order_status_fraud_pending']	 = 'Fraud - Pending Decision';
