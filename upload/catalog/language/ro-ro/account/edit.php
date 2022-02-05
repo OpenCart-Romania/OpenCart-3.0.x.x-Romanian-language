@@ -19,5 +19,5 @@ $_['error_exists']       = 'Atenție: Adresa de E-Mail este deja înregistrată!
 $_['error_firstname']    = 'Prenumele trebuie să fie între 1 și 32 de caractere!';
 $_['error_lastname']     = 'Numele de Familie trebuie să fie între 1 și 32 de caractere!';
 $_['error_email']        = 'Adresa E-Mail nu pare să fie validă!';
-$_['error_telephone']    = 'Telefon trebuie să fie între 3 și 32 de caractere!';
+$_['error_telephone']    = 'Telefonul trebuie să fie între 3 și 32 de caractere!';
 $_['error_custom_field'] = '%s necesar!';
