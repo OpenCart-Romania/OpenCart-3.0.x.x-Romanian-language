@@ -7,7 +7,7 @@ $_['text_success']     = 'Success: You have modified your API information!';
 $_['text_signup']      = 'Please enter your OpenCart API information which you can obtain <a href="https://www.opencart.com/index.php?route=account/store" target="_blank" class="alert-link">here</a>.';
 
 // Entry
-$_['entry_username']   = 'Nume utilizator';
+$_['entry_username']   = 'Nume de utilizator';
 $_['entry_secret']     = 'Secret';
 
 // Error
