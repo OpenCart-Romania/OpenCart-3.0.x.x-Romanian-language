@@ -5,7 +5,7 @@ $_['heading_title']			= 'Please Choose Your Payment Plan';
 // Text
 $_['text_title']			= 'PUT IT ON LAY-BUY powered by PayPal';
 $_['text_plan_preview']		= 'Plan Preview';
-$_['text_payment']			= 'Payment';
+$_['text_payment']			= 'Plată';
 $_['text_due_date']			= 'Due Date';
 $_['text_amount']			= 'Valoare';
 $_['text_downpayment']		= 'Down Payment';
@@ -14,7 +14,7 @@ $_['text_delivery_msg']		= 'Your goods/services will be delivered once your fina
 $_['text_fee_msg']			= 'A 0.9% admin fee is payable to Lay-Buys.com.';
 $_['text_month']			= 'Lună';
 $_['text_months']			= 'Luni';
-$_['text_status_1']			= 'Pending';
+$_['text_status_1']			= 'În Așteptare';
 $_['text_status_5']			= 'Completed';
 $_['text_status_7']			= 'Canceled';
 $_['text_status_50']		= 'Revise Requested';
