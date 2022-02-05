@@ -9,10 +9,10 @@ $_['text_edit']        = 'Edit Weight Based Shipping';
 
 // Entry
 $_['entry_rate']       = 'Rates';
-$_['entry_tax_class']  = 'Clasă de Taxare';
+$_['entry_tax_class']  = 'Clasa Fiscală';
 $_['entry_geo_zone']   = 'Geo Zone';
 $_['entry_status']     = 'Stare';
-$_['entry_sort_order'] = 'Ordine Sortare';
+$_['entry_sort_order'] = 'Ordine de Sortare';
 
 // Help
 $_['help_rate']        = 'Example: 5:10.00,7:12.00 Weight:Cost,Weight:Cost, etc..';
