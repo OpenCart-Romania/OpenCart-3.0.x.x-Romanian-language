@@ -5,7 +5,7 @@ $_['heading_title']    = 'Banner';
 // Text
 $_['text_extension']   = 'Extensii';
 $_['text_success']     = 'Succes: Ai modificat modulul banner!';
-$_['text_edit']        = 'Edit Banner Module';
+$_['text_edit']        = 'Editare Modul Banner';
 
 // Entry
 $_['entry_name']       = 'Module Name';
