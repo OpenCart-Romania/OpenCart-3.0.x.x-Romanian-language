@@ -58,7 +58,7 @@ $_['help_refund']                                = 'Please include the decimal p
 $_['help_total']                                 = 'The checkout total the order must reach before this payment method becomes active';
 
 $_['button_reverse_authorisation']               = 'Reverse Authorisation';
-$_['button_refund']                              = 'Refund';
+$_['button_refund']                              = 'Stornare';
 
 
 // Order page - payment tab
