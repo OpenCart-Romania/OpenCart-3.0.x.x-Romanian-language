@@ -9,7 +9,7 @@ $_['text_list']            = 'Mail List';
 $_['text_default']         = 'Implicit';
 $_['text_newsletter']      = 'All Newsletter Subscribers';
 $_['text_customer_all']    = 'All Customers';
-$_['text_customer_group']  = 'Grup de Clienți';
+$_['text_customer_group']  = 'Grupul de Clienți';
 $_['text_customer']        = 'Clienți';
 $_['text_affiliate_all']   = 'Toți Afiliații';
 $_['text_affiliate']       = 'Afiliați';
@@ -18,7 +18,7 @@ $_['text_product']         = 'Produse';
 // Entry
 $_['entry_store']          = 'From';
 $_['entry_to']             = 'To';
-$_['entry_customer_group'] = 'Grup de Clienți';
+$_['entry_customer_group'] = 'Grupul de Clienți';
 $_['entry_customer']       = 'Client';
 $_['entry_affiliate']      = 'Afiliat';
 $_['entry_product']        = 'Produse';
