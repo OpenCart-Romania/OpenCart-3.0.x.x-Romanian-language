@@ -6,8 +6,8 @@ $_['express_text_title']      = 'Confirmare comandă';
 $_['text_title']              = 'PayPal Express Checkout';
 $_['text_cart']               = 'Coș de Cumpărături';
 $_['text_shipping_updated']   = 'Shipping service updated';
-$_['text_trial']              = '%s every %s %s for %s payments then ';
-$_['text_recurring']          = '%s every %s %s';
+$_['text_trial']              = '%s la fiecare %s %s pentru %s plată(i) atunci ';
+$_['text_recurring']          = '%s la fiecare %s %s';
 $_['text_recurring_item']     = 'Articol Recurent';
 $_['text_length']             = ' for %s payments';
 
@@ -24,4 +24,4 @@ $_['button_express_shipping'] = 'Update shipping';
 $_['error_heading_title']	  = 'There was an error';
 $_['error_too_many_failures'] = 'Your payment has failed too many times';
 $_['error_unavailable'] 	  = 'Please use the full checkout with this order';
-$_['error_no_shipping']    	  = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
+$_['error_no_shipping']    	  = 'Avertisment: Nu sunt disponibile opțiuni de expediere. Vă rugăm <a href="%s">să ne contactați</a> pentru asistență!';
