@@ -11,7 +11,7 @@ $_['text_success']    = 'Un email cu un link de confirmare a fost trimis la adre
 // Entry
 $_['entry_email']     = 'Adresă de E-Mail';
 $_['entry_password']  = 'Parolă Nouă';
-$_['entry_confirm']   = 'Confirmare';
+$_['entry_confirm']   = 'Confirma';
 
 // Error
 $_['error_email']     = 'Atenție: Adresa de E-Mail nu a fost găsită în înregistrările noastre, te rugăm să încerci din nou!';
