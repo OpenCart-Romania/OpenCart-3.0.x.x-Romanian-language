@@ -13,5 +13,5 @@ $_['text_download']    = 'Descărcări';
 $_['text_cart']        = 'Coș de Cumpărături';
 $_['text_checkout']    = 'Checkout';
 $_['text_search']      = 'Căutare';
-$_['text_information'] = 'Information';
+$_['text_information'] = 'Informații';
 $_['text_contact']     = 'Contactează-ne';
