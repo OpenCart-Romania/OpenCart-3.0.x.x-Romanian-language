@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']       = 'Layout-uri';
+$_['heading_title']       = 'Amplasări';
 
 // Text
 $_['text_success']        = 'Succes: Ai modificat layout-urile!';
