@@ -5,7 +5,7 @@ $_['heading_title']    = 'Cont';
 // Text
 $_['text_extension']   = 'Extensii';
 $_['text_success']     = 'Succes: Ai modificat modulul de cont!';
-$_['text_edit']        = 'Edit Account Module';
+$_['text_edit']        = 'Editare Modul Cont';
 
 // Entry
 $_['entry_status']     = 'Stare';
