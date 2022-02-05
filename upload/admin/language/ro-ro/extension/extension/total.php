@@ -9,7 +9,7 @@ $_['text_list']         = 'Order Total List';
 // Column
 $_['column_name']       = 'Totaluri Comandă';
 $_['column_status']     = 'Stare';
-$_['column_sort_order'] = 'Ordine Sortare';
+$_['column_sort_order'] = 'Ordine de Sortare';
 $_['column_action']     = 'Acțiune';
 
 // Error
