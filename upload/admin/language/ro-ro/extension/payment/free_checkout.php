@@ -10,7 +10,7 @@ $_['text_edit']          = 'Edit Free Checkout';
 // Entry
 $_['entry_order_status'] = 'Stare Comandă';
 $_['entry_status']       = 'Stare';
-$_['entry_sort_order']   = 'Ordine Sortare';
+$_['entry_sort_order']   = 'Ordine de Sortare';
 
 // Error
 $_['error_permission']   = 'Warning: You do not have permission to modify payment Free Checkout!';
