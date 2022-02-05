@@ -6,7 +6,7 @@ $_['heading_transaction_title']     = 'Transaction';
 // Tab
 $_['tab_settings']                  = 'Setări';
 $_['tab_reports']                   = 'Rapoarte';
-$_['tab_reference']                 = 'Reference Information';
+$_['tab_reference']                 = 'Informații Referință';
 $_['tab_customer']                  = 'Customer Information';
 $_['tab_payment']                   = 'Payment Plan';
 $_['tab_modify']                    = 'Modify Plan';
@@ -60,7 +60,7 @@ $_['text_suburb']                   = 'Suburb';
 $_['text_state']                    = 'State';
 $_['text_country']                  = 'Țară';
 $_['text_postcode']                 = 'Cod poștal';
-$_['text_payment_info']		     	= 'Payment Information';
+$_['text_payment_info']		     	= 'Informații Plată';
 $_['text_no_cron_time']             = 'The cron has not yet been executed';
 $_['text_comment'] 	                = 'Updated by Lay-Buy';
 $_['text_comment_canceled'] 	    = 'Order canceled and recurring PayPal Profile #%s canceled.';
