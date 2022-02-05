@@ -5,7 +5,7 @@ $_['heading_title']    = 'Category';
 // Text
 $_['text_extension']   = 'Extensii';
 $_['text_success']     = 'Succes: Ai modificat modulul categorie!';
-$_['text_edit']        = 'Edit Category Module';
+$_['text_edit']        = 'Editare Modul Categorie';
 
 // Entry
 $_['entry_status']     = 'Stare';
