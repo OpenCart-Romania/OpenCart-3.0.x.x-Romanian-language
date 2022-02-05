@@ -11,7 +11,7 @@ $_['text_filter']           = 'Filtru';
 // Column
 $_['column_customer']       = 'Numele Clientului';
 $_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Grup de Clienți';
+$_['column_customer_group'] = 'Grupul de Clienți';
 $_['column_status']         = 'Stare';
 $_['column_points']         = 'Puncte de Recompensă';
 $_['column_orders']         = 'No. Orders';
