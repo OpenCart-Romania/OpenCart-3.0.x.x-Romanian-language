@@ -10,9 +10,9 @@ $_['text_edit']        = 'Edit Handling Fee Total';
 // Entry
 $_['entry_total']      = 'Order Total';
 $_['entry_fee']        = 'Fee';
-$_['entry_tax_class']  = 'Clasă de Taxare';
+$_['entry_tax_class']  = 'Clasa Fiscală';
 $_['entry_status']     = 'Stare';
-$_['entry_sort_order'] = 'Ordine Sortare';
+$_['entry_sort_order'] = 'Ordine de Sortare';
 
 // Help
 $_['help_total']       = 'The checkout total the order must reach before this order total becomes active.';
