@@ -9,7 +9,7 @@ $_['text_transaction']		 = 'Tranzacții';
 $_['text_complete']			 = 'Complete';
 $_['text_confirm_void']		 = 'If you void you cannot capture any further funds';
 $_['text_view']				 = 'Vezi';
-$_['text_refund']			 = 'Refund';
+$_['text_refund']			 = 'Stornare';
 $_['text_resend']			 = 'Resend';
 $_['text_success']           = 'Transaction was successfully sent';
 $_['text_full_refund']		 = 'Full refund';
@@ -38,10 +38,10 @@ $_['help_capture_complete']  = 'If this is a the last capture.';
 
 // Tab
 $_['tab_capture']		     = 'Capture';
-$_['tab_refund']             = 'Refund';
+$_['tab_refund']             = 'Stornare';
 
 // Button
-$_['button_void']			 = 'Void';
+$_['button_void']			 = 'Nul';
 $_['button_capture']		 = 'Capture';
 $_['button_refund']		     = 'Issue refund';
 
