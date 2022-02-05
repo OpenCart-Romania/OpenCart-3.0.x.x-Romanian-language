@@ -7,7 +7,7 @@ $_['text_success']        = 'Success: You have modified coupons!';
 $_['text_list']           = 'Coupon List';
 $_['text_add']            = 'Add Coupon';
 $_['text_edit']           = 'Edit Coupon';
-$_['text_percent']        = 'Procentaj';
+$_['text_percent']        = 'Procent';
 $_['text_amount']         = 'Valoare Fixă';
 $_['text_coupon']         = 'Coupon History';
 
