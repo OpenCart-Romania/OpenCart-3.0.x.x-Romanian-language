@@ -27,12 +27,12 @@ $_['text_total_released']	 = 'Total released';
 $_['text_transactions']		 = 'Tranzacții';
 $_['text_column_amount']	 = 'Valoare';
 $_['text_column_type']		 = 'Tip';
-$_['text_column_date_added'] = 'Created';
+$_['text_column_date_added'] = 'Creat';
 $_['text_confirm_void']		 = 'Are you sure you want to void the payment?';
 $_['text_confirm_release']	 = 'Are you sure you want to release the payment?';
 $_['text_confirm_rebate']	 = 'Are you sure you want to rebate the payment?';
 $_['text_void']	    		 = 'Nul';
-$_['text_payment']           = 'Payment';
+$_['text_payment']           = 'Plată';
 $_['text_rebate']            = 'Rebate';
 
 // Entry
