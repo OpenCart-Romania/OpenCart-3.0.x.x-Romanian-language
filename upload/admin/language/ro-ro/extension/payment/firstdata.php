@@ -29,7 +29,7 @@ $_['text_total_captured']			 = 'Total captured';
 $_['text_transactions']				 = 'Tranzacții';
 $_['text_column_amount']			 = 'Valoare';
 $_['text_column_type']				 = 'Tip';
-$_['text_column_date_added']		 = 'Created';
+$_['text_column_date_added']		 = 'Creat';
 $_['text_confirm_void']				 = 'Are you sure you want to void the payment?';
 $_['text_confirm_capture']			 = 'Are you sure you want to capture the payment?';
 
