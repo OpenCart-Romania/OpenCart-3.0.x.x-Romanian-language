@@ -61,9 +61,9 @@ $_['text_3ds_ssl']		 			 = '3D Secure requires the store to be using an SSL cert
 $_['text_unlink']		 			 = 'Delete link';
 
 // Column
-$_['column_void']					 = 'Void';
-$_['column_settle']					 = 'Settle';
-$_['column_refund']					 = 'Refund';
+$_['column_void']					 = 'Nul';
+$_['column_settle']					 = 'Soluționare';
+$_['column_refund']					 = 'Stornare';
 $_['column_transaction_id']			 = 'Transaction ID';
 $_['column_transaction_type']		 = 'Transaction Type';
 $_['column_transaction_date']		 = 'Transaction Date';
@@ -159,15 +159,15 @@ $_['help_paypal_option']			 	= 'If you have your PayPal account linked with Brai
 $_['help_paypal_billing_agreement']	 	= 'Confirmă comanda';
 
 // Button
-$_['button_void']					 	= 'Continuă';
-$_['button_settle']					 	= 'Serviciul de livrare actualizat';
-$_['button_refund']					 	= '%s la fiecare %s %s';
+$_['button_void']					 	= 'Nul';
+$_['button_settle']					 	= 'Soluționare';
+$_['button_refund']					 	= 'Stornare';
 $_['button_filter']					 	= 'Filtru';
 
 // Error
 $_['error_permission']				 	= 'Adaugă';
-$_['error_php_version']				 	= 'Continuă spre PayPal';
-$_['error_merchant_id']				 	= 'Anulează plățile';
+$_['error_php_version']				 	= 'Versiunea minimă a PHP 5.4.0 este necesară!';
+$_['error_merchant_id']				 	= 'ID Comerciant Necesar!';
 $_['error_public_key']				 	= 'Plata ta a eșuat de prea multe ori';
 $_['error_private_key']				 	= 'Private Key Required!';
 $_['error_connection']				 	= 'There was a problem establishing a connection to the Braintree API. Please check your Merchant ID, Public Key, Private Key and Environment settings.';
