@@ -6,15 +6,15 @@ $_['heading_title'] = 'Plată Eșuată!';
 $_['text_basket']   = 'Coș de Cumpărături';
 $_['text_checkout'] = 'Checkout';
 $_['text_failure']  = 'Plată Eșuată';
-$_['text_message']  = '<p>There was a problem processing your payment and the order did not complete.</p>
+$_['text_message']  = '<p>A apărut o problemă la procesarea plății și comanda nu s-a finalizat.</p>
 
-<p>Possible reasons are:</p>
+<p>Posibile motive sunt:</p>
 <ul>
-  <li>Insufficient funds</li>
-  <li>Verification failed</li>
+  <li>Fonduri insuficiente</li>
+  <li>Validare eșuată</li>
 </ul>
 
-<p>Please try to order again using a different payment method.</p>
+<p>Te rugăm să plasezi din nou comanda cu o metodă de plată diferită.</p>
 
-<p>If the problem persists please <a href="%s">contact us</a> with the details of the order you are trying to place.</p>
+<p>Dacă problema persistă vă rugăm <a href="%s">să ne contactați</a> cu detaliile despre comanda pe care încercați să o plasați.</p>
 ';
