@@ -45,7 +45,7 @@ $_['entry_country']                  	= 'Țară';
 $_['entry_zone']                    	= 'Regiune / Judeţ';
 
 // Button
-$_['button_confirm']  					= 'Confirm';
+$_['button_confirm']  					= 'Confirma';
 $_['button_shipping'] 					= 'Update shipping';
 
 // Error
