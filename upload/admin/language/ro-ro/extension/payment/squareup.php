@@ -135,7 +135,7 @@ $_['squareup_status_comment_failed']                    = 'The card transaction 
 // Entry
 $_['entry_total']                                       = 'Total';
 $_['entry_geo_zone']                                    = 'Geo Zone';
-$_['entry_sort_order']                                  = 'Ordine Sortare';
+$_['entry_sort_order']                                  = 'Ordine de Sortare';
 $_['entry_merchant']                                    = 'Merchant ID';
 $_['entry_transaction_id']                              = 'Transaction ID';
 $_['entry_order_id']                                    = 'ID Comandă';
