@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Handling Fee';
+$_['heading_title']    = 'Taxa de Manipulare';
 
 // Text
 $_['text_extension']   = 'Extensii';
