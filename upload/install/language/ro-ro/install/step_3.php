@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']          = 'Configurare';
+$_['heading_title']          = 'Configurație';
 
 // Text
 $_['text_step_3']            = 'Introdu baza de date și detaliile de administrare';
