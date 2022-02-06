@@ -20,7 +20,7 @@ $_['column_transid']		   = 'Transaction ID';
 $_['column_status']			   = 'Stare';
 $_['column_currency']		   = 'Monedă';
 $_['column_amount']			   = 'Valoare';
-$_['column_fee']			   = 'Fee';
+$_['column_fee']			   = 'Comision';
 $_['column_netamt']		       = 'Net Amount';
 $_['column_action']		       = 'Acțiune';
 
@@ -33,7 +33,7 @@ $_['entry_trans_money_req']	   = 'Money Request';
 $_['entry_trans_funds_add']	   = 'Funds Added';
 $_['entry_trans_funds_with']   = 'Funds Withdrawn';
 $_['entry_trans_referral']	   = 'Referral';
-$_['entry_trans_fee']		   = 'Fee';
+$_['entry_trans_fee']		   = 'Comision';
 $_['entry_trans_subscription'] = 'Subscription';
 $_['entry_trans_dividend']     = 'Dividend';
 $_['entry_trans_billpay']      = 'Bill Pay';
