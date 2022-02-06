@@ -24,7 +24,7 @@ $_['help_message']     = 'Opţional';
 $_['help_amount']      = 'Valoarea trebuie să fie între %s și %s';
 
 // Error
-$_['error_to_name']    = 'Nume Beneficiar trebuie să fie între 1 și 64 de caractere!';
+$_['error_to_name']    = 'Numele Destinatarului trebuie să fie între 1 și 64 de caractere!';
 $_['error_from_name']  = 'Numele Tău trebuie să fie între 1 și 64 de caractere!';
 $_['error_email']      = 'Adresa E-Mail nu pare să fie validă!';
 $_['error_theme']      = 'Trebuie să selectezi o temă!';
