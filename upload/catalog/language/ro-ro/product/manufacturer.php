@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Găsiți-vă marca preferată';
 
 // Text
-$_['text_brand']        = 'Marca';
+$_['text_brand']        = 'Marcă';
 $_['text_index']        = 'Indicele de Marcă:';
 $_['text_error']        = 'Marca nu a fost găsită!';
 $_['text_empty']        = 'Nu există produse de listat.';
@@ -13,7 +13,7 @@ $_['text_model']        = 'Cod Produs:';
 $_['text_points']       = 'Puncte de Recompensă:';
 $_['text_price']        = 'Preț:';
 $_['text_tax']          = 'Fără Taxe:';
-$_['text_compare']      = 'Compara produs (%s)';
+$_['text_compare']      = 'Compară Produs (%s)';
 $_['text_sort']         = 'Sortează după:';
 $_['text_default']      = 'Implicit';
 $_['text_name_asc']     = 'De la (A - Z)';
