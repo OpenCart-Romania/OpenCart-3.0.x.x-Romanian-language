@@ -188,7 +188,7 @@ $_['column_ip']                                         = 'IP';
 $_['column_date_created']                               = 'Date Created';
 $_['column_action']                                     = 'Acțiune';
 $_['column_refunds']                                    = 'Refunds';
-$_['column_reason']                                     = 'Reason';
+$_['column_reason']                                     = 'Motiv';
 $_['column_fee']                                        = 'Processing Fee';
 
 // Button
