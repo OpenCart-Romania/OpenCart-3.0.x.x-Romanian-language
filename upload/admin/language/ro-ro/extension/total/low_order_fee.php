@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Low Order Fee';
+$_['heading_title']    = 'Comision Comandă Scăzută';
 
 // Text
 $_['text_extension']   = 'Extensii';
@@ -9,7 +9,7 @@ $_['text_edit']        = 'Edit Low Order Fee Total';
 
 // Entry
 $_['entry_total']      = 'Order Total';
-$_['entry_fee']        = 'Fee';
+$_['entry_fee']        = 'Comision';
 $_['entry_tax_class']  = 'Clasa Fiscală';
 $_['entry_status']     = 'Stare';
 $_['entry_sort_order'] = 'Ordine de Sortare';
