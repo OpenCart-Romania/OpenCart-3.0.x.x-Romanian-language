@@ -8,7 +8,7 @@ $_['text_list']        = 'Store Location List';
 $_['text_add']         = 'Add Store Location';
 $_['text_edit']        = 'Edit Store Location';
 $_['text_default']     = 'Implicit';
-$_['text_time']        = 'Opening Times';
+$_['text_time']        = 'Program de Lucru';
 $_['text_geocode']     = 'Geocode was not successful for the following reason:';
 
 // Column
@@ -23,7 +23,7 @@ $_['entry_geocode']    = 'Geocode';
 $_['entry_telephone']  = 'Telefon';
 $_['entry_fax']        = 'Fax';
 $_['entry_image']      = 'Imagine';
-$_['entry_open']       = 'Opening Times';
+$_['entry_open']       = 'Program de Lucru';
 $_['entry_comment']    = 'Comentariu';
 
 // Help
