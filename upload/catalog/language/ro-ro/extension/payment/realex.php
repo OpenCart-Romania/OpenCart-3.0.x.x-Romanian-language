@@ -17,7 +17,7 @@ $_['text_hash_failed']			= 'Hash check failed. Do not try your payment again as 
 $_['text_link']					= 'Please click <a href="%s">here</a> to continue';
 $_['text_select_card']			= 'Please select your card type';
 $_['text_result']				= 'Auth result';
-$_['text_message']				= 'Message';
+$_['text_message']				= 'Mesaj';
 $_['text_cvn_result']			= 'CVN result';
 $_['text_avs_postcode']			= 'AVS postcode';
 $_['text_avs_address']			= 'AVS address';
