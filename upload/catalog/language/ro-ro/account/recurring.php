@@ -29,7 +29,7 @@ $_['text_transaction_skipped']             = 'Plată omisă';
 $_['text_transaction_failed']              = 'Plată eșuată';
 $_['text_transaction_cancelled']           = 'Anulat';
 $_['text_transaction_suspended']           = 'Suspendat';
-$_['text_transaction_suspended_failed']    = 'Suspended from failed payment';
+$_['text_transaction_suspended_failed']    = 'Suspendat de la plată eșuată';
 $_['text_transaction_outstanding_failed']  = 'Plată restantă eșuată';
 $_['text_transaction_expired']             = 'Expirat';
 $_['text_empty']                           = 'Nicio plată recurentă găsită!';
@@ -39,7 +39,7 @@ $_['text_cancelled']                       = 'Plata recurentă a fost anulată';
 // Column
 $_['column_date_added']                    = 'Data Adăugării';
 $_['column_type']                          = 'Tip';
-$_['column_amount']                        = 'Sumă';
+$_['column_amount']                        = 'Valoare';
 $_['column_status']                        = 'Stare';
 $_['column_product']                       = 'Produs';
 $_['column_order_recurring_id']            = 'ID Recurență';
