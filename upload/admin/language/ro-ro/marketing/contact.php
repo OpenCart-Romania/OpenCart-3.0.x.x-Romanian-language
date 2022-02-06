@@ -23,7 +23,7 @@ $_['entry_customer']       = 'Client';
 $_['entry_affiliate']      = 'Afiliat';
 $_['entry_product']        = 'Produse';
 $_['entry_subject']        = 'Subject';
-$_['entry_message']        = 'Message';
+$_['entry_message']        = 'Mesaj';
 
 // Help
 $_['help_customer']        = '(Completare automată)';
