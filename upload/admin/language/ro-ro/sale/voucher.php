@@ -28,7 +28,7 @@ $_['entry_from_email']  = 'From E-Mail';
 $_['entry_to_name']     = 'To Name';
 $_['entry_to_email']    = 'To E-Mail';
 $_['entry_theme']       = 'Temă';
-$_['entry_message']     = 'Message';
+$_['entry_message']     = 'Mesaj';
 $_['entry_amount']      = 'Valoare';
 $_['entry_status']      = 'Stare';
 
@@ -39,8 +39,8 @@ $_['help_code']         = 'The code the customer enters to activate the voucher.
 $_['error_permission']  = 'Warning: You do not have permission to modify vouchers!';
 $_['error_exists']      = 'Warning: Voucher code is already in use!';
 $_['error_code']        = 'Code must be between 3 and 10 characters!';
-$_['error_to_name']     = 'Recipient\'s Name must be between 1 and 64 characters!';
-$_['error_from_name']   = 'Your Name must be between 1 and 64 characters!';
+$_['error_to_name']     = 'Numele Destinatarului trebuie să fie între 1 și 64 de caractere!';
+$_['error_from_name']   = 'Numele Tău trebuie să fie între 1 și 64 de caractere!';
 $_['error_email']       = 'Adresa E-Mail nu pare să fie validă!';
 $_['error_amount']      = 'Cantitatea trebuie să fie mai mare sau egală cu 1!';
 $_['error_order']       = 'Warning: This voucher cannot be deleted as it is part of an <a href="%s">order</a>!';
