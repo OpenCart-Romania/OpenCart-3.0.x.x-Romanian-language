@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_address']       = 'Succes: Adresa de plată a fost stabilită!';
-$_['text_method']        = 'Succes: Metoda de plată a fost stabilită!';
+$_['text_address']       = 'Succes: Adresa de plată a fost setată!';
+$_['text_method']        = 'Succes: Metoda de plată a fost setată!';
 
 // Error
 $_['error_permission']   = 'Atenție: Nu ai permisiunea de a accesa API!';
