@@ -1,13 +1,13 @@
 <?php
 // Heading
-$_['heading_title']        = 'Product Returns';
+$_['heading_title']        = 'Returnări Produse';
 
 // Text
 $_['text_success']         = 'Success: You have modified returns!';
 $_['text_list']            = 'Product Return List';
 $_['text_add']             = 'Add Product Return';
 $_['text_edit']            = 'Edit Product Return';
-$_['text_opened']          = 'Opened';
+$_['text_opened']          = 'Deschis';
 $_['text_unopened']        = 'Unopened';
 $_['text_order']           = 'Informații Comandă';
 $_['text_product']         = 'Informații Produs &amp; Motivul Returnării';
@@ -15,7 +15,7 @@ $_['text_history']         = 'Istoric';
 $_['text_history_add']     = 'Adaugă Istoric';
 
 // Column
-$_['column_return_id']     = 'Return ID';
+$_['column_return_id']     = 'Număr Returnare';
 $_['column_order_id']      = 'Număr Comandă';
 $_['column_customer']      = 'Client';
 $_['column_product']       = 'Produs';
@@ -30,7 +30,7 @@ $_['column_action']        = 'Acțiune';
 // Entry
 $_['entry_customer']       = 'Client';
 $_['entry_order_id']       = 'Număr Comandă';
-$_['entry_date_ordered']   = 'Order Date';
+$_['entry_date_ordered']   = 'Data Comenzii';
 $_['entry_firstname']      = 'Prenume';
 $_['entry_lastname']       = 'Nume de Familie';
 $_['entry_email']          = 'E-Mail';
@@ -38,13 +38,13 @@ $_['entry_telephone']      = 'Telefon';
 $_['entry_product']        = 'Produs';
 $_['entry_model']          = 'Model';
 $_['entry_quantity']       = 'Cantitate';
-$_['entry_opened']         = 'Opened';
+$_['entry_opened']         = 'Deschis';
 $_['entry_comment']        = 'Comentariu';
 $_['entry_return_reason']  = 'Motiv Returnare';
 $_['entry_return_action']  = 'Return Action';
 $_['entry_return_status']  = 'Return Status';
 $_['entry_notify']         = 'Notify Customer';
-$_['entry_return_id']      = 'Return ID';
+$_['entry_return_id']      = 'Număr Returnare';
 $_['entry_date_added']     = 'Data Adăugării';
 $_['entry_date_modified']  = 'Date Modified';
 
@@ -54,7 +54,7 @@ $_['help_product']         = '(Completare automată)';
 // Error
 $_['error_warning']        = 'Atenție: Te rugăm să verifici cu atenție formularul pentru erori!';
 $_['error_permission']     = 'Warning: You do not have permission to modify returns!';
-$_['error_order_id']       = 'Order ID required!';
+$_['error_order_id']       = 'Număr Comandă necesar!';
 $_['error_firstname']      = 'Prenumele trebuie să fie între 1 și 32 de caractere!';
 $_['error_lastname']       = 'Numele de Familie trebuie să fie între 1 și 32 de caractere!';
 $_['error_email']          = 'Adresa E-Mail nu pare să fie validă!';
