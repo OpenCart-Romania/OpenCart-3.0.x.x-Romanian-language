@@ -12,7 +12,7 @@ $_['entry_username'] = 'Nume de utilizator';
 $_['entry_password'] = 'Parolă';
 
 // Button
-$_['button_login']   = 'Autentificare';
+$_['button_login']   = 'Conectare';
 
 // Error
 $_['error_login']    = 'Nume utilizator și/sau Parolă nu se potrivesc.';
