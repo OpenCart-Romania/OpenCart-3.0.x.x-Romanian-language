@@ -35,4 +35,4 @@ $_['error_confirm']         = 'Parola și confirmarea parolei nu se potrivesc!';
 $_['error_firstname']       = 'Prenumele trebuie să fie între 1 și 32 de caractere!';
 $_['error_lastname']        = 'Numele de Familie trebuie să fie între 1 și 32 de caractere!';
 $_['error_email']           = 'Adresa E-Mail nu pare să fie validă!';
-$_['error_exists_email']    = 'Atenție: Adresa E-Mail este deja înregistrată!';
+$_['error_exists_email']    = 'Atenție: Adresa de E-Mail este deja înregistrată!';
