@@ -12,7 +12,7 @@ $_['text_items']                   = 'Items';
 $_['text_tax']                     = 'Taxe';
 $_['text_account']                 = 'Cont';
 $_['text_checkout']                = 'Checkout';
-$_['text_stock']                   = 'Stock';
+$_['text_stock']                   = 'Stoc';
 $_['text_shipping']                = 'Adresă Livrare';
 $_['text_payment']                 = 'Adresă Plată';
 
