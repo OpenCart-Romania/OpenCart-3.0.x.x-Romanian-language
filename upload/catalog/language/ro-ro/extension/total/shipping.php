@@ -16,5 +16,5 @@ $_['entry_postcode']       = 'Cod Poștal';
 $_['error_postcode']       = 'Cod postal trebuie să fie între 2 și 10 de caractere!';
 $_['error_country']        = 'Te rugăm selectează o țară!';
 $_['error_zone']           = 'Te rugăm selectează o regiune / stat!';
-$_['error_shipping']       = 'Avertisment: Metoda de expediere necesară!';
+$_['error_shipping']       = 'Atenție: Metoda de expediere necesară!';
 $_['error_no_shipping']    = 'Avertisment: Nu sunt disponibile opțiuni de expediere. Vă rugăm <a href="%s">să ne contactați</a> pentru asistență!';
