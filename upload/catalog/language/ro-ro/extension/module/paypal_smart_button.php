@@ -50,13 +50,13 @@ $_['button_shipping'] 					= 'Update shipping';
 
 // Error
 $_['error_stock']              			= 'Produsele marcate cu *** nu sunt disponibile in cantitatea dorita sau nu sunt in stoc!';
-$_['error_minimum']            			= 'Valoarea minimă a comenzii pentru %s este %s!';
+$_['error_minimum']            			= 'Valoarea minimă comandată pentru %s este %s!';
 $_['error_required']           			= '%s necesar!';
 $_['error_product']            			= 'Atenție: Nu există produse in coş!';
 $_['error_recurring_required'] 			= 'Vă rugăm să alegeți o modalitate de plată!';
 $_['error_unavailable'] 	  			= 'Please use the full checkout with this order!';
 $_['error_shipping']                 	= 'Atenție: Metoda de expediere necesară!';
-$_['error_no_shipping']    				= 'Warning: No Shipping options are available.';
+$_['error_no_shipping']    				= 'Atenție: Nu sunt disponibile opțiuni de expediere.';
 $_['error_firstname']                	= 'Prenumele trebuie să fie între 1 și 32 de caractere!';
 $_['error_lastname']                 	= 'Numele de Familie trebuie să fie între 1 și 32 de caractere!';
 $_['error_email']                    	= 'Adresa E-Mail nu pare să fie validă!';
