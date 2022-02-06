@@ -7,4 +7,4 @@ $_['text_date_added']   = 'Data Adăugării:';
 $_['text_order_status'] = 'Stare Comandă:';
 $_['text_product']      = 'Produse';
 $_['text_total']        = 'Totaluri';
-$_['text_comment']      = 'Comentariile pentru comanda dvs. sunt:';
+$_['text_comment']      = 'Comentariile pentru comanda ta sunt:';
