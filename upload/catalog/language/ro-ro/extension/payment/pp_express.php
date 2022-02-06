@@ -24,4 +24,4 @@ $_['button_express_shipping'] = 'Update shipping';
 $_['error_heading_title']	  = 'There was an error';
 $_['error_too_many_failures'] = 'Your payment has failed too many times';
 $_['error_unavailable'] 	  = 'Please use the full checkout with this order';
-$_['error_no_shipping']    	  = 'Avertisment: Nu sunt disponibile opțiuni de expediere. Vă rugăm <a href="%s">să ne contactați</a> pentru asistență!';
+$_['error_no_shipping']    	  = 'Atenție: Nu sunt disponibile opțiuni de expediere. Te rugăm <a href="%s">contactează-ne</a> pentru asistență!';
