@@ -13,7 +13,7 @@ $_['entry_zone']           = 'Regiune / Stat';
 $_['entry_postcode']       = 'Cod Poștal';
 
 // Error
-$_['error_postcode']       = 'Cod postal trebuie să fie între 2 și 10 de caractere!';
+$_['error_postcode']       = 'Codul poștal trebuie să fie între 2 și 10 caractere!';
 $_['error_country']        = 'Te rugăm selectează o țară!';
 $_['error_zone']           = 'Te rugăm selectează o regiune / stat!';
 $_['error_shipping']       = 'Atenție: Metoda de expediere necesară!';
