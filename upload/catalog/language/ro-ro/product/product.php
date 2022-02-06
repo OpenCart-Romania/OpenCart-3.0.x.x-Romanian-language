@@ -1,7 +1,7 @@
 <?php
 // Text
 $_['text_search']              = 'Căutare';
-$_['text_brand']               = 'Marca';
+$_['text_brand']               = 'Marcă';
 $_['text_manufacturer']        = 'Marca:';
 $_['text_model']               = 'Cod Produs:';
 $_['text_reward']              = 'Puncte de Recompensă:';
@@ -18,12 +18,12 @@ $_['text_login']               = 'Te rugăm <a href="%s">autentifica-te</a> sau 
 $_['text_no_reviews']          = 'Momentan nu sunt recenzii pentru acest produs.';
 $_['text_note']                = '<span class="text-danger">Nota:</span> HTML nu este tradus!';
 $_['text_success']             = 'Vă mulțumim pentru comentariul dvs. A fost trimis administratorului pentru aprobare.';
-$_['text_related']             = 'Produse Asemănătoare';
+$_['text_related']             = 'Produse Conexe';
 $_['text_tags']                = 'Tag-uri:';
 $_['text_error']               = 'Produs nu a putut fi găsit!';
 $_['text_payment_recurring']   = 'Profil Plată';
 $_['text_trial_description']   = '%s la fiecare %d %s(e) pentru %d plată(i) atunci';
-$_['text_payment_description'] = '%s la fiecare %d %s(e) pentru %d plată(i)';
+$_['text_payment_description'] = '%s la fiecare %d %s(e) pentru %d plata(i)';
 $_['text_payment_cancel']      = '%s la fiecare %d %s(e) până la anulare';
 $_['text_day']                 = 'zi';
 $_['text_week']                = 'săptămână';
