@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Taxa Klarna';
+$_['heading_title']    = 'Comision Klarna';
 
 // Text
 $_['text_extension']   = 'Extensii';
