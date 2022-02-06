@@ -5,7 +5,7 @@ $_['heading_title']      = 'Informații Contul Meu';
 // Text
 $_['text_account']       = 'Cont';
 $_['text_edit']          = 'Editare Informație';
-$_['text_your_details']  = 'Detaliile Tale Personale';
+$_['text_your_details']  = 'Datele Tale Personale';
 $_['text_success']       = 'Succes: Contul tau a fost actualizat cu succes.';
 
 // Entry
