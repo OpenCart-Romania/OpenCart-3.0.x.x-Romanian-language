@@ -4,7 +4,7 @@ $_['heading_title']        = 'Înregistrare Cont';
 
 // Text
 $_['text_account']         = 'Cont';
-$_['text_register']        = 'Înregistrare';
+$_['text_register']        = 'Înregistrează-te';
 $_['text_account_already'] = 'Dacă ai deja un cont la noi, te rugăm să te autentifici pe <a href="%s">pagina de autentificare</a>.';
 $_['text_your_details']    = 'Detaliile Tale Personale';
 $_['text_newsletter']      = 'Newsletter';
