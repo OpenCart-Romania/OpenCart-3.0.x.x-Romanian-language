@@ -18,5 +18,5 @@ $_['entry_password']               = 'Parolă';
 
 // Error
 $_['error_login']                  = 'Atenție: Adresa de E-Mail și/sau Parola nu se potrivesc.';
-$_['error_attempts']               = 'Atenție: Contul tău a depășit numărul permis de încercări de autentificare. Te rugăm să încerci din nou peste 1 oră.';
+$_['error_attempts']               = 'Atenție: Contul tău a depășit numărul permis de încercări de conectare. Te rugăm să încerci din nou în 1 oră.';
 $_['error_approved']               = 'Atenție: Contul tău necesită aprobare înainte de a te putea autentifica.';
