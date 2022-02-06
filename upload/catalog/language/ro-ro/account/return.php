@@ -11,7 +11,7 @@ $_['text_order']         = 'Informații Comandă';
 $_['text_product']       = 'Informații Produs';
 $_['text_reason']        = 'Motivul Returnării';
 $_['text_message']       = '<p>Iți mulțumim pentru trimiterea cererii de returnare. Cererea ta a fost trimisă departamentului relevant pentru prelucrare.</p><p> Vei fi notificat prin e-mail cu privire la starea cererii tale.</p>';
-$_['text_return_id']     = 'ID Returnare:';
+$_['text_return_id']     = 'Număr Returnare:';
 $_['text_order_id']      = 'Număr Comandă:';
 $_['text_date_ordered']  = 'Data Comenzii:';
 $_['text_status']        = 'Stare:';
@@ -22,7 +22,7 @@ $_['text_empty']         = 'Nu ai făcut nicio returnare anterior!';
 $_['text_agree']         = 'Am citit și sunt de acord cu <a href="%s" class="agree"><b>%s</b></a>';
 
 // Column
-$_['column_return_id']   = 'ID Returnare';
+$_['column_return_id']   = 'Număr Returnare';
 $_['column_order_id']    = 'Număr Comandă';
 $_['column_status']      = 'Stare';
 $_['column_date_added']  = 'Data Adăugării';
@@ -52,7 +52,7 @@ $_['entry_fault_detail'] = 'Defect sau alte detalii';
 
 // Error
 $_['text_error']         = 'Returnarea pe care ai solicitat-o nu a putut fi găsită!';
-$_['error_order_id']     = 'ID Comandă necesar!';
+$_['error_order_id']     = 'Număr Comandă necesar!';
 $_['error_firstname']    = 'Prenumele trebuie să fie între 1 și 32 de caractere!';
 $_['error_lastname']     = 'Numele de Familie trebuie să fie între 1 și 32 de caractere!';
 $_['error_email']        = 'Adresa E-Mail nu pare să fie validă!';
