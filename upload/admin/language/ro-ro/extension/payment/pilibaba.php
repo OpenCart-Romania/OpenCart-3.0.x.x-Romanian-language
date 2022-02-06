@@ -3,7 +3,7 @@
 $_['heading_title']         = 'Pilibaba for Chinese Checkout';
 
 // Tab
-$_['tab_register']          = 'Register';
+$_['tab_register']          = 'Înregistrează-te';
 $_['tab_settings']          = 'Setări';
 
 // Text
@@ -74,6 +74,6 @@ $_['error_weight']          = 'Please change your <a href="%s">Weight Class</a> 
 $_['error_bad_response']    = 'An invalid response was received. Please try again later.';
 
 // Button
-$_['button_register']       = 'Register';
+$_['button_register']       = 'Înregistrează-te';
 $_['button_tracking']       = 'Update Tracking Number';
 $_['button_barcode']        = 'Generate Barcode';
