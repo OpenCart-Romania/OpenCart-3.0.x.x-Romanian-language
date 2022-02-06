@@ -6,7 +6,7 @@ $_['heading_title']        = 'Înregistrare Cont';
 $_['text_account']         = 'Cont';
 $_['text_register']        = 'Înregistrează-te';
 $_['text_account_already'] = 'Dacă ai deja un cont la noi, te rugăm să te autentifici pe <a href="%s">pagina de autentificare</a>.';
-$_['text_your_details']    = 'Detaliile Tale Personale';
+$_['text_your_details']    = 'Datele Tale Personale';
 $_['text_newsletter']      = 'Newsletter';
 $_['text_your_password']   = 'Parola Ta';
 $_['text_agree']           = 'Am citit și sunt de acord cu <a href="%s" class="agree"><b>%s</b></a>';
