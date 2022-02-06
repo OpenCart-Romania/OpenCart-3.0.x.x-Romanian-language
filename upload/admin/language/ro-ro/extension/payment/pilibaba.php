@@ -30,7 +30,7 @@ $_['text_email']            = 'The registered email address for your Pilibaba ac
 // Entry
 $_['entry_email_address']   = 'Email Address';
 $_['entry_password']        = 'Parolă';
-$_['entry_currency']        = 'Currency';
+$_['entry_currency']        = 'Monedă';
 $_['entry_warehouse']       = 'Warehouse';
 $_['entry_country']         = 'Țară';
 $_['entry_merchant_number'] = 'Merchant Number';
