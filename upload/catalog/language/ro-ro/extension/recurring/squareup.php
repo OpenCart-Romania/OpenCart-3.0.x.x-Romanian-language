@@ -9,5 +9,5 @@ $_['text_order_history_cancel'] = 'Ai anulat profilul tău recurent. Cardul tău
 $_['button_cancel']             = 'Cancel Recurring Payment';
 
 // Error
-$_['error_not_cancelled']       = 'Error: %s';
+$_['error_not_cancelled']       = 'Eroare: %s';
 $_['error_not_found']           = 'Could not cancel recurring profile';
