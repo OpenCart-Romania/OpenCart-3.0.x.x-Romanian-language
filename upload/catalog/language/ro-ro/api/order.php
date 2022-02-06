@@ -13,4 +13,4 @@ $_['error_shipping_method']  = 'Atenție: Metoda de expediere necesară!';
 $_['error_no_shipping']      = 'Atenție: Nu sunt disponibile opțiuni de expediere!';
 $_['error_stock']            = 'Atenție: Produsele marcate cu *** nu sunt disponibile in cantitatea dorita sau nu sunt in stoc!';
 $_['error_minimum']          = 'Atenție: Valoarea minimă comandată pentru %s este %s!';
-$_['error_not_found']        = 'Atenție: Comanda nu putu fi găsită!';
+$_['error_not_found']        = 'Atenție: Comanda nu a putut fi găsită!';
