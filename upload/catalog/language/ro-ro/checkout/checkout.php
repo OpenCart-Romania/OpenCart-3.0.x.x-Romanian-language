@@ -26,7 +26,7 @@ $_['text_your_password']             = 'Parola Ta';
 $_['text_agree']                     = 'Am citit și sunt de acord cu <a href="%s" class="agree"><b>%s</b></a>';
 $_['text_address_new']               = 'Vreau să folosesc o nouă adresă';
 $_['text_address_existing']          = 'Vreau să folosesc o adresă existentă';
-$_['text_shipping_method']           = 'Selectați metoda preferată de expediere pe care doriți să o utilizați pentru această comandă.';
+$_['text_shipping_method']           = 'Te rugăm să selectezi metoda de expediere preferată pentru a fi utilizată la această comandă.';
 $_['text_payment_method']            = 'Selectați metoda de plată preferată pentru a utiliza această comandă.';
 $_['text_comments']                  = 'Adăugați detalii despre comanda dvs';
 $_['text_recurring_item']            = 'Articol Recurent';
@@ -87,7 +87,7 @@ $_['error_zone']                     = 'Te rugăm selectează o regiune / stat!'
 $_['error_agree']                    = 'Atenție: Trebuie să fii de acord cu %s!';
 $_['error_address']                  = 'Avertisment: Trebuie să selectați adresa!';
 $_['error_shipping']                 = 'Atenție: Metoda de expediere necesară!';
-$_['error_no_shipping']              = 'Avertisment: Nu sunt disponibile opțiuni de expediere. Vă rugăm <a href="%s">să ne contactați</a> pentru asistență!';
+$_['error_no_shipping']              = 'Atenție: Nu sunt disponibile opțiuni de expediere. Te rugăm <a href="%s">contactează-ne</a> pentru asistență!';
 $_['error_payment']                  = 'Avertisment: Metoda de plată necesară!';
 $_['error_no_payment']               = 'Avertisment: Nu sunt disponibile opțiuni de plată. Vă rugăm <a href="%s">să ne contactați</a> pentru asistență!';
 $_['error_custom_field']             = '%s necesar!';
