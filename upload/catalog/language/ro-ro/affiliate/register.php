@@ -7,7 +7,7 @@ $_['text_account']              = 'Cont';
 $_['text_register']             = 'Registru Afiliați';
 $_['text_account_already']      = 'Dacă ai deja un cont la noi, te rugăm să te autentifici pe <a href="%s">pagina de autentificare</a>.';
 $_['text_signup']               = 'Pentru a crea un cont de afiliat, completați formularul de mai jos asigurându-vă că completați toate câmpurile necesare:';
-$_['text_your_details']         = 'Detaliile Tale Personale';
+$_['text_your_details']         = 'Datele Tale Personale';
 $_['text_your_address']         = 'Detaliile Adresei Tale';
 $_['text_your_affiliate']       = 'Informațiile Tale de Afiliat';
 $_['text_your_password']        = 'Parola Ta';
