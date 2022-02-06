@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Store Credit';
+$_['heading_title']    = 'Credit Magazin';
 
 // Text
 $_['text_extension']   = 'Extensii';
