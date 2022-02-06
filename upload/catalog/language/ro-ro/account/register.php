@@ -19,10 +19,10 @@ $_['entry_email']          = 'E-Mail';
 $_['entry_telephone']      = 'Telefon';
 $_['entry_newsletter']     = 'Abonează-te';
 $_['entry_password']       = 'Parolă';
-$_['entry_confirm']        = 'Confirmă Parola';
+$_['entry_confirm']        = 'Confirmare Parolă';
 
 // Error
-$_['error_exists']         = 'Atenție: Adresa E-Mail este deja înregistrată!';
+$_['error_exists']         = 'Atenție: Adresa de E-Mail este deja înregistrată!';
 $_['error_firstname']      = 'Prenumele trebuie să fie între 1 și 32 de caractere!';
 $_['error_lastname']       = 'Numele de Familie trebuie să fie între 1 și 32 de caractere!';
 $_['error_email']          = 'Adresa E-Mail nu pare să fie validă!';
