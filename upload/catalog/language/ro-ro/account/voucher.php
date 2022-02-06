@@ -11,13 +11,13 @@ $_['text_message']     = '<p>Îți mulțumim că ai cumpărat un voucher cadou! 
 $_['text_for']         = '%s Voucher Cadou pentru %s';
 
 // Entry
-$_['entry_to_name']    = 'Nume Beneficiar';
+$_['entry_to_name']    = 'Numele Destinatarului';
 $_['entry_to_email']   = 'E-mail-ul beneficiarului';
 $_['entry_from_name']  = 'Numele Tău';
 $_['entry_from_email'] = 'E-mail-ul tău';
-$_['entry_theme']      = 'Temă Voucher Cadou';
+$_['entry_theme']      = 'Temă Certificat Cadou';
 $_['entry_message']    = 'Mesaj';
-$_['entry_amount']     = 'Sumă';
+$_['entry_amount']     = 'Valoare';
 
 // Help
 $_['help_message']     = 'Opţional';
