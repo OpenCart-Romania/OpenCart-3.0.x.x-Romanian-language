@@ -5,11 +5,11 @@ $_['heading_title']                = 'Autentificare Cont';
 // Text
 $_['text_account']                 = 'Cont';
 $_['text_login']                   = 'Autentificare';
-$_['text_new_customer']            = 'Cont Nou';
+$_['text_new_customer']            = 'Client Nou';
 $_['text_register']                = 'Înregistrare Cont';
-$_['text_register_account']        = 'Prin crearea unui cont, vei putea face cumpărături mai repede, vei fi la curent cu starea comenzii și vei ține evidența comenzilor făcute anterior.';
-$_['text_returning_customer']      = 'Utilizator Existent';
-$_['text_i_am_returning_customer'] = 'Sunt un utilizator existent';
+$_['text_register_account']        = 'Prin crearea unui cont, vei putea să faci cumpărături mai rapid, să fi la curent cu starea unei comenzi și să urmărești comenzile pe care le-ai făcut anterior.';
+$_['text_returning_customer']      = 'Client Existent';
+$_['text_i_am_returning_customer'] = 'Sunt un client existent';
 $_['text_forgotten']               = 'Parolă Uitată';
 
 // Entry
