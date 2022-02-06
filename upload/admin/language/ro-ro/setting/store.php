@@ -13,7 +13,7 @@ $_['text_tax']                     = 'Taxe';
 $_['text_account']                 = 'Cont';
 $_['text_checkout']                = 'Checkout';
 $_['text_stock']                   = 'Stoc';
-$_['text_shipping']                = 'Adresă Livrare';
+$_['text_shipping']                = 'Adresă Expediere';
 $_['text_payment']                 = 'Adresă Plată';
 
 // Column
@@ -37,7 +37,7 @@ $_['entry_email']                  = 'E-Mail';
 $_['entry_telephone']              = 'Telefon';
 $_['entry_fax']                    = 'Fax';
 $_['entry_image']                  = 'Imagine';
-$_['entry_open']                   = 'Opening Times';
+$_['entry_open']                   = 'Program de Lucru';
 $_['entry_comment']                = 'Comentariu';
 $_['entry_location']               = 'Locație Magazin';
 $_['entry_country']                = 'Țară';
