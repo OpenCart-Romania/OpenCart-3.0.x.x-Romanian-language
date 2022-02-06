@@ -25,4 +25,4 @@ $_['help_total']		 = 'The checkout total the order must reach before this paymen
 // Error
 $_['error_permission']	 = 'Warning: You do not have permission to modify payment Paymate!';
 $_['error_username']	 = 'Nume utilizator Paymate necesar!';
-$_['error_password']	 = 'Password required!';
+$_['error_password']	 = 'Parolă necesară!';
