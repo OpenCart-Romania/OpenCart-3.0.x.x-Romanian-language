@@ -1,12 +1,12 @@
 <?php
 // Heading
-$_['heading_title']                           = 'MaxMind Anti-Fraud';
+$_['heading_title']                           = 'MaxMind Anti-Fraudă';
 
 // Text
 $_['text_extension']                          = 'Extensii';
 $_['text_success']                            = 'Succes: Ai modificat MaxMind anti-fraudă!';
 $_['text_edit']                               = 'Editare MaxMind Anti-Fraudă';
-$_['text_signup']                             = 'MaxMind is a fraud detection service. If you don\'t have a license key you can <a href="http://www.maxmind.com/?rId=opencart" target="_blank"><u>sign up here</u></a>.';
+$_['text_signup']                             = 'MaxMind este un serviciu de detectare a fraudelor. Dacă nu ai o cheie de licență, te poți <a href="http://www.maxmind.com/?rId=opencart" target="_blank"><u>înscrie aici</u></a>.';
 $_['text_country_match']                      = 'Country Match:';
 $_['text_country_code']                       = 'Country Code:';
 $_['text_high_risk_country']                  = 'High Risk Country:';
@@ -59,7 +59,7 @@ $_['text_maxmind_id']                         = 'Maxmind ID:';
 $_['text_error']                              = 'Error:';
 
 // Entry
-$_['entry_key']                               = 'MaxMind License Key';
+$_['entry_key']                               = 'Cheie Licență MaxMind';
 $_['entry_score']                             = 'Risk Score';
 $_['entry_order_status']                      = 'Stare Comandă';
 $_['entry_status']                            = 'Stare';
@@ -114,9 +114,9 @@ $_['help_score']                              = 'Overall fraud score based on ou
 $_['help_explanation']                        = 'A brief explanation of the score, detailing what factors contributed to it, according to our formula. Please note this corresponds to the score, not the riskScore.';
 $_['help_risk_score']                         = 'New fraud score representing the estimated probability that the order is fraud, based off of analysis of past minFraud transactions. Requires an upgrade for clients who signed up before February 2007.';
 $_['help_queries_remaining']                  = 'Number of queries remaining in your account, can be used to alert you when you may need to add more queries to your account.';
-$_['help_maxmind_id']                         = 'Unique identifier, used to reference transactions when reporting fraudulent activity back to MaxMind. This reporting will help MaxMind improve its service to you and will enable a planned feature to customize the fraud scoring formula based on your chargeback history.';
+$_['help_maxmind_id']                         = 'Identificator unic, utilizat pentru a face referire la tranzacții atunci când raportezi activități frauduloase înapoi către MaxMind. Această raportare va ajuta MaxMind să-și îmbunătățească serviciul pentru tine și va activa o funcţie planificată pentru a personaliza formula de notare a fraudelor pe baza istoricului de rambursare.';
 $_['help_error']                              = 'Returns an error string with a warning message or a reason why the request failed.';
 
 // Error
-$_['error_permission']                        = 'Warning: You do not have permission to modify MaxMind anti-fraud!';
+$_['error_permission']                        = 'Atenție: Nu ai permisiunea de a modifica MaxMind anti-fraudă!';
 $_['error_key']                               = 'License Key Required!';
