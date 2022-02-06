@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_success']     = 'Succes: Voucherul tău cadou a fost aplicat!';
+$_['text_success']     = 'Succes: Reducerea voucher-ului cadou a fost aplicată!';
 $_['text_cart']        = 'Succes: Ți-ai modificat coșul de cumpărături!';
 $_['text_for']         = '%s Voucher Cadou pentru %s';
 
