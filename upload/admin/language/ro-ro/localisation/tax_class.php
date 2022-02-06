@@ -9,7 +9,7 @@ $_['text_add']          = 'Add Tax Class';
 $_['text_edit']         = 'Edit Tax Class';
 $_['text_tax_class']    = 'Clasa Fiscală';
 $_['text_tax_rate']     = 'Cote Taxare';
-$_['text_shipping']     = 'Adresă Livrare';
+$_['text_shipping']     = 'Adresă Expediere';
 $_['text_payment']      = 'Adresă Plată';
 $_['text_store']        = 'Store Address';
 
