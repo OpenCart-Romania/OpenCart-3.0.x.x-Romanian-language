@@ -43,10 +43,10 @@ $_['text_transaction_skipped']             = 'Plată omisă';
 $_['text_transaction_failed']              = 'Plată eșuată';
 $_['text_transaction_cancelled']           = 'Anulat';
 $_['text_transaction_suspended']           = 'Suspendat';
-$_['text_transaction_suspended_failed']    = 'Suspended from failed payment';
-$_['text_transaction_outstanding_failed']  = 'Outstanding payment failed';
+$_['text_transaction_suspended_failed']    = 'Suspendat de la plată eșuată';
+$_['text_transaction_outstanding_failed']  = 'Plată restantă eșuată';
 $_['text_transaction_expired']             = 'Expirat';
-$_['text_cancelled']                       = 'Recurring payment has been cancelled';
+$_['text_cancelled']                       = 'Plata recurentă a fost anulată';
 
 // Column
 $_['column_order_recurring_id']             = 'ID Recurență';
@@ -78,5 +78,5 @@ $_['entry_payment_method']                 = 'Metodă de Plată';
 $_['entry_cancel_payment']                 = 'Cancel Payment';
 
 // Error
-$_['error_not_cancelled']                  = 'Error: %s';
+$_['error_not_cancelled']                  = 'Eroare: %s';
 $_['error_not_found']                      = 'Could not cancel recurring profile';
