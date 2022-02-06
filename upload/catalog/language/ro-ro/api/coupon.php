@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_success']     = 'Succes: Reducerea cuponului tău a fost aplicată!';
+$_['text_success']     = 'Succes: Cuponul tău de reducere a fost aplicat!';
 
 // Error
 $_['error_permission'] = 'Atenție: Nu ai permisiunea de a accesa API!';
