@@ -14,5 +14,5 @@ $_['error_country']      = 'Te rugăm selectează o țară!';
 $_['error_zone']         = 'Te rugăm selectează o regiune / stat!';
 $_['error_custom_field'] = '%s necesar!';
 $_['error_address']      = 'Atenție: Adresa de plată necesară!';
-$_['error_method']       = 'Avertisment: Metoda de plată necesară!';
-$_['error_no_payment']   = 'Avertisment: Nici o opțiune de plată nu este disponibilă!';
+$_['error_method']       = 'Atenție: Metoda de plată necesară!';
+$_['error_no_payment']   = 'Atenție: Nu sunt disponibile opțiuni de plată!';
