@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Cont';
 
 // Text
-$_['text_register']    = 'Register';
+$_['text_register']    = 'Înregistrează-te';
 $_['text_login']       = 'Autentificare';
 $_['text_logout']      = 'Deconectare';
 $_['text_forgotten']   = 'Parolă Uitată';
