@@ -1,3 +1,3 @@
 <?php
 // Text
-$_['text_all'] = 'Arată Tot';
+$_['text_all'] = 'Afișează Tot';
