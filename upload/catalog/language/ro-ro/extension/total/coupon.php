@@ -4,7 +4,7 @@ $_['heading_title'] = 'Utilizați un cod cupon';
 
 // Text
 $_['text_coupon']   = 'Cupon (%s)';
-$_['text_success']  = 'Succes: Reducerea cuponului tău a fost aplicată!';
+$_['text_success']  = 'Succes: Cuponul tău de reducere a fost aplicat!';
 
 // Entry
 $_['entry_coupon']  = 'Introduceți cuponul aici';
