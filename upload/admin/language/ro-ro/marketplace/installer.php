@@ -16,7 +16,7 @@ $_['column_action']     = 'Acțiune';
 
 // Entry
 $_['entry_upload']      = 'Încarcă Fișier';
-$_['entry_progress']    = 'Progress';
+$_['entry_progress']    = 'Progres';
 
 // Help
 $_['help_upload']       = 'Requires a modification file with extension \'.ocmod.zip\'.';
