@@ -88,6 +88,6 @@ $_['error_agree']                    = 'Atenție: Trebuie să fii de acord cu %s
 $_['error_address']                  = 'Avertisment: Trebuie să selectați adresa!';
 $_['error_shipping']                 = 'Atenție: Metoda de expediere necesară!';
 $_['error_no_shipping']              = 'Atenție: Nu sunt disponibile opțiuni de expediere. Te rugăm <a href="%s">contactează-ne</a> pentru asistență!';
-$_['error_payment']                  = 'Avertisment: Metoda de plată necesară!';
-$_['error_no_payment']               = 'Avertisment: Nu sunt disponibile opțiuni de plată. Vă rugăm <a href="%s">să ne contactați</a> pentru asistență!';
+$_['error_payment']                  = 'Atenție: Metoda de plată necesară!';
+$_['error_no_payment']               = 'Atenție: Nu sunt disponibile opțiuni de plată. Te rugăm <a href="%s">contactează-ne</a> pentru asistență!';
 $_['error_custom_field']             = '%s necesar!';
