@@ -12,7 +12,7 @@ $_['text_recurring_item']     = 'Articol Recurent';
 $_['text_length']             = ' for %s payments';
 
 // Entry
-$_['express_entry_coupon']    = 'Enter your coupon here:';
+$_['express_entry_coupon']    = 'Introdu cuponul tău aici:';
 
 // Button
 $_['button_express_coupon']   = 'Add';
