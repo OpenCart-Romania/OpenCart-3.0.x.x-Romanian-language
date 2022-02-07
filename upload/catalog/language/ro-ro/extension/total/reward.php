@@ -4,7 +4,7 @@ $_['heading_title'] = 'Utilizează punctele de recompensă (%s disponibile)';
 
 // Text
 $_['text_reward']   = 'Puncte de Recompensă (%s)';
-$_['text_order_id'] = 'ID comandă: #%s';
+$_['text_order_id'] = 'Număr Comandă: #%s';
 $_['text_success']  = 'Succes: Reducerea punctelor de recompensă a fost aplicată!';
 
 // Entry
