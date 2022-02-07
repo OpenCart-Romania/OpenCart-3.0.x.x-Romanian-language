@@ -6,7 +6,7 @@ $_['text_for']         = '%s Voucher Cadou pentru %s';
 
 // Error
 $_['error_permission'] = 'Atenție: Nu ai permisiunea de a accesa API!';
-$_['error_voucher']    = 'Atenție: Voucher-ul cadou este invalid sau soldul a fost consumat!';
+$_['error_voucher']    = 'Atenție: Voucher-ul Cadou este fie incorect, fie soldul a fost epuizat!';
 $_['error_to_name']    = 'Numele Destinatarului trebuie să fie între 1 și 64 de caractere!';
 $_['error_from_name']  = 'Numele Tău trebuie să fie între 1 și 64 de caractere!';
 $_['error_email']      = 'Adresa E-Mail nu pare să fie validă!';
