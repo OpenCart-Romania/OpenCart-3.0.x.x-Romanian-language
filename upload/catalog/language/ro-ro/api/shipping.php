@@ -1,7 +1,7 @@
 <?php
 // Text
 $_['text_address']       = 'Succes: Adresa de expediere a fost setată!';
-$_['text_method']        = 'Succes: Metoda de transport a fost setată!';
+$_['text_method']        = 'Succes: Metoda de expediere a fost setată!';
 
 // Error
 $_['error_permission']   = 'Atenție: Nu ai permisiunea de a accesa API!';
