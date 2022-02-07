@@ -5,7 +5,7 @@ $_['heading_title']            = 'Coș de Cumpărături';
 // Text
 $_['text_success']             = 'Succes: Ai adăugat <a href="%s">%s</a> la <a href="%s">coșul tău de cumpărături</a>!';
 $_['text_remove']              = 'Succes: Ți-ai modificat coșul de cumpărături!';
-$_['text_login']               = 'Atenție: Trebuie <a href="%s">să vă conectați</a> sau <a href="%s">creați un cont</a> pentru a vedea prețurile!';
+$_['text_login']               = 'Attention: You must <a href="%s">login</a> or <a href="%s">create an account</a> to view prices!';
 $_['text_items']               = '%s articol(e) - %s';
 $_['text_points']              = 'Puncte de Recompensă: %s';
 $_['text_next']                = 'Ce ai vrea să faci mai departe?';
@@ -34,7 +34,7 @@ $_['column_total']             = 'Total';
 
 // Error
 $_['error_stock']              = 'Produsele marcate cu *** nu sunt disponibile in cantitatea dorita sau nu sunt in stoc!';
-$_['error_minimum']            = 'Valoarea minimă a comenzii pentru %s este %s!';
+$_['error_minimum']            = 'Valoarea minimă comandată pentru %s este %s!';
 $_['error_required']           = '%s necesar!';
 $_['error_product']            = 'Atenție: Nu există produse in coş!';
 $_['error_recurring_required'] = 'Vă rugăm să alegeți o modalitate de plată!';
