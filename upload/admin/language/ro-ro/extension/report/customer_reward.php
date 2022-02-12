@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']         = 'Customer Reward Points Report';
+$_['heading_title']         = 'Raport Puncte de Recompensă Client';
 
 // Text
 $_['text_extension']        = 'Extensii';
-$_['text_edit']             = 'Edit Customer Reward Points Report';
-$_['text_success']          = 'Success: You have modified customer reward points report!';
+$_['text_edit']             = 'Editare Raport Puncte de Recompensă Client';
+$_['text_success']          = 'Succes: Ai modificat raportul punctelor de recompensă ale clientului!';
 $_['text_filter']           = 'Filtru';
 
 // Column
