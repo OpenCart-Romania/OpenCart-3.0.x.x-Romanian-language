@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'Utilizează punctele de recompensă (%s disponibile)';
+$_['heading_title'] = 'Utilizează Puncte de Recompensă (Disponibile %s)';
 
 // Text
 $_['text_reward']   = 'Puncte de Recompensă (%s)';
