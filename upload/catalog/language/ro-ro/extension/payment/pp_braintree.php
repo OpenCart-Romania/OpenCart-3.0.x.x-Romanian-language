@@ -40,7 +40,7 @@ $_['error_alert_failed_token']			= 'Our payment provider did not recognise the c
 $_['error_alert_failed_network']		= 'A network error occurred, please try again';
 $_['error_alert_unknown']				= 'An unknown error occurred, if the issue continued please contact support';
 $_['error_unavailable'] 	  			= 'Please use the full checkout with this order';
-$_['error_no_shipping']    				= 'Atenție: Nu sunt disponibile opțiuni de expediere.';
+$_['error_no_shipping']    				= 'Atenție: Nu sunt disponibile opțiuni de livrare.';
 
 // Button
 $_['button_confirm']					= 'Pay Now';
