@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title']     = 'Expediere';
+$_['heading_title']     = 'Livrare';
 
 // Text
-$_['text_success']      = 'Succes: Ai modificat expedierea!';
+$_['text_success']      = 'Succes: Ai modificat livrarea!';
 $_['text_list']         = 'Shipping List';
 
 // Column
