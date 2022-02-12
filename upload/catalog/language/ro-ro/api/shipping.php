@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_address']       = 'Succes: Adresa de expediere a fost setată!';
-$_['text_method']        = 'Succes: Metoda de expediere a fost setată!';
+$_['text_address']       = 'Succes: Adresa de livrare a fost setată!';
+$_['text_method']        = 'Succes: Metoda de livrare a fost setată!';
 
 // Error
 $_['error_permission']   = 'Atenție: Nu ai permisiunea de a accesa API!';
@@ -13,6 +13,6 @@ $_['error_postcode']     = 'Cod poștal trebuie să fie între 2 și 10 caracter
 $_['error_country']      = 'Te rugăm selectează o țară!';
 $_['error_zone']         = 'Te rugăm selectează o regiune / stat!';
 $_['error_custom_field'] = '%s necesar!';
-$_['error_address']      = 'Atenție: Adresa de expediere necesară!';
-$_['error_method']       = 'Atenție: Metoda de expediere necesară!';
-$_['error_no_shipping']  = 'Atenție: Nu sunt disponibile opțiuni de expediere!';
+$_['error_address']      = 'Atenție: Adresa de livrare necesară!';
+$_['error_method']       = 'Atenție: Metoda de livrare necesară!';
+$_['error_no_shipping']  = 'Atenție: Nu sunt disponibile opțiuni de livrare!';
