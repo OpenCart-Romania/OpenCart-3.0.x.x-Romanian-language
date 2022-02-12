@@ -13,7 +13,7 @@ $_['text_tax']                     = 'Taxe';
 $_['text_account']                 = 'Cont';
 $_['text_checkout']                = 'Checkout';
 $_['text_stock']                   = 'Stoc';
-$_['text_shipping']                = 'Adresă Expediere';
+$_['text_shipping']                = 'Adresă Livrare';
 $_['text_payment']                 = 'Adresă Plată';
 
 // Column
