@@ -4,7 +4,7 @@
 $_['heading_campaign']                      = 'Smart Shopping Ad Campaigns';
 $_['heading_mapping']                       = 'Category Mapping';
 $_['heading_merchant']                      = 'Cont Google Merchant Center';
-$_['heading_shipping_taxes']                = 'Shipping & Taxes';
+$_['heading_shipping_taxes']                = 'Livrare & Taxe';
 $_['heading_title']                         = 'Google Shopping';
 
 // Steps
@@ -12,7 +12,7 @@ $_['step_campaigns']                        = 'Smart Shopping Ad Campaigns';
 $_['step_connect']                          = 'Connect';
 $_['step_mapping']                          = 'Category Mapping';
 $_['step_merchant_account']                 = 'Cont Merchant Center';
-$_['step_shipping_taxes']                   = 'Shipping &amp; Taxes';
+$_['step_shipping_taxes']                   = 'Livrare &amp; Taxe';
 
 // Help
 $_['help_adult']                            = 'Use this attribute to indicate that individual products are for adults only because they contain adult content such as nudity, sexually suggestive content, or are intended to enhance sexual activity. Google cares what they show to their users, so if your business model is not adult oriented but you&apos;re selling an individual adult-oriented product, you need to label that product clearly so Google can show appropriate and legally compliant content to people shopping online.';
@@ -262,7 +262,7 @@ $_['button_save']                           = 'Salvează';
 $_['button_save_future']                    = 'Save &amp; Do Nothing';
 $_['button_save_modify']                    = 'Save &amp; Modify Current Products';
 $_['button_select_campaigns']               = 'Select Campaigns';
-$_['button_shipping_taxes']                 = 'Shipping &amp; Taxes';
+$_['button_shipping_taxes']                 = 'Livrare &amp; Taxe';
 $_['button_video_tutorial_install']         = 'Watch Video Tutorial';
 $_['button_video_tutorial_setup']           = 'Watch Video Tutorial';
 
