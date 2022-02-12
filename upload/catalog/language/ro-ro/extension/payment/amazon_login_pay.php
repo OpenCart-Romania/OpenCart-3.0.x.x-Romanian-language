@@ -2,7 +2,7 @@
 
 $_['breadcrumb_cart'] = 'Coș de Cumpărături';
 $_['breadcrumb_payment'] = 'Plată';
-$_['breadcrumb_shipping'] = 'Expediere';
+$_['breadcrumb_shipping'] = 'Livrare';
 $_['breadcrumb_summary'] = 'Rezumat';
 $_['error_constraint_amount_not_set'] = 'The order failed due to a technical error, please select another payment method or contact our support.';
 $_['error_constraint_payment_method_not_allowed'] = 'The selected payment method is not available for this transaction. Please select another one or add a new payment method to the wallet widget.';
