@@ -89,7 +89,7 @@ $_['text_payment_method_name_help']                     = 'Checkout payment meth
 $_['text_payment_method_name_label']                    = 'Payment method name';
 $_['text_payment_method_name_placeholder']              = 'Credit / Debit Card';
 $_['text_recurring_info']                               = 'Te rugam asigură-te că, configurezi o activitate CRON zilnică folosind una dintre metodele de mai jos. Joburile CRON te ajută cu:<br /><br />&bull; Actualizarea automată a token-ului tău de acces API<br />&bull; Procesarea tranzacțiilor recurente';
-$_['text_recurring_status']                             = 'Status of recurring payments:';
+$_['text_recurring_status']                             = 'Starea plăților recurente:';
 $_['text_redirect_uri_help']                            = 'Paste this link into the Redirect URI field under Manage Application/oAuth';
 $_['text_redirect_uri_label']                           = 'Square OAuth Redirect URL';
 $_['text_refresh_access_token_success']                 = 'Successfully refreshed the connection to your Square account.'; 
@@ -160,7 +160,7 @@ $_['entry_setup_confirmation']                          = 'Setup confirmation:';
 
 // Error
 $_['error_permission']                                  = '<strong>Warning:</strong> You do not have permission to modify payment Square!';
-$_['error_permission_recurring']                        = '<strong>Warning:</strong> You do not have permission to modify recurring payments!';
+$_['error_permission_recurring']                        = '<strong>Atenție:</strong> Nu ai permisiunea de a modifica plățile recurente!';
 $_['error_transaction_missing']                         = 'Transaction not found!';
 $_['error_no_ssl']                                      = '<strong>Warning:</strong> SSL is not enabled on your admin panel. Please enable it to finish your configuration.';
 $_['error_user_rejected_connect_attempt']               = 'Connection attempt was canceled by the user.';
