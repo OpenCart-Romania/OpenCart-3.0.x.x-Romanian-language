@@ -18,7 +18,7 @@ $_['entry_code']       = 'Modul';
 $_['entry_name']       = 'Module Name';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify modules!';
+$_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica modulele!';
 $_['error_name']       = 'Numele Modulului trebuie să fie între 3 și 64 de caractere!';
 $_['error_code_name']  = 'Module Code must be between 3 and 32 characters!';
 $_['error_code']       = 'Extension required!';
