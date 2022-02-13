@@ -15,4 +15,4 @@ $_['entry_status']     = 'Stare';
 $_['help_admin']       = 'If yes, then multi store list will be visible only when admin user login!';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify store module!';
+$_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica modulul magazin!';
