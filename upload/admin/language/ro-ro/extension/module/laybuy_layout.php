@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']    = 'Lay-Buy Layout';
+$_['heading_title']    = 'Layout Lay-Buy';
 
 // Text
 $_['text_extension']   = 'Extensii';
-$_['text_success']     = 'Succes: Ai modificat modulul Lay-Buy Layout!';
-$_['text_edit']        = 'Edit Lay-Buy Layout Module';
+$_['text_success']     = 'Succes: Ai modificat modulul Layout Lay-Buy!';
+$_['text_edit']        = 'Editare Modul Layout Lay-Buy';
 
 // Entry
 $_['entry_status']     = 'Stare';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Lay-Buy Layout module!';
+$_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica modulul Layout Lay-Buy!';
