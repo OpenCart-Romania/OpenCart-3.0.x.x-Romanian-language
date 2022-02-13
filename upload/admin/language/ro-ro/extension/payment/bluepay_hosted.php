@@ -61,7 +61,7 @@ $_['button_rebate']			 = 'Rebate / refund';
 $_['button_void']			 = 'Nul';
 
 // Error
-$_['error_permission']		 = 'Warning: You do not have permission to modify payment BluePay!';
+$_['error_permission']		 = 'Atenție: Nu ai permisiunea de a modifica plata BluePay!';
 $_['error_account_name']	 = 'Account Name Required!';
 $_['error_account_id']		 = 'Account ID Required!';
 $_['error_secret_key']		 = 'Secret Key Required!';
