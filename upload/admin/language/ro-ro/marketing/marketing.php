@@ -12,7 +12,7 @@ $_['text_filter']       = 'Filtru';
 // Column
 $_['column_name']       = 'Campaign Name';
 $_['column_code']       = 'Code';
-$_['column_clicks']     = 'Clicks';
+$_['column_clicks']     = 'Click-uri';
 $_['column_orders']     = 'Comenzi';
 $_['column_date_added'] = 'Data Adăugării';
 $_['column_action']     = 'Acțiune';
