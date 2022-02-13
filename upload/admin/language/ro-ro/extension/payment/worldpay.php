@@ -57,7 +57,7 @@ $_['tab_settings']				         = 'Setări';
 $_['tab_order_status']			         = 'Stare Comandă';
 
 // Error
-$_['error_permission']			         = 'Warning: You do not have permission to modify payment Worldpay!';
+$_['error_permission']			         = 'Atenție: Nu ai permisiunea de a modifica plata Worldpay!';
 $_['error_service_key']			         = 'Service Key Required!';
 $_['error_client_key']			         = 'Client Key Required!';
 
