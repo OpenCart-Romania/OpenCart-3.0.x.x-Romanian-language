@@ -13,4 +13,4 @@ $_['column_sort_order'] = 'Ordine de Sortare';
 $_['column_action']     = 'Acțiune';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify totals!';
+$_['error_permission']  = 'Atenție: Nu ai permisiunea de a modifica totalurile!';
