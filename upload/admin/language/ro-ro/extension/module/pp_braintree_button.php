@@ -17,4 +17,4 @@ $_['text_layout_link'] = 'Click aici pentru a accesa pagina layout-uri';
 $_['entry_status']     = 'Stare';
 
 // Error
-$_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica modul Buton PayPal (Powered by Braintree)!';
+$_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica modulul Buton PayPal (Powered by Braintree)!';
