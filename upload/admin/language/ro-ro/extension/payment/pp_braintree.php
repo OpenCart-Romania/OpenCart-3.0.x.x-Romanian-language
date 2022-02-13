@@ -171,7 +171,7 @@ $_['error_merchant_id']				 	= 'ID Comerciant Necesar!';
 $_['error_public_key']				 	= 'Plata ta a eșuat de prea multe ori';
 $_['error_private_key']				 	= 'Private Key Required!';
 $_['error_connection']				 	= 'A existat o problemă la stabilirea unei conexiuni la API-ul Braintree. Te rugăm să verifici Merchant ID, Public Key, Private Key și Environment settings.';
-$_['error_account']					 	= 'Please enter a valid Merchant Account ID as specified in your Braintree Account';
+$_['error_account']					 	= 'Te rugăm să introduci un Merchant Account ID valid, așa cum este specificat în Contul tău Braintree';
 $_['error_warning']					 	= 'Atenție: Te rugăm să verifici cu atenție formularul pentru erori!';
 $_['error_3ds_not_ready']			 	= 'You have enabled 3D secure however your Braintree account does not have it configured, please check your <a href="https://www.braintreegateway.com/login" title="Braintree login" target="_blank">Braintree Control Panel</a> or contact Braintree support';
 $_['error_paypal_not_ready']		 	= 'You have enabled PayPal however your Braintree account does not have it configured, please check your <a href="https://www.braintreegateway.com/login" title="Braintree login" target="_blank">Braintree Control Panel</a> or contact Braintree support';
