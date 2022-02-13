@@ -11,4 +11,4 @@ $_['text_edit']        = 'Editare Modul Informații';
 $_['entry_status']     = 'Stare';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify information module!';
+$_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica modulul de informații!';
