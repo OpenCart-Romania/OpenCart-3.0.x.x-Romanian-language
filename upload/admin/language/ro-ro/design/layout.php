@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']       = 'Amplasări';
+$_['heading_title']       = 'Layout-uri';
 
 // Text
 $_['text_success']        = 'Succes: Ai modificat layout-urile!';
-$_['text_list']           = 'Listă de Layout-uri';
+$_['text_list']           = 'Listă Layout-uri';
 $_['text_add']            = 'Adaugă Layout';
 $_['text_edit']           = 'Editare Layout';
 $_['text_remove']         = 'Elimină';
