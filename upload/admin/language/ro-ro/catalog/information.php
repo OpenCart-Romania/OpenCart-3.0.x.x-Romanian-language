@@ -26,7 +26,7 @@ $_['entry_keyword']          = 'Cuvânt Cheie';
 $_['entry_bottom']           = 'Jos';
 $_['entry_status']           = 'Stare';
 $_['entry_sort_order']       = 'Ordine de Sortare';
-$_['entry_layout']           = 'Suprascriere Aspect';
+$_['entry_layout']           = 'Suprascrie Layout';
 
 // Help
 $_['help_bottom']            = 'Afișeaza în subsolul paginii.';
