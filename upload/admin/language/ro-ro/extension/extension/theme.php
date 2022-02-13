@@ -12,4 +12,4 @@ $_['column_status']    = 'Stare';
 $_['column_action']    = 'Acțiune';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify themes!';
+$_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica temele!';
