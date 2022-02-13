@@ -4,7 +4,7 @@ $_['heading_title']            = 'Informații Lay-Buy';
 
 // Text
 $_['text_reference_info']      = 'Informații Referință';
-$_['text_laybuy_ref_no']       = 'Lay-Buy Reference ID:';
+$_['text_laybuy_ref_no']       = 'Număr de Referință Lay-Buy:';
 $_['text_paypal_profile_id']   = 'PayPal Profile ID:';
 $_['text_payment_plan']        = 'Payment Plan';
 $_['text_status']              = 'Stare:';
