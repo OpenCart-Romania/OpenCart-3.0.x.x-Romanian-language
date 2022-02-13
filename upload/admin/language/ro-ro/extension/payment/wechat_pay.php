@@ -35,7 +35,7 @@ $_['help_currency']                  = 'The currency customer paid merchant!';
 $_['help_wechat_pay_setup']          = '<a target="_blank" href="http://www.opencart.cn/docs/wechat-pay">Click here</a> to learn how to set up Wechat Pay account.';
 
 // Error
-$_['error_permission']               = 'Warning: You do not have permission to modify payment Wechat!';
+$_['error_permission']               = 'Atenție: Nu ai permisiunea de a modifica plata Wechat!';
 $_['error_app_id']                   = 'App ID required!';
 $_['error_app_secret']               = 'App Secret required!';
 $_['error_mch_id']                   = 'Merchant ID required!';
