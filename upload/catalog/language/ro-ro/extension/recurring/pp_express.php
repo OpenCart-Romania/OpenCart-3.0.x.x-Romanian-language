@@ -4,8 +4,8 @@ $_['text_title']          = 'PayPal Express Checkout';
 $_['text_canceled']       = 'Success: You have succesfully caneled this payment!';
 
 // Button
-$_['button_cancel']       = 'Cancel Recurring Payment';
+$_['button_cancel']       = 'Anulează Plata Recurentă';
 
 // Error
 $_['error_not_cancelled'] = 'Eroare: %s';
-$_['error_not_found']     = 'Could not cancel recurring profile';
+$_['error_not_found']     = 'Nu s-a putut anula profilul recurent';
