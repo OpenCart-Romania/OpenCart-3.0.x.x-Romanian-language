@@ -24,4 +24,4 @@ $_['entry_status']          = 'Stare';
 $_['entry_sort_order']      = 'Ordine de Sortare';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify customer credit report!';
+$_['error_permission']      = 'Atenție: Nu ai permisiunea de a modifica raportul de credit al clientului!';
