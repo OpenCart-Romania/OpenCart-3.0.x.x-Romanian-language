@@ -12,4 +12,4 @@ $_['entry_status']     = 'Stare';
 $_['entry_data_feed']  = 'Data Feed Url';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Google Sitemap feed!';
+$_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica feed-ul Google Sitemap!';
