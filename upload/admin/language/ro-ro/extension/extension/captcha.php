@@ -4,12 +4,12 @@ $_['heading_title']    = 'Captchas';
 
 // Text
 $_['text_success']     = 'Succes: Ai modificat captchas!';
-$_['text_list']        = 'Captcha List';
+$_['text_list']        = 'Listă Captcha';
 
 // Column
-$_['column_name']      = 'Captcha Name';
+$_['column_name']      = 'Nume Captcha';
 $_['column_status']    = 'Stare';
 $_['column_action']    = 'Acțiune';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify captchas!';
+$_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica captchas!';
