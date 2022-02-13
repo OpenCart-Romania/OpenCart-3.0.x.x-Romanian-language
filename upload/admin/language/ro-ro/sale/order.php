@@ -109,7 +109,7 @@ $_['entry_amount']               = 'Valoare';
 $_['entry_affiliate']            = 'Afiliat';
 $_['entry_order_status']         = 'Stare Comandă';
 $_['entry_notify']               = 'Notify Customer';
-$_['entry_override']             = 'Override';
+$_['entry_override']             = 'Suprascrie';
 $_['entry_comment']              = 'Comentariu';
 $_['entry_currency']             = 'Monedă';
 $_['entry_shipping_method']      = 'Metoda de Livrare';
@@ -123,7 +123,7 @@ $_['entry_date_added']           = 'Data Adăugării';
 $_['entry_date_modified']        = 'Date Modified';
 
 // Help
-$_['help_override']              = 'If the customers order is being blocked from changing the order status due to an anti-fraud extension enable override.';
+$_['help_override']              = 'Dacă, comanda clienților este blocată de la modificarea stării comenzii din cauza unei extensii anti-fraudă, activați suprascrierea.';
 
 // Error
 $_['error_warning']              = 'Atenție: Te rugăm să verifici cu atenție formularul pentru erori!';
