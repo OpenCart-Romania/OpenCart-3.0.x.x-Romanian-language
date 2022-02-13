@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']		 				= 'PayPal Commerce Platform';
+$_['heading_title']		 				= 'Platformă PayPal Commerce';
 
 // Text
 $_['text_paypal']		 				= '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Commerce Platform" title="PayPal Commerce Platform" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_extensions']     				= 'Extensii';
-$_['text_edit']          				= 'Editează PayPal';
+$_['text_edit']          				= 'Editare PayPal';
 $_['text_general']				 	 	= 'General';
 $_['text_order_status']				 	= 'Stare Comandă';
 $_['text_checkout_express']				= 'Checkout';
@@ -134,5 +134,5 @@ $_['button_smart_button']				= 'Smart Button Configure';
 $_['success_save']		 				= 'Success: You have modified PayPal!';
 
 // Error
-$_['error_permission']	 				= 'Warning: You do not have permission to modify payment PayPal!';
+$_['error_permission']	 				= 'Atenție: Nu ai permisiunea de a modifica plata PayPal!';
 $_['error_timeout'] 	  				= 'Sorry, PayPal is currently busy. Please try again later!';
