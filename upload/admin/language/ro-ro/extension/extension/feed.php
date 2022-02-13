@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Feeds';
+$_['heading_title']    = 'Feed-uri';
 
 // Text
 $_['text_success']     = 'Succes: Ai modificat feed-urile!';
@@ -12,4 +12,4 @@ $_['column_status']    = 'Stare';
 $_['column_action']    = 'Acțiune';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify feeds!';
+$_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica feed-urile!';
