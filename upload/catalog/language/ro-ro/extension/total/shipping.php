@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']        = 'Estimare transport &amp; taxe';
+$_['heading_title']        = 'Estimare Livrare &amp; Taxe';
 
 // Text
 $_['text_success']         = 'Succes: Estimarea dumneavoastră de transport a fost aplicată!';
