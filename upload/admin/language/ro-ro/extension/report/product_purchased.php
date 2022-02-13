@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']     = 'Products Purchased Report';
+$_['heading_title']     = 'Raport Produse Cumpărate';
 
 // Text
 $_['text_extension']    = 'Extensii';
-$_['text_edit']         = 'Edit Products Purchased Report';
-$_['text_success']      = 'Success: You have modified products purchased report!';
+$_['text_edit']         = 'Editare Raport Produse Cumpărate';
+$_['text_success']      = 'Succes: Ai modificat raportul produselor cumpărate!';
 $_['text_filter']       = 'Filtru';
 $_['text_all_status']   = 'All Statuses';
 
@@ -25,4 +25,4 @@ $_['entry_status']      = 'Stare';
 $_['entry_sort_order']  = 'Ordine de Sortare';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify products purchased report!';
+$_['error_permission']  = 'Atenție: Nu ai permisiunea de a modifica raportul produselor cumpărate!';
