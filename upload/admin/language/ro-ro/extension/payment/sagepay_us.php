@@ -20,6 +20,6 @@ $_['entry_sort_order']	 = 'Ordine de Sortare';
 $_['help_total']		 = 'The checkout total the order must reach before this payment method becomes active.';
 
 // Error
-$_['error_permission']	 = 'Warning: You do not have permission to modify payment SagePay!';
+$_['error_permission']	 = 'Atenție: Nu ai permisiunea de a modifica plata SagePay!';
 $_['error_merchant_id']	 = 'ID Comerciant Necesar!';
 $_['error_merchant_key'] = 'Merchant Key Required!';
