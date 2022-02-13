@@ -20,6 +20,6 @@ $_['entry_data_feed']        = 'Data Feed Url';
 $_['entry_status']           = 'Stare';
 
 // Error
-$_['error_permission']       = 'Warning: You do not have permission to modify Google Base feed!';
+$_['error_permission']       = 'Atenție: Nu ai permisiunea de a modifica feed-ul Google Base!';
 $_['error_upload']           = 'File could not be uploaded!';
 $_['error_filetype']         = 'Tip fișier incorect!';
