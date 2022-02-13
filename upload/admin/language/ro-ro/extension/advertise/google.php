@@ -63,7 +63,7 @@ $_['entry_status']                          = 'Stare';
 
 // Texts
 $_['text_access_token']                     = 'Access token';
-$_['text_acknowledge_add_campaign_1']       = 'I acknowledge that my campaigns will not become active until my product feeds get approved according to the <a href="https://support.google.com/merchants/answer/6149970" target="_blank"><strong>Google Merchant Center requirements</strong></a>.';
+$_['text_acknowledge_add_campaign_1']       = 'Am luat la cunoștință că, campaniile mele nu vor deveni active până când feed-urile mele de produse nu vor fi aprobate în conformitate cu cerințele <a href="https://support.google.com/merchants/answer/6149970" target="_blank"><strong>Google Merchant Center</strong></a>.';
 $_['text_acknowledge_add_campaign_2']       = 'Am luat la cunoștință că campaniile mele nu vor deveni active până când nu voi configura <a href="https://support.google.com/merchants/topic/7293661?hl=en-GB&ref_topic=7259125" target="_blank"><strong>Livrare</strong></a> și <a href="https://support.google.com/merchants/topic/7294266?hl=en-GB&ref_topic=7259125" target="_blank"><strong>Taxe (doar în US)</strong></a> pentru contul meu Merchant Center.';
 $_['text_acknowledge_cron']                 = 'I confirm that I have set up an automated CRON task using one of the methods above.';
 $_['text_acknowledge_merchant_tos']         = 'By purchasing Google Shopping ads, I agree to comply with Google&apos;s terms and policies, including Google&apos;s <a href="https://support.google.com/merchants/answer/160173?hl=en" target="_blank">Merchant Center terms of service</a>, <a href="https://support.google.com/merchants/answer/6149970?hl=en" target="_blank">Shopping ads policies</a>, and <a href="https://billing.google.com/payments/u/0/paymentsinfofinder?style=:md#" target="_blank">Google Ads Terms and Conditions</a>.';
@@ -114,7 +114,7 @@ $_['text_debug_log']                        = 'Debug Logging';
 $_['text_destination_status']               = 'Stare';
 $_['text_disabled']                         = 'Dezactivat';
 $_['text_disapproved']                      = 'Respins';
-$_['text_disconnect_reminder']              = 'Even if you decide to disconnect this OpenCart extension, you will still have access to your Merchant Center account. It will not get deleted. Disconnecting will do the following:<ul><li>Disable this extension</li><li>Remove all active campaigns</li><li>Delete all datafeeds in the linked Google Merchant Center account</li><li>Remove any links between your existing Google Merchant Center account and OpenCart.</li></ul>';
+$_['text_disconnect_reminder']              = 'Chiar dacă decizi să deconectezi această extensie OpenCart, vei avea în continuare acces la contul Merchant Center. Nu va fi șters. Deconectarea va face următoarele:<ul><li>Dezactivează această extensie</li><li>Elimină toate campaniile active</li><li>Șterge toate feed-urile de date din contul Google Merchant Center conectat</li><li>Elimină toate link-urile dintre contul Google Merchant Center existent și OpenCart.</li></ul>';
 $_['text_disconnecting_please_wait']        = 'Disconnecting...';
 $_['text_does_not_apply']                   = '-- Does not apply --';
 $_['text_download_debug_log']               = 'Download Debug Log';
@@ -280,7 +280,7 @@ $_['success_merchant']                      = 'Success! Your Google Merchant Cen
 $_['success_merchant_access']           = 'Succes! Contul tău Google Merchant Center a fost configurat! Website-ul tău a fost revendicat! Poți accesa contul Google Merchant Center legat din <a href="https://merchants.google.com/mc/merchantdashboard?a=%s" target="_blank">Google Merchant Center dashboard</a>.';
 $_['success_product']                       = 'Success! The product information has been updated.';
 $_['success_shipping_taxes']                = 'Succes! Livrarea și taxele comerciantului au fost actualizate.';
-$_['success_target_add']                    = 'Success! Your new campaign has been created! It will become active as soon as your product feeds get approved by Google Merchant Center.';
+$_['success_target_add']                    = 'Succes! Noua ta campanie a fost creată! Aceasta va deveni activă imediat ce feed-urile de produse vor fi aprobate de Google Merchant Center.';
 $_['success_target_delete']                 = 'Success! Your campaign has been deleted!';
 $_['success_target_edit']                   = 'Success! You have edited your campaign!';
 
@@ -302,7 +302,7 @@ $_['error_field_no_value']                  = 'Please provide a value!';
 $_['error_flat_rate']                       = 'Please insert a flat rate value. The value must be numeric.';
 $_['error_form']                            = 'Please check the form for errors and try to save agian.';
 $_['error_invalid_email']                   = 'The provided e-mail address is not valid!';
-$_['error_invalid_feed']                    = 'All feeds must have a language and currency!';
+$_['error_invalid_feed']                    = 'Toate feed-urile trebuie să aibă o limbă și o monedă!';
 $_['error_max_transit_time']                = 'Please insert a maximum transit time (number of days) which is larger than the minimum.';
 $_['error_min_transit_time']                = 'Please insert a minimum transit time (number of days).';
 $_['error_no_targets']                      = 'Atenție! Nu au fost configurate Smart Shopping Ad Campaigns.';
