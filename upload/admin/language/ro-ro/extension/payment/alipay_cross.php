@@ -27,6 +27,6 @@ $_['help_currency']                  = 'The settlement currency code the merchan
 $_['help_alipay_setup']              = '<a target="_blank" href="http://www.opencart.cn/docs/alipay">Click here</a> to learn how to set up Alipay account.';
 
 // Error
-$_['error_permission']               = 'Warning: You do not have permission to modify pay Alipay!';
+$_['error_permission']               = 'Atenție: Nu ai permisiunea de a modifica plătește Alipay!';
 $_['error_app_id']                   = 'Partner ID required!';
 $_['error_merchant_private_key']     = 'Key required!';
