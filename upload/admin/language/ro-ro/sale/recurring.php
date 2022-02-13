@@ -4,9 +4,9 @@ $_['heading_title']                        = 'Comenzi Recurente';
 
 // Text
 $_['text_success']                         = 'Succes: Ai modificat profilurile recurente!';
-$_['text_list']                            = 'Recurring Order List';
+$_['text_list']                            = 'Listă Comenzi Recurente';
 $_['text_filter']                          = 'Filtru';
-$_['text_recurring_detail']                = 'Recurring Details';
+$_['text_recurring_detail']                = 'Detalii Recurente';
 $_['text_order_detail']                    = 'Detalii Comandă';
 $_['text_product_detail']                  = 'Detalii Produs';
 $_['text_transaction']                     = 'Tranzacții';
@@ -14,7 +14,7 @@ $_['text_order_recurring_id']              = 'Număr Comandă Recurentă';
 $_['text_reference']                       = 'Payment Reference';
 $_['text_recurring_name']                  = 'Profil Recurent';
 $_['text_recurring_description']           = 'Descriere';
-$_['text_recurring_status']                = 'Recurring Status';
+$_['text_recurring_status']                = 'Stare Recurență';
 $_['text_payment_method']                  = 'Metodă de Plată';
 $_['text_order_id']                        = 'Număr Comandă';
 $_['text_customer']                        = 'Client';
@@ -69,7 +69,7 @@ $_['entry_status']                         = 'Stare';
 $_['entry_type']                           = 'Tip';
 $_['entry_action']                         = 'Acțiune';
 $_['entry_email']                          = 'Email';
-$_['entry_description']                    = 'Recurring Profile\'s description';
+$_['entry_description']                    = 'Descrierea Profilului Recurent';
 $_['entry_product']                        = 'Produs';
 $_['entry_quantity']                       = 'Cantitate';
 $_['entry_amount']                         = 'Valoare';
@@ -79,4 +79,4 @@ $_['entry_cancel_payment']                 = 'Cancel Payment';
 
 // Error
 $_['error_not_cancelled']                  = 'Eroare: %s';
-$_['error_not_found']                      = 'Could not cancel recurring profile';
+$_['error_not_found']                      = 'Nu s-a putut anula profilul recurent';
