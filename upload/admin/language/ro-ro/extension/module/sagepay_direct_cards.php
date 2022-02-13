@@ -10,4 +10,4 @@ $_['text_edit']        = 'Edit Sagepay Direct Card Management Module';
 $_['entry_status']     = 'Stare';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Sagepay Direct Card Management module!';
+$_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica modul Sagepay Direct Card Management!';
