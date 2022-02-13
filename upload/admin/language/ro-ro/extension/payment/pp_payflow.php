@@ -32,7 +32,7 @@ $_['help_test']			 = 'Use the live or testing (sandbox) gateway server to proces
 $_['help_total']		 = 'The checkout total the order must reach before this payment method becomes active';
 
 // Error
-$_['error_permission']	 = 'Warning: You do not have permission to modify payment PayPal Website Payment Pro (UK)!';
+$_['error_permission']	 = 'Atenție: Nu ai permisiunea de a modifica plata PayPal Website Payment Pro (UK)!';
 $_['error_vendor']		 = 'Vendor Required!';
 $_['error_user']		 = 'User Required!';
 $_['error_password']	 = 'Password Required!';
