@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']    = 'Marketing Report';
+$_['heading_title']    = 'Raport de Marketing';
 
 // Text
 $_['text_extension']   = 'Extensii';
-$_['text_edit']        = 'Edit Marketing Report';
-$_['text_success']     = 'Success: You have modified marketing report!';
+$_['text_edit']        = 'Editare Raport de Marketing';
+$_['text_success']     = 'Succes: Ai modificat raportul de marketing!';
 $_['text_filter']      = 'Filtru';
 $_['text_all_status']  = 'All Statuses';
 
@@ -23,4 +23,4 @@ $_['entry_status']     = 'Stare';
 $_['entry_sort_order'] = 'Ordine de Sortare';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify marketing report!';
+$_['error_permission']  = 'Atenție: Nu ai permisiunea de a modifica raportul de marketing!';
