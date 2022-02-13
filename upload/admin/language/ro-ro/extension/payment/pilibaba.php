@@ -57,7 +57,7 @@ $_['help_logging']          = 'Enabling debug will write sensitive data to a log
 
 // Error
 $_['error_warning']         = 'Atenție: Te rugăm să verifici cu atenție formularul pentru erori!';
-$_['error_permission']      = 'Warning: You do not have permission to modify payment Pilibaba!';
+$_['error_permission']      = 'Atenție: Nu ai permisiunea de a modifica plata Pilibaba!';
 $_['error_merchant_number'] = 'Merchant Number Required!';
 $_['error_secret_key']      = 'Secret Key Required!';
 $_['error_shipping_fee']    = 'Shipping fee must be a decimal number!';
