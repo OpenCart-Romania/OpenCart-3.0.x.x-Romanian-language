@@ -84,7 +84,7 @@ $_['entry_ip']                  = 'IP';
 $_['entry_date_added']          = 'Data Adăugării';
 
 // Help
-$_['help_safe']                 = 'Setați cu "adevărat" pentru a evita ca acest client să fie prins de sistemul antifraudă';
+$_['help_safe']                 = 'Setați cu "adevărat" pentru a evita ca acest client să fie prins de sistemul anti-fraudă';
 $_['help_affiliate']            = 'Activează / Dezactivează posibilitatea clientului de a folosi sistemul de afiliere.';
 $_['help_tracking']             = 'Codul de urmărire care va fi folosit pentru a urmări recomandările.';
 $_['help_commission']           = 'Procentul pe care afiliatul îl primește la fiecare comandă.';
