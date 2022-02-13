@@ -80,7 +80,7 @@ $_['entry_download']         = 'Descărcări';
 $_['entry_related']          = 'Produse Conexe';
 $_['entry_tag']              = 'Etichete Produs';
 $_['entry_reward']           = 'Puncte de Recompensă';
-$_['entry_layout']           = 'Suprascriere Aspect';
+$_['entry_layout']           = 'Suprascrie Layout';
 $_['entry_recurring']        = 'Profil Recurent';
 
 // Help
