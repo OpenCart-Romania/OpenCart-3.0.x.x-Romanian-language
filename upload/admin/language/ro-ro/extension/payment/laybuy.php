@@ -32,7 +32,7 @@ $_['text_fetched_none']             = 'There are no transactions to update.';
 $_['text_transaction_details']      = 'Transaction Details';
 $_['text_not_found']                = 'There is no transaction with that ID.';
 $_['text_paypal_profile_id']        = 'PayPal Profile ID';
-$_['text_laybuy_ref_no']            = 'Număr de Referință Lay-Buy';
+$_['text_laybuy_ref_no']            = 'ID Referință Lay-Buy';
 $_['text_order_id']                 = 'Număr Comandă';
 $_['text_status']                   = 'Stare';
 $_['text_amount']                   = 'Valoare';
@@ -63,7 +63,7 @@ $_['text_postcode']                 = 'Cod poștal';
 $_['text_payment_info']		     	= 'Informații Plată';
 $_['text_no_cron_time']             = 'The cron has not yet been executed';
 $_['text_comment'] 	                = 'Actualizat de Lay-Buy';
-$_['text_comment_canceled'] 	    = 'Order canceled and recurring PayPal Profile #%s canceled.';
+$_['text_comment_canceled'] 	    = 'Comandă anulată și profil PayPal recurent #%s anulat.';
 $_['text_remaining'] 	            = 'Remaining:';
 $_['text_payment'] 	                = 'Plată';
 
@@ -81,7 +81,7 @@ $_['column_date_added']             = 'Data Adăugării';
 $_['column_action']                 = 'Acțiune';
 
 // Entry
-$_['entry_membership_id']           = 'Număr Membru Lay-Buys';
+$_['entry_membership_id']           = 'ID Membru Lay-Buys';
 $_['entry_token']                   = 'Secret Token';
 $_['entry_minimum']                 = 'Minimum Down Payment (%)';
 $_['entry_maximum']                 = 'Maximum Down Payment (%)';
@@ -126,7 +126,7 @@ $_['help_cron_time']                = 'This is the last time that the cron job U
 
 // Error
 $_['error_permission']              = 'Atenție: Nu ai permisiunea de a modifica plata Lay-buy!';
-$_['error_membership_id']           = 'Număr Membru Lay-Buys Necesar!';
+$_['error_membership_id']           = 'ID Membru Lay-Buys Necesar!';
 $_['error_token']                   = 'Lay-Buy Token Secret Necesar!';
 $_['error_min_deposit']             = 'Cannot exceed the Maximum Down Payment amount!';
 
