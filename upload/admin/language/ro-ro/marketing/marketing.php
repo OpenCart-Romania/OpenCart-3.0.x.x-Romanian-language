@@ -1,12 +1,12 @@
 <?php
 // Heading
-$_['heading_title']     = 'Marketing Tracking';
+$_['heading_title']     = 'Urmărire Marketing';
 
 // Text
-$_['text_success']      = 'Success: You have modified marketing tracking!';
-$_['text_list']         = 'Marketing Tracking List';
-$_['text_add']          = 'Add Marketing Tracking';
-$_['text_edit']         = 'Edit Marketing Tracking';
+$_['text_success']      = 'Succes: Ai modificat urmărirea marketing-ului!';
+$_['text_list']         = 'Listă Urmărire Marketing';
+$_['text_add']          = 'Adaugă Urmărire Marketing';
+$_['text_edit']         = 'Editare Urmărire Marketing';
 $_['text_filter']       = 'Filtru';
 		
 // Column
@@ -25,11 +25,11 @@ $_['entry_example']     = 'Examples';
 $_['entry_date_added']  = 'Data Adăugării';
 
 // Help
-$_['help_code']         = 'The tracking code that will be used to track marketing campaigns.';
+$_['help_code']         = 'Codul de urmărire care va fi utilizat pentru a urmări campaniile de marketing.';
 $_['help_example']      = 'So the system can track referrals you need to add the tracking code to the end of the URL linking to your site.';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify marketing tracking!';
+$_['error_permission']  = 'Atenție: Nu ai permisiunea de a modifica urmărirea marketing-ului!';
 $_['error_name']        = 'Campaign must be between 1 and 32 characters!';
 $_['error_code']        = 'Cod de Urmărire necesar!';
 $_['error_exists']      = 'Tracking code is being used by another campaign!';
