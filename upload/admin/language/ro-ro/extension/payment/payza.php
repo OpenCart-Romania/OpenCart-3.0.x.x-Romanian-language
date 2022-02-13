@@ -22,6 +22,6 @@ $_['help_callback']		 = 'This has to be set in the Payza control panel. You will
 $_['help_total']		 = 'The checkout total the order must reach before this payment method becomes active.';
 
 // Error
-$_['error_permission']	 = 'Warning: You do not have permission to modify payment Payza!';
+$_['error_permission']	 = 'Atenție: Nu ai permisiunea de a modifica plata Payza!';
 $_['error_merchant']	 = 'ID Comerciant Necesar!';
 $_['error_security']	 = 'Security Code Required!';
