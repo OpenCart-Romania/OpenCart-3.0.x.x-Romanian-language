@@ -24,6 +24,6 @@ $_['entry_sort_order']	 = 'Ordine de Sortare';
 $_['help_total']		 = 'The checkout total the order must reach before this payment method becomes active.';
 
 // Error
-$_['error_permission']	 = 'Warning: You do not have permission to modify payment LIQPAY!';
+$_['error_permission']	 = 'Atenție: Nu ai permisiunea de a modifica plata LIQPAY!';
 $_['error_merchant']	 = 'ID Comerciant Necesar!';
 $_['error_signature']	 = 'Signature Required!';
