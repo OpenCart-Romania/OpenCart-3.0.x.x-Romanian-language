@@ -13,8 +13,8 @@ $_['tab_modify']                    = 'Modify Plan';
 
 // Text
 $_['text_extension']                = 'Extensii';
-$_['text_success']                  = 'Success: You have modified Lay-Buy payment module!';
-$_['text_edit']                     = 'Edit Lay-Buy';
+$_['text_success']                  = 'Succes: Ai modificat modulul de plată Lay-Buy!';
+$_['text_edit']                     = 'Editare Lay-Buy';
 $_['text_laybuy']                   = '<a href="https://www.lay-buys.com" target="_blank"><img src="view/image/payment/laybuys.png" style="width:94px;height:25px" alt="Lay-Buys" title="Lay-Buys"></a>';
 $_['text_cancel_success']           = 'Transaction was canceled successfully.';
 $_['text_cancel_failure']           = 'Cancel request was unsuccessful. Please try again!';
@@ -32,7 +32,7 @@ $_['text_fetched_none']             = 'There are no transactions to update.';
 $_['text_transaction_details']      = 'Transaction Details';
 $_['text_not_found']                = 'There is no transaction with that ID.';
 $_['text_paypal_profile_id']        = 'PayPal Profile ID';
-$_['text_laybuy_ref_no']            = 'Lay-Buy Reference ID';
+$_['text_laybuy_ref_no']            = 'Număr de Referință Lay-Buy';
 $_['text_order_id']                 = 'Număr Comandă';
 $_['text_status']                   = 'Stare';
 $_['text_amount']                   = 'Valoare';
@@ -62,7 +62,7 @@ $_['text_country']                  = 'Țară';
 $_['text_postcode']                 = 'Cod poștal';
 $_['text_payment_info']		     	= 'Informații Plată';
 $_['text_no_cron_time']             = 'The cron has not yet been executed';
-$_['text_comment'] 	                = 'Updated by Lay-Buy';
+$_['text_comment'] 	                = 'Actualizat de Lay-Buy';
 $_['text_comment_canceled'] 	    = 'Order canceled and recurring PayPal Profile #%s canceled.';
 $_['text_remaining'] 	            = 'Remaining:';
 $_['text_payment'] 	                = 'Plată';
@@ -81,7 +81,7 @@ $_['column_date_added']             = 'Data Adăugării';
 $_['column_action']                 = 'Acțiune';
 
 // Entry
-$_['entry_membership_id']           = 'Lay-Buys Membership ID';
+$_['entry_membership_id']           = 'Număr Membru Lay-Buys';
 $_['entry_token']                   = 'Secret Token';
 $_['entry_minimum']                 = 'Minimum Down Payment (%)';
 $_['entry_maximum']                 = 'Maximum Down Payment (%)';
@@ -108,7 +108,7 @@ $_['entry_months']                  = 'Luni';
 $_['entry_date_added']              = 'Data Adăugării';
 
 // Help
-$_['help_membership_id']            = 'Your personal Lay-Buy account membership number. (attained when you register a merchant account at https://www.lay-buys.com/index.php/vtmob/login)';
+$_['help_membership_id']            = 'Numărul tău personal al contului de membru Lay-Buy. (obținut atunci când înregistrezi un cont de comerciant la https://www.lay-buys.com/index.php/vtmob/login)';
 $_['help_token']                    = 'Enter a random token for security or use the one generated.';
 $_['help_minimum']                  = 'Valoare Minima Depozit.';
 $_['help_maximum']                  = 'Valoare Maxima Depozit.';
@@ -125,9 +125,9 @@ $_['help_cron_url']                 = 'Set a cron job to call this URL so that t
 $_['help_cron_time']                = 'This is the last time that the cron job URL was executed.';
 
 // Error
-$_['error_permission']              = 'Warning: You do not have permission to modify payment Lay-buy!';
-$_['error_membership_id']           = 'Lay-Buys Membership ID Required!';
-$_['error_token']                   = 'Lay-Buy Secret Token Required!';
+$_['error_permission']              = 'Atenție: Nu ai permisiunea de a modifica plata Lay-buy!';
+$_['error_membership_id']           = 'Număr Membru Lay-Buys Necesar!';
+$_['error_token']                   = 'Lay-Buy Token Secret Necesar!';
 $_['error_min_deposit']             = 'Cannot exceed the Maximum Down Payment amount!';
 
 // Button
