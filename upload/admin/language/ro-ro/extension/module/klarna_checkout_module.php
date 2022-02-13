@@ -10,4 +10,4 @@ $_['text_success']	   = 'Succes: Ai modificat modulul Klarna Checkout!';
 $_['entry_status']	   = 'Stare';
 
 //Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Klarna Checkout module!';
+$_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica modulul Klarna Checkout!';
