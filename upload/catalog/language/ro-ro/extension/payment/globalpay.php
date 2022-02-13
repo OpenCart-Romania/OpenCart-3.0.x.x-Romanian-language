@@ -14,7 +14,7 @@ $_['text_decline']				= 'Your payment was unsuccessful';
 $_['text_bank_error']			= 'There was an error processing your request with the bank.';
 $_['text_generic_error']		= 'There was an error processing your request.';
 $_['text_hash_failed']			= 'Hash check failed. Do not try your payment again as the payment status is unknown. Please contact the merchant.';
-$_['text_link']					= 'Please click <a href="%s">here</a> to continue';
+$_['text_link']					= 'Te rugăm click <a href="%s">aici</a> pentru a continua';
 $_['text_select_card']			= 'Please select your card type';
 $_['text_result']				= 'Auth result';
 $_['text_message']				= 'Mesaj';
