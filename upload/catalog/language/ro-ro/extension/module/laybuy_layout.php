@@ -22,5 +22,5 @@ $_['text_month']               = 'Lună';
 $_['column_instalment']        = 'Instalment';
 $_['column_amount']            = 'Valoare';
 $_['column_date']              = 'Dată';
-$_['column_pp_trans_id']       = 'PayPal Transaction ID';
+$_['column_pp_trans_id']       = 'ID Tranzacție PayPal';
 $_['column_status']            = 'Stare';
