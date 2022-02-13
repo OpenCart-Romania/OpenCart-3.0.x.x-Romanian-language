@@ -26,6 +26,6 @@ $_['entry_sort_order']   = 'Ordine de Sortare';
 $_['help_total']	     = 'The checkout total the order must reach before this payment method becomes active.';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify payment NOCHEX!';
+$_['error_permission']   = 'Atenție: Nu ai permisiunea de a modifica plata NOCHEX!';
 $_['error_email']	     = 'E-Mail Required!';
 $_['error_merchant']     = 'ID Comerciant Necesar!';
