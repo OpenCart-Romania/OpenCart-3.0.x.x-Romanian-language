@@ -6,7 +6,7 @@ $_['heading_title']    = 'Google reCAPTCHA';
 $_['text_extension']   = 'Extensii';
 $_['text_success']     = 'Succes: Ai modificat Google reCAPTCHA!';
 $_['text_edit']        = 'Editare Google reCAPTCHA';
-$_['text_signup']      = 'Go to <a href="https://www.google.com/recaptcha/intro/index.html" target="_blank"><u>Google reCAPTCHA page</u></a> and register your website.';
+$_['text_signup']      = 'Accesează <a href="https://www.google.com/recaptcha/intro/index.html" target="_blank"><u>pagina Google reCAPTCHA</u></a> si înregistrează-te cu website-ul tău.';
 
 // Entry
 $_['entry_key']        = 'Site key';
