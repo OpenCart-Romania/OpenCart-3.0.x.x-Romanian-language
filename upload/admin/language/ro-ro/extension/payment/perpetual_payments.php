@@ -22,6 +22,6 @@ $_['help_test']			 = 'Use this module in Test (YES) or Production mode (NO)?';
 $_['help_total']		 = 'The checkout total the order must reach before this payment method becomes active.';
 
 // Error
-$_['error_permission']	 = 'Warning: You do not have permission to modify payment Perpetual Payments!';
+$_['error_permission']	 = 'Atenție: Nu ai permisiunea de a modifica plata Perpetual Payments!';
 $_['error_auth_id']		 = 'Authorization ID Required!';
 $_['error_auth_pass']	 = 'Authorization Password Required!';
