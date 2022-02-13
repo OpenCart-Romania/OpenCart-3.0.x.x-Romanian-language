@@ -56,7 +56,7 @@ $_['text_learn_more']			 	 = '(Learn more)';
 $_['text_accept']			 	 	 = 'Accept';
 $_['text_decline']			 	 	 = 'Decline';
 $_['text_merchant_connected']		 = 'Connected Merchant ID: ';
-$_['text_enable_button']			 = 'We recommend offering PayPal Express Shortcut to maximise checkout conversion, this allows customers to use their PayPal address book and <strong>checkout is as little as three taps</strong> from the basket page. Click enable to install the extension and access the layout manager, you will ned to add "PayPal (Powered by Braintree) Button" to the checkout layout';
+$_['text_enable_button']			 = 'Noi recomandăm să oferi PayPal Express Shortcut pentru a maximiza conversia de finalizare a comenzii, acest lucru permite clienților să-și folosească agenda PayPal și <strong>finalizarea comenzii este cu doar trei atingeri</strong> din pagina coșului. Click pe activare pentru a instala extensia și accesează layout manager, unde va trebui să adaugi "Buton PayPal (Powered by Braintree)" la layout-ul de checkout';
 $_['text_3ds_ssl']		 			 = '3D Secure requires the store to be using an SSL certificate';
 $_['text_unlink']		 			 = 'Delete link';
 
