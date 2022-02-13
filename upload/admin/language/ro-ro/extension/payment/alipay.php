@@ -26,7 +26,7 @@ $_['help_total']                     = 'The checkout total the order must reach 
 $_['help_alipay_setup']              = '<a target="_blank" href="http://www.opencart.cn/docs/alipay">Click here</a> to learn how to set up Alipay account.';
 
 // Error
-$_['error_permission']               = 'Warning: You do not have permission to modify payment Alipay!';
+$_['error_permission']               = 'Atenție: Nu ai permisiunea de a modifica plata Alipay!';
 $_['error_app_id']                   = 'App ID required!';
 $_['error_merchant_private_key']     = 'Merchant Private Key required!';
 $_['error_alipay_public_key']        = 'Alipay Public Key required!';
