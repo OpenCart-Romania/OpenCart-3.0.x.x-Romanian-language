@@ -7,7 +7,7 @@ $_['text_success']     = 'Succes: Ai modificat marketing-ul!';
 $_['text_list']        = 'Listă Analytics';
 
 // Column
-$_['column_name']      = 'Marketing Name';
+$_['column_name']      = 'Nume Marketing';
 $_['column_status']    = 'Stare';
 $_['column_action']    = 'Acțiune';
 
