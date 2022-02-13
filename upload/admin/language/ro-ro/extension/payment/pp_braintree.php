@@ -44,7 +44,7 @@ $_['text_paypal_medium']		 	 = 'Medium';
 $_['text_paypal_pill']		 		 = 'Pill';
 $_['text_paypal_rectangular']		 = 'Rectangular';
 $_['text_paypal_preview']		 	 = 'Button preview<br />Save to view changes';
-$_['text_braintree_learn']		 	 = 'Pentru a începe să accepți carduri de credit/debit și PayPal, fă click pe Conectare cu Braintree. <a href="https://www.braintreepayments.com/partners/learn-more" target="_blank">Află mai multe</a>';
+$_['text_braintree_learn']		 	 = 'Pentru a începe să accepți carduri de credit/debit și PayPal, click pe Conectare cu Braintree. <a href="https://www.braintreepayments.com/partners/learn-more" target="_blank">Află mai multe</a>';
 $_['text_3ds']		 	 			 = '3D Secure';
 $_['text_cvv']		 	 			 = 'CVV Number';
 $_['text_promotion_main']		 	 = 'Designed for businesses of all sizes, from small to large enterprise, easily accept and process payments to help maximise business opportunities and revenue growth, with no setup or monthly fees';
