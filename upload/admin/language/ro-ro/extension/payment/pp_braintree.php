@@ -155,7 +155,7 @@ $_['help_paypal_check_vault']		 	= 'The checkbox for PayPal vault is already che
 $_['help_vault_cvv_3ds']			 	= 'This will require customers using a vaulted card to re-enter the CVV2 number or use 3D secure. It is not possible to enable both options for a vaulted card.';
 $_['help_debug']					 	= 'Enabling debug will write sensitive data to a log file. You should always disable unless instructed otherwise';
 $_['help_total']					 	= 'The checkout total the order must reach before this payment method becomes active';
-$_['help_paypal_option']			 	= 'If you have your PayPal account linked with Braintree you can display the PayPal payment option as well';
+$_['help_paypal_option']			 	= 'Dacă ai contul de PayPal conectat cu Braintree, poți afișa și opțiunea de plată PayPal';
 $_['help_paypal_billing_agreement']	 	= 'Confirmă comanda';
 
 // Button
@@ -165,12 +165,12 @@ $_['button_refund']					 	= 'Stornare';
 $_['button_filter']					 	= 'Filtru';
 
 // Error
-$_['error_permission']				 	= 'Adaugă';
+$_['error_permission']				 	= 'Atenție: Nu ai permisiunea de a modifica plata Braintree!';
 $_['error_php_version']				 	= 'Versiunea minimă a PHP 5.4.0 este necesară!';
 $_['error_merchant_id']				 	= 'ID Comerciant Necesar!';
 $_['error_public_key']				 	= 'Plata ta a eșuat de prea multe ori';
 $_['error_private_key']				 	= 'Private Key Required!';
-$_['error_connection']				 	= 'There was a problem establishing a connection to the Braintree API. Please check your Merchant ID, Public Key, Private Key and Environment settings.';
+$_['error_connection']				 	= 'A existat o problemă la stabilirea unei conexiuni la API-ul Braintree. Te rugăm să verifici Merchant ID, Public Key, Private Key și Environment settings.';
 $_['error_account']					 	= 'Please enter a valid Merchant Account ID as specified in your Braintree Account';
 $_['error_warning']					 	= 'Atenție: Te rugăm să verifici cu atenție formularul pentru erori!';
 $_['error_3ds_not_ready']			 	= 'You have enabled 3D secure however your Braintree account does not have it configured, please check your <a href="https://www.braintreegateway.com/login" title="Braintree login" target="_blank">Braintree Control Panel</a> or contact Braintree support';
