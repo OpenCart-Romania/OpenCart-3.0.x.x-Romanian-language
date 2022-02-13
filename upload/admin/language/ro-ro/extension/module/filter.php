@@ -11,4 +11,4 @@ $_['text_edit']        = 'Editare Modul Filtru';
 $_['entry_status']     = 'Stare';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify filter module!';
+$_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica modulul filtre!';
