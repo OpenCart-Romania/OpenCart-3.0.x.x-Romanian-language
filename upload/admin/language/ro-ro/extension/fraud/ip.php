@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']      = 'Anti-Fraud IP';
+$_['heading_title']      = 'IP Anti-Fraudă';
 
 // Text
 $_['text_extension']     = 'Extensii';
@@ -24,4 +24,4 @@ $_['entry_order_status'] = 'Stare Comandă';
 $_['help_order_status']  = 'Customers that have a banned IP on their accounts will be assigned this order status and will not be allowed to reach the complete status automatically.';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify Anti-Fraud IP!';
+$_['error_permission']   = 'Atenție: Nu ai permisiunea de a modifica IP-ul Anti-Fraudă!';
