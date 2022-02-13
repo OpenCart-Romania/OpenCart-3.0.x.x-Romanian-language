@@ -27,6 +27,6 @@ $_['entry_sort_order']			= 'Ordine de Sortare';
 $_['help_total']				= 'The checkout total the order must reach before this payment method becomes active.';
 
 // Error
-$_['error_permission']			= 'Warning: You do not have permission to modify payment Web Payment Software!';
+$_['error_permission']			= 'Atenție: Nu ai permisiunea de a modifica plata Web Payment Software!';
 $_['error_login']				= 'Login ID Required!';
 $_['error_key']					= 'Transaction Key Required!';
