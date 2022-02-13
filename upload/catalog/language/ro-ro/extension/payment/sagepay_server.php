@@ -16,7 +16,7 @@ $_['text_bank_error']			= 'There was an error processing your request with the b
 $_['text_transaction_error']	= 'There was an error processing your transaction.';
 $_['text_generic_error']		= 'There was an error processing your request.';
 $_['text_hash_failed']			= 'Hash check failed. Do not try your payment again as the payment status is unknown. Please contact the merchant.';
-$_['text_link']					= 'Please click <a href="%s">here</a> to continue';
+$_['text_link']					= 'Te rugăm click <a href="%s">aici</a> pentru a continua';
 $_['text_confirm_delete']		= 'Are you sure you want to delete the card?';
 
 // Entry
