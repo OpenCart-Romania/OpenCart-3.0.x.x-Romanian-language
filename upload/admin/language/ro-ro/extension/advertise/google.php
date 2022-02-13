@@ -92,7 +92,7 @@ $_['text_checklist_acknowledge_2']          = '<h4>Return policy</h4><p>I confir
 $_['text_checklist_acknowledge_3']          = '<h4>Billing terms and conditions</h4><p>I confirm my website provides clear and conspicuous billing terms and conditions.</p>';
 $_['text_checklist_acknowledge_4']          = '<h4>Accurate contact information</h4><p>I confirm my website displays sufficient and accurate contact information with <em>at least two</em> of the following: phone number, physical address, email address.</p>';
 $_['text_checklist_intro']                  = '<h3>Important</h3> Before you can post ads on Google, your webstore <em>must</em> meet the Google Merchant Center requirements. A full of list of all requirements and recommendations can be found <a href="https://support.google.com/merchants/answer/6363310?hl=en" target="_blank"><strong>here</strong></a>.';
-$_['text_clicks']                           = 'Clicks';
+$_['text_clicks']                           = 'Click-uri';
 $_['text_color']                            = 'Color';
 $_['text_condition_new']                    = 'New';
 $_['text_condition_refurbished']            = 'Refurbished';
@@ -186,7 +186,7 @@ $_['text_product_name']                     = 'Produs';
 $_['text_refresh_token']                    = 'Re-create token';
 $_['text_remote_cron']                      = 'Method #2 - Remote CRON:';
 $_['text_report_campaign_name']             = 'Campaign Name';
-$_['text_report_clicks']                    = 'Clicks';
+$_['text_report_clicks']                    = 'Click-uri';
 $_['text_report_conversion_value']          = 'Conversion Value';
 $_['text_report_conversions']               = 'Conversions';
 $_['text_report_cost']                      = 'Cost';
