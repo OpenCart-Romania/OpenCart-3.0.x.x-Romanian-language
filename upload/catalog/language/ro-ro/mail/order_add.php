@@ -22,6 +22,6 @@ $_['text_quantity']         = 'Cantitate';
 $_['text_price']            = 'Preț';
 $_['text_order_total']      = 'Totaluri Comandă';
 $_['text_total']            = 'Total';
-$_['text_download']         = 'Odată ce plata a fost confirmată, puteți face click pe linkul de mai jos pentru a accesa produsele care pot fi descărcate:';
+$_['text_download']         = 'Odată ce plata a fost confirmată, puteți face click pe link-ul de mai jos pentru a accesa produsele care pot fi descărcate:';
 $_['text_comment']          = 'Comentariile pentru comanda ta sunt:';
 $_['text_footer']           = 'Te rugăm să răspunzi la acest e-mail dacă ai întrebări.';
