@@ -10,4 +10,4 @@ $_['text_edit']        = 'Edit Sagepay Server Card Management Module';
 $_['entry_status']     = 'Stare';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Sagepay Server Card Management module!';
+$_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica modulul Sagepay Server Card Management!';
