@@ -24,6 +24,6 @@ $_['help_secret']		 = 'The secret word to confirm transactions with (must be the
 $_['help_total']		 = 'The checkout total the order must reach before this payment method becomes active.';
 
 // Error
-$_['error_permission']	 = 'Warning: You do not have permission to modify payment 2Checkout!';
+$_['error_permission']	 = 'Atenție: Nu ai permisiunea de a modifica plata 2Checkout!';
 $_['error_account']		 = 'Account No. Required!';
 $_['error_secret']		 = 'Secret Word Required!';
