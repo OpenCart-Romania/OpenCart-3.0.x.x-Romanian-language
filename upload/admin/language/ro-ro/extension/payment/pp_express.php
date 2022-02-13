@@ -27,7 +27,7 @@ $_['text_preferred_li_4']			 = 'Improve conversion with PayPal One Touch and In-
 $_['text_connect_paypal']			 = 'Connect with PayPal';
 $_['text_incontext_not_supported']	 = '* Not supported with In-Context Checkout';
 $_['text_retrieve']	 				 = 'Your details have been entered from PayPal';
-$_['text_enable_button']			 = 'We recommend offering PayPal Express Shortcut to maximise checkout conversion, this allows customers to use their PayPal address book and <strong>checkout is as little as three taps</strong> from the basket page. Click enable to install the extension and access the layout manager, you will ned to add "PayPal Express Checkout Button" to the checkout layout';
+$_['text_enable_button']			 = 'Noi recomandăm să oferi PayPal Express Shortcut pentru a maximiza conversia de finalizare a comenzii, acest lucru permite clienților să-și folosească agenda PayPal și <strong>finalizarea comenzii este cu doar trei atingeri</strong> din pagina coșului. Click pe activare pentru a instala extensia și accesează layout manager, unde va trebui să adaugi "Buton PayPal Express Checkout" la layout-ul de checkout';
 
 // Entry
 $_['entry_username']				 = 'API Username';
