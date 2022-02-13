@@ -26,5 +26,5 @@ $_['help_password']		 = 'Leave empty if you do not have "Digest Key Authenticati
 $_['help_total']		 = 'The checkout total the order must reach before this payment method becomes active.';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify payment PayPoint!';
+$_['error_permission']   = 'Atenție: Nu ai permisiunea de a modifica plata PayPoint!';
 $_['error_merchant']	 = 'ID Comerciant Necesar!';
