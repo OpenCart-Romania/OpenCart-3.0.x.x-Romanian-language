@@ -30,7 +30,7 @@ $_['entry_top']              = 'Sus';
 $_['entry_column']           = 'Coloane';
 $_['entry_sort_order']       = 'Ordine de Sortare';
 $_['entry_status']           = 'Stare';
-$_['entry_layout']           = 'Suprascriere Aspect';
+$_['entry_layout']           = 'Suprascrie Layout';
 
 // Help
 $_['help_filter']            = '(Completare automată)';
