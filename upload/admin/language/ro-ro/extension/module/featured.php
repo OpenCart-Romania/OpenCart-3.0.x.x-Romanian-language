@@ -19,7 +19,7 @@ $_['entry_status']     = 'Stare';
 $_['help_product']     = '(Completare automată)';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify featured module!';
+$_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica modulul recomandate!';
 $_['error_name']       = 'Numele Modulului trebuie să fie între 3 și 64 de caractere!';
 $_['error_width']      = 'Width required!';
 $_['error_height']     = 'Height required!';
