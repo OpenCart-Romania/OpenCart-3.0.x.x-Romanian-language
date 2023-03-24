@@ -6,9 +6,9 @@ $_['text_terms_no_fee']			= '<span id="klarna_invoice_toc"></span><script type="
 $_['text_additional']			= 'Klarna Invoice requires some additional information before they can proccess your order.';
 $_['text_male']					= 'Male';
 $_['text_female']				= 'Female';
-$_['text_year']					= 'Year';
-$_['text_month']				= 'Month';
-$_['text_day']					= 'Day';
+$_['text_year']					= 'An';
+$_['text_month']				= 'Lună';
+$_['text_day']					= 'Zi';
 $_['text_comment']				= 'Klarna\'s Invoice ID: %s. ' . "\n" . '%s/%s: %.4f';
 $_['text_trems_description']    = 'Mit der Übermittlung der für die Abwicklung des Rechnungskaufes und einer Identitäts - und Bonitätsprüfung erforderlichen
 Daten an Klarna bin ich einverstanden. Meine <a href="https://online.klarna.com/consent_de.yaws" target="_blank">Einwilligung</a> kann ich jederzeit mit Wirkung für die Zukunft widerrufen.';
@@ -32,6 +32,6 @@ $_['help_house_ext']			= 'Please submit your house extension here. E.g. A, B, C,
 $_['help_company']				= 'Please enter your Company\'s registration number';
 
 // Error
-$_['error_deu_terms']			= 'You must agree to Klarna\'s privacy policy (Datenschutz)';
+$_['error_deu_terms']			= 'Trebuie să fii de acord cu politica de confidențialitate a Klarna (Datenschutz)';
 $_['error_address_match']		= 'Billing and Shipping addresses must match if you want to use Klarna Invoice';
 $_['error_network']				= 'Error occurred while connecting to Klarna. Please try again later.';
