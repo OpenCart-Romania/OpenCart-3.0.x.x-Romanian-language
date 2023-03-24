@@ -1,26 +1,26 @@
 <?php
 // Heading
-$_['heading_title']     = 'Bannere';
+$_['heading_title']     = 'Banners';
 
 // Text
 $_['text_success']      = 'Succes: Ai modificat bannerele!';
 $_['text_list']         = 'Listă Bannere';
 $_['text_add']          = 'Adaugă Banner';
 $_['text_edit']         = 'Editare Banner';
-$_['text_default']      = 'Implicit';
+$_['text_default']      = 'Default';
 
 // Column
 $_['column_name']       = 'Nume Banner';
-$_['column_status']     = 'Stare';
-$_['column_action']     = 'Acțiune';
+$_['column_status']     = 'Status';
+$_['column_action']     = 'Action';
 
 // Entry
-$_['entry_name']        = 'Nume Banner';
+$_['entry_name']        = 'Banner Name';
 $_['entry_title']       = 'Titlu';
 $_['entry_link']        = 'Link';
-$_['entry_image']       = 'Imagine';
-$_['entry_status']      = 'Stare';
-$_['entry_sort_order']  = 'Ordine de Sortare';
+$_['entry_image']       = 'Image';
+$_['entry_status']      = 'Status';
+$_['entry_sort_order']  = 'Sort Order';
 
 // Error
 $_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica bannerele!';
