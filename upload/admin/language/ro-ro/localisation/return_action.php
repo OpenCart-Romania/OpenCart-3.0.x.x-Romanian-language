@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Acțiuni Returnare';
+$_['heading_title']    = 'Return Actions';
 
 // Text
 $_['text_success']     = 'Success: You have modified return actions!';
@@ -10,7 +10,7 @@ $_['text_edit']        = 'Edit Return Action';
 
 // Column
 $_['column_name']      = 'Return Action Name';
-$_['column_action']    = 'Acțiune';
+$_['column_action']    = 'Action';
 
 // Entry
 $_['entry_name']       = 'Return Action Name';
