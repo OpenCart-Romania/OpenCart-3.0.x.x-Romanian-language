@@ -3,20 +3,20 @@
 $_['heading_title']     = 'Compararea Produselor';
 
 // Text
-$_['text_product']      = 'Detalii Produs';
-$_['text_name']         = 'Produs';
-$_['text_image']        = 'Imagine';
-$_['text_price']        = 'Preț';
+$_['text_product']      = 'Product Details';
+$_['text_name']         = 'Product';
+$_['text_image']        = 'Image';
+$_['text_price']        = 'Price';
 $_['text_model']        = 'Model';
 $_['text_manufacturer'] = 'Marcă';
 $_['text_availability'] = 'Disponibilitate';
-$_['text_instock']      = 'În Stoc';
-$_['text_rating']       = 'Evaluare';
+$_['text_instock']      = 'In Stock';
+$_['text_rating']       = 'Rating';
 $_['text_reviews']      = 'Pe baza a %s recenzii.';
-$_['text_summary']      = 'Rezumat';
-$_['text_weight']       = 'Greutate';
-$_['text_dimension']    = 'Dimensiuni (L x l x Î)';
-$_['text_compare']      = 'Compară Produs (%s)';
+$_['text_summary']      = 'Summary';
+$_['text_weight']       = 'Weight';
+$_['text_dimension']    = 'Dimensions (L x W x H)';
+$_['text_compare']      = 'Product Compare (%s)';
 $_['text_success']      = 'Succes: Ai adăugat <a href="%s">%s</a> la <a href="%s">compararea produselor</a>!';
 $_['text_remove']       = 'Succes: Ați modificat compararea produsul dvs!';
 $_['text_empty']        = 'Nu ați ales nici un produs care să fie comparat.';
