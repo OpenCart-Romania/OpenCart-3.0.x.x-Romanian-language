@@ -5,16 +5,16 @@ $_['heading_title']    = 'Modules';
 // Text
 $_['text_success']     = 'Succes: Ai modificat modulele!';
 $_['text_layout']      = 'După ce ai instalat și configurat un modul, îl poți adăuga la un layout <a href="%s" class="alert-link">aici</a>!';
-$_['text_add']         = 'Adaugă Modul';
+$_['text_add']         = 'Add Module';
 $_['text_list']        = 'Module List';
 
 // Column
 $_['column_name']      = 'Module Name';
-$_['column_status']    = 'Stare';
-$_['column_action']    = 'Acțiune';
+$_['column_status']    = 'Status';
+$_['column_action']    = 'Action';
 
 // Entry
-$_['entry_code']       = 'Modul';
+$_['entry_code']       = 'Module';
 $_['entry_name']       = 'Module Name';
 
 // Error
