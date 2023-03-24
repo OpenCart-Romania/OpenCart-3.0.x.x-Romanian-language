@@ -1,14 +1,14 @@
 <?php
 // Text
-$_['text_search']              = 'Căutare';
-$_['text_brand']               = 'Marcă';
-$_['text_manufacturer']        = 'Marca:';
-$_['text_model']               = 'Cod Produs:';
-$_['text_reward']              = 'Puncte de Recompensă:';
+$_['text_search']              = 'Search';
+$_['text_brand']               = 'Brand';
+$_['text_manufacturer']        = 'Brand:';
+$_['text_model']               = 'Product Code:';
+$_['text_reward']              = 'Reward Points:';
 $_['text_points']              = 'Prețul în puncte de recompensă:';
 $_['text_stock']               = 'Disponibilitate:';
-$_['text_instock']             = 'În Stoc';
-$_['text_tax']                 = 'Fără Taxe:';
+$_['text_instock']             = 'In Stock';
+$_['text_tax']                 = 'Ex Tax:';
 $_['text_discount']            = ' mai mult ';
 $_['text_option']              = 'Opțiuni disponibile';
 $_['text_minimum']             = 'Acest produs are o cantitate minimă de %s';
@@ -18,29 +18,29 @@ $_['text_login']               = 'Te rugăm <a href="%s">autentifica-te</a> sau 
 $_['text_no_reviews']          = 'Momentan nu sunt recenzii pentru acest produs.';
 $_['text_note']                = '<span class="text-danger">Nota:</span> HTML nu este tradus!';
 $_['text_success']             = 'Vă mulțumim pentru comentariul dvs. A fost trimis administratorului pentru aprobare.';
-$_['text_related']             = 'Produse Conexe';
+$_['text_related']             = 'Related Products';
 $_['text_tags']                = 'Tag-uri:';
 $_['text_error']               = 'Produs nu a putut fi găsit!';
-$_['text_payment_recurring']   = 'Profil Plată';
-$_['text_trial_description']   = '%s la fiecare %d %s(e) pentru %d plată(i) atunci';
-$_['text_payment_description'] = '%s la fiecare %d %s(e) pentru %d plata(i)';
-$_['text_payment_cancel']      = '%s la fiecare %d %s(e) până la anulare';
-$_['text_day']                 = 'zi';
-$_['text_week']                = 'săptămână';
-$_['text_semi_month']          = 'jumătate de lună';
-$_['text_month']               = 'lună';
-$_['text_year']                = 'an';
+$_['text_payment_recurring']   = 'Payment Profile';
+$_['text_trial_description']   = '%s every %d %s(s) for %d payment(s) then';
+$_['text_payment_description'] = '%s every %d %s(s) for %d payment(s)';
+$_['text_payment_cancel']      = '%s every %d %s(s) until canceled';
+$_['text_day']                 = 'day';
+$_['text_week']                = 'week';
+$_['text_semi_month']          = 'half-month';
+$_['text_month']               = 'month';
+$_['text_year']                = 'year';
 
 // Entry
 $_['entry_qty']                = 'Cantitate';
-$_['entry_name']               = 'Numele Tău';
+$_['entry_name']               = 'Your Name';
 $_['entry_review']             = 'Recenzia ta';
-$_['entry_rating']             = 'Evaluare';
+$_['entry_rating']             = 'Rating';
 $_['entry_good']               = 'Bună';
 $_['entry_bad']                = 'Rău';
 
 // Tabs
-$_['tab_description']          = 'Descriere';
+$_['tab_description']          = 'Description';
 $_['tab_attribute']            = 'Specificație';
 $_['tab_review']               = 'Recenzii (%s)';
 
