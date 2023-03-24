@@ -3,9 +3,9 @@
 $_['heading_title']  = 'Administrare';
 
 // Text
-$_['text_heading']   = 'Administrare';
+$_['text_heading']   = 'Administration';
 $_['text_login']     = 'Te rugăm să introduci detaliile de autentificare.';
-$_['text_forgotten'] = 'Parolă Uitată';
+$_['text_forgotten'] = 'Forgotten Password';
 
 // Entry
 $_['entry_username'] = 'Nume de utilizator';
