@@ -12,11 +12,11 @@ $_['text_keyword']           = 'Nu utiliza spații, în schimb înlocuiește spa
 
 // Column
 $_['column_name']            = 'Nume Categorie';
-$_['column_sort_order']      = 'Ordine de Sortare';
-$_['column_action']          = 'Acțiune';
+$_['column_sort_order']      = 'Sort Order';
+$_['column_action']          = 'Action';
 
 // Entry
-$_['entry_name']             = 'Nume Categorie';
+$_['entry_name']             = 'Category Name';
 $_['entry_description']      = 'Descriere';
 $_['entry_meta_title'] 	     = 'Meta Tag Titlu';
 $_['entry_meta_keyword']     = 'Meta Tag Cuvinte Cheie';
@@ -28,7 +28,7 @@ $_['entry_filter']           = 'Filtre';
 $_['entry_image']            = 'Imagine';
 $_['entry_top']              = 'Sus';
 $_['entry_column']           = 'Coloane';
-$_['entry_sort_order']       = 'Ordine de Sortare';
+$_['entry_sort_order']       = 'Sort Order';
 $_['entry_status']           = 'Stare';
 $_['entry_layout']           = 'Suprascrie Layout';
 
