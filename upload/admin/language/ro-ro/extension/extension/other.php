@@ -8,8 +8,8 @@ $_['text_list']         = 'Altă Listă';
 
 // Column
 $_['column_name']       = 'Other';
-$_['column_status']     = 'Status';
-$_['column_action']     = 'Action';
+$_['column_status']     = 'Stare';
+$_['column_action']     = 'Acțiune';
 
 // Error
 $_['error_permission']  = 'Atenție: Nu ai permisiunea de a modifica altă extensie!';
