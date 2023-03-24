@@ -4,13 +4,13 @@ $_['heading_title'] = 'Utilizează Puncte de Recompensă (Disponibile %s)';
 
 // Text
 $_['text_reward']   = 'Puncte de Recompensă (%s)';
-$_['text_order_id'] = 'Order ID: #%s';
-$_['text_success']  = 'Success: Your reward points discount has been applied!';
+$_['text_order_id'] = 'Număr Comandă: #%s';
+$_['text_success']  = 'Succes: Reducerea punctelor de recompensă a fost aplicată!';
 
 // Entry
 $_['entry_reward']  = 'Puncte de utilizat (Max %s)';
 
 // Error
-$_['error_reward']  = 'Warning: Please enter the amount of reward points to use!';
-$_['error_points']  = 'Warning: You don\'t have %s reward points!';
-$_['error_maximum'] = 'Warning: The maximum number of points that can be applied is %s!';
+$_['error_reward']  = 'Atenție: Te rugăm să introduci valoarea punctelor de recompensă de utilizat!';
+$_['error_points']  = 'Atenție: Nu ai %s puncte de recompensă!';
+$_['error_maximum'] = 'Atenție: Numărul maxim de puncte care pot fi aplicate este %s!';
