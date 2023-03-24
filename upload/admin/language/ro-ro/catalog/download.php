@@ -12,10 +12,10 @@ $_['text_upload']       = 'Fișierul tău a fost încărcat cu succes!';
 // Column
 $_['column_name']       = 'Nume Descărcare';
 $_['column_date_added'] = 'Data Adăugării';
-$_['column_action']     = 'Acțiune';
+$_['column_action']     = 'Action';
 
 // Entry
-$_['entry_name']        = 'Nume Descărcare';
+$_['entry_name']        = 'Download Name';
 $_['entry_filename']    = 'Nume Fișier';
 $_['entry_mask']        = 'Mască';
 
