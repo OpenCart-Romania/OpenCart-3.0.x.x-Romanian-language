@@ -3,8 +3,8 @@
 $_['heading_title']            = 'Coș de Cumpărături';
 
 // Text
-$_['text_success']             = 'Succes: Ai adăugat <a href="%s">%s</a> la <a href="%s">coșul tău de cumpărături</a>!';
-$_['text_remove']              = 'Succes: Ți-ai modificat coșul de cumpărături!';
+$_['text_success']             = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">shopping cart</a>!';
+$_['text_remove']              = 'Success: You have modified your shopping cart!';
 $_['text_login']               = 'Atenție: Trebuie să <a href="%s">te conectezi</a> sau să <a href="%s">creezi un cont</a> pentru a vedea prețurile!';
 $_['text_items']               = '%s articol(e) - %s';
 $_['text_points']              = 'Puncte de Recompensă: %s';
@@ -25,16 +25,16 @@ $_['text_payment_description'] = '%s la fiecare %d %s(e) pentru %d plata(i)';
 $_['text_payment_cancel']      = '%s la fiecare %d %s(e) până la anulare';
 
 // Column
-$_['column_image']             = 'Imagine';
-$_['column_name']              = 'Nume Produs';
+$_['column_image']             = 'Image';
+$_['column_name']              = 'Product Name';
 $_['column_model']             = 'Model';
-$_['column_quantity']          = 'Cantitate';
-$_['column_price']             = 'Preț Unitar';
+$_['column_quantity']          = 'Quantity';
+$_['column_price']             = 'Unit Price';
 $_['column_total']             = 'Total';
 
 // Error
-$_['error_stock']              = 'Produsele marcate cu *** nu sunt disponibile in cantitatea dorita sau nu sunt in stoc!';
-$_['error_minimum']            = 'Valoarea minimă comandată pentru %s este %s!';
-$_['error_required']           = '%s necesar!';
+$_['error_stock']              = 'Products marked with *** are not available in the desired quantity or not in stock!';
+$_['error_minimum']            = 'Minimum order amount for %s is %s!';
+$_['error_required']           = '%s required!';
 $_['error_product']            = 'Atenție: Nu există produse in coş!';
 $_['error_recurring_required'] = 'Te rugăm să selectezi o plată recurentă!';
