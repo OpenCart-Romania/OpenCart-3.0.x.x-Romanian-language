@@ -1,9 +1,9 @@
 <?php
 // Text
 $_['text_subject']      = '%s - Actualizarea Comenzi %s';
-$_['text_order_id']     = 'Order ID:';
-$_['text_date_added']   = 'Date Added:';
+$_['text_order_id']     = 'Număr Comandă:';
+$_['text_date_added']   = 'Data Adăugării:';
 $_['text_order_status'] = 'Comanda dvs. a fost actualizată la următoarea stare:';
-$_['text_comment']      = 'The comments for your order are:';
-$_['text_link']         = 'To view your order click on the link below:';
-$_['text_footer']       = 'Please reply to this email if you have any questions.';
+$_['text_comment']      = 'Comentariile pentru comanda ta sunt:';
+$_['text_link']         = 'Pentru a vizualiza comanda click pe link-ul de mai jos:';
+$_['text_footer']       = 'Te rugăm să răspunzi la acest email dacă ai întrebări.';
