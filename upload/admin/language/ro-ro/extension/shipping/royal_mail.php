@@ -3,7 +3,7 @@
 $_['heading_title']                    = 'Royal Mail';
 
 // Text
-$_['text_extension']                   = 'Extensions';
+$_['text_extension']                   = 'Extensii';
 $_['text_success']                     = 'Success: You have modified Royal Mail shipping!';
 $_['text_edit']                        = 'Edit Royal Mail Shipping';
 
@@ -16,11 +16,11 @@ $_['entry_rate_zone_2']                = 'World Zone 2 Rates';
 $_['entry_insurance']                  = 'Compensation Rates';
 $_['entry_display_weight']             = 'Display Delivery Weight';
 $_['entry_display_insurance']          = 'Display Insurance';
-$_['entry_weight_class']               = 'Weight Class';
-$_['entry_tax_class']                  = 'Tax Class';
+$_['entry_weight_class']               = 'Clasă de Greutate';
+$_['entry_tax_class']                  = 'Clasa Fiscală';
 $_['entry_geo_zone']                   = 'Geo Zone';
-$_['entry_status']                     = 'Status';
-$_['entry_sort_order']                 = 'Sort Order';
+$_['entry_status']                     = 'Stare';
+$_['entry_sort_order']                 = 'Ordine Sortare';
 
 // Help
 $_['help_rate']                        = 'Example: 5:10.00,7:12.00 Weight:Cost,Weight:Cost, etc..';
