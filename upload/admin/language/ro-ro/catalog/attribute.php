@@ -15,9 +15,9 @@ $_['column_sort_order']      = 'Ordine de Sortare';
 $_['column_action']          = 'Acțiune';
 
 // Entry
-$_['entry_name']             = 'Nume Atribut';
-$_['entry_attribute_group']  = 'Grup de Atribute';
-$_['entry_sort_order']       = 'Ordine de Sortare';
+$_['entry_name']             = 'Attribute Name';
+$_['entry_attribute_group']  = 'Attribute Group';
+$_['entry_sort_order']       = 'Sort Order';
 
 // Error
 $_['error_permission']       = 'Atenție: Nu ai permisiunea de a modifica atributele!';
