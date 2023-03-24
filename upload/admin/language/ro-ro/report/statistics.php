@@ -18,7 +18,7 @@ $_['text_review']           = 'Recenzii în Așteptare';
 // Column
 $_['column_name']           = 'Statistics Name';
 $_['column_value']	        = 'Value';
-$_['column_action']         = 'Action';
+$_['column_action']         = 'Acțiune';
 
 // Error
 $_['error_permission']      = 'Warning: You do not have permission to modify statistics!';
