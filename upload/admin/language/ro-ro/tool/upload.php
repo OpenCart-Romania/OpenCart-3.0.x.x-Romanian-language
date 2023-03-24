@@ -15,7 +15,7 @@ $_['column_action']     = 'Acțiune';
 // Entry
 $_['entry_name']        = 'Upload Name';
 $_['entry_filename']    = 'Nume Fișier';
-$_['entry_date_added']  = 'Date Added';
+$_['entry_date_added']  = 'Data Adăugării';
 
 // Error
 $_['error_permission']  = 'Warning: You do not have permission to modify uploads!';
