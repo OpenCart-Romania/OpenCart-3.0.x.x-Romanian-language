@@ -4,7 +4,7 @@ $_['heading_title']					 = 'PayPal Payflow Pro iFrame';
 $_['heading_refund']				 = 'Refund';
 
 // Text
-$_['text_extension']				 = 'Extensions';
+$_['text_extension']				 = 'Extensii';
 $_['text_success']					 = 'Success: You have modified PayPal Payflow Pro iFrame account details!';
 $_['text_edit']                      = 'Edit PayPal Payflow Pro iFrame';
 $_['text_pp_payflow_iframe']		 = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
@@ -27,7 +27,7 @@ $_['help_checkout_method']			 = 'Please use Redirect method if do not have SSL i
 // Column
 $_['column_transaction_id']			 = 'Transaction ID';
 $_['column_transaction_type']		 = 'Transaction Type';
-$_['column_amount']					 = 'Amount';
+$_['column_amount']					 = 'Valoare';
 $_['column_time']					 = 'Time';
 $_['column_actions']				 = 'Acțiuni';
 
@@ -39,15 +39,15 @@ $_['tab_checkout_customisation']	 = 'Checkout Customisation';
 // Entry
 $_['entry_vendor']					 = 'Vendor';
 $_['entry_user']					 = 'User';
-$_['entry_password']				 = 'Password';
+$_['entry_password']				 = 'Parolă';
 $_['entry_partner']					 = 'Partner';
 $_['entry_test']					 = 'Test Mode';
 $_['entry_transaction']				 = 'Transaction Method';
 $_['entry_total']					 = 'Total';
-$_['entry_order_status']			 = 'Order Status';
+$_['entry_order_status']			 = 'Stare Comandă';
 $_['entry_geo_zone']				 = 'Geo Zone';
-$_['entry_status']					 = 'Status';
-$_['entry_sort_order']				 = 'Sort Order';
+$_['entry_status']					 = 'Stare';
+$_['entry_sort_order']				 = 'Ordine Sortare';
 $_['entry_transaction_id']			 = 'Transaction ID';
 $_['entry_full_refund']				 = 'Full refund';
 $_['entry_amount']					 = 'Amount';
@@ -88,8 +88,8 @@ $_['help_total']					 = 'The checkout total the order must reach before this pay
 $_['help_debug']					 = 'Logs additional information';
 
 // Button
-$_['button_refund']					 = 'Refund';
-$_['button_void']					 = 'Void';
+$_['button_refund']					 = 'Stornare';
+$_['button_void']					 = 'Nul';
 $_['button_capture']				 = 'Capture';
 
 // Error
