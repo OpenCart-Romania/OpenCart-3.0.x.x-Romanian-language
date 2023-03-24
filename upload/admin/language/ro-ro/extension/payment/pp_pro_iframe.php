@@ -3,7 +3,7 @@
 $_['heading_title']					 = 'PayPal Pro iFrame';
 
 // Text
-$_['text_extension']                 = 'Extensii';
+$_['text_extension']                 = 'Extensions';
 $_['text_success']					 = 'Success: You have modified PayPal Pro iFrame account details!';
 $_['text_edit']                      = 'Edit PayPal Pro iFrame';
 $_['text_pp_pro_iframe']			 = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
@@ -16,20 +16,20 @@ $_['text_amount_captured']			 = 'Amount captured';
 $_['text_amount_refunded']			 = 'Amount refunded';
 $_['text_capture_amount']			 = 'Capture amount';
 $_['text_complete_capture']			 = 'Complete capture';
-$_['text_transactions']				 = 'Tranzacții';
+$_['text_transactions']				 = 'Transactions';
 $_['text_complete']					 = 'Complete';
 $_['text_confirm_void']				 = 'If you void you cannot capture any further funds';
-$_['text_view']						 = 'Vezi';
-$_['text_refund']					 = 'Stornare';
+$_['text_view']						 = 'View';
+$_['text_refund']					 = 'Refund';
 $_['text_resend']					 = 'Resend';
 $_['text_reauthorise']				 = 'Reauthorise';
 $_['text_reauthorised']				 = 'Transaction was reauthorised';
 $_['text_transaction']				 = 'Transaction';
 $_['text_product_lines']			 = 'Product lines';
 $_['text_ebay_txn_id']				 = 'eBay transaction ID';
-$_['text_name']						 = 'Nume';
-$_['text_qty']						 = 'Cantitate';
-$_['text_price']					 = 'Preț';
+$_['text_name']						 = 'Name';
+$_['text_qty']						 = 'Quantity';
+$_['text_price']					 = 'Price';
 $_['text_number']					 = 'Number';
 $_['text_coupon_id']				 = 'Coupon ID';
 $_['text_coupon_amount']			 = 'Coupon amount';
@@ -39,12 +39,12 @@ $_['text_loyalty_currency']			 = 'Loyalty card currency';
 $_['text_options_name']				 = 'Options name';
 $_['text_tax_amt']					 = 'Tax amount';
 $_['text_currency_code']			 = 'Currency code';
-$_['text_amount']					 = 'Valoare';
+$_['text_amount']					 = 'Amount';
 $_['text_gift_msg']					 = 'Gift message';
 $_['text_gift_receipt']				 = 'Gift receipt';
 $_['text_gift_wrap_name']			 = 'Gift wrap name';
 $_['text_gift_wrap_amt']			 = 'Gift wrap amount';
-$_['text_buyer_email_market']		 = 'Email marketing cumpărător';
+$_['text_buyer_email_market']		 = 'Buyer marketing email';
 $_['text_survey_question']			 = 'Survey question';
 $_['text_survey_chosen']			 = 'Survey choice selected';
 $_['text_receiver_business']		 = 'Receiver business';
@@ -111,16 +111,16 @@ $_['help_debug']					 = 'Logs additional information.';
 
 // Column
 $_['column_trans_id']				 = 'Transaction ID';
-$_['column_amount']					 = 'Valoare';
+$_['column_amount']					 = 'Amount';
 $_['column_type']					 = 'Payment type';
-$_['column_status']					 = 'Stare';
+$_['column_status']					 = 'Status';
 $_['column_pending_reason']			 = 'Pending reason';
-$_['column_date_added']				 = 'Creat';
-$_['column_action']					 = 'Acțiune';
+$_['column_date_added']				 = 'Created';
+$_['column_action']					 = 'Action';
 
 // Tab
-$_['tab_settings']					 = 'Setări';
-$_['tab_order_status']				 = 'Stare Comandă';
+$_['tab_settings']					 = 'Settings';
+$_['tab_order_status']				 = 'Order Status';
 $_['tab_checkout_customisation']	 = 'Checkout Customisation';
 
 // Entry
@@ -136,8 +136,8 @@ $_['entry_sort_order']				 = 'Ordinea de Sortare:';
 $_['entry_transaction_method']		 = 'Transaction method:';
 $_['entry_transaction_id']			 = 'Transaction ID';
 $_['entry_full_refund']				 = 'Full refund';
-$_['entry_amount']					 = 'Valoare';
-$_['entry_message']					 = 'Mesaj';
+$_['entry_amount']					 = 'Amount';
+$_['entry_message']					 = 'Message';
 $_['entry_ipn_url']					 = 'IPN URL:';
 $_['entry_checkout_method']			 = 'Checkout Method:';
 $_['entry_debug']					 = 'Debug mode:';
@@ -157,13 +157,13 @@ $_['help_test']						 = 'Use the live or testing (sandbox) gateway server to pro
 $_['help_total']					 = 'The checkout total the order must reach before this payment method becomes active';
 
 // Button
-$_['button_refund']					 = 'Stornare';
-$_['button_void']					 = 'Nul';
+$_['button_refund']					 = 'Refund';
+$_['button_void']					 = 'Void';
 $_['button_capture']				 = 'Capture';
 $_['button_reauthorise']			 = 'Reauthorise';
 
 // Error
-$_['error_permission']				 = 'Atenție: Nu ai permisiunea de a modifica plata PayPal Website Payment Pro iFrame (UK)!';
+$_['error_permission']				 = 'Warning: You do not have permission to modify payment PayPal Website Payment Pro iFrame (UK)!';
 $_['error_sig']						 = 'Signature Required!';
 $_['error_user']					 = 'User Required!';
 $_['error_password']				 = 'Password Required!';
