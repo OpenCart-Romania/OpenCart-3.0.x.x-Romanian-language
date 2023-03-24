@@ -3,7 +3,7 @@
 $_['heading_title']				         = 'Worldpay Online Payments';
 
 // Text
-$_['text_extension']				     = 'Extensions';
+$_['text_extension']				     = 'Extensii';
 $_['text_success']				         = 'Success: You have modified Worldpay account details!';
 $_['text_worldpay']				         = '<a href="https://online.worldpay.com/signup/ee48b6e6-d3e3-42aa-a80e-cbee3f4f8b09" target="_blank"><img src="view/image/payment/worldpay.png" alt="Worldpay" title="Worldpay" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_test']					         = 'Test';
@@ -21,10 +21,10 @@ $_['text_edit']                          = 'Edit Worldpay Online Payments';
 $_['entry_service_key']			         = 'Service Key';
 $_['entry_client_key']			         = 'Client Key';
 $_['entry_total']				         = 'Total';
-$_['entry_order_status']		         = 'Order Status';
+$_['entry_order_status']		         = 'Stare Comandă';
 $_['entry_geo_zone']			         = 'Geo Zone';
-$_['entry_status']				         = 'Status';
-$_['entry_sort_order']			         = 'Sort Order';
+$_['entry_status']				         = 'Stare';
+$_['entry_sort_order']			         = 'Ordine Sortare';
 $_['entry_debug']				         = 'Debug logging';
 $_['entry_card']				         = 'Store Cards';
 $_['entry_secret_token']		         = 'Secret Token';
