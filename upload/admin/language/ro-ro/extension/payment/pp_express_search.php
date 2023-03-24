@@ -17,12 +17,12 @@ $_['column_type']			   = 'Type';
 $_['column_email']			   = 'Email';
 $_['column_name']			   = 'Name';
 $_['column_transid']		   = 'Transaction ID';
-$_['column_status']			   = 'Status';
+$_['column_status']			   = 'Stare';
 $_['column_currency']		   = 'Currency';
-$_['column_amount']			   = 'Amount';
+$_['column_amount']			   = 'Valoare';
 $_['column_fee']			   = 'Fee';
 $_['column_netamt']		       = 'Net Amount';
-$_['column_action']		       = 'Action';
+$_['column_action']		       = 'Acțiune';
 
 // Entry
 $_['entry_trans_all']		   = 'All';
