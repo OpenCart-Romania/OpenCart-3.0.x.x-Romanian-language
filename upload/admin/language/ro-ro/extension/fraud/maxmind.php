@@ -3,7 +3,7 @@
 $_['heading_title']                           = 'MaxMind Anti-Fraudă';
 
 // Text
-$_['text_extension']                          = 'Extensions';
+$_['text_extension']                          = 'Extensii';
 $_['text_success']                            = 'Succes: Ai modificat MaxMind anti-fraudă!';
 $_['text_edit']                               = 'Editare MaxMind Anti-Fraudă';
 $_['text_signup']                             = 'MaxMind este un serviciu de detectare a fraudelor. Dacă nu ai o cheie de licență, te poți <a href="http://www.maxmind.com/?rId=opencart" target="_blank"><u>înscrie aici</u></a>.';
@@ -61,8 +61,8 @@ $_['text_error']                              = 'Error:';
 // Entry
 $_['entry_key']                               = 'Cheie Licență MaxMind';
 $_['entry_score']                             = 'Risk Score';
-$_['entry_order_status']                      = 'Order Status';
-$_['entry_status']                            = 'Status';
+$_['entry_order_status']                      = 'Stare Comandă';
+$_['entry_status']                            = 'Stare';
 
 // Help
 $_['help_order_status']                       = 'Orders that have a score over your set risk score will be assigned this order status and will not be allowed to reach the complete status automatically.';
