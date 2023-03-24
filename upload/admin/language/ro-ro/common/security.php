@@ -18,7 +18,7 @@ $_['text_admin']       = 'Editează admin/config.php și modifică';
 $_['entry_directory']  = 'Director';
 
 // Button
-$_['button_move']      = 'Mută';
+$_['button_move']      = 'Move';
 $_['button_manual']    = 'Manual';
 
 // Error
