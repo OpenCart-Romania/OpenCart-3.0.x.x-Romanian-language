@@ -10,12 +10,12 @@ $_['text_edit']         = 'Editare Grup de Atribute';
 
 // Column
 $_['column_name']       = 'Nume Grup de Atribute';
-$_['column_sort_order'] = 'Ordine de Sortare';
-$_['column_action']     = 'Acțiune';
+$_['column_sort_order'] = 'Sort Order';
+$_['column_action']     = 'Action';
 
 // Entry
-$_['entry_name']        = 'Nume Grup de Atribute';
-$_['entry_sort_order']  = 'Ordine de Sortare';
+$_['entry_name']        = 'Attribute Group Name';
+$_['entry_sort_order']  = 'Sort Order';
 
 // Error
 $_['error_permission']  = 'Atenție: Nu ai permisiunea de a modifica grupurile de atribute!';
