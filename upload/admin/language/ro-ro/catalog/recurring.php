@@ -18,7 +18,7 @@ $_['text_trial']            = 'Profil de Probă';
 
 // Entry
 $_['entry_name']            = 'Nume';
-$_['entry_price']           = 'Price';
+$_['entry_price']           = 'Preț';
 $_['entry_duration']        = 'Durată';
 $_['entry_cycle']           = 'Ciclu';
 $_['entry_frequency']       = 'Frecvență';
@@ -27,16 +27,16 @@ $_['entry_trial_duration']  = 'Durată Probă';
 $_['entry_trial_status']    = 'Stare Probă';
 $_['entry_trial_cycle']     = 'Ciclu Probă';
 $_['entry_trial_frequency'] = 'Frecventă Probă';
-$_['entry_status']          = 'Status';
-$_['entry_sort_order']      = 'Sort Order';
+$_['entry_status']          = 'Stare';
+$_['entry_sort_order']      = 'Ordine Sortare';
 
 // Column
 $_['column_name']           = 'Name';
-$_['column_sort_order']     = 'Sort Order';
-$_['column_action']         = 'Action';
+$_['column_sort_order']     = 'Ordine de Sortare';
+$_['column_action']         = 'Acțiune';
 
 // Error
-$_['error_warning']         = 'Warning: Please check the form carefully for errors!';
+$_['error_warning']         = 'Atenție: Te rugăm să verifici cu atenție formularul pentru erori!';
 $_['error_permission']      = 'Atenție: Nu ai permisiunea de a modifica profilurile recurente!';
 $_['error_name']            = 'Nume Profil trebuie să fie mai mare de 3 și mai mic de 255 de caractere!';
 $_['error_product']         = 'Atenție: Acest profil recurent nu poate fi șters deoarece în prezent este asociat cu %s produse!';
