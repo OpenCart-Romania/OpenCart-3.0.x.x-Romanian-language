@@ -6,7 +6,7 @@ $_['heading_title']    = 'Backup &amp; Restore';
 $_['text_success']     = 'Success: You have successfully imported your database!';
 
 // Entry
-$_['entry_progress']   = 'Progress';
+$_['entry_progress']   = 'Progres';
 $_['entry_export']     = 'Export';
 
 // Tab
