@@ -7,5 +7,5 @@ $_['text_canceled']       = 'Success: You have succesfully caneled this payment!
 $_['button_cancel']       = 'Anulează Plata Recurentă';
 
 // Error
-$_['error_not_cancelled'] = 'Eroare: %s';
-$_['error_not_found']     = 'Nu s-a putut anula profilul recurent';
+$_['error_not_cancelled'] = 'Error: %s';
+$_['error_not_found']     = 'Could not cancel recurring profile';
