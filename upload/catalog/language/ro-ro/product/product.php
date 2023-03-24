@@ -35,7 +35,7 @@ $_['text_year']                = 'an';
 $_['entry_qty']                = 'Cantitate';
 $_['entry_name']               = 'Your Name';
 $_['entry_review']             = 'Recenzia ta';
-$_['entry_rating']             = 'Rating';
+$_['entry_rating']             = 'Evaluare';
 $_['entry_good']               = 'Bună';
 $_['entry_bad']                = 'Rău';
 
