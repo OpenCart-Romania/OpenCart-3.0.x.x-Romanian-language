@@ -22,7 +22,7 @@ $_['entry_name']            = 'Customer Name';
 $_['entry_email']           = 'E-Mail';
 $_['entry_customer_group']  = 'Grupul de Clienți';
 $_['entry_type']            = 'Tip';
-$_['entry_date_added']      = 'Date Added';
+$_['entry_date_added']      = 'Data Adăugării';
 
 // Error
 $_['error_permission']      = 'Atenție: Nu ai permisiunea de a modifica aprobările clienților!';
