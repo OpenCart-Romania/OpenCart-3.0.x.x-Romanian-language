@@ -25,11 +25,11 @@ $_['entry_username']                           = 'Integrator Username';
 $_['entry_api_username']                       = 'API Username';
 $_['entry_test']                               = 'Test Mode';
 $_['entry_service']                            = 'Services';
-$_['entry_weight_class']                       = 'Weight Class';
-$_['entry_tax_class']                          = 'Tax Class';
+$_['entry_weight_class']                       = 'Clasă de Greutate';
+$_['entry_tax_class']                          = 'Clasa Fiscală';
 $_['entry_geo_zone']                           = 'Geo Zone';
-$_['entry_status']                             = 'Status';
-$_['entry_sort_order']                         = 'Sort Order';
+$_['entry_status']                             = 'Stare';
+$_['entry_sort_order']                         = 'Ordine Sortare';
 
 // Help
 $_['help_api_key']                             = 'Enter the API key assigned to you by EC-SHIP.';
@@ -43,4 +43,4 @@ $_['help_weight_class']                        = 'Set to kilograms only.';
 $_['error_permission']                         = 'Warning: You do not have permission to modify EC-SHIP shipping!';
 $_['error_api_key']                            = 'Access API Key Required!';
 $_['error_username']                           = 'Nume utilizator necesar!';
-$_['error_api_username']                       = 'API Username Required!';
+$_['error_api_username']                       = 'Nume de Utilizator API Necesar!';
