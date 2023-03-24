@@ -25,7 +25,7 @@ $_['entry_account_number']  = 'Account Number';
 $_['entry_routing_number']  = 'Routing Number';
 
 // Button
-$_['button_confirm']        = 'Confirm Order';
+$_['button_confirm']        = 'Confirmare Comandă';
 $_['button_delete']         = 'Delete Selected Card';
 
 // Error
