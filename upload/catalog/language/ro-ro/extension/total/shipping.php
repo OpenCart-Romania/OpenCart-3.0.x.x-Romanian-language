@@ -3,7 +3,7 @@
 $_['heading_title']        = 'Estimare Livrare &amp; Taxe';
 
 // Text
-$_['text_success']         = 'Succes: Estimarea dumneavoastră de transport a fost aplicată!';
+$_['text_success']         = 'Succes: Estimarea de livrare a fost aplicată!';
 $_['text_shipping']        = 'Introdu destinația pentru a obține o estimare de livrare.';
 $_['text_shipping_method'] = 'Te rugăm să selectezi metoda de livrare preferată pentru a fi utilizată la această comandă.';
 
