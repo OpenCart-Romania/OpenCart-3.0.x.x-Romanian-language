@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'Speciale';
+$_['heading_title'] = 'Specials';
 
 // Text
-$_['text_tax']      = 'Fără Taxe:';
+$_['text_tax']      = 'Ex Tax:';
