@@ -35,7 +35,7 @@ $_['entry_firstname']      = 'Prenume';
 $_['entry_lastname']       = 'Nume de Familie';
 $_['entry_email']          = 'E-Mail';
 $_['entry_telephone']      = 'Telefon';
-$_['entry_product']        = 'Product';
+$_['entry_product']        = 'Produs';
 $_['entry_model']          = 'Model';
 $_['entry_quantity']       = 'Cantitate';
 $_['entry_opened']         = 'Opened';
@@ -45,11 +45,11 @@ $_['entry_return_action']  = 'Return Action';
 $_['entry_return_status']  = 'Return Status';
 $_['entry_notify']         = 'Notify Customer';
 $_['entry_return_id']      = 'Return ID';
-$_['entry_date_added']     = 'Date Added';
+$_['entry_date_added']     = 'Data Adăugării';
 $_['entry_date_modified']  = 'Date Modified';
 
 // Help
-$_['help_product']         = '(Autocomplete)';
+$_['help_product']         = '(Autocompletare)';
 
 // Error
 $_['error_warning']        = 'Atenție: Te rugăm să verifici cu atenție formularul pentru erori!';
