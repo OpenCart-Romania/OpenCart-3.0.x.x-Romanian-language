@@ -7,8 +7,8 @@ $_['text_testing']												= 'This payment gateway is currently being tested.
 
 $_['text_basket']												= 'Basket';
 $_['text_checkout']												= 'Checkout';
-$_['text_success']												= 'Succes';
-$_['text_shipping']												= 'Livrare';
+$_['text_success']												= 'Success';
+$_['text_shipping']												= 'Shipping';
 
 // Entry
 $_['entry_cc_number']											= 'Card number';
@@ -57,7 +57,7 @@ $_['text_card_message_V6032']									= 'Invalid CVN';
 $_['text_card_message_V6033']									= 'Invalid Expiry Date';
 $_['text_card_message_V6034']									= 'Invalid Issue Number';
 $_['text_card_message_V6035']									= 'Invalid Start Date';
-$_['text_card_message_V6036']									= 'Lună incorectă';
+$_['text_card_message_V6036']									= 'Invalid Month';
 $_['text_card_message_V6037']									= 'Invalid Year';
 $_['text_card_message_V6040']									= 'Invalid Token Customer Id';
 $_['text_card_message_V6041']									= 'Customer Required';
@@ -130,9 +130,9 @@ $_['text_card_message_V6131']									= 'Generic shipping information error';
 $_['text_card_message_V6132']									= 'Transaction has already been completed or voided, operation not permitted';
 $_['text_card_message_V6133']									= 'Checkout not available for Payment Type';
 $_['text_card_message_V6134']									= 'Invalid Auth Transaction ID for Capture/Void';
-$_['text_card_message_V6135']									= 'Rambursare Erori de Procesare PayPal';
+$_['text_card_message_V6135']									= 'PayPal Error Processing Refund';
 $_['text_card_message_V6140']									= 'Merchant account is suspended';
-$_['text_card_message_V6141']									= 'Detaliile contului PayPal sau semnătura API nu sunt valide';
+$_['text_card_message_V6141']									= 'Invalid PayPal account details or API signature';
 $_['text_card_message_V6142']									= 'Authorise not available for Bank/Branch';
 $_['text_card_message_V6150']									= 'Invalid Refund Amount';
 $_['text_card_message_V6151']									= 'Refund amount greater than original transaction';
