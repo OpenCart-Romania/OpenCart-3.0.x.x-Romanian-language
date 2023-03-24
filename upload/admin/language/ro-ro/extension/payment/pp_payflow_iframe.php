@@ -1,10 +1,10 @@
 <?php
 // Heading
 $_['heading_title']					 = 'PayPal Payflow Pro iFrame';
-$_['heading_refund']				 = 'Stornare';
+$_['heading_refund']				 = 'Refund';
 
 // Text
-$_['text_extension']				 = 'Extensii';
+$_['text_extension']				 = 'Extensions';
 $_['text_success']					 = 'Success: You have modified PayPal Payflow Pro iFrame account details!';
 $_['text_edit']                      = 'Edit PayPal Payflow Pro iFrame';
 $_['text_pp_payflow_iframe']		 = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
@@ -12,13 +12,13 @@ $_['text_authorization']			 = 'Authorization';
 $_['text_sale']						 = 'Sale';
 $_['text_authorise']				 = 'Authorise';
 $_['text_capture']					 = 'Delayed Capture';
-$_['text_void']						 = 'Nul';
+$_['text_void']						 = 'Void';
 $_['text_payment_info']				 = 'Payment information';
 $_['text_complete']					 = 'Complete';
 $_['text_incomplete']				 = 'Incomplete';
 $_['text_transaction']				 = 'Transaction';
 $_['text_confirm_void']				 = 'If you void you cannot capture any further funds';
-$_['text_refund']					 = 'Stornare';
+$_['text_refund']					 = 'Refund';
 $_['text_refund_issued']			 = 'Refund was issued successfully';
 $_['text_redirect']					 = 'Redirect';
 $_['text_iframe']					 = 'Iframe';
@@ -27,31 +27,31 @@ $_['help_checkout_method']			 = 'Please use Redirect method if do not have SSL i
 // Column
 $_['column_transaction_id']			 = 'Transaction ID';
 $_['column_transaction_type']		 = 'Transaction Type';
-$_['column_amount']					 = 'Valoare';
-$_['column_time']					 = 'Oră';
+$_['column_amount']					 = 'Amount';
+$_['column_time']					 = 'Time';
 $_['column_actions']				 = 'Acțiuni';
 
 // Tab
-$_['tab_settings']					 = 'Setări';
-$_['tab_order_status']				 = 'Stare Comandă';
+$_['tab_settings']					 = 'Settings';
+$_['tab_order_status']				 = 'Order Status';
 $_['tab_checkout_customisation']	 = 'Checkout Customisation';
 
 // Entry
 $_['entry_vendor']					 = 'Vendor';
 $_['entry_user']					 = 'User';
-$_['entry_password']				 = 'Parolă';
+$_['entry_password']				 = 'Password';
 $_['entry_partner']					 = 'Partner';
 $_['entry_test']					 = 'Test Mode';
 $_['entry_transaction']				 = 'Transaction Method';
 $_['entry_total']					 = 'Total';
-$_['entry_order_status']			 = 'Stare Comandă';
+$_['entry_order_status']			 = 'Order Status';
 $_['entry_geo_zone']				 = 'Geo Zone';
-$_['entry_status']					 = 'Stare';
-$_['entry_sort_order']				 = 'Ordine de Sortare';
+$_['entry_status']					 = 'Status';
+$_['entry_sort_order']				 = 'Sort Order';
 $_['entry_transaction_id']			 = 'Transaction ID';
 $_['entry_full_refund']				 = 'Full refund';
-$_['entry_amount']					 = 'Valoare';
-$_['entry_message']					 = 'Mesaj';
+$_['entry_amount']					 = 'Amount';
+$_['entry_message']					 = 'Message';
 $_['entry_ipn_url']					 = 'IPN URL';
 $_['entry_checkout_method']			 = 'Checkout Method';
 $_['entry_debug']					 = 'Debug mode';
@@ -59,9 +59,9 @@ $_['entry_transaction_reference']	 = 'Transaction Reference';
 $_['entry_transaction_amount']		 = 'Transaction Amount';
 $_['entry_refund_amount']			 = 'Refund Amount';
 $_['entry_capture_status']			 = 'Capture Status';
-$_['entry_void']					 = 'Nul';
+$_['entry_void']					 = 'Void';
 $_['entry_capture']					 = 'Capture';
-$_['entry_transactions']			 = 'Tranzacții';
+$_['entry_transactions']			 = 'Transactions';
 $_['entry_complete_capture']		 = 'Complete Capture';
 $_['entry_canceled_reversal_status'] = 'Canceled Reversal Status:';
 $_['entry_completed_status']		 = 'Completed Status:';
@@ -88,8 +88,8 @@ $_['help_total']					 = 'The checkout total the order must reach before this pay
 $_['help_debug']					 = 'Logs additional information';
 
 // Button
-$_['button_refund']					 = 'Stornare';
-$_['button_void']					 = 'Nul';
+$_['button_refund']					 = 'Refund';
+$_['button_void']					 = 'Void';
 $_['button_capture']				 = 'Capture';
 
 // Error
