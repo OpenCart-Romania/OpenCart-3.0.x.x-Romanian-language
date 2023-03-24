@@ -3,7 +3,7 @@
 $_['heading_title']				= 'eWAY Payment';
 
 // Text
-$_['text_extension']			= 'Extensii';
+$_['text_extension']			= 'Extensions';
 $_['text_success']				= 'Success: You have modified your eWAY details!';
 $_['text_edit']					= 'Edit eWAY';
 $_['text_eway']					= '<a target="_BLANK" href="http://www.eway.com.au/"><img src="view/image/payment/eway.png" alt="eWAY" title="eWAY" style="border: 1px solid #EEEEEE;" /></a>';
@@ -21,12 +21,12 @@ $_['entry_order_status']		= 'Stare comandă';
 $_['entry_order_status_refund'] = 'Refunded order status';
 $_['entry_order_status_auth']	= 'Authorised order status';
 $_['entry_order_status_fraud']	= 'Suspected Fraud order status';
-$_['entry_status']				= 'Stare';
+$_['entry_status']				= 'Status';
 $_['entry_username']			= 'eWAY API Key';
 $_['entry_password']			= 'eWAY password';
 $_['entry_payment_type']		= 'Payment Type';
 $_['entry_geo_zone']			= 'Geo Zone';
-$_['entry_sort_order']			= 'Ordine sortare';
+$_['entry_sort_order']			= 'Sort order';
 $_['entry_transaction_method']	= 'Transaction Method';
 
 // Error
@@ -44,11 +44,11 @@ $_['help_transaction_method']	= 'Authorisation is only available for Australian 
 // Order page - payment tab
 $_['text_payment_info']			= 'Payment information';
 $_['text_order_total']			= 'Total authorised';
-$_['text_transactions']			= 'Tranzacții';
+$_['text_transactions']			= 'Transactions';
 $_['text_column_transactionid'] = 'eWAY Transaction ID';
-$_['text_column_amount']		= 'Valoare';
-$_['text_column_type']			= 'Tip';
-$_['text_column_created']		= 'Creat';
+$_['text_column_amount']		= 'Amount';
+$_['text_column_type']			= 'Type';
+$_['text_column_created']		= 'Created';
 $_['text_total_captured']		= 'Total captured';
 $_['text_capture_status']		= 'Payment captured';
 $_['text_void_status']			= 'Payment voided';
@@ -59,7 +59,7 @@ $_['text_capture_success']		= 'Capture succeeded!';
 $_['text_refund_failed']		= 'Refund failed: ';
 $_['text_capture_failed']		= 'Capture failed: ';
 $_['text_unknown_failure']		= 'Invalid order or amount';
-$_['text_refund']               = 'Stornare';
+$_['text_refund']               = 'Refund';
 
 $_['text_confirm_capture']		= 'Are you sure you want to capture the payment?';
 $_['text_confirm_release']		= 'Are you sure you want to release the payment?';
@@ -68,7 +68,7 @@ $_['text_confirm_refund']		= 'Are you sure you want to refund the payment?';
 $_['text_empty_refund']			= 'Please enter an amount to refund';
 $_['text_empty_capture']		= 'Please enter an amount to capture';
 
-$_['btn_refund']				= 'Stornare';
+$_['btn_refund']				= 'Refund';
 $_['btn_capture']				= 'Capture';
 
 // Validation Error codes
