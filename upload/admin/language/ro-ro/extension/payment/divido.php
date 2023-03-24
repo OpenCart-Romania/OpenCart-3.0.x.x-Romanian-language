@@ -29,7 +29,7 @@ $_['entry_products_options_threshold'] = 'All products above a defined price';
 $_['entry_price_threshold']            = 'Product price threshold';
 $_['entry_cart_threshold']             = 'Cart total threshold';
 $_['entry_threshold_list']             = 'Plan thresholds';
-$_['entry_category']                   = 'Categories';
+$_['entry_category']                   = 'Categorii';
 
 // Help
 $_['help_api_key']                     = 'Cheie care te identifică cu Divido (obținută de la Divido)';
