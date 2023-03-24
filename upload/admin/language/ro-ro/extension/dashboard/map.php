@@ -3,16 +3,16 @@
 $_['heading_title']    = 'Harta Lumii';
 
 // Text
-$_['text_extension']   = 'Extensions';
+$_['text_extension']   = 'Extensii';
 $_['text_success']     = 'Succes: Ai modificat dashboard-ul hartă!';
 $_['text_edit']        = 'Editare Dashboard Hartă';
-$_['text_order']       = 'Orders';
-$_['text_sale']        = 'Sales';
+$_['text_order']       = 'Comenzi';
+$_['text_sale']        = 'Vânzări';
 
 // Entry
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
-$_['entry_width']      = 'Width';
+$_['entry_status']     = 'Stare';
+$_['entry_sort_order'] = 'Ordine Sortare';
+$_['entry_width']      = 'Lăţime';
 
 // Error
 $_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica dashboard-ul hartă!';
