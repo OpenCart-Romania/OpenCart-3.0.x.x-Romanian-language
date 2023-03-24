@@ -3,13 +3,13 @@
 $_['heading_title']					 = 'First Data EMEA Connect (3DSecure enabled)';
 
 // Text
-$_['text_extension']				 = 'Extensii';
+$_['text_extension']				 = 'Extensions';
 $_['text_success']					 = 'Success: You have modified First Data account details!';
 $_['text_edit']                      = 'Edit First Data EMEA Connect (3DSecure enabled)';
 $_['text_notification_url']			 = 'Notification URL';
 $_['text_live']						 = 'Live';
 $_['text_demo']						 = 'Demo';
-$_['text_enabled']					 = 'Activat';
+$_['text_enabled']					 = 'Enabled';
 $_['text_merchant_id']				 = 'Store ID';
 $_['text_secret']					 = 'Shared secret';
 $_['text_capture_ok']				 = 'Capture was successful';
@@ -26,10 +26,10 @@ $_['text_void_status']				 = 'Payment voided';
 $_['text_order_ref']				 = 'Order ref';
 $_['text_order_total']				 = 'Total authorised';
 $_['text_total_captured']			 = 'Total captured';
-$_['text_transactions']				 = 'Tranzacții';
-$_['text_column_amount']			 = 'Valoare';
-$_['text_column_type']				 = 'Tip';
-$_['text_column_date_added']		 = 'Creat';
+$_['text_transactions']				 = 'Transactions';
+$_['text_column_amount']			 = 'Amount';
+$_['text_column_type']				 = 'Type';
+$_['text_column_date_added']		 = 'Created';
 $_['text_confirm_void']				 = 'Are you sure you want to void the payment?';
 $_['text_confirm_capture']			 = 'Are you sure you want to capture the payment?';
 
@@ -37,9 +37,9 @@ $_['text_confirm_capture']			 = 'Are you sure you want to capture the payment?';
 $_['entry_merchant_id']				 = 'Store ID';
 $_['entry_secret']					 = 'Shared secret';
 $_['entry_total']					 = 'Total';
-$_['entry_sort_order']				 = 'Ordine sortare';
+$_['entry_sort_order']				 = 'Sort order';
 $_['entry_geo_zone']				 = 'Geo zone';
-$_['entry_status']					 = 'Stare';
+$_['entry_status']					 = 'Status';
 $_['entry_debug']					 = 'Debug logging';
 $_['entry_live_demo']				 = 'Live / Demo';
 $_['entry_auto_settle']			  	 = 'Settlement type';
@@ -61,13 +61,13 @@ $_['help_settle']					 = 'If you use pre-auth you must complete a post-auth acti
 
 // Tab
 $_['tab_account']					 = 'API info';
-$_['tab_order_status']				 = 'Stare comandă';
+$_['tab_order_status']				 = 'Order status';
 $_['tab_payment']					 = 'Payment settings';
 $_['tab_advanced']					 = 'Advanced';
 
 // Button
 $_['button_capture']				 = 'Capture';
-$_['button_void']					 = 'Nul';
+$_['button_void']					 = 'Void';
 
 // Error
 $_['error_merchant_id']				 = 'Store ID is required';
