@@ -7,21 +7,21 @@ $_['text_success']      = 'Succes: Ai modificat recenziile!';
 $_['text_list']         = 'Listă Recenzii';
 $_['text_add']          = 'Adaugă Recenzie';
 $_['text_edit']         = 'Editare Recenzie';
-$_['text_filter']       = 'Filter';
+$_['text_filter']       = 'Filtru';
 
 // Column
 $_['column_product']    = 'Produs';
 $_['column_author']     = 'Autor';
 $_['column_rating']     = 'Evaluare';
-$_['column_status']     = 'Status';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_status']     = 'Stare';
+$_['column_date_added'] = 'Data Adăugării';
+$_['column_action']     = 'Acțiune';
 
 // Entry
 $_['entry_product']     = 'Product';
 $_['entry_author']      = 'Author';
 $_['entry_rating']      = 'Rating';
-$_['entry_status']      = 'Status';
+$_['entry_status']      = 'Stare';
 $_['entry_text']        = 'Text';
 $_['entry_date_added']  = 'Date Added';
 
