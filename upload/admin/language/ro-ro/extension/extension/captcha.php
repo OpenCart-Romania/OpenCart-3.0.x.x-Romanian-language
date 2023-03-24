@@ -8,8 +8,8 @@ $_['text_list']        = 'Listă Captcha';
 
 // Column
 $_['column_name']      = 'Nume Captcha';
-$_['column_status']    = 'Stare';
-$_['column_action']    = 'Acțiune';
+$_['column_status']    = 'Status';
+$_['column_action']    = 'Action';
 
 // Error
 $_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica captchas!';
