@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Plată Eșuată!';
 
 // Text
-$_['text_basket']   = 'Coș de Cumpărături';
+$_['text_basket']   = 'Shopping Cart';
 $_['text_checkout'] = 'Checkout';
 $_['text_failure']  = 'Plată Eșuată';
 $_['text_message']  = '<p>A existat o problemă la procesarea plății și comanda nu s-a finalizat.</p>
