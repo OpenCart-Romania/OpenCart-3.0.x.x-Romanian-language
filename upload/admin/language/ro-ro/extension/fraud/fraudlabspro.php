@@ -3,7 +3,7 @@
 $_['heading_title']              = 'FraudLabs Pro';
 
 // Text
-$_['text_extension']             = 'Extensions';
+$_['text_extension']             = 'Extensii';
 $_['text_success']               = 'Succes: Ai modificat Setările FraudLabs Pro!';
 $_['text_edit']                  = 'Settings';
 $_['text_signup']                = 'FraudLabs Pro is a fraud detection service. You can <a href="http://www.fraudlabspro.com/plan?ref=1730" target="_blank"><u>sign up here</u></a> for a free API Key.';
@@ -37,7 +37,7 @@ $_['text_rule_validation']       = 'Rules Validation';
 $_['text_testing']               = 'Testing Purpose';
 
 // Entry
-$_['entry_status']               = 'Status';
+$_['entry_status']               = 'Stare';
 $_['entry_key']                  = 'API Key';
 $_['entry_score']                = 'Risk Score';
 $_['entry_order_status']         = 'Stare Comandă';
