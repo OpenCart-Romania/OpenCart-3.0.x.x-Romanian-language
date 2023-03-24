@@ -3,7 +3,7 @@
 $_['heading_title']		 = 'PayPoint';
 
 // Text
-$_['text_extension']	 = 'Extensii';
+$_['text_extension']	 = 'Extensions';
 $_['text_success']		 = 'Success: You have modified PayPoint account details!';
 $_['text_edit']          = 'Edit PayPoint';
 $_['text_paypoint']		 = '<a href="https://www.paypoint.net/partners/opencart" target="_blank"><img src="view/image/payment/paypoint.png" alt="PayPoint" title="PayPoint" style="border: 1px solid #EEEEEE;" /></a>';
@@ -16,10 +16,10 @@ $_['entry_merchant']	 = 'Merchant ID';
 $_['entry_password']	 = 'Remote Password';
 $_['entry_test']		 = 'Test Mode';
 $_['entry_total']		 = 'Total';
-$_['entry_order_status'] = 'Stare Comandă';
+$_['entry_order_status'] = 'Order Status';
 $_['entry_geo_zone']	 = 'Geo Zone';
-$_['entry_status']		 = 'Stare';
-$_['entry_sort_order']	 = 'Ordine de Sortare';
+$_['entry_status']		 = 'Status';
+$_['entry_sort_order']	 = 'Sort Order';
 
 // Help
 $_['help_password']		 = 'Leave empty if you do not have "Digest Key Authentication" enabled on your account.';
@@ -27,4 +27,4 @@ $_['help_total']		 = 'The checkout total the order must reach before this paymen
 
 // Error
 $_['error_permission']   = 'Atenție: Nu ai permisiunea de a modifica plata PayPoint!';
-$_['error_merchant']	 = 'ID Comerciant Necesar!';
+$_['error_merchant']	 = 'Merchant ID Required!';
