@@ -22,7 +22,7 @@ $_['entry_name']        = 'Campaign Name';
 $_['entry_description'] = 'Campaign Description';
 $_['entry_code']        = 'Tracking Code';
 $_['entry_example']     = 'Examples';
-$_['entry_date_added']  = 'Date Added';
+$_['entry_date_added']  = 'Data Adăugării';
 
 // Help
 $_['help_code']         = 'Codul de urmărire care va fi utilizat pentru a urmări campaniile de marketing.';
