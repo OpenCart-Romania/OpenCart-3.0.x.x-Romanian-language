@@ -10,7 +10,7 @@ $_['text_edit']           = 'Editare Layout';
 $_['text_remove']         = 'Elimină';
 $_['text_route']          = 'Alege magazinul și rutele care vor fi utilizate cu acest layout';
 $_['text_module']         = 'Alege poziția modulelor';
-$_['text_default']        = 'Default';
+$_['text_default']        = 'Implicit';
 $_['text_content_top']    = 'Conținut in Partea de Sus';
 $_['text_content_bottom'] = 'Conținut în Partea de Jos';
 $_['text_column_left']    = 'Coloană Stânga';
@@ -18,7 +18,7 @@ $_['text_column_right']   = 'Coloană Dreapta';
 
 // Column
 $_['column_name']         = 'Nume Layout';
-$_['column_action']       = 'Action';
+$_['column_action']       = 'Acțiune';
 
 // Entry
 $_['entry_name']          = 'Layout Name';
