@@ -7,17 +7,17 @@ $_['text_success']       = 'Succes: Ai modificat zonele geografice!';
 $_['text_list']          = 'Geo Zone List';
 $_['text_add']           = 'Add Geo Zone';
 $_['text_edit']          = 'Edit Geo Zone';
-$_['text_geo_zone']      = 'Geo Zones';
+$_['text_geo_zone']      = 'Zone Geografice';
 
 // Column
 $_['column_name']        = 'Geo Zone Name';
 $_['column_description'] = 'Description';
-$_['column_action']      = 'Action';
+$_['column_action']      = 'Acțiune';
 
 // Entry
 $_['entry_name']         = 'Geo Zone Name';
-$_['entry_description']  = 'Description';
-$_['entry_country']      = 'Country';
+$_['entry_description']  = 'Descriere';
+$_['entry_country']      = 'Țară';
 $_['entry_zone']         = 'Zone';
 
 // Error
