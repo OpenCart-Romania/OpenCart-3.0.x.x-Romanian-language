@@ -7,11 +7,11 @@ $_['tab_settings']                  = 'Settings';
 $_['tab_order_status']              = 'Order Status';
 
 // Text
-$_['text_extension']                = 'Extensions';
+$_['text_extension']                = 'Extensii';
 $_['text_success']                  = 'Succes: Ai modificat modulul de plată CardConnect!';
 $_['text_edit']                     = 'Edit CardConnect';
 $_['text_cardconnect']              = '<a href="http://www.cardconnect.com" target="_blank"><img src="view/image/payment/cardconnect.png" alt="CardConnect" title="CardConnect"></a>';
-$_['text_payment']                  = 'Payment';
+$_['text_payment']                  = 'Plată';
 $_['text_refund']                   = 'Refund';
 $_['text_authorize']                = 'Authorize';
 $_['text_live']                     = 'Live';
@@ -56,9 +56,9 @@ $_['entry_store_cards']             = 'Store Cards';
 $_['entry_echeck']                  = 'eCheck';
 $_['entry_total']                   = 'Total';
 $_['entry_geo_zone']                = 'Geo Zone';
-$_['entry_status']                  = 'Status';
+$_['entry_status']                  = 'Stare';
 $_['entry_logging']                 = 'Debug Logging';
-$_['entry_sort_order']              = 'Sort Order';
+$_['entry_sort_order']              = 'Ordine Sortare';
 $_['entry_cron_url']                = 'Cron Job URL';
 $_['entry_cron_time']               = 'Cron Job Last Run';
 $_['entry_order_status_pending']    = 'În Așteptare';
@@ -83,10 +83,10 @@ $_['help_order_status_processing']  = 'The order status when the order is automa
 // Button
 $_['button_inquire_all']            = 'Inquire All';
 $_['button_capture']                = 'Capture';
-$_['button_refund']                 = 'Refund';
+$_['button_refund']                 = 'Stornare';
 $_['button_void_all']               = 'Void All';
 $_['button_inquire']                = 'Inquire';
-$_['button_void']                   = 'Void';
+$_['button_void']                   = 'Nul';
 
 // Error
 $_['error_permission']              = 'Atenție: Nu ai permisiunea de a modifica plata CardConnect!';
