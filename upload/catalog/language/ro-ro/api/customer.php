@@ -3,10 +3,10 @@
 $_['text_success']       = 'Ai modificat cu succes clienţii';
 
 // Error
-$_['error_permission']   = 'Atenție: Nu ai permisiunea de a accesa API!';
+$_['error_permission']   = 'Warning: You do not have permission to access the API!';
 $_['error_customer']     = 'Trebuie să selectezi un client!';
-$_['error_firstname']    = 'Prenumele trebuie să fie între 1 și 32 de caractere!';
-$_['error_lastname']     = 'Numele de Familie trebuie să fie între 1 și 32 de caractere!';
-$_['error_email']        = 'Adresa E-Mail nu pare să fie validă!';
-$_['error_telephone']    = 'Telefonul trebuie să fie între 3 și 32 de caractere!';
-$_['error_custom_field'] = '%s necesar!';
+$_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
+$_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
+$_['error_email']        = 'E-Mail Address does not appear to be valid!';
+$_['error_telephone']    = 'Telephone must be between 3 and 32 characters!';
+$_['error_custom_field'] = '%s required!';
