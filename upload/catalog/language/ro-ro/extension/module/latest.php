@@ -3,4 +3,4 @@
 $_['heading_title'] = 'Latest';
 
 // Text
-$_['text_tax']      = 'Fără Taxe:';
+$_['text_tax']      = 'Ex Tax:';
