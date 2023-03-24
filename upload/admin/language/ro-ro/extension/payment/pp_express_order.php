@@ -5,7 +5,7 @@ $_['text_capture_status']	 = 'Capture status';
 $_['text_amount_authorised'] = 'Amount authorised';
 $_['text_amount_captured']	 = 'Amount captured';
 $_['text_amount_refunded']	 = 'Amount refunded';
-$_['text_transaction']		 = 'Transactions';
+$_['text_transaction']		 = 'Tranzacții';
 $_['text_complete']			 = 'Complete';
 $_['text_confirm_void']		 = 'If you void you cannot capture any further funds';
 $_['text_view']				 = 'View';
@@ -14,17 +14,17 @@ $_['text_resend']			 = 'Resend';
 $_['text_success']           = 'Transaction was successfully sent';
 $_['text_full_refund']		 = 'Full refund';
 $_['text_partial_refund']	 = 'Partial refund';
-$_['text_payment']		 	 = 'Payment';
+$_['text_payment']		 	 = 'Plată';
 $_['text_current_refunds']   = 'Refunds have already been done for this transaction. The max refund is';
 
 // Column
 $_['column_transaction']	 = 'Transaction ID';
-$_['column_amount']			 = 'Amount';
+$_['column_amount']			 = 'Valoare';
 $_['column_type']			 = 'Payment Type';
-$_['column_status']			 = 'Status';
+$_['column_status']			 = 'Stare';
 $_['column_pending_reason']	 = 'Pending Reason';
-$_['column_date_added']		 = 'Date Added';
-$_['column_action']			 = 'Action';
+$_['column_date_added']		 = 'Data Adăugării';
+$_['column_action']			 = 'Acțiune';
 
 // Entry
 $_['entry_capture_amount']	 = 'Capture amount';
@@ -41,7 +41,7 @@ $_['tab_capture']		     = 'Capture';
 $_['tab_refund']             = 'Refund';
 
 // Button
-$_['button_void']			 = 'Void';
+$_['button_void']			 = 'Nul';
 $_['button_capture']		 = 'Capture';
 $_['button_refund']		     = 'Issue refund';
 
