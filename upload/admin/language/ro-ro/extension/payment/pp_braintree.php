@@ -3,15 +3,15 @@
 $_['heading_title']					 = 'PayPal (Powered by Braintree)';
 
 // Text
-$_['text_extension']		 		 = 'Extensii';
+$_['text_extension']		 		 = 'Extensions';
 $_['text_pp_braintree']				 = '<img src="view/image/payment/paypal.png" alt="PayPal (Powered by Braintree)" title="PayPal (Powered by Braintree)" style="border: 1px solid #EEEEEE;" />';
-$_['text_payment']					 = 'Plată';
+$_['text_payment']					 = 'Payment';
 $_['text_success']					 = 'Succes: Ai modificat detaliile contului Braintree!';
 $_['text_success_connect']			 = 'Succes: Ți-ai conectat contul tău PayPal (Powered by Braintree)!';
 $_['text_edit']						 = 'Editare PayPal (Powered by Braintree)';
 $_['text_production']				 = 'Production';
 $_['text_sandbox']					 = 'Sandbox';
-$_['text_currency']					 = 'Monedă';
+$_['text_currency']					 = 'Currency';
 $_['text_immediate']				 = 'Immediate';
 $_['text_deferred']					 = 'Deferred';
 $_['text_merchant_account_id']		 = 'Merchant Account ID (Leave blank to use default merchant account)';
@@ -20,7 +20,7 @@ $_['text_confirm_void']				 = 'Are you sure you want to void this transaction?';
 $_['text_avs_response']				 = 'Street Address: %s, Postal Code: %s';
 $_['text_confirm_settle']			 = 'Are you sure you want to settle/capture';
 $_['text_confirm_refund']			 = 'Are you sure you want to refund';
-$_['text_success_action']			 = 'Succes';
+$_['text_success_action']			 = 'Success';
 $_['text_error_settle']				 = 'Eroare: %s';
 $_['text_error_generic']			 = 'Error: There was an error with your request.';
 $_['text_na']						 = 'N/A';
@@ -30,8 +30,8 @@ $_['text_credit']					 = 'Credit';
 $_['text_credit_card']				 = 'Credit Card';
 $_['text_paypal']					 = 'PayPal';
 $_['text_enable_transactions']		 = 'Te rugăm să activezi Braintree înainte de a vizualiza tranzacțiile.';
-$_['text_yes']						 = 'Da';
-$_['text_no']						 = 'Nu';
+$_['text_yes']						 = 'Yes';
+$_['text_no']						 = 'No';
 $_['text_no_refund']				 = 'No refund history';
 $_['text_app_connected']		     = 'Modulul este conectat prin Braintree auth';
 $_['text_braintree']        		 = '<img width="100" src="https://s3-us-west-1.amazonaws.com/bt-partner-assets/paypal-braintree.png" alt="PayPal powered by Braintree" style="border: 1px solid #EEEEEE;">';
@@ -61,15 +61,15 @@ $_['text_3ds_ssl']		 			 = '3D Secure requires the store to be using an SSL cert
 $_['text_unlink']		 			 = 'Delete link';
 
 // Column
-$_['column_void']					 = 'Nul';
+$_['column_void']					 = 'Void';
 $_['column_settle']					 = 'Soluționare';
-$_['column_refund']					 = 'Stornare';
+$_['column_refund']					 = 'Refund';
 $_['column_transaction_id']			 = 'Transaction ID';
 $_['column_transaction_type']		 = 'Transaction Type';
 $_['column_transaction_date']		 = 'Transaction Date';
 $_['column_merchant_account']		 = 'Merchant Account';
 $_['column_payment_type']			 = 'Payment Type';
-$_['column_order_id']				 = 'Număr Comandă';
+$_['column_order_id']				 = 'Order ID';
 $_['column_processor_code']			 = 'Processor Authorization Code';
 $_['column_cvv_response']			 = 'CVV Response';
 $_['column_avs_response']			 = 'AVS Response';
@@ -78,15 +78,15 @@ $_['column_3ds_status']				 = '3DS Status';
 $_['column_3ds_shifted']			 = '3DS Liability Shifted';
 $_['column_3ds_shift_possible']		 = '3DS Liability Shift Possible';
 $_['column_transaction_history']	 = 'Transaction Status History';
-$_['column_date']					 = 'Dată';
+$_['column_date']					 = 'Date';
 $_['column_refund_history']			 = 'Refund History';
-$_['column_action']					 = 'Acțiune';
-$_['column_amount']					 = 'Valoare';
-$_['column_status']					 = 'Stare';
-$_['column_type']					 = 'Tip';
-$_['column_customer']				 = 'Client';
+$_['column_action']					 = 'Action';
+$_['column_amount']					 = 'Amount';
+$_['column_status']					 = 'Status';
+$_['column_type']					 = 'Type';
+$_['column_customer']				 = 'Customer';
 $_['column_order']					 = 'Order';
-$_['column_date_added']				 = 'Data Adăugării';
+$_['column_date_added']				 = 'Date Added';
 
 // Entry
 $_['entry_merchant_id']				 = 'Merchant ID';
@@ -102,8 +102,8 @@ $_['entry_vault_cvv_3ds']			 = 'Require CVV2 or 3D secure?';
 $_['entry_debug']					 = 'Debug Logging';
 $_['entry_total']					 = 'Total';
 $_['entry_geo_zone']				 = 'Geo Zone';
-$_['entry_status']					 = 'Stare';
-$_['entry_sort_order']				 = 'Ordine de Sortare';
+$_['entry_status']					 = 'Status';
+$_['entry_sort_order']				 = 'Sort Order';
 $_['entry_authorization_expired']	 = 'Authorization Expired';
 $_['entry_authorized']				 = 'Authorized';
 $_['entry_authorizing']				 = 'Authorizing';
@@ -159,20 +159,20 @@ $_['help_paypal_option']			 	= 'Dacă ai contul de PayPal conectat cu Braintree,
 $_['help_paypal_billing_agreement']	 	= 'Confirmă comanda';
 
 // Button
-$_['button_void']					 	= 'Nul';
-$_['button_settle']					 	= 'Soluționare';
-$_['button_refund']					 	= 'Stornare';
-$_['button_filter']					 	= 'Filtru';
+$_['button_void']					 	= 'Void';
+$_['button_settle']					 	= 'Settle';
+$_['button_refund']					 	= 'Refund';
+$_['button_filter']					 	= 'Filter';
 
 // Error
 $_['error_permission']				 	= 'Atenție: Nu ai permisiunea de a modifica plata Braintree!';
-$_['error_php_version']				 	= 'Versiunea minimă a PHP 5.4.0 este necesară!';
-$_['error_merchant_id']				 	= 'ID Comerciant Necesar!';
+$_['error_php_version']				 	= 'Minimum version of PHP 5.4.0 is required!';
+$_['error_merchant_id']				 	= 'Merchant ID Required!';
 $_['error_public_key']				 	= 'Plata ta a eșuat de prea multe ori';
 $_['error_private_key']				 	= 'Private Key Required!';
 $_['error_connection']				 	= 'A existat o problemă la stabilirea unei conexiuni la API-ul Braintree. Te rugăm să verifici Merchant ID, Public Key, Private Key și Environment settings.';
 $_['error_account']					 	= 'Te rugăm să introduci un Merchant Account ID valid, așa cum este specificat în Contul tău Braintree';
-$_['error_warning']					 	= 'Atenție: Te rugăm să verifici cu atenție formularul pentru erori!';
+$_['error_warning']					 	= 'Warning: Please check the form carefully for errors!';
 $_['error_3ds_not_ready']			 	= 'You have enabled 3D secure however your Braintree account does not have it configured, please check your <a href="https://www.braintreegateway.com/login" title="Braintree login" target="_blank">Braintree Control Panel</a> or contact Braintree support';
 $_['error_paypal_not_ready']		 	= 'You have enabled PayPal however your Braintree account does not have it configured, please check your <a href="https://www.braintreegateway.com/login" title="Braintree login" target="_blank">Braintree Control Panel</a> or contact Braintree support';
 $_['error_paypal_billing_not_ready'] 	= 'You have enabled PayPal vaulting/billing agreements however your Braintree account does not have it configured, please check your <a href="https://www.braintreegateway.com/login" title="Braintree login" target="_blank">Braintree Control Panel</a> or contact Braintree support';
@@ -182,8 +182,8 @@ $_['error_braintree_account_billing']	= 'Billing agreements are not enabled in y
 $_['error_environment']					= 'You cannot set your environment to %s when your credentials are for the %s environment in Braintree';
 
 // Tab
-$_['tab_setting']					 	= 'Setări';
-$_['tab_currency']					 	= 'Monede';
+$_['tab_setting']					 	= 'Settings';
+$_['tab_currency']					 	= 'Currencies';
 $_['tab_order_status']				 	= 'Starea Comenzilor (Comenzi Noi)';
 $_['tab_3ds']						 	= '3-D Secure';
 $_['tab_transaction']				 	= 'Transaction Search';
