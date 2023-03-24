@@ -1,8 +1,8 @@
 <?php
 // Text
-$_['text_upload']    = 'Your file was successfully uploaded!';
+$_['text_upload']    = 'Fișierul tău a fost încărcat cu succes!';
 
 // Error
 $_['error_filename'] = 'Numele fișierului trebuie să fie între 3 și 64 de caractere!';
-$_['error_filetype'] = 'Invalid file type!';
-$_['error_upload']   = 'Upload required!';
+$_['error_filetype'] = 'Tip fișier incorect!';
+$_['error_upload']   = 'Încărcare necesară!';
