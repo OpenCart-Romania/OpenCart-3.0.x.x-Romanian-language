@@ -19,10 +19,10 @@ $_['text_forum_visit']            = 'Vizitează forumurile noastre';
 $_['text_commercial']             = 'Suport comercial';
 $_['text_commercial_description'] = 'Servicii de dezvoltare de la partenerii OpenCart';
 $_['text_commercial_visit']       = 'Vizitează pagina cu partenerii nostri';
-$_['text_price']                  = 'Preț';
+$_['text_price']                  = 'Price';
 $_['text_view']                   = 'Vezi detalii';
-$_['text_download']               = 'Descărcare';
-$_['text_downloads']              = 'Descărcări';
+$_['text_download']               = 'Download';
+$_['text_downloads']              = 'Downloads';
 
 // Button
 $_['button_mail']                 = 'Alătură-te aici';
