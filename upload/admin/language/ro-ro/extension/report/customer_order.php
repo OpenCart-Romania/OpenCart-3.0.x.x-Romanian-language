@@ -3,29 +3,29 @@
 $_['heading_title']         = 'Customer Orders Report';
 
 // Text
-$_['text_extension']        = 'Extensii';
+$_['text_extension']        = 'Extensions';
 $_['text_edit']             = 'Edit Customer Orders Report';
 $_['text_success']          = 'Success: You have modified customer orders report!';
-$_['text_filter']           = 'Filtru';
+$_['text_filter']           = 'Filter';
 $_['text_all_status']       = 'All Statuses';
 
 // Column
-$_['column_customer']       = 'Numele Clientului';
+$_['column_customer']       = 'Customer Name';
 $_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Grupul de Clienți';
-$_['column_status']         = 'Stare';
+$_['column_customer_group'] = 'Customer Group';
+$_['column_status']         = 'Status';
 $_['column_orders']         = 'No. Orders';
 $_['column_products']       = 'No. Products';
 $_['column_total']          = 'Total';
-$_['column_action']         = 'Acțiune';
+$_['column_action']         = 'Action';
 
 // Entry
-$_['entry_date_start']      = 'Dată de Început';
-$_['entry_date_end']        = 'Dată de Sfârșit';
-$_['entry_customer']        = 'Client';
-$_['entry_status']          = 'Stare Comandă';
-$_['entry_status']          = 'Stare';
-$_['entry_sort_order']      = 'Ordine de Sortare';
+$_['entry_date_start']      = 'Date Start';
+$_['entry_date_end']        = 'Date End';
+$_['entry_customer']        = 'Customer';
+$_['entry_status']          = 'Order Status';
+$_['entry_status']          = 'Status';
+$_['entry_sort_order']      = 'Sort Order';
 
 // Error
 $_['error_permission']  = 'Atenție: Nu ai permisiunea de a modifica raportul comenzilor clientului!';
