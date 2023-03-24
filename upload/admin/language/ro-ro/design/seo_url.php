@@ -7,21 +7,21 @@ $_['text_success']     = 'Succes: Ai modificat SEO URL!';
 $_['text_list']        = 'Listă SEO URL';
 $_['text_add']         = 'Adaugă SEO URL';
 $_['text_edit']        = 'Editare SEO URL';
-$_['text_filter']      = 'Filtru';
-$_['text_default']     = 'Implicit';
+$_['text_filter']      = 'Filter';
+$_['text_default']     = 'Default';
 
 // Column
 $_['column_query']     = 'Interogare';
-$_['column_keyword']   = 'Cuvânt Cheie';
-$_['column_store']     = 'Magazin';
+$_['column_keyword']   = 'Keyword';
+$_['column_store']     = 'Store';
 $_['column_language']  = 'Limbă';
-$_['column_action']    = 'Acțiune';
+$_['column_action']    = 'Action';
 
 // Entry
-$_['entry_query']        = 'Interogare';
-$_['entry_keyword']      = 'Cuvânt Cheie';
-$_['entry_store']        = 'Magazin';
-$_['entry_language']     = 'Limbă';
+$_['entry_query']        = 'Query';
+$_['entry_keyword']      = 'Keyword';
+$_['entry_store']        = 'Store';
+$_['entry_language']     = 'Language';
 
 // Error
 $_['error_permission']   = 'Atenție: Nu ai permisiunea de a modifica SEO URL!';
