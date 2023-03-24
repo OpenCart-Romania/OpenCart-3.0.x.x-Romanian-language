@@ -14,16 +14,16 @@ $_['column_title']         = 'Currency Title';
 $_['column_code']          = 'Code';
 $_['column_value']         = 'Value';
 $_['column_date_modified'] = 'Last Updated';
-$_['column_action']        = 'Action';
+$_['column_action']        = 'Acțiune';
 
 // Entry
 $_['entry_title']          = 'Currency Title';
 $_['entry_code']           = 'Code';
-$_['entry_value']          = 'Value';
+$_['entry_value']          = 'Valoare';
 $_['entry_symbol_left']    = 'Symbol Left';
 $_['entry_symbol_right']   = 'Symbol Right';
 $_['entry_decimal_place']  = 'Decimal Places';
-$_['entry_status']         = 'Status';
+$_['entry_status']         = 'Stare';
 
 // Help
 $_['help_code']            = 'Do not change if this is your default currency.';
