@@ -119,7 +119,7 @@ $_['entry_voucher']              = 'Voucher';
 $_['entry_reward']               = 'Reward';
 $_['entry_order_id']             = 'Order ID';
 $_['entry_total']                = 'Total';
-$_['entry_date_added']           = 'Date Added';
+$_['entry_date_added']           = 'Data Adăugării';
 $_['entry_date_modified']        = 'Date Modified';
 
 // Help
