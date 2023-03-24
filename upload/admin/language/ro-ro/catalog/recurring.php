@@ -13,7 +13,7 @@ $_['text_semi_month']       = 'Jumătate de lună';
 $_['text_month']            = 'Lună';
 $_['text_year']             = 'An';
 $_['text_recurring']        = '<p><i class="fa fa-info-circle"></i> Sumele recurente sunt calculate după frecvență și cicluri.</p><p>De exemplu, dacă vei utiliza frecvența de o "săptămână" și o ciclul de "2", atunci utilizatorul va fi facturat la fiecare 2 săptămâni.</p><p>Durata este de câte ori clientul va face o plată, setează 0, dacă vrei sa faca plăți până când acestea vor fi anulate.</p>';
-$_['text_profile']          = 'Recurring Profile';
+$_['text_profile']          = 'Profil Recurent';
 $_['text_trial']            = 'Profil de Probă';
 
 // Entry
@@ -31,7 +31,7 @@ $_['entry_status']          = 'Stare';
 $_['entry_sort_order']      = 'Ordine Sortare';
 
 // Column
-$_['column_name']           = 'Name';
+$_['column_name']           = 'Nume';
 $_['column_sort_order']     = 'Ordine de Sortare';
 $_['column_action']         = 'Acțiune';
 
