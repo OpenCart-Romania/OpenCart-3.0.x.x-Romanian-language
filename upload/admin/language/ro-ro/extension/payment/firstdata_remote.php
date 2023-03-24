@@ -4,11 +4,11 @@ $_['heading_title']					 = 'First Data EMEA Web Service API';
 
 // Text
 $_['text_firstdata_remote']			 = '<img src="view/image/payment/firstdata.png" alt="First Data" title="First Data" style="border: 1px solid #EEEEEE;" />';
-$_['text_extension']					 = 'Extensions';
+$_['text_extension']					 = 'Extensii';
 $_['text_success']					 = 'Success: You have modified First Data account details!';
 $_['text_edit']                      = 'Edit First Data EMEA Web Service API';
 $_['text_card_type']				 = 'Card type';
-$_['text_enabled']					 = 'Enabled';
+$_['text_enabled']					 = 'Activat';
 $_['text_merchant_id']				 = 'Store ID';
 $_['text_subaccount']				 = 'Subaccount';
 $_['text_user_id']					 = 'User ID';
@@ -34,12 +34,12 @@ $_['text_total_captured']			 = 'Total captured';
 $_['text_transactions']				 = 'Transactions';
 $_['text_column_amount']			 = 'Amount';
 $_['text_column_type']				 = 'Type';
-$_['text_column_date_added']		 = 'Created';
+$_['text_column_date_added']		 = 'Creat';
 $_['text_confirm_void']				 = 'Are you sure you want to void the payment?';
 $_['text_confirm_capture']			 = 'Are you sure you want to capture the payment?';
 $_['text_confirm_refund']			 = 'Are you sure you want to refund the payment?';
 $_['text_void']                      = 'Void';
-$_['text_payment']                   = 'Payment';
+$_['text_payment']                   = 'Plată';
 $_['text_refund']                    = "Refund";
 
 // Entry
@@ -49,11 +49,11 @@ $_['entry_certificate_key_pw']		 = 'Private key password';
 $_['entry_certificate_ca_path']		 = 'CA path';
 $_['entry_merchant_id']				 = 'Store ID';
 $_['entry_user_id']					 = 'User ID';
-$_['entry_password']				 = 'Password';
+$_['entry_password']				 = 'Parolă';
 $_['entry_total']					 = 'Total';
-$_['entry_sort_order']				 = 'Sort order';
+$_['entry_sort_order']				 = 'Ordine sortare';
 $_['entry_geo_zone']				 = 'Geo zone';
-$_['entry_status']					 = 'Status';
+$_['entry_status']					 = 'Stare';
 $_['entry_debug']					 = 'Debug logging';
 $_['entry_auto_settle']				 = 'Settlement type';
 $_['entry_status_success_settled']	 = 'Success - settled';
@@ -79,8 +79,8 @@ $_['tab_payment']					 = 'Payment settings';
 
 // Button
 $_['button_capture']				 = 'Capture';
-$_['button_refund']					 = 'Refund';
-$_['button_void']					 = 'Void';
+$_['button_refund']					 = 'Stornare';
+$_['button_void']					 = 'Nul';
 
 // Error
 $_['error_merchant_id']				 = 'Store ID is required';
