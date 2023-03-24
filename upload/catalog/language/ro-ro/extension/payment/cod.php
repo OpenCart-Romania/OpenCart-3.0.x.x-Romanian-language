@@ -1,3 +1,3 @@
 <?php
 // Text
-$_['text_title'] = 'Numerar La Livrare';
+$_['text_title'] = 'Cash On Delivery';
