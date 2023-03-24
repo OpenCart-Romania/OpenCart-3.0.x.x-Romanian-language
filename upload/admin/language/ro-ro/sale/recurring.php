@@ -3,13 +3,13 @@
 $_['heading_title']                        = 'Recurring Orders';
 
 // Text
-$_['text_success']                         = 'Success: You have modified recurring profiles!';
+$_['text_success']                         = 'Succes: Ai modificat profilurile recurente!';
 $_['text_list']                            = 'Listă Comenzi Recurente';
-$_['text_filter']                          = 'Filter';
+$_['text_filter']                          = 'Filtru';
 $_['text_recurring_detail']                = 'Detalii Recurente';
-$_['text_order_detail']                    = 'Order Details';
+$_['text_order_detail']                    = 'Detalii Comandă';
 $_['text_product_detail']                  = 'Detalii Produs';
-$_['text_transaction']                     = 'Transactions';
+$_['text_transaction']                     = 'Tranzacții';
 $_['text_order_recurring_id']              = 'Număr Comandă Recurentă';
 $_['text_reference']                       = 'Payment Reference';
 $_['text_recurring_name']                  = 'Recurring Profile';
@@ -17,7 +17,7 @@ $_['text_recurring_description']           = 'Description';
 $_['text_recurring_status']                = 'Stare Recurență';
 $_['text_payment_method']                  = 'Payment Method';
 $_['text_order_id']                        = 'Order ID';
-$_['text_customer']                        = 'Customer';
+$_['text_customer']                        = 'Client';
 $_['text_email']                           = 'Email';
 $_['text_date_added']                      = 'Date Added';
 $_['text_order_status']                    = 'Order Status';
@@ -50,14 +50,14 @@ $_['text_cancelled']                       = 'Plata recurentă a fost anulată';
 
 // Column
 $_['column_order_recurring_id']             = 'ID Recurență';
-$_['column_order_id']                       = 'Order ID';
+$_['column_order_id']                       = 'Număr Comandă';
 $_['column_reference']                      = 'Payment Reference';
 $_['column_customer']                       = 'Customer';
-$_['column_date_added']                     = 'Date Added';
-$_['column_status']                         = 'Status';
-$_['column_amount']                         = 'Amount';
+$_['column_date_added']                     = 'Data Adăugării';
+$_['column_status']                         = 'Stare';
+$_['column_amount']                         = 'Valoare';
 $_['column_type']                           = 'Type';
-$_['column_action']                         = 'Action';
+$_['column_action']                         = 'Acțiune';
 
 // Entry
 $_['entry_order_recurring_id']             = 'Recurring ID';
@@ -65,15 +65,15 @@ $_['entry_order_id']                       = 'Order ID';
 $_['entry_reference']                      = 'Payment Reference';
 $_['entry_customer']                       = 'Customer';
 $_['entry_date_added']                     = 'Date Added';
-$_['entry_status']                         = 'Status';
-$_['entry_type']                           = 'Type';
+$_['entry_status']                         = 'Stare';
+$_['entry_type']                           = 'Tip';
 $_['entry_action']                         = 'Action';
 $_['entry_email']                          = 'Email';
 $_['entry_description']                    = 'Descrierea Profilului Recurent';
 $_['entry_product']                        = 'Product';
-$_['entry_quantity']                       = 'Quantity';
+$_['entry_quantity']                       = 'Cantitate';
 $_['entry_amount']                         = 'Amount';
-$_['entry_recurring']                      = 'Recurring Profile';
+$_['entry_recurring']                      = 'Profil Recurent';
 $_['entry_payment_method']                 = 'Payment Method';
 $_['entry_cancel_payment']                 = 'Cancel Payment';
 
