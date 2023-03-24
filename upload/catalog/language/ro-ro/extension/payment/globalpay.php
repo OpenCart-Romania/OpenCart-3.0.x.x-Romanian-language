@@ -3,7 +3,7 @@
 $_['text_title']				= 'Credit / Debit card (Globalpay)';
 
 // Button
-$_['button_confirm']			= 'Confirma';
+$_['button_confirm']			= 'Confirm';
 
 // Entry
 $_['entry_cc_type']				= 'Card Type';
@@ -17,7 +17,7 @@ $_['text_hash_failed']			= 'Hash check failed. Do not try your payment again as 
 $_['text_link']					= 'Te rugăm click <a href="%s">aici</a> pentru a continua';
 $_['text_select_card']			= 'Please select your card type';
 $_['text_result']				= 'Auth result';
-$_['text_message']				= 'Mesaj';
+$_['text_message']				= 'Message';
 $_['text_cvn_result']			= 'CVN result';
 $_['text_avs_postcode']			= 'AVS postcode';
 $_['text_avs_address']			= 'AVS address';
