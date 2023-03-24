@@ -81,7 +81,7 @@ $_['entry_amount']              = 'Amount';
 $_['entry_points']              = 'Puncte';
 $_['entry_name']                = 'Customer Name';
 $_['entry_ip']                  = 'IP';
-$_['entry_date_added']          = 'Date Added';
+$_['entry_date_added']          = 'Data Adăugării';
 
 // Help
 $_['help_safe']                 = 'Setați cu "adevărat" pentru a evita ca acest client să fie prins de sistemul anti-fraudă';
