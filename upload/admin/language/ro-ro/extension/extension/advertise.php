@@ -6,8 +6,8 @@ $_['heading_title'] = "Advertising";
 
 // Columns
 $_['column_name']   = "Advertising Name";
-$_['column_status'] = "Stare";
-$_['column_action'] = "Acțiune";
+$_['column_status'] = "Status";
+$_['column_action'] = "Action";
 
 
 // Text
