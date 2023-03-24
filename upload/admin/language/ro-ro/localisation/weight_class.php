@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Clase de Greutate';
+$_['heading_title']    = 'Weight Classes';
 
 // Text
 $_['text_success']     = 'Success: You have modified weight classes!';
@@ -11,13 +11,13 @@ $_['text_edit']        = 'Edit Weight Class';
 // Column
 $_['column_title']     = 'Weight Title';
 $_['column_unit']      = 'Weight Unit';
-$_['column_value']     = 'Valoare';
-$_['column_action']    = 'Acțiune';
+$_['column_value']     = 'Value';
+$_['column_action']    = 'Action';
 
 // Entry
 $_['entry_title']      = 'Weight Title';
 $_['entry_unit']       = 'Weight Unit';
-$_['entry_value']      = 'Valoare';
+$_['entry_value']      = 'Value';
 
 // Help
 $_['help_value']       = 'Set to 1.00000 if this is your default weight.';
