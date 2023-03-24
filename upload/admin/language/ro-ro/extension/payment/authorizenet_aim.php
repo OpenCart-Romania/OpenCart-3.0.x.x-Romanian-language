@@ -3,7 +3,7 @@
 $_['heading_title']         = 'Authorize.Net (AIM)';
 
 // Text
-$_['text_extension']        = 'Extensions';
+$_['text_extension']        = 'Extensii';
 $_['text_success']          = 'Succes: Ai modificat detaliile contului Authorize.Net (AIM)!';
 $_['text_edit']             = 'Edit Authorize.Net (AIM)';
 $_['text_test']             = 'Test';
@@ -20,10 +20,10 @@ $_['entry_server']          = 'Transaction Server';
 $_['entry_mode']            = 'Transaction Mode';
 $_['entry_method']          = 'Transaction Method';
 $_['entry_total']           = 'Total';
-$_['entry_order_status']    = 'Order Status';
+$_['entry_order_status']    = 'Stare Comandă';
 $_['entry_geo_zone']        = 'Geo Zone';
-$_['entry_status']          = 'Status';
-$_['entry_sort_order']      = 'Sort Order';
+$_['entry_status']          = 'Stare';
+$_['entry_sort_order']      = 'Ordine Sortare';
 
 // Help
 $_['help_total']            = 'The checkout total the order must reach before this payment method becomes active.';
