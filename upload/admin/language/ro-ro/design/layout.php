@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']       = 'Layout-uri';
+$_['heading_title']       = 'Layouts';
 
 // Text
 $_['text_success']        = 'Succes: Ai modificat layout-urile!';
@@ -10,7 +10,7 @@ $_['text_edit']           = 'Editare Layout';
 $_['text_remove']         = 'Elimină';
 $_['text_route']          = 'Alege magazinul și rutele care vor fi utilizate cu acest layout';
 $_['text_module']         = 'Alege poziția modulelor';
-$_['text_default']        = 'Implicit';
+$_['text_default']        = 'Default';
 $_['text_content_top']    = 'Conținut in Partea de Sus';
 $_['text_content_bottom'] = 'Conținut în Partea de Jos';
 $_['text_column_left']    = 'Coloană Stânga';
@@ -18,10 +18,10 @@ $_['text_column_right']   = 'Coloană Dreapta';
 
 // Column
 $_['column_name']         = 'Nume Layout';
-$_['column_action']       = 'Acțiune';
+$_['column_action']       = 'Action';
 
 // Entry
-$_['entry_name']          = 'Nume Layout';
+$_['entry_name']          = 'Layout Name';
 $_['entry_store']         = 'Magazin';
 $_['entry_route']         = 'Rută';
 $_['entry_module']        = 'Modul';
