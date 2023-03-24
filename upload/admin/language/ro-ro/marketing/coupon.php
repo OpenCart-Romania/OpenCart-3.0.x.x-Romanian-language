@@ -1,44 +1,44 @@
 <?php
 // Heading
-$_['heading_title']       = 'Cupoane';
+$_['heading_title']       = 'Coupons';
 
 // Text
 $_['text_success']        = 'Success: You have modified coupons!';
 $_['text_list']           = 'Coupon List';
 $_['text_add']            = 'Add Coupon';
 $_['text_edit']           = 'Edit Coupon';
-$_['text_percent']        = 'Procent';
-$_['text_amount']         = 'Valoare Fixă';
+$_['text_percent']        = 'Percentage';
+$_['text_amount']         = 'Fixed Amount';
 $_['text_coupon']         = 'Coupon History';
 
 // Column
 $_['column_name']         = 'Coupon Name';
 $_['column_code']         = 'Code';
-$_['column_discount']     = 'Reducere';
-$_['column_date_start']   = 'Dată de Început';
-$_['column_date_end']     = 'Dată de Sfârșit';
-$_['column_status']       = 'Stare';
-$_['column_order_id']     = 'Număr Comandă';
-$_['column_customer']     = 'Client';
-$_['column_amount']       = 'Valoare';
-$_['column_date_added']   = 'Data Adăugării';
-$_['column_action']       = 'Acțiune';
+$_['column_discount']     = 'Discount';
+$_['column_date_start']   = 'Date Start';
+$_['column_date_end']     = 'Date End';
+$_['column_status']       = 'Status';
+$_['column_order_id']     = 'Order ID';
+$_['column_customer']     = 'Customer';
+$_['column_amount']       = 'Amount';
+$_['column_date_added']   = 'Date Added';
+$_['column_action']       = 'Action';
 
 // Entry
 $_['entry_name']          = 'Coupon Name';
 $_['entry_code']          = 'Code';
-$_['entry_type']          = 'Tip';
-$_['entry_discount']      = 'Reducere';
+$_['entry_type']          = 'Type';
+$_['entry_discount']      = 'Discount';
 $_['entry_logged']        = 'Customer Login';
 $_['entry_shipping']      = 'Free Shipping';
 $_['entry_total']         = 'Total Amount';
 $_['entry_category']      = 'Category';
-$_['entry_product']       = 'Produse';
-$_['entry_date_start']    = 'Dată de Început';
-$_['entry_date_end']      = 'Dată de Sfârșit';
+$_['entry_product']       = 'Products';
+$_['entry_date_start']    = 'Date Start';
+$_['entry_date_end']      = 'Date End';
 $_['entry_uses_total']    = 'Uses Per Coupon';
 $_['entry_uses_customer'] = 'Uses Per Customer';
-$_['entry_status']        = 'Stare';
+$_['entry_status']        = 'Status';
 
 // Help
 $_['help_code']           = 'The code the customer enters to get the discount.';
