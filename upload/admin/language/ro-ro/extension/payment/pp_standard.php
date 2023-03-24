@@ -3,7 +3,7 @@
 $_['heading_title']					 = 'PayPal Payments Standard';
 
 // Text
-$_['text_extension']				 = 'Extensions';
+$_['text_extension']				 = 'Extensii';
 $_['text_success']					 = 'Success: You have modified PayPal account details!';
 $_['text_edit']                      = 'Edit PayPal Payments Standard';
 $_['text_pp_standard']				 = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
@@ -27,8 +27,8 @@ $_['entry_refunded_status']			 = 'Refunded Status';
 $_['entry_reversed_status']			 = 'Reversed Status';
 $_['entry_voided_status']			 = 'Voided Status';
 $_['entry_geo_zone']				 = 'Geo Zone';
-$_['entry_status']					 = 'Status';
-$_['entry_sort_order']				 = 'Sort Order';
+$_['entry_status']					 = 'Stare';
+$_['entry_sort_order']				 = 'Ordine Sortare';
 
 // Tab
 $_['tab_general']					 = 'General';
@@ -40,5 +40,5 @@ $_['help_debug']			    	 = 'Logs additional information to the system log';
 $_['help_total']					 = 'The checkout total the order must reach before this payment method becomes active';
 
 // Error
-$_['error_permission']				 = 'Warning: You do not have permission to modify payment PayPal!';
+$_['error_permission']				 = 'Atenție: Nu ai permisiunea de a modifica plata PayPal!';
 $_['error_email']					 = 'E-Mail required!';
