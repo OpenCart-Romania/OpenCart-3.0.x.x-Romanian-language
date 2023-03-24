@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title']                = 'Activitate Recentă';
+$_['heading_title']                = 'Recent Activity';
 
 // Text
-$_['text_extension']               = 'Extensii';
+$_['text_extension']               = 'Extensions';
 $_['text_success']                 = 'Succes: Ai modificat dashboard-ul activitate!';
 $_['text_edit']                    = 'Editare Dashboard Activitate Recentă';
 $_['text_activity_register']       = '<a href="customer_id=%d">%s</a> registered a new account.';
@@ -24,9 +24,9 @@ $_['text_activity_affiliate_edit'] = '<a href="customer_id=%d">%s</a> updated th
 $_['text_activity_transaction']    = '<a href="customer_id=%d">%s</a> received commission from an new <a href="order_id=%d">order</a>.';
 
 // Entry
-$_['entry_status']                 = 'Stare';
-$_['entry_sort_order']             = 'Ordine de Sortare';
-$_['entry_width']                  = 'Lăţime';
+$_['entry_status']                 = 'Status';
+$_['entry_sort_order']             = 'Sort Order';
+$_['entry_width']                  = 'Width';
 
 // Error
 $_['error_permission']             = 'Atenție: Nu ai permisiunea de a modifica dashboard-ul activitate!';
