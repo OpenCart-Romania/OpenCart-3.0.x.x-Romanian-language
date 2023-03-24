@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Stări Returnare';
+$_['heading_title']    = 'Return Statuses';
 
 // Text
 $_['text_success']     = 'Success: You have modified return statuses!';
@@ -10,7 +10,7 @@ $_['text_edit']        = 'Edit Return Status';
 
 // Column
 $_['column_name']      = 'Return Status Name';
-$_['column_action']    = 'Acțiune';
+$_['column_action']    = 'Action';
 
 // Entry
 $_['entry_name']       = 'Return Status Name';
