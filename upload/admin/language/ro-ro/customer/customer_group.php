@@ -10,14 +10,14 @@ $_['text_edit']         = 'Editare Grup de Clienți';
 
 // Column
 $_['column_name']       = 'Numele Grupului de Clienți';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_sort_order'] = 'Ordine de Sortare';
+$_['column_action']     = 'Acțiune';
 
 // Entry
 $_['entry_name']        = 'Customer Group Name';
-$_['entry_description'] = 'Description';
+$_['entry_description'] = 'Descriere';
 $_['entry_approval']    = 'Aprobați Clienții Noi';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_sort_order']  = 'Ordine Sortare';
 
 // Help
 $_['help_approval']     = 'Clienții trebuie să fie aprobați de un administrator înainte de a se putea autentifica.';
