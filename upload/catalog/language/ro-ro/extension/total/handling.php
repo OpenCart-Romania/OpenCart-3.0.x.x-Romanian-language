@@ -1,3 +1,3 @@
 <?php
 // Text
-$_['text_handling'] = 'Comision Manipulare';
+$_['text_handling'] = 'Handling Fee';
