@@ -3,20 +3,20 @@
 $_['heading_title']    = 'Statistici Vânzări';
 
 // Text
-$_['text_extension']   = 'Extensions';
+$_['text_extension']   = 'Extensii';
 $_['text_success']     = 'Succes: Ai modificat dashboard-ul diagramă!';
 $_['text_edit']        = 'Editare Dashboard Diagramă';
-$_['text_order']       = 'Orders';
-$_['text_customer']    = 'Customers';
+$_['text_order']       = 'Comenzi';
+$_['text_customer']    = 'Clienți';
 $_['text_day']         = 'Today';
-$_['text_week']        = 'Week';
-$_['text_month']       = 'Month';
-$_['text_year']        = 'Year';
+$_['text_week']        = 'Săptămână';
+$_['text_month']       = 'Lună';
+$_['text_year']        = 'An';
 
 // Entry
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
-$_['entry_width']      = 'Width';
+$_['entry_status']     = 'Stare';
+$_['entry_sort_order'] = 'Ordine Sortare';
+$_['entry_width']      = 'Lăţime';
 
 // Error
 $_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica dashboard-ul diagramă!';
