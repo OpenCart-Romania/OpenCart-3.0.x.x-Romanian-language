@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title']    = 'Oameni Online';
+$_['heading_title']    = 'People Online';
 
 // Text
-$_['text_extension']   = 'Extensii';
+$_['text_extension']   = 'Extensions';
 $_['text_success']     = 'Succes: Ai modificat dashboard-ul online!';
 $_['text_edit']        = 'Editare Dashboard Online';
-$_['text_view']        = 'Vezi mai mult...';
+$_['text_view']        = 'View more...';
 
 // Entry
-$_['entry_status']     = 'Stare';
-$_['entry_sort_order'] = 'Ordine de Sortare';
-$_['entry_width']      = 'Lăţime';
+$_['entry_status']     = 'Status';
+$_['entry_sort_order'] = 'Sort Order';
+$_['entry_width']      = 'Width';
 
 // Error
 $_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica dashboard-ul online!';
