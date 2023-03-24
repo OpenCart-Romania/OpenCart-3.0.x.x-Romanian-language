@@ -10,8 +10,8 @@ $_['text_list']        = 'Module List';
 
 // Column
 $_['column_name']      = 'Module Name';
-$_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+$_['column_status']    = 'Stare';
+$_['column_action']    = 'Acțiune';
 
 // Entry
 $_['entry_code']       = 'Module';
