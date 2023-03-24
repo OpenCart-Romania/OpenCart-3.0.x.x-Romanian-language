@@ -5,4 +5,4 @@ $_['text_installation']  = 'Pre-Instalare';
 $_['text_configuration'] = 'Configurație';
 $_['text_upgrade']       = 'Upgrade';
 $_['text_finished']      = 'Finalizat';
-$_['text_language']      = 'Limbă';
+$_['text_language']      = 'Language';
