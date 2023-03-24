@@ -59,7 +59,7 @@ $_['entry_setup_confirmation']              = 'Setup Confirmation';
 $_['entry_size']                            = 'Size Option';
 $_['entry_size_system']                     = 'Size System';
 $_['entry_size_type']                       = 'Size Type';
-$_['entry_status']                          = 'Status';
+$_['entry_status']                          = 'Stare';
 
 // Texts
 $_['text_access_token']                     = 'Access token';
@@ -112,25 +112,25 @@ $_['text_cron_settings']                    = 'CRON Settings';
 $_['text_data_quality_issues']              = 'Data Quality Issues';
 $_['text_debug_log']                        = 'Debug Logging';
 $_['text_destination_status']               = 'Status';
-$_['text_disabled']                         = 'Disabled';
+$_['text_disabled']                         = 'Dezactivat';
 $_['text_disapproved']                      = 'Respins';
 $_['text_disconnect_reminder']              = 'Chiar dacă decizi să deconectezi această extensie OpenCart, vei avea în continuare acces la contul Merchant Center. Nu va fi șters. Deconectarea va face următoarele:<ul><li>Dezactivează această extensie</li><li>Elimină toate campaniile active</li><li>Șterge toate feed-urile de date din contul Google Merchant Center conectat</li><li>Elimină toate link-urile dintre contul Google Merchant Center existent și OpenCart.</li></ul>';
 $_['text_disconnecting_please_wait']        = 'Disconnecting...';
 $_['text_does_not_apply']                   = '-- Does not apply --';
 $_['text_download_debug_log']               = 'Download Debug Log';
 $_['text_edit_target']                      = 'Editare Campanie: %s';
-$_['text_enabled']                          = 'Enabled';
+$_['text_enabled']                          = 'Activat';
 $_['text_error']                            = 'Error';
 $_['text_existing_merchant']                = 'Use my own Google Merchant Center account (In case you want to use your active Google Merchant Center account.)';
 $_['text_extension_settings']               = 'Setări Extensie';
 $_['text_extensions']                       = 'Extensions';
-$_['text_filter']                           = 'Filter';
+$_['text_filter']                           = 'Filtru';
 $_['text_gender_female']                    = 'Female';
 $_['text_gender_male']                      = 'Male';
 $_['text_gender_unisex']                    = 'Unisex';
 $_['text_google_expiration_date']           = 'Google Expiration Date';
 $_['text_heading_merchant_center_account']  = 'Merchant Center Account';
-$_['text_home']                             = 'Home';
+$_['text_home']                             = 'Acasă';
 $_['text_image']                            = 'Image';
 $_['text_impressions']                      = 'Impressions';
 $_['text_info_popup_product']               = 'The information requested here is required to properly list your product on Google Shopping. <a href="https://support.google.com/merchants/answer/7052112?hl=en&ref_topic=6324338" target="_blank">Click here</a> for more information.';
@@ -157,7 +157,7 @@ $_['text_merchant_intro']                   = 'Please select the account you wis
 $_['text_merchant_website_claim']           = '<p>Upon clicking <strong>Proceed</strong>, you will be asked to authorize OpenCart to manage your listing and account in Google Shopping. Your website URL will be claimed by the selected Merchant Center account.</p>';
 $_['text_na']                               = '&ndash;';
 $_['text_new_merchant']                     = 'Use an account managed by OpenCart (For beginners who do not have a Google Merchant Center account.)';
-$_['text_no']                               = 'No';
+$_['text_no']                               = 'Nu';
 $_['text_no_results']                       = 'No results found!';
 $_['text_no_targets']                       = 'No campaigns found! Click the button below to add your first campaign.';
 $_['text_panel_connect']                    = 'Step 1 of 5: Connect the Google Shopping Extension';
@@ -235,7 +235,7 @@ $_['text_video_tutorial_url_advertise']     = 'https://youtu.be/ZN7zz8raoVM?t=18
 $_['text_video_tutorial_url_install']       = 'https://www.youtube.com/watch?v=AvkBLWAUojI';
 $_['text_video_tutorial_url_setup']         = 'https://www.youtube.com/watch?v=ZN7zz8raoVM';
 $_['text_view_issues']                      = 'Vezi Probleme';
-$_['text_yes']                              = 'Yes';
+$_['text_yes']                              = 'Da';
 
 // Placeholders
 $_['placeholder_access_token']              = 'Paste your access token here';
@@ -258,7 +258,7 @@ $_['button_mapping']                        = 'Category Mapping';
 $_['button_proceed']                        = 'Proceed';
 $_['button_product_edit']                   = 'Editare Câmpuri Google';
 $_['button_product_set']                    = 'Set Google Fields';
-$_['button_save']                           = 'Save';
+$_['button_save']                           = 'Salvează';
 $_['button_save_future']                    = 'Save &amp; Do Nothing';
 $_['button_save_modify']                    = 'Save &amp; Modify Current Products';
 $_['button_select_campaigns']               = 'Select Campaigns';
