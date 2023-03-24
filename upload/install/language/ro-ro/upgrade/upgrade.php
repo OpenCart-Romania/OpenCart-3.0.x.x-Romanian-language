@@ -17,4 +17,4 @@ $_['text_progress']   = 'Patch-ul %s a fost aplicat (%s of %s)';
 $_['text_success']    = 'Felicitări! Ai actualizat cu succes instalarea OpenCart!';
 
 // Entry
-$_['entry_progress']  = 'Progress';
+$_['entry_progress']  = 'Progres';
