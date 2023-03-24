@@ -1,8 +1,8 @@
 <?php
 
-$_['breadcrumb_cart'] = 'Coș de Cumpărături';
-$_['breadcrumb_payment'] = 'Plată';
-$_['breadcrumb_shipping'] = 'Livrare';
+$_['breadcrumb_cart'] = 'Shopping Cart';
+$_['breadcrumb_payment'] = 'Payment';
+$_['breadcrumb_shipping'] = 'Shipping';
 $_['breadcrumb_summary'] = 'Rezumat';
 $_['error_constraint_amount_not_set'] = 'The order failed due to a technical error, please select another payment method or contact our support.';
 $_['error_constraint_payment_method_not_allowed'] = 'The selected payment method is not available for this transaction. Please select another one or add a new payment method to the wallet widget.';
@@ -25,19 +25,19 @@ $_['error_shipping_methods'] = 'There was an error retrieving your address from 
 $_['heading_address'] = 'Please choose a delivery address';
 $_['heading_confirm'] = 'Order summary';
 $_['heading_payment'] = 'Please select a payment method';
-$_['heading_title'] = 'Amazon Pay și Conectează-te cu Amazon';
+$_['heading_title'] = 'Amazon Pay and Login with Amazon';
 $_['text_amount_converted'] = 'Warning: The total paid amount will be converted into <strong>%s</strong> at a conversion rate of <strong>%s</strong>. The expected transaction amount will be <strong>%s</strong>.';
-$_['text_back'] = 'Înapoi';
+$_['text_back'] = 'Back';
 $_['text_cart'] = 'Cart';
-$_['text_confirm'] = 'Confirma';
-$_['text_continue'] = 'Continuă';
+$_['text_confirm'] = 'Confirm';
+$_['text_continue'] = 'Continue';
 $_['text_continue_checkout'] = 'Continue Checkout Here';
 $_['text_coupon'] = 'Coupon';
 $_['text_enter_coupon'] = 'Enter your coupon code here.';
-$_['text_lpa'] = 'Amazon Pay și Conectează-te cu Amazon';
+$_['text_lpa'] = 'Amazon Pay and Login with Amazon';
 $_['text_must_apply_coupon'] = 'Please apply your coupon.';
 $_['text_payment_success'] = 'Your order was successfully placed. Order details are below';
-$_['text_success_title'] = 'Comanda ta a fost plasată!';
+$_['text_success_title'] = 'Your order has been placed!';
 $_['text_tax_other'] = 'Taxes / Other handling fees';
 $_['error_failure_mfa'] = 'There was a problem with your payment. Your order hasn\'t been placed, and you haven\'t been charged.';
 $_['error_unexpected_network_error'] = 'Unexpected network error';
