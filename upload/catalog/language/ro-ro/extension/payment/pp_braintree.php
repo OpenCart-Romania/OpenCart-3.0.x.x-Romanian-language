@@ -4,11 +4,11 @@ $_['text_title']						= 'Cards or PayPal';
 $_['text_express_title']      			= 'Confirmare comandă';
 $_['text_vaulted_payment_method_name']	= '%s ending in %s, expires %s';
 $_['text_remember']						= 'Save for next time?';
-$_['text_remove']						= 'Elimină';
+$_['text_remove']						= 'Remove';
 $_['text_remove_confirm']				= 'Are you sure you want to remove the saved payment method?';
-$_['text_month']						= 'Lună';
-$_['text_year']							= 'An';
-$_['text_loading']						= 'Încărcare...';
+$_['text_month']						= 'Month';
+$_['text_year']							= 'Year';
+$_['text_loading']						= 'Loading...';
 $_['text_new_method']					= 'New payment method';
 $_['text_saved_method']					= 'Choose a saved payment method';
 $_['text_paypal']						= 'PayPal';
@@ -16,7 +16,7 @@ $_['text_pay_by_paypal']				= 'Pay by PayPal';
 $_['text_method_removed']				= 'Payment method has been removed';
 $_['text_method_not_removed']			= 'Unable to remove payment method';
 $_['text_authentication']				= 'Authentication';
-$_['text_cart']               			= 'Coș de Cumpărături';
+$_['text_cart']               			= 'Shopping Cart';
 $_['text_shipping_updated']   			= 'Shipping service updated';
 
 // Entry
@@ -40,9 +40,9 @@ $_['error_alert_failed_token']			= 'Our payment provider did not recognise the c
 $_['error_alert_failed_network']		= 'A network error occurred, please try again';
 $_['error_alert_unknown']				= 'An unknown error occurred, if the issue continued please contact support';
 $_['error_unavailable'] 	  			= 'Please use the full checkout with this order';
-$_['error_no_shipping']    				= 'Atenție: Nu sunt disponibile opțiuni de livrare.';
+$_['error_no_shipping']    				= 'Warning: No Shipping options are available.';
 
 // Button
 $_['button_confirm']					= 'Pay Now';
-$_['button_express_confirm']  			= 'Confirma';
+$_['button_express_confirm']  			= 'Confirm';
 $_['button_express_shipping'] 			= 'Update shipping';
