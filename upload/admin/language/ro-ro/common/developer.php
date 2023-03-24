@@ -10,7 +10,7 @@ $_['text_cache']       = 'Succes: Ai curățat cache-ul %s!';
 
 // Column
 $_['column_component'] = 'Componentă';
-$_['column_action']    = 'Acțiune';
+$_['column_action']    = 'Action';
 
 // Entry
 $_['entry_theme']      = 'Temă';
