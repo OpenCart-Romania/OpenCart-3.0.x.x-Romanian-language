@@ -8,10 +8,10 @@ $_['text_list']         = 'Payment List';
 
 
 // Column
-$_['column_name']       = 'Metodă de Plată';
-$_['column_status']     = 'Stare';
-$_['column_sort_order'] = 'Ordine de Sortare';
-$_['column_action']     = 'Acțiune';
+$_['column_name']       = 'Payment Method';
+$_['column_status']     = 'Status';
+$_['column_sort_order'] = 'Sort Order';
+$_['column_action']     = 'Action';
 
 // Error
 $_['error_permission']  = 'Atenție: Nu ai permisiunea de a modifica plățile!';
