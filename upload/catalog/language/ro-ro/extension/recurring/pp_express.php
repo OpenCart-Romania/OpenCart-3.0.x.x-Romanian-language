@@ -8,4 +8,4 @@ $_['button_cancel']       = 'Anulează Plata Recurentă';
 
 // Error
 $_['error_not_cancelled'] = 'Error: %s';
-$_['error_not_found']     = 'Could not cancel recurring profile';
+$_['error_not_found']     = 'Nu s-a putut anula profilul recurent';
