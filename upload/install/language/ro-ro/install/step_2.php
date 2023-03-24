@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']          = 'Pre-Instalare';
+$_['heading_title']          = 'Pre-Installation';
 
 // Text
 $_['text_step_2']            = 'Verificare că serverul este configurat corect';
@@ -12,12 +12,12 @@ $_['text_install_directory'] = '5. Te rog asigură-te că ai setat permisiunile 
 $_['text_setting']           = 'Setări PHP';
 $_['text_current']           = 'Setări Curente';
 $_['text_required']          = 'Setări Necesare';
-$_['text_extension']         = 'Setări Extensie';
+$_['text_extension']         = 'Extension Settings';
 $_['text_db']                = 'Bază de Date';
 $_['text_db_driver']         = 'Driver bază de date';
 $_['text_file']              = 'Fişiere';
 $_['text_directory']         = 'Directoare';
-$_['text_status']            = 'Stare';
+$_['text_status']            = 'Status';
 $_['text_version']           = 'Versiune PHP';
 $_['text_global']            = 'Register Globals';
 $_['text_magic']             = 'Magic Quotes GPC';
@@ -29,15 +29,15 @@ $_['text_openssl']           = 'OpenSSL';
 $_['text_zlib']              = 'ZLIB';
 $_['text_zip']               = 'ZIP';
 $_['text_mbstring']          = 'mbstring';
-$_['text_on']                = 'Pornit';
-$_['text_off']               = 'Oprit';
+$_['text_on']                = 'On';
+$_['text_off']               = 'Off';
 $_['text_writable']          = 'Editabil';
 $_['text_unwritable']        = 'Needitabil';
 //$_['text_missing']           = 'Missing';
 
 // Error
 $_['error_missing']          = 'Lipsește';
-$_['error_unwritable']       = 'Needitabil';
+$_['error_unwritable']       = 'Unwritable';
 $_['error_version']          = 'Atenţie: Trebuie să utilizaţi PHP 7.3 sau mai sus pentru ca OpenCart să funcţioneze!';
 $_['error_file_upload']      = 'Atenție: file_uploads trebuie să fie activat!';
 $_['error_session']          = 'Atenţie: OpenCart nu va funcţiona cu session.auto_start activat!';
