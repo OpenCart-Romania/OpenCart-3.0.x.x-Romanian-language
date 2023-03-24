@@ -3,11 +3,11 @@
 $_['heading_title']					 = 'Globalpay Remote';
 
 // Text
-$_['text_extension']				 = 'Extensions';
+$_['text_extension']				 = 'Extensii';
 $_['text_success']					 = 'Success: You have modified Globalpay account details!';
 $_['text_edit']                      = 'Edit Globalpay Remote';
 $_['text_card_type']				 = 'Card type';
-$_['text_enabled']					 = 'Enabled';
+$_['text_enabled']					 = 'Activat';
 $_['text_use_default']				 = 'Use default';
 $_['text_merchant_id']				 = 'Merchant ID';
 $_['text_subaccount']				 = 'Sub Account';
@@ -40,22 +40,22 @@ $_['text_confirm_capture']			 = 'Are you sure you want to capture the payment?';
 $_['text_confirm_rebate']			 = 'Are you sure you want to rebate the payment?';
 $_['text_globalpay_remote']			 = '<a target="_blank" href="https://resourcecentre.globaliris.com/getting-started.php?id=OpenCart"><img src="view/image/payment/globalpay.png" alt="Globalpay" title="Globalpay" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_void']                      = 'Void';
-$_['text_payment']                   = 'Payment';
+$_['text_payment']                   = 'Plată';
 $_['text_rebate']                    = 'Rebate';
 
 // Column
 $_['text_column_amount']			 = 'Amount';
 $_['text_column_type']				 = 'Type';
-$_['text_column_date_added']		 = 'Created';
+$_['text_column_date_added']		 = 'Creat';
 
 // Entry
 $_['entry_merchant_id']				 = 'Merchant ID';
 $_['entry_secret']					 = 'Shared secret';
 $_['entry_rebate_password']			 = 'Rebate password';
 $_['entry_total']					 = 'Total';
-$_['entry_sort_order']				 = 'Sort order';
+$_['entry_sort_order']				 = 'Ordine sortare';
 $_['entry_geo_zone']				 = 'Geo zone';
-$_['entry_status']					 = 'Status';
+$_['entry_status']					 = 'Stare';
 $_['entry_debug']					 = 'Debug logging';
 $_['entry_auto_settle']				 = 'Settlement type';
 $_['entry_tss_check']				 = 'TSS checks';
@@ -81,14 +81,14 @@ $_['help_card_data_status']			 = 'Logs last 4 cards digits, expire, name, type a
 
 // Tab
 $_['tab_api']					     = 'API Details';
-$_['tab_account']				     = 'Accounts';
+$_['tab_account']				     = 'Conturi';
 $_['tab_order_status']				 = 'Order Status';
 $_['tab_payment']					 = 'Payment Settings';
 
 // Button
 $_['button_capture']				 = 'Capture';
 $_['button_rebate']					 = 'Rebate / refund';
-$_['button_void']					 = 'Void';
+$_['button_void']					 = 'Nul';
 
 // Error
 $_['error_merchant_id']				 = 'Merchant ID is required';
