@@ -3,7 +3,7 @@
 $_['heading_title']					 = 'PayPal Pro iFrame';
 
 // Text
-$_['text_extension']                 = 'Extensions';
+$_['text_extension']                 = 'Extensii';
 $_['text_success']					 = 'Success: You have modified PayPal Pro iFrame account details!';
 $_['text_edit']                      = 'Edit PayPal Pro iFrame';
 $_['text_pp_pro_iframe']			 = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
@@ -44,7 +44,7 @@ $_['text_gift_msg']					 = 'Gift message';
 $_['text_gift_receipt']				 = 'Gift receipt';
 $_['text_gift_wrap_name']			 = 'Gift wrap name';
 $_['text_gift_wrap_amt']			 = 'Gift wrap amount';
-$_['text_buyer_email_market']		 = 'Buyer marketing email';
+$_['text_buyer_email_market']		 = 'Email marketing cumpărător';
 $_['text_survey_question']			 = 'Survey question';
 $_['text_survey_chosen']			 = 'Survey choice selected';
 $_['text_receiver_business']		 = 'Receiver business';
@@ -111,12 +111,12 @@ $_['help_debug']					 = 'Logs additional information.';
 
 // Column
 $_['column_trans_id']				 = 'Transaction ID';
-$_['column_amount']					 = 'Amount';
+$_['column_amount']					 = 'Valoare';
 $_['column_type']					 = 'Payment type';
-$_['column_status']					 = 'Status';
+$_['column_status']					 = 'Stare';
 $_['column_pending_reason']			 = 'Pending reason';
 $_['column_date_added']				 = 'Created';
-$_['column_action']					 = 'Action';
+$_['column_action']					 = 'Acțiune';
 
 // Tab
 $_['tab_settings']					 = 'Settings';
@@ -157,13 +157,13 @@ $_['help_test']						 = 'Use the live or testing (sandbox) gateway server to pro
 $_['help_total']					 = 'The checkout total the order must reach before this payment method becomes active';
 
 // Button
-$_['button_refund']					 = 'Refund';
-$_['button_void']					 = 'Void';
+$_['button_refund']					 = 'Stornare';
+$_['button_void']					 = 'Nul';
 $_['button_capture']				 = 'Capture';
 $_['button_reauthorise']			 = 'Reauthorise';
 
 // Error
-$_['error_permission']				 = 'Warning: You do not have permission to modify payment PayPal Website Payment Pro iFrame (UK)!';
+$_['error_permission']				 = 'Atenție: Nu ai permisiunea de a modifica plata PayPal Website Payment Pro iFrame (UK)!';
 $_['error_sig']						 = 'Signature Required!';
 $_['error_user']					 = 'User Required!';
 $_['error_password']				 = 'Password Required!';
