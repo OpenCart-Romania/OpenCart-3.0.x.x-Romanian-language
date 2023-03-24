@@ -3,7 +3,7 @@
 $_['heading_title']			 = 'BluePay Hosted Form';
 
 // Text
-$_['text_extension']		 = 'Extensions';
+$_['text_extension']		 = 'Extensii';
 $_['text_success']			 = 'Succes: Ai modificat detaliile contului BluePay Hosted Form!';
 $_['text_edit']				 = 'Edit BluePay Hosted Form';
 $_['text_bluepay_hosted']	 = '<a href="http://www.bluepay.com/preferred-partner/opencart" target="_blank"><img src="view/image/payment/bluepay.jpg" alt="BluePay Hosted Form" title="BluePay Hosted Form" style="border: 1px solid #EEEEEE;" /></a>';
@@ -30,7 +30,7 @@ $_['text_column_date_added'] = 'Date Added';
 $_['text_confirm_void']		 = 'Are you sure you want to void the payment?';
 $_['text_confirm_release']	 = 'Are you sure you want to release the payment?';
 $_['text_confirm_rebate']	 = 'Are you sure you want to rebate the payment?';
-$_['text_payment']           = "Payment";
+$_['text_payment']           = "Plată";
 $_['text_rebate']            = "Rebate";
 
 // Entry
@@ -42,10 +42,10 @@ $_['entry_transaction']		 = 'Transaction Method';
 $_['entry_card_amex']		 = 'Amex';
 $_['entry_card_discover']	 = 'Discover';
 $_['entry_total']			 = 'Total';
-$_['entry_order_status']	 = 'Order Status';
+$_['entry_order_status']	 = 'Stare Comandă';
 $_['entry_geo_zone']		 = 'Geo Zone';
-$_['entry_status']			 = 'Status';
-$_['entry_sort_order']		 = 'Sort Order';
+$_['entry_status']			 = 'Stare';
+$_['entry_sort_order']		 = 'Ordine Sortare';
 $_['entry_debug']			 = 'Debug logging';
 
 // Help
