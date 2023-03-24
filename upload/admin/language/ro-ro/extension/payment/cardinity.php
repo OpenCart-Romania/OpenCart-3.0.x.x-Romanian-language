@@ -3,7 +3,7 @@
 $_['heading_title']			= 'Cardinity';
 
 // Text
-$_['text_extension']		= 'Extensions';
+$_['text_extension']		= 'Extensii';
 $_['text_success']			= 'Succes: Ai modificat modulul de plată Cardinity!';
 $_['text_edit']             = 'Edit Cardinity';
 $_['text_cardinity']		= '<a href="http://cardinity.com/?crdp=opencart" target="_blank"><img src="view/image/payment/cardinity.png" alt="Cardinity" title="Cardinity" style="border: 1px solid #EEEEEE;" /></a>';
@@ -22,17 +22,17 @@ $_['text_description']	    = 'Description';
 $_['column_refund']			= 'Refund';
 $_['column_date']			= 'Date';
 $_['column_refund_history'] = 'Refund History';
-$_['column_action']			= 'Action';
-$_['column_status']			= 'Status';
-$_['column_amount']			= 'Amount';
+$_['column_action']			= 'Acțiune';
+$_['column_status']			= 'Stare';
+$_['column_amount']			= 'Valoare';
 $_['column_description']	= 'Description';
 
 // Entry
 $_['entry_total']			= 'Total';
-$_['entry_order_status']	= 'Order Status';
+$_['entry_order_status']	= 'Stare Comandă';
 $_['entry_geo_zone']		= 'Geo Zone';
-$_['entry_status']			= 'Status';
-$_['entry_sort_order']		= 'Sort Order';
+$_['entry_status']			= 'Stare';
+$_['entry_sort_order']		= 'Ordine Sortare';
 $_['entry_key']				= 'Key';
 $_['entry_secret']			= 'Secret';
 $_['entry_debug']			= 'Debug';
@@ -42,7 +42,7 @@ $_['help_debug']			= 'Enabling debug will write sensitive data to a log file. Yo
 $_['help_total']			= 'The checkout total the order must reach before this payment method becomes active.';
 
 // Button
-$_['button_refund']			= 'Refund';
+$_['button_refund']			= 'Stornare';
 
 // Error
 $_['error_key']				= 'Key Required!';
@@ -52,4 +52,4 @@ $_['error_php_version']		= 'Versiunea minimă a PHP 5.4.0 este necesară!';
 $_['error_permission']		= 'Atenție: Nu ai permisiunea de a modifica plata Cardinity!';
 $_['error_connection']		= 'There was a problem establishing a connection to the Cardinity API. Please check your Key and Secret settings.';
 $_['error_transaction']     = 'Unable to find transaction for this order.';
-$_['error_warning']			= 'Warning: Please check the form carefully for errors!';
+$_['error_warning']			= 'Atenție: Te rugăm să verifici cu atenție formularul pentru erori!';
