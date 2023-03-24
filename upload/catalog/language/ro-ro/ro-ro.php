@@ -1,55 +1,55 @@
 <?php
 // Locale
-$_['code']                  = 'en';
+$_['code']                  = 'ro';
 $_['direction']             = 'ltr';
-$_['date_format_short']     = 'd/m/Y';
-$_['date_format_long']      = 'l dS F Y';
-$_['time_format']           = 'h:i:s A';
-$_['datetime_format']       = 'd/m/Y H:i:s';
+$_['date_format_short']     = 'd.m.Y';
+$_['date_format_long']      = 'l, d F Y';
+$_['time_format']           = 'H:i:s';
+$_['datetime_format']       = 'd.m.Y, H:i:s';
 $_['decimal_point']         = '.';
 $_['thousand_point']        = ',';
 
 // Text
 $_['text_home']             = '<i class="fa fa-home"></i>';
-$_['text_yes']              = 'Yes';
-$_['text_no']               = 'No';
-$_['text_none']             = ' --- None --- ';
-$_['text_select']           = ' --- Please Select --- ';
-$_['text_all_zones']        = 'All Zones';
-$_['text_pagination']       = 'Showing %d to %d of %d (%d Pages)';
-$_['text_loading']          = 'Loading...';
-$_['text_no_results']       = 'No results!';
+$_['text_yes']              = 'Da';
+$_['text_no']               = 'Nu';
+$_['text_none']             = ' --- Nimic --- ';
+$_['text_select']           = ' --- Te Rog Selectează --- ';
+$_['text_all_zones']        = 'Toate Zonele';
+$_['text_pagination']       = 'Se afișează de la %d la %d din %d (%d Pagini)';
+$_['text_loading']          = 'Încărcare...';
+$_['text_no_results']       = 'Fără rezultate!';
 
 // Buttons
-$_['button_address_add']    = 'Add Address';
-$_['button_back']           = 'Back';
-$_['button_continue']       = 'Continue';
+$_['button_address_add']    = 'Adaugă Adresă';
+$_['button_back']           = 'Înapoi';
+$_['button_continue']       = 'Continuă';
 $_['button_cart']           = 'Adaugă în Coș';
-$_['button_cancel']         = 'Cancel';
+$_['button_cancel']         = 'Anulează';
 $_['button_compare']        = 'Compară acest Produs';
 $_['button_wishlist']       = 'Adaugă la Lista de Dorințe';
 $_['button_checkout']       = 'Checkout';
 $_['button_confirm']        = 'Confirmare Comandă';
 $_['button_coupon']         = 'Aplică Cupon';
-$_['button_delete']         = 'Delete';
-$_['button_download']       = 'Download';
-$_['button_edit']           = 'Edit';
+$_['button_delete']         = 'Şterge';
+$_['button_download']       = 'Descărcare';
+$_['button_edit']           = 'Editare';
 $_['button_filter']         = 'Îmbunătățește Căutarea';
 $_['button_new_address']    = 'Adresă Nouă';
 $_['button_change_address'] = 'Schimbă Adresa';
 $_['button_reviews']        = 'Reviews';
 $_['button_write']          = 'Scrie Recenzie';
-$_['button_login']          = 'Login';
+$_['button_login']          = 'Conectare';
 $_['button_update']         = 'Update';
 $_['button_remove']         = 'Remove';
 $_['button_reorder']        = 'Comandă din nou';
-$_['button_return']         = 'Return';
+$_['button_return']         = 'Returnare';
 $_['button_shopping']       = 'Continuă Cumpărăturile';
-$_['button_search']         = 'Search';
+$_['button_search']         = 'Căutare';
 $_['button_shipping']       = 'Aplică Livrare';
-$_['button_submit']         = 'Submit';
+$_['button_submit']         = 'Transmite';
 $_['button_guest']          = 'Guest Checkout';
-$_['button_view']           = 'View';
+$_['button_view']           = 'Vezi';
 $_['button_voucher']        = 'Aplică Voucher Cadou';
 $_['button_upload']         = 'Upload File';
 $_['button_reward']         = 'Aplică Puncte';
@@ -59,16 +59,16 @@ $_['button_grid']           = 'Grilă';
 $_['button_map']            = 'Vezi Google Map';
 
 // Error
-$_['error_exception']       = 'Error Code(%s): %s in %s on line %s';
-$_['error_upload_1']        = 'Warning: The uploaded file exceeds the upload_max_filesize directive in php.ini!';
-$_['error_upload_2']        = 'Warning: The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form!';
-$_['error_upload_3']        = 'Warning: The uploaded file was only partially uploaded!';
-$_['error_upload_4']        = 'Warning: No file was uploaded!';
-$_['error_upload_6']        = 'Warning: Missing a temporary folder!';
-$_['error_upload_7']        = 'Warning: Failed to write file to disk!';
-$_['error_upload_8']        = 'Warning: File upload stopped by extension!';
-$_['error_upload_999']      = 'Warning: No error code available!';
-$_['error_curl']            = 'CURL: Error Code(%s): %s';
+$_['error_exception']       = 'Cod de Eroare(%s): %s în %s pe linia %s';
+$_['error_upload_1']        = 'Atenție: Fișierul încărcat depășește directiva upload_max_filesize din php.ini!';
+$_['error_upload_2']        = 'Atenție: Fișierul încărcat depășește directiva MAX_FILE_SIZE ce a fost specificată în formularul HTML!';
+$_['error_upload_3']        = 'Atenție: Fișierul încărcat a fost doar parțial încărcat!';
+$_['error_upload_4']        = 'Atenție: Niciun fișier nu a fost încărcat!';
+$_['error_upload_6']        = 'Atenție: Lipsește un director temporar!';
+$_['error_upload_7']        = 'Atenție: A eșuat să scrie fișierul pe disc!';
+$_['error_upload_8']        = 'Atenție: Încărcarea fișierului a fost oprită de către extensie!';
+$_['error_upload_999']      = 'Atenție: Nici un cod de eroare disponibil!';
+$_['error_curl']            = 'CURL: Cod de Eroare(%s): %s';
 
 /* When doing translations only include the matching language code */
 
@@ -100,7 +100,7 @@ $_['error_curl']            = 'CURL: Error Code(%s): %s';
 //$_['datepicker']            = 'el';
 //$_['datepicker']            = 'en-au';
 //$_['datepicker']            = 'en-ca';
-$_['datepicker']            = 'en-gb';
+$_['datepicker']            = 'ro';
 //$_['datepicker']            = 'en-ie';
 //$_['datepicker']            = 'en-nz';
 //$_['datepicker']            = 'eo';
