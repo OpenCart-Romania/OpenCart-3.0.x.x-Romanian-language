@@ -18,15 +18,15 @@ $_['column_date_added'] = 'Data Adăugării';
 $_['column_action']     = 'Acțiune';
 
 // Entry
-$_['entry_product']     = 'Product';
-$_['entry_author']      = 'Author';
-$_['entry_rating']      = 'Rating';
+$_['entry_product']     = 'Produs';
+$_['entry_author']      = 'Autor';
+$_['entry_rating']      = 'Evaluare';
 $_['entry_status']      = 'Stare';
 $_['entry_text']        = 'Text';
-$_['entry_date_added']  = 'Date Added';
+$_['entry_date_added']  = 'Data Adăugării';
 
 // Help
-$_['help_product']      = '(Autocomplete)';
+$_['help_product']      = '(Autocompletare)';
 
 // Error
 $_['error_permission']  = 'Atenție: Nu ai permisiunea de a modifica recenziile!';
