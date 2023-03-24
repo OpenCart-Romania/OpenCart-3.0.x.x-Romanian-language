@@ -7,7 +7,7 @@ $_['tab_register']          = 'Înregistrează-te';
 $_['tab_settings']          = 'Settings';
 
 // Text
-$_['text_extension']        = 'Extensions';
+$_['text_extension']        = 'Extensii';
 $_['text_success']          = 'Success: You have modified Pilibaba payment module!';
 $_['text_edit']             = 'Edit Pilibaba';
 $_['text_pilibaba']         = '<a href="http://www.pilibaba.com" target="_blank"><img src="view/image/payment/pilibaba.png" alt="Pilibaba" title="Pilibaba"></a>';
@@ -24,23 +24,23 @@ $_['text_barcode_info']     = '(Print out this unique barcode and stick it on th
 $_['text_confirm']          = 'Are you sure you want to update the tracking number?';
 $_['text_register_success'] = 'You have successfully registered. You should receive an email shortly.';
 $_['text_tracking_success'] = 'The tracking number was successfully updated.';
-$_['text_other']            = 'Other';
+$_['text_other']            = 'Altele';
 $_['text_email']            = 'The registered email address for your Pilibaba account is %s';
 
 // Entry
 $_['entry_email_address']   = 'Email Address';
-$_['entry_password']        = 'Password';
-$_['entry_currency']        = 'Currency';
+$_['entry_password']        = 'Parolă';
+$_['entry_currency']        = 'Monedă';
 $_['entry_warehouse']       = 'Warehouse';
-$_['entry_country']         = 'Country';
+$_['entry_country']         = 'Țară';
 $_['entry_merchant_number'] = 'Merchant Number';
 $_['entry_secret_key']      = 'Secret Key';
 $_['entry_environment']     = 'Environment';
 $_['entry_shipping_fee']    = 'Shipping Fee';
-$_['entry_order_status']    = 'Order Status';
-$_['entry_status']          = 'Status';
+$_['entry_order_status']    = 'Stare Comandă';
+$_['entry_status']          = 'Stare';
 $_['entry_logging']         = 'Debug Logging';
-$_['entry_sort_order']      = 'Sort Order';
+$_['entry_sort_order']      = 'Ordine Sortare';
 
 // Help
 $_['help_email_address']    = 'Please enter the email address for the owner of this business.';
@@ -56,7 +56,7 @@ $_['help_total']            = 'The checkout total the order must reach before th
 $_['help_logging']          = 'Enabling debug will write sensitive data to a log file. You should always disable unless instructed otherwise.';
 
 // Error
-$_['error_warning']         = 'Warning: Please check the form carefully for errors!';
+$_['error_warning']         = 'Atenție: Te rugăm să verifici cu atenție formularul pentru erori!';
 $_['error_permission']      = 'Atenție: Nu ai permisiunea de a modifica plata Pilibaba!';
 $_['error_merchant_number'] = 'Merchant Number Required!';
 $_['error_secret_key']      = 'Secret Key Required!';
@@ -69,7 +69,7 @@ $_['error_email_invalid']   = 'The email address is not valid!';
 $_['error_password']        = 'Password must be at least 8 characters!';
 $_['error_currency']        = 'Please select a currency!';
 $_['error_warehouse']       = 'Please select a warehouse!';
-$_['error_country']         = 'Please select a country!';
+$_['error_country']         = 'Te rugăm selectează o țară!';
 $_['error_weight']          = 'Please change your <a href="%s">Weight Class</a> setting to grams. It\'s in \'System -> Settings\' in the \'Local\' tab.';
 $_['error_bad_response']    = 'An invalid response was received. Please try again later.';
 
