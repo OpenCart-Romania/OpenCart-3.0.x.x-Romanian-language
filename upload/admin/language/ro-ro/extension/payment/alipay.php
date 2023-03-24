@@ -3,7 +3,7 @@
 $_['heading_title']                  = 'Alipay Pay';
 
 // Text
-$_['text_extension']                 = 'Extensii';
+$_['text_extension']                 = 'Extensions';
 $_['text_success']                   = 'Succes: Ai modificat detaliile contului Alipay!';
 $_['text_edit']                      = 'Edit Alipay Pay';
 $_['text_alipay']                    = '<a target="_BLANK" href="https://open.alipay.com"><img src="view/image/payment/alipay.png" alt="Alipay Pay Website" title="Alipay Pay Website" style="border: 1px solid #EEEEEE;" /></a>';
@@ -18,8 +18,8 @@ $_['entry_test']                     = 'Test mode';
 $_['entry_total']                    = 'Total';
 $_['entry_order_status']             = 'Completed Status';
 $_['entry_geo_zone']                 = 'Geo Zone';
-$_['entry_status']                   = 'Stare';
-$_['entry_sort_order']               = 'Ordine de Sortare';
+$_['entry_status']                   = 'Status';
+$_['entry_sort_order']               = 'Sort Order';
 
 // Help
 $_['help_total']                     = 'The checkout total the order must reach before this payment method becomes active';
