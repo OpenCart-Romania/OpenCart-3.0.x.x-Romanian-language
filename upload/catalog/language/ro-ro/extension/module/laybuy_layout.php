@@ -16,11 +16,11 @@ $_['text_payment_amounts']     = 'Payment Amounts:';
 $_['text_first_payment_due']   = 'First Payment Due:';
 $_['text_last_payment_due']    = 'Last Payment Due:';
 $_['text_downpayment']         = 'Down Payment';
-$_['text_month']               = 'Month';
+$_['text_month']               = 'Lună';
 
 // Column
 $_['column_instalment']        = 'Instalment';
-$_['column_amount']            = 'Amount';
+$_['column_amount']            = 'Valoare';
 $_['column_date']              = 'Date';
 $_['column_pp_trans_id']       = 'PayPal Transaction ID';
-$_['column_status']            = 'Status';
+$_['column_status']            = 'Stare';
