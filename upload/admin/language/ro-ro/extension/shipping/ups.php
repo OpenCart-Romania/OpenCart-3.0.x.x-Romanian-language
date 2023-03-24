@@ -3,7 +3,7 @@
 $_['heading_title']                = 'UPS';
 
 // Text
-$_['text_extension']               = 'Extensii';
+$_['text_extension']               = 'Extensions';
 $_['text_success']                 = 'Success: You have modified UPS shipping!';
 $_['text_edit']                    = 'Edit UPS Shipping';
 $_['text_regular_daily_pickup']    = 'Regular Daily Pickup';
@@ -55,8 +55,8 @@ $_['text_today_express_saver']     = 'UPS Today Express Saver';
 
 // Entry
 $_['entry_key']                    = 'Access Key';
-$_['entry_username']               = 'Nume de utilizator';
-$_['entry_password']               = 'Parolă';
+$_['entry_username']               = 'Username';
+$_['entry_password']               = 'Password';
 $_['entry_pickup']                 = 'Pickup Method';
 $_['entry_packaging']              = 'Packaging Type';
 $_['entry_classification']         = 'Customer Classification Code';
@@ -70,16 +70,16 @@ $_['entry_quote_type']             = 'Quote Type';
 $_['entry_service']                = 'Services';
 $_['entry_insurance']              = 'Enable Insurance';
 $_['entry_display_weight']         = 'Display Delivery Weight';
-$_['entry_weight_class']           = 'Clasă de Greutate';
-$_['entry_length_class']           = 'Clasă de Lungime';
-$_['entry_dimension']              = 'Dimensiuni (L x l x Î)';
-$_['entry_length']                 = 'Lungime';
-$_['entry_height']                 = 'Înălţime';
-$_['entry_width']                  = 'Lăţime';
-$_['entry_tax_class']              = 'Clasa Fiscală';
+$_['entry_weight_class']           = 'Weight Class';
+$_['entry_length_class']           = 'Length Class';
+$_['entry_dimension']              = 'Dimensions (L x W x H)';
+$_['entry_length']                 = 'Length';
+$_['entry_height']                 = 'Height';
+$_['entry_width']                  = 'Width';
+$_['entry_tax_class']              = 'Tax Class';
 $_['entry_geo_zone']               = 'Geo Zone';
-$_['entry_status']                 = 'Stare';
-$_['entry_sort_order']             = 'Ordine de Sortare';
+$_['entry_status']                 = 'Status';
+$_['entry_sort_order']             = 'Sort Order';
 $_['entry_debug']                  = 'Debug Mode';
 
 // Help
@@ -107,7 +107,7 @@ $_['help_debug']                   = 'Saves send/recv data to the system log';
 // Error
 $_['error_permission']             = 'Warning: You do not have permission to modify UPS (US) shipping!';
 $_['error_key']                    = 'Access Key Required!';
-$_['error_username']               = 'Nume utilizator necesar!';
+$_['error_username']               = 'Username Required!';
 $_['error_password']               = 'Password Required!';
 $_['error_city']                   = 'Origin City!';
 $_['error_state']                  = 'Origin State/Province Required!';
