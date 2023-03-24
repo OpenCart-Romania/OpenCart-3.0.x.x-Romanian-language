@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Cumpără un Voucher Cadou';
 
 // Text
-$_['text_account']     = 'Account';
+$_['text_account']     = 'Cont';
 $_['text_voucher']     = 'Voucher Cadou';
 $_['text_description'] = 'Acest voucher cadou va fi trimis prin e-mail beneficiarului după ce comanda ta a fost plătită.';
 $_['text_agree']       = 'Am înțeles că voucherele cadou sunt nerambursabile.';
@@ -11,11 +11,11 @@ $_['text_message']     = '<p>Îți mulțumim că ai cumpărat un voucher cadou! 
 $_['text_for']         = '%s Voucher Cadou pentru %s';
 
 // Entry
-$_['entry_to_name']    = 'Recipient\'s Name';
+$_['entry_to_name']    = 'Numele Destinatarului';
 $_['entry_to_email']   = 'E-mail-ul beneficiarului';
 $_['entry_from_name']  = 'Numele Tău';
 $_['entry_from_email'] = 'E-mail-ul tău';
-$_['entry_theme']      = 'Gift Certificate Theme';
+$_['entry_theme']      = 'Temă Certificat Cadou';
 $_['entry_message']    = 'Message';
 $_['entry_amount']     = 'Amount';
 
@@ -24,9 +24,9 @@ $_['help_message']     = 'Opţional';
 $_['help_amount']      = 'Valoarea trebuie să fie între %s și %s';
 
 // Error
-$_['error_to_name']    = 'Recipient\'s Name must be between 1 and 64 characters!';
-$_['error_from_name']  = 'Your Name must be between 1 and 64 characters!';
-$_['error_email']      = 'E-Mail Address does not appear to be valid!';
+$_['error_to_name']    = 'Numele Destinatarului trebuie să fie între 1 și 64 de caractere!';
+$_['error_from_name']  = 'Numele Tău trebuie să fie între 1 și 64 de caractere!';
+$_['error_email']      = 'Adresa E-Mail nu pare să fie validă!';
 $_['error_theme']      = 'Trebuie să selectezi o temă!';
 $_['error_amount']     = 'Suma trebuie să fie între %s și %s!';
 $_['error_agree']      = 'Atenție: Trebuie să fii de acord că voucherele cadou sunt nerambursabile!';
