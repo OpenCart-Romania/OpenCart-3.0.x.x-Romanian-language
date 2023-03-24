@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_success']           = 'Success: You have modified orders!';
+$_['text_success']           = 'Succes: Ai modificat comenzile!';
 
 // Error
-$_['error_permission']       = 'Warning: You do not have permission to access the API!';
+$_['error_permission']       = 'Atenție: Nu ai permisiunea de a accesa API!';
 $_['error_customer']         = 'Atenție: Detalii client trebuie să fie stabilite!';
 $_['error_payment_address']  = 'Atenție: Adresa de plată necesară!';
 $_['error_payment_method']   = 'Atenție: Metoda de plată necesară!';
