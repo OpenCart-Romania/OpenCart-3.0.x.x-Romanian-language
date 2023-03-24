@@ -4,14 +4,14 @@ $_['heading_title'] = 'Conectează-te cu Amazon';
 
 //Text
 $_['text_module'] = 'Modules';
-$_['text_extension']               = 'Extensii';
+$_['text_extension']               = 'Extensions';
 $_['text_success'] = 'Succes: Ai modificat modulul Conectează-te cu Amazon!';
-$_['text_content_top'] = 'Conținut in Partea de Sus';
-$_['text_content_bottom'] = 'Conținut în Partea de Jos';
-$_['text_column_left'] = 'Coloană Stânga';
-$_['text_column_right'] = 'Coloană Dreapta';
-$_['text_lwa_button'] = 'Conectează-te cu Amazon';
-$_['text_login_button'] = 'Conectare';
+$_['text_content_top'] = 'Content Top';
+$_['text_content_bottom'] = 'Content Bottom';
+$_['text_column_left'] = 'Column Left';
+$_['text_column_right'] = 'Column Right';
+$_['text_lwa_button'] = 'Login with Amazon';
+$_['text_login_button'] = 'Login';
 $_['text_a_button'] = 'A';
 $_['text_gold_button'] = 'Gold';
 $_['text_darkgray_button'] = 'Dark Gray';
@@ -27,8 +27,8 @@ $_['entry_button_colour'] = 'Button Colour';
 $_['entry_button_size'] = 'Button Size';
 $_['entry_layout'] = 'Layout';
 $_['entry_position'] = 'Position';
-$_['entry_status'] = 'Stare';
-$_['entry_sort_order'] = 'Ordine de Sortare';
+$_['entry_status'] = 'Status';
+$_['entry_sort_order'] = 'Sort Order';
 
 //Error
 $_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica modulul Conectează-te cu Amazon!';
