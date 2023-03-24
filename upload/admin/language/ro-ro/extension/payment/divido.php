@@ -5,7 +5,7 @@ $_['heading_title']                    = 'Divido';
 // Text
 $_['text_divido']                      = '<a href="http://divido.com" target="_blank"><img src="view/image/payment/divido.png"></a>';
 $_['text_edit']                        = 'Editare Divido';
-$_['text_extension']                   = 'Extensions';
+$_['text_extension']                   = 'Extensii';
 $_['text_order_info']                  = 'Info Divido';
 $_['text_success']                     = 'Succes: Ai modificat modulul Divido';
 $_['text_proposal_id']                 = 'Proposal ID';
@@ -15,9 +15,9 @@ $_['text_deposit_amount']              = 'Valoare depozit';
 // Entry
 $_['entry_order_status']               = 'Order status when approved';
 $_['entry_sort_order']                 = 'Ordine sortare';
-$_['entry_status']                     = 'Status';
+$_['entry_status']                     = 'Stare';
 $_['entry_api_key']                    = 'API-key';
-$_['entry_title']                      = 'Title';
+$_['entry_title']                      = 'Titlu';
 $_['entry_productselection']           = 'Product selection';
 $_['entry_planselection']              = 'Show default plan';
 $_['entry_planlist']                   = 'Plans';
