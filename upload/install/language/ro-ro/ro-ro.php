@@ -1,7 +1,7 @@
 <?php
 // Button
-$_['button_continue'] = 'Continuă';
-$_['button_back']     = 'Înapoi';
+$_['button_continue'] = 'Continue';
+$_['button_back']     = 'Back';
 
 // Error
-$_['error_exception'] = 'Cod de Eroare(%s): %s în %s pe linia %s';
+$_['error_exception'] = 'Error Code(%s): %s in %s on line %s';
