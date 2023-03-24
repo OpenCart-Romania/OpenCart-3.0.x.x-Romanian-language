@@ -16,7 +16,7 @@ $_['entry_height']     = 'Înălţime';
 $_['entry_status']     = 'Stare';
 
 // Help
-$_['help_product']     = '(Autocomplete)';
+$_['help_product']     = '(Autocompletare)';
 
 // Error
 $_['error_permission'] = 'Atenție: Nu ai permisiunea de a modifica modulul recomandate!';
