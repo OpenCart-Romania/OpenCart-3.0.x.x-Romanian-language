@@ -7,23 +7,23 @@ $_['text_success']         = 'Success: You have modified tax rates!';
 $_['text_list']            = 'Tax Rate List';
 $_['text_add']             = 'Add Tax Rate';
 $_['text_edit']            = 'Edit Tax Rate';
-$_['text_percent']         = 'Percentage';
-$_['text_amount']          = 'Fixed Amount';
+$_['text_percent']         = 'Procent';
+$_['text_amount']          = 'Valoare Fixă';
 
 // Column
 $_['column_name']          = 'Tax Name';
 $_['column_rate']          = 'Tax Rate';
 $_['column_type']          = 'Type';
 $_['column_geo_zone']      = 'Geo Zone';
-$_['column_date_added']    = 'Date Added';
+$_['column_date_added']    = 'Data Adăugării';
 $_['column_date_modified'] = 'Date Modified';
-$_['column_action']        = 'Action';
+$_['column_action']        = 'Acțiune';
 
 // Entry
 $_['entry_name']           = 'Tax Name';
 $_['entry_rate']           = 'Tax Rate';
-$_['entry_type']           = 'Type';
-$_['entry_customer_group'] = 'Customer Group';
+$_['entry_type']           = 'Tip';
+$_['entry_customer_group'] = 'Grupul de Clienți';
 $_['entry_geo_zone']       = 'Geo Zone';
 
 // Error
