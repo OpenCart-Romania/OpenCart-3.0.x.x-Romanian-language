@@ -4,10 +4,10 @@ $_['heading_title']		 				= 'Platformă PayPal Commerce';
 
 // Text
 $_['text_paypal']		 				= '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Commerce Platform" title="PayPal Commerce Platform" style="border: 1px solid #EEEEEE;" /></a>';
-$_['text_extensions']     				= 'Extensii';
+$_['text_extensions']     				= 'Extensions';
 $_['text_edit']          				= 'Editare PayPal';
 $_['text_general']				 	 	= 'General';
-$_['text_order_status']				 	= 'Stare Comandă';
+$_['text_order_status']				 	= 'Order Status';
 $_['text_checkout_express']				= 'Checkout';
 $_['text_checkout_card']				= 'Advanced Card';
 $_['text_checkout_message']				= 'Pay Later Message';
@@ -80,7 +80,7 @@ $_['text_3ds_bypassed']					= '3D Secure was skipped as authentication system di
 $_['text_3ds_attempted']				= 'Card is not enrolled in 3D Secure as card issuing bank is not participating in 3D Secure.';
 $_['text_3ds_unavailable']				= 'Issuing bank is not able to complete authentication.';
 $_['text_3ds_card_ineligible'] 			= 'Card is not eligible for 3DS Secure authentication.';
-$_['text_confirm']						= 'Ești sigur?';
+$_['text_confirm']						= 'Are you sure?';
 
 // Entry
 $_['entry_connect']	 					= 'Connect';
@@ -92,9 +92,9 @@ $_['entry_debug']				 		= 'Debug Logging';
 $_['entry_transaction_method']	 		= 'Settlement Method';
 $_['entry_total']		 				= 'Total';
 $_['entry_geo_zone']	 				= 'Geo Zone';
-$_['entry_status']		 				= 'Stare';
-$_['entry_sort_order']	 				= 'Ordine de Sortare';
-$_['entry_currency_code']	 			= 'Monedă';
+$_['entry_status']		 				= 'Status';
+$_['entry_sort_order']	 				= 'Sort Order';
+$_['entry_currency_code']	 			= 'Currency';
 $_['entry_currency_value']	 			= 'Currency Value';
 $_['entry_smart_button'] 				= 'Smart Button';
 $_['entry_button_align']     			= 'Button Align';
@@ -108,7 +108,7 @@ $_['entry_secure_status'] 				= '3D Secure Status';
 $_['entry_secure_scenario'] 			= '3D Secure Scenarios';
 $_['entry_message_align']     			= 'Message Align';
 $_['entry_message_size'] 				= 'Message Size';
-$_['entry_message_layout'] 				= 'Layout Mesaj';
+$_['entry_message_layout'] 				= 'Message Layout';
 $_['entry_message_text_color'] 			= 'Message Text Color';
 $_['entry_message_text_size'] 			= 'Message Text Size';
 $_['entry_message_flex_color'] 			= 'Message Banner Color';
