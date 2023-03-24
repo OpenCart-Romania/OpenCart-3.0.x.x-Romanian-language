@@ -1,52 +1,52 @@
 <?php
 // Heading
-$_['heading_title']             = 'Affiliate Program';
+$_['heading_title']             = 'Program de Afiliere';
 
 // Text
-$_['text_account']              = 'Account';
+$_['text_account']              = 'Cont';
 $_['text_register']             = 'Registru Afiliați';
-$_['text_account_already']      = 'If you already have an account with us, please login at the <a href="%s">login page</a>.';
+$_['text_account_already']      = 'Dacă ai deja un cont la noi, te rugăm să te autentifici pe <a href="%s">pagina de autentificare</a>.';
 $_['text_signup']               = 'Pentru a crea un cont de afiliat, completați formularul de mai jos asigurându-vă că completați toate câmpurile necesare:';
-$_['text_your_details']         = 'Your Personal Details';
+$_['text_your_details']         = 'Datele Tale Personale';
 $_['text_your_address']         = 'Detaliile Adresei Tale';
 $_['text_your_affiliate']       = 'Your Affiliate Information';
 $_['text_your_password']        = 'Your Password';
-$_['text_cheque']               = 'Cheque';
+$_['text_cheque']               = 'Cec';
 $_['text_paypal']               = 'PayPal';
-$_['text_bank']                 = 'Bank Transfer';
-$_['text_agree']                = 'I have read and agree to the <a href="%s" class="agree"><b>%s</b></a>';
+$_['text_bank']                 = 'Transfer Bancar';
+$_['text_agree']                = 'Am citit și sunt de acord cu <a href="%s" class="agree"><b>%s</b></a>';
 
 // Entry
-$_['entry_customer_group']      = 'Customer Group';
-$_['entry_firstname']           = 'First Name';
-$_['entry_lastname']            = 'Last Name';
+$_['entry_customer_group']      = 'Grupul de Clienți';
+$_['entry_firstname']           = 'Prenume';
+$_['entry_lastname']            = 'Nume de Familie';
 $_['entry_email']               = 'E-Mail';
-$_['entry_telephone']           = 'Telephone';
-$_['entry_company']             = 'Company';
+$_['entry_telephone']           = 'Telefon';
+$_['entry_company']             = 'Companie';
 $_['entry_website']             = 'Web Site';
-$_['entry_tax']                 = 'Tax ID';
-$_['entry_payment']             = 'Payment Method';
-$_['entry_cheque']              = 'Cheque Payee Name';
-$_['entry_paypal']              = 'PayPal Email Account';
-$_['entry_bank_name']           = 'Bank Name';
-$_['entry_bank_branch_number']  = 'ABA/BSB number (Branch Number)';
-$_['entry_bank_swift_code']     = 'SWIFT Code';
-$_['entry_bank_account_name']   = 'Account Name';
-$_['entry_bank_account_number'] = 'Account Number';
-$_['entry_password']            = 'Password';
-$_['entry_confirm']             = 'Password Confirm';
+$_['entry_tax']                 = 'Cod Fiscal';
+$_['entry_payment']             = 'Metodă de Plată';
+$_['entry_cheque']              = 'Nume Beneficiar Cec';
+$_['entry_paypal']              = 'Cont de Email PayPal';
+$_['entry_bank_name']           = 'Nume Bancă';
+$_['entry_bank_branch_number']  = 'Număr ABA/BSB (Număr Filială)';
+$_['entry_bank_swift_code']     = 'Cod SWIFT';
+$_['entry_bank_account_name']   = 'Nume Cont';
+$_['entry_bank_account_number'] = 'Număr Cont';
+$_['entry_password']            = 'Parolă';
+$_['entry_confirm']             = 'Confirmare Parolă';
 
 // Error
 $_['error_exists']              = 'Warning: E-Mail Address is already registered!';
-$_['error_firstname']           = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']            = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']               = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']           = 'Telephone must be between 3 and 32 characters!';
-$_['error_custom_field']        = '%s required!';
-$_['error_cheque']              = 'Cheque Payee Name required!';
-$_['error_paypal']              = 'PayPal Email Address does not appear to be valid!';
-$_['error_bank_account_name']   = 'Account Name required!';
-$_['error_bank_account_number'] = 'Account Number required!';
-$_['error_password']            = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']             = 'Password confirmation does not match password!';
-$_['error_agree']               = 'Warning: You must agree to the %s!';
+$_['error_firstname']           = 'Prenumele trebuie să fie între 1 și 32 de caractere!';
+$_['error_lastname']            = 'Numele de Familie trebuie să fie între 1 și 32 de caractere!';
+$_['error_email']               = 'Adresa E-Mail nu pare să fie validă!';
+$_['error_telephone']           = 'Telefonul trebuie să fie între 3 și 32 de caractere!';
+$_['error_custom_field']        = '%s necesar!';
+$_['error_cheque']              = 'Nume Beneficiar Cec necesar!';
+$_['error_paypal']              = 'Adresa de Email PayPal nu pare să fie validă!';
+$_['error_bank_account_name']   = 'Nume Cont necesar!';
+$_['error_bank_account_number'] = 'Număr Cont necesar!';
+$_['error_password']            = 'Parola trebuie să fie între 4 și 20 de caractere!';
+$_['error_confirm']             = 'Confirmarea parolei nu se potrivește cu parola!';
+$_['error_agree']               = 'Atenție: Trebuie să fii de acord cu %s!';
