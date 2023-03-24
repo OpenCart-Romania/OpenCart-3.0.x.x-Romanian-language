@@ -3,4 +3,4 @@
 $_['heading_title'] = 'Featured';
 
 // Text
-$_['text_tax']      = 'Fără Taxe:';
+$_['text_tax']      = 'Ex Tax:';
