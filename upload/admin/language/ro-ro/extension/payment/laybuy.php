@@ -105,7 +105,7 @@ $_['entry_order_id']                = 'Order ID';
 $_['entry_customer']                = 'Customer';
 $_['entry_dp_percent']              = 'Down Payment Percent';
 $_['entry_months']                  = 'Months';
-$_['entry_date_added']              = 'Date Added';
+$_['entry_date_added']              = 'Data Adăugării';
 
 // Help
 $_['help_membership_id']            = 'Numărul tău personal al contului de membru Lay-Buy. (obținut atunci când înregistrezi un cont de comerciant la https://www.lay-buys.com/index.php/vtmob/login)';
