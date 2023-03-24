@@ -3,7 +3,7 @@
 $_['heading_title']					 = 'PayPal Express Checkout';
 
 // Text
-$_['text_extension']				 = 'Extensii';
+$_['text_extension']				 = 'Extensions';
 $_['text_success']				 	 = 'Succes: Ai modificat detaliile contului PayPal Express Checkout!';
 $_['text_edit']                      = 'Editare PayPal Express Checkout';
 $_['text_pp_express']				 = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
@@ -44,8 +44,8 @@ $_['entry_recurring_cancel']	     = 'Permite clienților să anuleze plățile r
 $_['entry_transaction']		         = 'Settlement Type';
 $_['entry_total']					 = 'Total';
 $_['entry_geo_zone']				 = 'Geo Zone';
-$_['entry_status']					 = 'Stare';
-$_['entry_sort_order']				 = 'Ordine de Sortare';
+$_['entry_status']					 = 'Status';
+$_['entry_sort_order']				 = 'Sort Order';
 $_['entry_canceled_reversal_status'] = 'Canceled Reversal Status';
 $_['entry_completed_status']		 = 'Completed Status';
 $_['entry_denied_status']			 = 'Denied Status';
@@ -63,7 +63,7 @@ $_['entry_incontext']				 = 'Disable In-Context Checkout';
 
 // Tab
 $_['tab_api']				         = 'API Details';
-$_['tab_order_status']				 = 'Stare comandă';
+$_['tab_order_status']				 = 'Order status';
 $_['tab_checkout']					 = 'Checkout';
 
 // Help
@@ -75,7 +75,7 @@ $_['help_currency']					 = 'Used for transaction searches';
 
 // Error
 $_['error_permission']				 = 'Atenție: Nu ai permisiunea de a modifica plata PayPal Express Checkout!';
-$_['error_username']				 = 'Nume de Utilizator API Necesar!';
+$_['error_username']				 = 'API Username Required!';
 $_['error_password']				 = 'API Password Required!';
 $_['error_signature']				 = 'API Signature Required!';
 $_['error_sandbox_username']	 	 = 'Nume utilizator API Sandbox Necesar!';
