@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Motive Returnare';
+$_['heading_title']    = 'Return Reasons';
 
 // Text
 $_['text_success']     = 'Success: You have modified return reasons!';
@@ -10,10 +10,10 @@ $_['text_edit']        = 'Editează Motiv Returnare';
 
 // Column
 $_['column_name']      = 'Nume Motiv Returnare';
-$_['column_action']    = 'Acțiune';
+$_['column_action']    = 'Action';
 
 // Entry
-$_['entry_name']       = 'Nume Motiv Returnare';
+$_['entry_name']       = 'Return Reason Name';
 
 // Error
 $_['error_permission'] = 'Warning: You do not have permission to modify return reasons!';
