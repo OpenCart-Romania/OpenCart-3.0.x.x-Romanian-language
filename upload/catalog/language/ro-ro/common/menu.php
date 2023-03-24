@@ -1,3 +1,4 @@
 <?php
 // Text
-$_['text_all'] = 'Afișează Tot';
+$_['text_category']  = 'Categorii';
+$_['text_all']       = 'Afișează Tot';
