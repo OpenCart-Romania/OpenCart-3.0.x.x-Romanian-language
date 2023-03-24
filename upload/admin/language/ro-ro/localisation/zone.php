@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']          = 'Zone';
+$_['heading_title']          = 'Zones';
 
 // Text
 $_['text_success']           = 'Success: You have modified zones!';
@@ -11,14 +11,14 @@ $_['text_edit']              = 'Edit Zone';
 // Column
 $_['column_name']            = 'Zone Name';
 $_['column_code']            = 'Zone Code';
-$_['column_country']         = 'Țară';
-$_['column_action']          = 'Acțiune';
+$_['column_country']         = 'Country';
+$_['column_action']          = 'Action';
 
 // Entry
 $_['entry_name']             = 'Zone Name';
 $_['entry_code']             = 'Zone Code';
-$_['entry_country']          = 'Țară';
-$_['entry_status']           = 'Stare';
+$_['entry_country']          = 'Country';
+$_['entry_status']           = 'Status';
 
 // Error
 $_['error_permission']       = 'Warning: You do not have permission to modify zones!';
