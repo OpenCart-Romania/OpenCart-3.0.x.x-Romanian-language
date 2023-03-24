@@ -23,15 +23,15 @@ $_['text_value']         = 'Valori Opțiune';
 
 // Column
 $_['column_name']        = 'Nume Opțiune';
-$_['column_sort_order']  = 'Ordine de Sortare';
-$_['column_action']      = 'Acțiune';
+$_['column_sort_order']  = 'Sort Order';
+$_['column_action']      = 'Action';
 
 // Entry
-$_['entry_name']         = 'Nume Opțiune';
-$_['entry_type']         = 'Tip';
+$_['entry_name']         = 'Option Name';
+$_['entry_type']         = 'Type';
 $_['entry_option_value'] = 'Nume Valoare Opțiune';
-$_['entry_image']        = 'Imagine';
-$_['entry_sort_order']   = 'Ordine de Sortare';
+$_['entry_image']        = 'Image';
+$_['entry_sort_order']   = 'Sort Order';
 
 // Error
 $_['error_permission']   = 'Atenție: Nu ai permisiunea de a modifica opțiunile!';
