@@ -3,7 +3,7 @@
 $_['heading_title']       = 'Contul Meu';
 
 // Text
-$_['text_account']        = 'Account';
+$_['text_account']        = 'Cont';
 $_['text_my_account']     = 'My Account';
 $_['text_my_orders']      = 'Comenzile Mele';
 $_['text_my_affiliate']   = 'Contul Meu de Afiliat';
