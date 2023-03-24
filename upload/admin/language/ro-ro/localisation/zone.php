@@ -12,13 +12,13 @@ $_['text_edit']              = 'Edit Zone';
 $_['column_name']            = 'Zone Name';
 $_['column_code']            = 'Zone Code';
 $_['column_country']         = 'Country';
-$_['column_action']          = 'Action';
+$_['column_action']          = 'Acțiune';
 
 // Entry
 $_['entry_name']             = 'Zone Name';
 $_['entry_code']             = 'Zone Code';
-$_['entry_country']          = 'Country';
-$_['entry_status']           = 'Status';
+$_['entry_country']          = 'Țară';
+$_['entry_status']           = 'Stare';
 
 // Error
 $_['error_permission']       = 'Warning: You do not have permission to modify zones!';
