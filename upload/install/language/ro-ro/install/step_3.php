@@ -18,8 +18,8 @@ $_['entry_db_password']      = 'Password';
 $_['entry_db_database']      = 'Database';
 $_['entry_db_port']          = 'Port';
 $_['entry_db_prefix']        = 'Prefix';
-$_['entry_username']         = 'Username';
-$_['entry_password']         = 'Password';
+$_['entry_username']         = 'Nume de utilizator';
+$_['entry_password']         = 'Parolă';
 $_['entry_email']            = 'E-Mail';
 
 // Error
@@ -30,7 +30,7 @@ $_['error_db_database']      = 'Nume Bază de Date necesar!';
 $_['error_db_port']          = 'Port Bază de Date necesar!';
 $_['error_db_prefix']        = 'DB Prefix poate conține numai caractere minuscule în intervalul a-z, 0-9 și sublinieri';
 $_['error_db_connect']       = 'Eroare: Nu s-a putut conecta la baza de date, te rog asigură-te că serverul bazei de date, numele de utilizator și parola sunt corecte!';
-$_['error_username']         = 'Username required!';
-$_['error_password']         = 'Password required!';
-$_['error_email']            = 'E-Mail Address does not appear to be valid!';
+$_['error_username']         = 'Nume utilizator necesar!';
+$_['error_password']         = 'Parolă necesară!';
+$_['error_email']            = 'Adresa E-Mail nu pare să fie validă!';
 $_['error_config']           = 'Eroare: Nu s-a putut scrie in config.php te rog verifică că ai setat permisiunile corecte pe: ';
