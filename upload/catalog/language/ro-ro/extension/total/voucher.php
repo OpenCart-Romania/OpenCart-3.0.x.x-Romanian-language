@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title'] = 'Folosește un voucher cadou';
+$_['heading_title'] = 'Folosește Voucher Cadou';
 
 // Text
-$_['text_voucher']  = 'Voucher cadou(%s)';
-$_['text_success']  = 'Succes: Voucher-ul tău cadou a fost aplicat!';
+$_['text_voucher']  = 'Voucher Cadou (%s)';
+$_['text_success']  = 'Succes: S-a aplicat reducerea voucher-ului cadou!';
 
 // Entry
 $_['entry_voucher'] = 'Introduceți codul voucher-ului dvs. aici';
