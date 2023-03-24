@@ -7,38 +7,38 @@ $_['text_success']           = 'Succes: Ai modificat informația!';
 $_['text_list']              = 'Listă Informaţii';
 $_['text_add']               = 'Adaugă Informație';
 $_['text_edit']              = 'Editare Informație';
-$_['text_default']           = 'Default';
-$_['text_keyword']           = 'Do not use spaces, instead replace spaces with - and make sure the SEO URL is globally unique.';
+$_['text_default']           = 'Implicit';
+$_['text_keyword']           = 'Nu utiliza spații, în schimb înlocuiește spațiile cu - și asigură-te că SEO URL este unic global.';
 
 // Column
 $_['column_title']           = 'Titlul Informației';
-$_['column_sort_order']      = 'Sort Order';
-$_['column_action']          = 'Action';
+$_['column_sort_order']      = 'Ordine de Sortare';
+$_['column_action']          = 'Acțiune';
 
 // Entry
-$_['entry_title']            = 'Information Title';
-$_['entry_description']      = 'Description';
-$_['entry_meta_title']       = 'Meta Tag Title';
-$_['entry_meta_keyword']     = 'Meta Tag Keywords';
-$_['entry_meta_description'] = 'Meta Tag Description';
-$_['entry_store']            = 'Stores';
-$_['entry_keyword']          = 'Keyword';
+$_['entry_title']            = 'Titlu Informație';
+$_['entry_description']      = 'Descriere';
+$_['entry_meta_title']       = 'Meta Tag Titlu';
+$_['entry_meta_keyword']     = 'Meta Tag Cuvinte Cheie';
+$_['entry_meta_description'] = 'Meta Tag Descriere';
+$_['entry_store']            = 'Magazine';
+$_['entry_keyword']          = 'Cuvânt Cheie';
 $_['entry_bottom']           = 'Jos';
-$_['entry_status']           = 'Status';
-$_['entry_sort_order']       = 'Sort Order';
-$_['entry_layout']           = 'Layout Override';
+$_['entry_status']           = 'Stare';
+$_['entry_sort_order']       = 'Ordine Sortare';
+$_['entry_layout']           = 'Suprascrie Layout';
 
 // Help
 $_['help_bottom']            = 'Afișeaza în subsolul paginii.';
 
 // Error
-$_['error_warning']          = 'Warning: Please check the form carefully for errors!';
+$_['error_warning']          = 'Atenție: Te rugăm să verifici cu atenție formularul pentru erori!';
 $_['error_permission']       = 'Atenție: Nu ai permisiunea de a modifica informațiile!';
 $_['error_title']            = 'Titlul Informației trebuie să fie între 1 și 64 de caractere!';
 $_['error_description']      = 'Descrierea trebuie să conțină mai mult de 3 caractere!';
-$_['error_meta_title']       = 'Meta Title must be greater than 1 and less than 255 characters!';
-$_['error_keyword']          = 'SEO URL already in use!';
-$_['error_unique']           = 'SEO URL must be unique!';
+$_['error_meta_title']       = 'Meta Titlu trebuie să fie mai mare de 1 și mai mic de 255 de caractere!';
+$_['error_keyword']          = 'SEO URL este deja utilizat!';
+$_['error_unique']           = 'SEO URL trebuie să fie unic!';
 $_['error_account']          = 'Atenție: Această pagină de informații nu poate fi ștearsă, deoarece în prezent este atribuită ca termenii contului de magazin!';
 $_['error_checkout']         = 'Atenție: Această pagină de informaţii nu poate fi ștearsă deoarece în prezent este asociată cu termenii de comandă ai magazinului!';
 $_['error_affiliate']        = 'Atenție: Această pagină de informaţii nu poate fi ștearsă deoarece în prezent este asociată cu termenii de afiliere ai magazinului!';
