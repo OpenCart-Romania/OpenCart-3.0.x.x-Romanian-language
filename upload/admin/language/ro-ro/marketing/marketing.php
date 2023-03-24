@@ -7,15 +7,15 @@ $_['text_success']      = 'Succes: Ai modificat urmărirea marketing-ului!';
 $_['text_list']         = 'Listă Urmărire Marketing';
 $_['text_add']          = 'Adaugă Urmărire Marketing';
 $_['text_edit']         = 'Editare Urmărire Marketing';
-$_['text_filter']       = 'Filter';
+$_['text_filter']       = 'Filtru';
 		
 // Column
 $_['column_name']       = 'Campaign Name';
 $_['column_code']       = 'Code';
 $_['column_clicks']     = 'Clicks';
 $_['column_orders']     = 'Orders';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_date_added'] = 'Data Adăugării';
+$_['column_action']     = 'Acțiune';
 
 // Entry
 $_['entry_name']        = 'Campaign Name';
