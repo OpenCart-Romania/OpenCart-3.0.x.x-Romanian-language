@@ -57,7 +57,7 @@ $_['text_edit_heading']                                 = 'Edit Square';
 $_['text_enable_sandbox_help']                          = 'Enable sandbox mode for testing transactions';
 $_['text_enable_sandbox_label']                         = 'Enable sandbox mode';
 $_['text_executables']                                  = 'CRON execution methods';
-$_['text_extension']                                    = 'Extensions';
+$_['text_extension']                                    = 'Extensii';
 $_['text_extension_status']                             = 'Extension status';
 $_['text_extension_status_disabled']                    = 'Disabled'; 
 $_['text_extension_status_enabled']                     = 'Enabled'; 
@@ -135,13 +135,13 @@ $_['squareup_status_comment_failed']                    = 'The card transaction 
 // Entry
 $_['entry_total']                                       = 'Total';
 $_['entry_geo_zone']                                    = 'Geo Zone';
-$_['entry_sort_order']                                  = 'Sort Order';
+$_['entry_sort_order']                                  = 'Ordine Sortare';
 $_['entry_merchant']                                    = 'Merchant ID';
 $_['entry_transaction_id']                              = 'Transaction ID';
 $_['entry_order_id']                                    = 'Order ID';
 $_['entry_partner_solution_id']                         = 'Partner Solution ID';
 $_['entry_type']                                        = 'Transaction Type';
-$_['entry_currency']                                    = 'Currency';
+$_['entry_currency']                                    = 'Monedă';
 $_['entry_amount']                                      = 'Amount';
 $_['entry_browser']                                     = 'Customer User Agent';
 $_['entry_ip']                                          = 'Customer IP';
@@ -179,21 +179,21 @@ $_['error_no_refund']                                   = 'Refund failed.';
 
 // Column
 $_['column_transaction_id']                             = 'Transaction ID';
-$_['column_order_id']                                   = 'Order ID';
+$_['column_order_id']                                   = 'Număr Comandă';
 $_['column_customer']                                   = 'Customer';
-$_['column_status']                                     = 'Status';
+$_['column_status']                                     = 'Stare';
 $_['column_type']                                       = 'Type';
-$_['column_amount']                                     = 'Amount';
+$_['column_amount']                                     = 'Valoare';
 $_['column_ip']                                         = 'IP';
 $_['column_date_created']                               = 'Date Created';
-$_['column_action']                                     = 'Action';
+$_['column_action']                                     = 'Acțiune';
 $_['column_refunds']                                    = 'Refunds';
 $_['column_reason']                                     = 'Motiv';
 $_['column_fee']                                        = 'Processing Fee';
 
 // Button
-$_['button_void']                                       = 'Void';
-$_['button_refund']                                     = 'Refund';
+$_['button_void']                                       = 'Nul';
+$_['button_refund']                                     = 'Stornare';
 $_['button_capture']                                    = 'Capture';
 $_['button_connect']                                    = 'Connect';
 $_['button_reconnect']                                  = 'Reconnect';
