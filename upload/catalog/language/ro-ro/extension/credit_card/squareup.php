@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'Square Credit Cards';
 
-$_['text_account'] = 'Account';
+$_['text_account'] = 'Cont';
 $_['text_back'] = 'Back';
 $_['text_delete'] = 'Delete';
 $_['text_no_cards'] = 'There are no cards stored on our database.';
