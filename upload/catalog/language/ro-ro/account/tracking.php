@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Urmărire Afiliați';
 
 // Text
-$_['text_account']     = 'Account';
+$_['text_account']     = 'Cont';
 $_['text_description'] = 'Pentru a ne asigura că ești plătit pentru recomandările pe care ni le trimiți, trebuie să urmărim recomandarea plasând un cod de urmărire în adresa URL care face legătura cu noi. Puteți utiliza instrumentele de mai jos pentru a genera link-uri către site-ul web %s.';
 
 // Entry
