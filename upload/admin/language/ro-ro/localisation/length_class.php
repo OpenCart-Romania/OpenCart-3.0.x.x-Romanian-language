@@ -12,12 +12,12 @@ $_['text_edit']        = 'Edit Length Class';
 $_['column_title']     = 'Length Title';
 $_['column_unit']      = 'Length Unit';
 $_['column_value']     = 'Value';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'Acțiune';
 
 // Entry
 $_['entry_title']      = 'Length Title';
 $_['entry_unit']       = 'Length Unit';
-$_['entry_value']      = 'Value';
+$_['entry_value']      = 'Valoare';
 
 // Help
 $_['help_value']       = 'Set to 1.00000 if this is your default length.';
