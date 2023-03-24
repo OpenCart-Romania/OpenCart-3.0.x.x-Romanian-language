@@ -3,7 +3,7 @@
 $_['heading_title']                    = 'Default Store Theme';
 
 // Text
-$_['text_extension']                   = 'Extensions';
+$_['text_extension']                   = 'Extensii';
 $_['text_success']                     = 'Success: You have modified the default store theme!';
 $_['text_edit']                        = 'Editare Temă Implicită Magazin';
 $_['text_general']                     = 'General';
@@ -12,7 +12,7 @@ $_['text_image']                       = 'Imagini';
 
 // Entry
 $_['entry_directory']                  = 'Theme Directory';
-$_['entry_status']                     = 'Status';
+$_['entry_status']                     = 'Stare';
 $_['entry_product_limit']              = 'Default Items Per Page';
 $_['entry_product_description_length'] = 'List Description Limit';
 $_['entry_image_category']             = 'Category Image Size (W x H)';
@@ -25,8 +25,8 @@ $_['entry_image_compare']              = 'Compare Image Size (W x H)';
 $_['entry_image_wishlist']             = 'Wish List Image Size (W x H)';
 $_['entry_image_cart']                 = 'Cart Image Size (W x H)';
 $_['entry_image_location']             = 'Store Image Size (W x H)';
-$_['entry_width']                      = 'Width';
-$_['entry_height']                     = 'Height';
+$_['entry_width']                      = 'Lăţime';
+$_['entry_height']                     = 'Înălţime';
 
 // Help
 $_['help_directory']                   = 'This field is only to enable older themes to be compatible with the new theme system. You can set the theme directory to use on the image size settings defined here.';
